@@ -1,9 +1,9 @@
 Variable Thoughts
 
-Live site: variablethoughts.com
+Live site: 
 https://variablethoughts.com/
 
-About
+About: 
 A personal blog exploring mostly economic and financial subjects, but also other unrelated topics of my interest. 
 
 
