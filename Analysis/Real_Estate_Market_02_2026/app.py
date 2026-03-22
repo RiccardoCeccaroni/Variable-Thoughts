@@ -37,21 +37,21 @@ st.markdown("""
     /* Header banner */
     .dash-header {
         background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-        padding: 2rem 2.5rem 1.8rem;
+        padding: 2.5rem 2.5rem 2.2rem;
         border-radius: 12px;
         margin-bottom: 1.5rem;
         color: #f1f5f9;
         border-bottom: 3px solid #3b82f6;
     }
     .dash-header h1 {
-        font-size: 1.65rem;
+        font-size: 2rem;
         font-weight: 700 !important;
         margin: 0 0 0.25rem;
         color: #ffffff !important;
         letter-spacing: -0.03em;
     }
     .dash-header .subtitle {
-        font-size: 0.85rem;
+        font-size: 1rem;
         color: #94a3b8;
         font-weight: 400;
         margin: 0;
@@ -266,6 +266,9 @@ def load_all_data(file_path):
     # Province rent vs buy per sqm
     prov_sqm = pd.read_excel(xls, sheet_name="Prov Rent vs Buy (per sqm)", keep_default_na=False)
     prov_sqm.rename(columns={"Provincia": "Sigla"}, inplace=True)
+    for c in prov_sqm.columns:
+        if c != "Sigla":
+            prov_sqm[c] = pd.to_numeric(prov_sqm[c], errors="coerce")
 
     # Province % distribution
     raw_pct = pd.read_excel(xls, sheet_name="Prov % Distribution", keep_default_na=False)
@@ -287,14 +290,23 @@ def load_all_data(file_path):
     # Province rent vs sale summary
     prov_summary = pd.read_excel(xls, sheet_name="Prov Rent vs Sale Summary", keep_default_na=False)
     prov_summary["Sigla"] = prov_summary["Provincia"].str.extract(r'\((\w+)\)')
+    for c in prov_summary.columns:
+        if c not in ("Provincia", "Sigla"):
+            prov_summary[c] = pd.to_numeric(prov_summary[c], errors="coerce")
 
     # Province+Size: rent vs sale
     size_summary = pd.read_excel(xls, sheet_name="Rent vs Sale Summary", keep_default_na=False)
     size_summary["Sigla"] = size_summary["Provincia"].str.extract(r'\((\w+)\)')
     size_summary = size_summary.dropna(subset=["Size Category"])
+    for c in size_summary.columns:
+        if c not in ("Provincia", "Sigla", "Size Category", "Sqm Range (Percentile Cutoffs)"):
+            size_summary[c] = pd.to_numeric(size_summary[c], errors="coerce")
 
     # Province+Size: rent vs buy per sqm
     size_sqm = pd.read_excel(xls, sheet_name="Rent vs Buy (per sqm)", keep_default_na=False)
+    for c in size_sqm.columns:
+        if c != "Category":
+            size_sqm[c] = pd.to_numeric(size_sqm[c], errors="coerce")
     size_sqm["Sigla"] = size_sqm["Category"].str.split("_").str[0]
     size_sqm["Size"] = size_sqm["Category"].str.split("_").str[1]
 
@@ -323,6 +335,9 @@ def load_all_data(file_path):
 
     # Region-level
     region_summary = pd.read_excel(xls, sheet_name="Region vs Sale Summary", keep_default_na=False)
+    for c in region_summary.columns:
+        if c != "Regione":
+            region_summary[c] = pd.to_numeric(region_summary[c], errors="coerce")
 
     return {
         "prov_sqm": prov_sqm, "prov_pct": prov_pct_clean,
@@ -374,9 +389,9 @@ for df in [prov_sqm, prov_pct, prov_summary]:
 with st.sidebar:
     st.markdown(
         "<div style='padding:0.5rem 0 0.8rem;'>"
-        "<span style='font-weight:700; font-size:1.4rem; color:#0f172a;'>Real Estate Analysis</span>"
-        "<br><span style='font-size:1rem; color:#94a3b8;'>Italian Market Dashboard</span>"
-        "<br><span style='font-size:0.85rem; color:#64748b;'>Riccardo Ceccaroni</span>"
+        "<span style='font-weight:700; font-size:1.7rem; color:#0f172a;'>Real Estate Analysis</span>"
+        "<br><span style='font-size:1.2rem; color:#94a3b8;'>Italian Market Dashboard</span>"
+        "<br><span style='font-size:1rem; color:#64748b;'>Riccardo Ceccaroni</span>"
         "</div>",
         unsafe_allow_html=True,
     )
