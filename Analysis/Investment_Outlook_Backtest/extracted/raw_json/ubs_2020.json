@@ -1,0 +1,153 @@
+{
+  "company": "UBS Global Wealth Management",
+  "report_year": "2020",
+  "publication_date": "2019-11-20",
+  "forecast_period": "2020 calendar year",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "3.0%",
+      "source_quote": "In UBS GWM's base case, the global economy will grow 3% in 2020, down slightly from 3.1% in 2019."
+    },
+    {
+      "category": "growth",
+      "region": "Developed markets",
+      "variable": "Developed market real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "1.1%",
+      "source_quote": "Developed market growth will decelerate from 1.6% to 1.1%"
+    },
+    {
+      "category": "growth",
+      "region": "Emerging markets",
+      "variable": "Emerging market real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "4.6%",
+      "source_quote": "emerging market growth will accelerate from 4.2% to 4.6%"
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "1.1%",
+      "source_quote": "US 2020 1.1%"
+    },
+    {
+      "category": "growth",
+      "region": "Brazil",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "2.5%",
+      "source_quote": "Brazil 2020 2.5%"
+    },
+    {
+      "category": "growth",
+      "region": "Germany",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "0.6%",
+      "source_quote": "Germany 2020 0.6%"
+    },
+    {
+      "category": "growth",
+      "region": "France",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "1.0%",
+      "source_quote": "France 2020 1.0%"
+    },
+    {
+      "category": "growth",
+      "region": "Italy",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "0.4%",
+      "source_quote": "Italy 2020 0.4%"
+    },
+    {
+      "category": "growth",
+      "region": "Spain",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "1.7%",
+      "source_quote": "Spain 2020 1.7%"
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "0.9%",
+      "source_quote": "UK 2020 0.9%"
+    },
+    {
+      "category": "growth",
+      "region": "Switzerland",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "0.9%",
+      "source_quote": "Switzerland 2020 0.9%"
+    },
+    {
+      "category": "growth",
+      "region": "Russia",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "1.8%",
+      "source_quote": "Russia 2020 1.8%"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "5.7%",
+      "source_quote": "China 2020 5.7%"
+    },
+    {
+      "category": "growth",
+      "region": "Japan",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "0.6%",
+      "source_quote": "Japan 2020 0.6%"
+    },
+    {
+      "category": "growth",
+      "region": "India",
+      "variable": "Real GDP growth",
+      "horizon": "2020 calendar year",
+      "forecast_value": "6.5%",
+      "source_quote": "India 2020 6.5%"
+    },
+    {
+      "category": "inflation",
+      "region": "Global",
+      "variable": "Global inflation rate",
+      "horizon": "2020 calendar year",
+      "forecast_value": "2.9%",
+      "source_quote": "The world will also probably keep a lid on inflation, with global inflation decreasing from 3% to 2.9%."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "10-year US Treasury yield",
+      "horizon": "End of 2020",
+      "forecast_value": "1.8%",
+      "source_quote": "The yield on 10-year US Treasuries will decline to 1.8% by the end of 2020"
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Brent crude oil price",
+      "horizon": "2020",
+      "forecast_value": "USD 60/barrel",
+      "source_quote": "Brent crude oil prices will decline to USD 60 a barrel"
+    }
+  ],
+  "excluded_vague_count": 5
+}

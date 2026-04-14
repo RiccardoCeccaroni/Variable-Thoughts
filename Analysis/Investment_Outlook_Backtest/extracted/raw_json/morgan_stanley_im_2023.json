@@ -1,0 +1,73 @@
+{
+  "company": "Morgan Stanley Investment Management",
+  "report_year": "2023",
+  "publication_date": "2022-11-13",
+  "forecast_period": "2023",
+  "predictions": [
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "10-year U.S. Treasury yield",
+      "horizon": "end of 2023",
+      "forecast_value": "3.5%",
+      "source_quote": "10-year Treasury yields will end 2023 at 3.5% vs. a 14-year high of 4.22% in October 2022."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 Index level",
+      "horizon": "end of 2023",
+      "forecast_value": "~3,900",
+      "source_quote": "S&P 500 will tread water, ending 2023 around 3,900, but with material swings along the way."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Brent crude oil price",
+      "horizon": "end of 2023",
+      "forecast_value": "$110 per barrel",
+      "source_quote": "Oil will outperform gold and copper, with Brent crude, the global oil benchmark, ending 2023 at $110."
+    },
+    {
+      "category": "fx",
+      "region": "US",
+      "variable": "U.S. Dollar Index (DXY) direction",
+      "horizon": "2023",
+      "forecast_value": "decline through 2023 after peaking in 2022",
+      "source_quote": "U.S. dollar will peak in 2022 and decline through 2023."
+    },
+    {
+      "category": "equities",
+      "region": "Japan",
+      "variable": "TOPIX price return",
+      "horizon": "2023",
+      "forecast_value": "+11%",
+      "source_quote": "Japanese stocks, meanwhile, could benefit from a combination of low valuations and idiosyncratic tailwinds - translating to 11% gains for the Tokyo Stock Price Index next year."
+    },
+    {
+      "category": "equities",
+      "region": "Emerging Markets",
+      "variable": "MSCI Emerging Markets Index price return",
+      "horizon": "2023",
+      "forecast_value": "+12%",
+      "source_quote": "The MSCI EM, an index of mid and large-cap companies in 24 emerging markets, could see 12% price returns in 2023."
+    },
+    {
+      "category": "equities",
+      "region": "Europe",
+      "variable": "MSCI Europe total return",
+      "horizon": "2023",
+      "forecast_value": "6.3% total return",
+      "source_quote": "European equities could offer a modest upside, with a forecasted 6.3% total return over 2023"
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 Index level (bull case)",
+      "horizon": "end of 2023",
+      "forecast_value": "4,200 (bull); 3,900 (base); 3,500 (bear)",
+      "source_quote": "S&P 500 3,956 4,200 (6%) 3,900 (-1%) 3,500 (-12%)"
+    }
+  ],
+  "excluded_vague_count": 11
+}

@@ -1,0 +1,225 @@
+{
+  "company": "Amundi",
+  "report_year": "2023",
+  "publication_date": "2022-11",
+  "forecast_period": "2023-2024",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "0.8%",
+      "source_quote": "UnitedStates 1.9 0.8 0.6 8.1 4.1 2.3"
+    },
+    {
+      "category": "growth",
+      "region": "Eurozone",
+      "variable": "Eurozone real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "-0.7%",
+      "source_quote": "Eurozone 3.2 -0.7 1.1 8.7 7.5 3.2"
+    },
+    {
+      "category": "growth",
+      "region": "Japan",
+      "variable": "Japan real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "0.5%",
+      "source_quote": "Japan 1.6 0.5 1.2 2.3 1.3 0.4"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "4.5%",
+      "source_quote": "China 3.2 4.5 4.3 2.1 2.3 2.1"
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "UK real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "-0.6%",
+      "source_quote": "United Kingdom 4.4 -0.6 1.1 9.1 7.7 3.8"
+    },
+    {
+      "category": "growth",
+      "region": "India",
+      "variable": "India real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "5.6%",
+      "source_quote": "India 7.3 5.6 6.0 6.9 6.3 6.0"
+    },
+    {
+      "category": "growth",
+      "region": "Brazil",
+      "variable": "Brazil real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "0.9%",
+      "source_quote": "Brazil 3.1 0.9 1.6 9.3 4.3 4.1"
+    },
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "World real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "2.2%",
+      "source_quote": "Global growth should land at around 2.2% in 2023, down from 3.4% in 2022"
+    },
+    {
+      "category": "growth",
+      "region": "DM",
+      "variable": "Developed markets real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "0.3%",
+      "source_quote": "DM expected to slow to 0.3% from 2.6%"
+    },
+    {
+      "category": "growth",
+      "region": "EM",
+      "variable": "Emerging markets real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "3.5%",
+      "source_quote": "while EM growth should slow to 3.5% from 4.0%"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US CPI (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "4.1%",
+      "source_quote": "UnitedStates 1.9 0.8 0.6 8.1 4.1 2.3"
+    },
+    {
+      "category": "inflation",
+      "region": "Eurozone",
+      "variable": "Eurozone CPI (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "7.5%",
+      "source_quote": "Eurozone 3.2 -0.7 1.1 8.7 7.5 3.2"
+    },
+    {
+      "category": "inflation",
+      "region": "Japan",
+      "variable": "Japan CPI (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "1.3%",
+      "source_quote": "Japan 1.6 0.5 1.2 2.3 1.3 0.4"
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "UK CPI (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "7.7%",
+      "source_quote": "United Kingdom 4.4 -0.6 1.1 9.1 7.7 3.8"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate (upper target)",
+      "horizon": "+6 months (May 2023)",
+      "forecast_value": "5.00%",
+      "source_quote": "UnitedStates* 4.00 5.00 5.10 5.25 5.00"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate (upper target)",
+      "horizon": "+12 months (Nov 2023)",
+      "forecast_value": "5.25%",
+      "source_quote": "UnitedStates* 4.00 5.00 5.10 5.25 5.00"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds terminal rate",
+      "horizon": "March 2023",
+      "forecast_value": "5.25%",
+      "source_quote": "We expect the Fed to pause at 5.25% in March 2023, supported by core inflation being on a downward trend and by cooling labour market conditions."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB deposit rate",
+      "horizon": "+6 months (May 2023)",
+      "forecast_value": "2.50%",
+      "source_quote": "Eurozone** 1.50 2.50 2.80 2.50 3.00"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB deposit rate (terminal)",
+      "horizon": "+12 months (Nov 2023)",
+      "forecast_value": "2.50%",
+      "source_quote": "Consequently, we have cut our terminal rate from 2.75% to 2.50%."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England bank rate",
+      "horizon": "+6 months (May 2023)",
+      "forecast_value": "4.50%",
+      "source_quote": "UnitedKingdom 3.00 4.50 4.50 4.50 4.50"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Japan",
+      "variable": "Bank of Japan policy rate",
+      "horizon": "+12 months (Nov 2023)",
+      "forecast_value": "-0.10%",
+      "source_quote": "Japan -0.10 -0.10 0.02 -0.10 0.09"
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US S&P 500 EPS growth (trailing 12-month)",
+      "horizon": "Q1-Q2 2023",
+      "forecast_value": "-10% to -15%",
+      "source_quote": "a profit recession is on the cards for Q1 and Q2, with US EPS forecast to contract by -10% and -15%, respectively, on a twelve-month trailing basis."
+    },
+    {
+      "category": "fx",
+      "region": "Global",
+      "variable": "USD trade-weighted",
+      "horizon": "2023",
+      "forecast_value": "depreciation of 4.7%",
+      "source_quote": "the dollar, which we expect to depreciate by 4.7% on a trade-weighted basis in 2023."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Brent crude oil price",
+      "horizon": "2023 average",
+      "forecast_value": "~$95/barrel",
+      "source_quote": "Brent prices could trade around $95/barrell on average, with upside risks in late-2023."
+    },
+    {
+      "category": "commodities",
+      "region": "Europe",
+      "variable": "European natural gas price (TTF)",
+      "horizon": "2023 average",
+      "forecast_value": "EUR 100-150/MWh",
+      "source_quote": "keeping gas prices high until late 2023 (\u20ac100-150Mwh on average)."
+    },
+    {
+      "category": "fixed_income",
+      "region": "EM",
+      "variable": "EMBI diversified spread",
+      "horizon": "2023",
+      "forecast_value": "narrowing by ~50bp",
+      "source_quote": "For 2023, we foresee narrowing EMBI spreads (by some 50bp), driven mostly by the HY segment"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Brazil",
+      "variable": "Brazil Selic rate",
+      "horizon": "+12 months (Nov 2023)",
+      "forecast_value": "10.00%",
+      "source_quote": "Brazil 13.75 12.25 13.10 10.00 10.80"
+    }
+  ],
+  "excluded_vague_count": 25
+}

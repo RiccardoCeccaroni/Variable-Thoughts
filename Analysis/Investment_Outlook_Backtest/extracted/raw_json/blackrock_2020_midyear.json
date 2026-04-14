@@ -1,0 +1,25 @@
+{
+  "company": "BlackRock",
+  "report_year": "2020_midyear",
+  "publication_date": "2020-06",
+  "forecast_period": "H2 2020 through mid-2021",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US cumulative real GDP shortfall vs. pre-crisis trend",
+      "horizon": "through 2021",
+      "forecast_value": "cumulative GDP shortfall from Covid will be a fraction of the post-GFC shortfall",
+      "source_quote": "The cumulative shortfall in GDP should only be a fraction of that in the wake of the GFC, our analysis shows."
+    },
+    {
+      "category": "growth",
+      "region": "Eurozone",
+      "variable": "Euro area real GDP growth",
+      "horizon": "Q4 2020",
+      "forecast_value": "contraction",
+      "source_quote": "The euro area economy may now contract in the fourth quarter."
+    }
+  ],
+  "excluded_vague_count": 20
+}

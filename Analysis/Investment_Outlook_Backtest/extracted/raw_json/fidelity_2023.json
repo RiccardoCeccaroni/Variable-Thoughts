@@ -1,0 +1,73 @@
+{
+  "company": "Fidelity International",
+  "report_year": "2023",
+  "publication_date": "2022-11",
+  "forecast_period": "2023",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth",
+      "horizon": "2023",
+      "forecast_value": "recession (base case cyclical/shallow recession, 55% probability)",
+      "source_quote": "We maintain our base case for recession in 2023, first in Europe, then the US. Severity will be influenced by Fed policy, gas flows and fiscal response in Europe, and China's recovery. We see a cyclical (shallow) recession in the US as most likely."
+    },
+    {
+      "category": "growth",
+      "region": "Europe",
+      "variable": "Eurozone real GDP growth",
+      "horizon": "2023",
+      "forecast_value": "recession (before the US)",
+      "source_quote": "We maintain our base case for recession in 2023, first in Europe, then the US."
+    },
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth",
+      "horizon": "2023",
+      "forecast_value": "downside risk vs 2.6% consensus",
+      "source_quote": "Broad downside risks to global growth, with some pockets of strength mainly in EMs"
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth",
+      "horizon": "2023",
+      "forecast_value": "downside risk vs 0.4% consensus; range -1.0% to 1.0%",
+      "source_quote": "US 0.4 [BBG consensus] 1.0 [Fidelity upside case] -1.0 [Fidelity downside case] Risk assessment vs consensus: Downside"
+    },
+    {
+      "category": "growth",
+      "region": "Europe",
+      "variable": "Eurozone real GDP growth",
+      "horizon": "2023",
+      "forecast_value": "downside risk vs -0.1% consensus; range -2.0% to 0.5%",
+      "source_quote": "Eurozone -0.1 [BBG consensus] 0.5 [Fidelity upside case] -2.0 [Fidelity downside case] Risk assessment vs consensus: Downside"
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "UK real GDP growth",
+      "horizon": "2023",
+      "forecast_value": "downside risk vs -0.4% consensus; range -2.0% to 0.0%",
+      "source_quote": "UK -0.4 [BBG consensus] 0.0 [Fidelity upside case] -2.0 [Fidelity downside case] Risk assessment vs consensus: Downside"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China real GDP growth",
+      "horizon": "2023",
+      "forecast_value": "downside risk vs 5.0% consensus; range 3.5% to 5.5%",
+      "source_quote": "China 5.0 [BBG consensus] 5.5 [Fidelity upside case] 3.5 [Fidelity downside case] Risk assessment vs consensus: Downside"
+    },
+    {
+      "category": "growth",
+      "region": "Japan",
+      "variable": "Japan real GDP growth",
+      "horizon": "2023",
+      "forecast_value": "balanced risk around 1.4% consensus; range 0.5% to 2.0%",
+      "source_quote": "Japan 1.4 [BBG consensus] 2.0 [Fidelity upside case] 0.5 [Fidelity downside case] Risk assessment vs consensus: Balanced"
+    }
+  ],
+  "excluded_vague_count": 25
+}

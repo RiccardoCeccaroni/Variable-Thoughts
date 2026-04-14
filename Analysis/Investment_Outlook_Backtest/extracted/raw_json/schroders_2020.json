@@ -1,0 +1,50 @@
+{
+  "company": "Schroders",
+  "report_year": "2020",
+  "publication_date": "2019-12-02",
+  "forecast_period": "2020",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth (YoY%)",
+      "horizon": "2020",
+      "forecast_value": "2.6%",
+      "source_quote": "We recently upgraded our 2020 global growth forecast to 2.6%"
+    },
+    {
+      "category": "growth",
+      "region": "Eurozone",
+      "variable": "Eurozone real GDP growth (YoY%)",
+      "horizon": "2020",
+      "forecast_value": "1.2%",
+      "source_quote": "We have raised our eurozone forecast to 1.2%, from 0.9%"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China real GDP growth (YoY%)",
+      "horizon": "2020",
+      "forecast_value": "~6%",
+      "source_quote": "the authorities will at least need to ensure growth stays at the symbolic 6% level"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US core inflation (YoY%)",
+      "horizon": "end-2019",
+      "forecast_value": "2.5%",
+      "source_quote": "We expect US core inflation will finish 2019 at 2.5%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed rate cut timing",
+      "horizon": "April 2020",
+      "forecast_value": "rate cut in April",
+      "source_quote": "the Fed could cut rates again in April",
+      "not_scoreable": true,
+      "reason": "Qualitative timing prediction - Fed actually cut emergency 50bp on March 3 and 100bp on March 15 2020 (COVID), not April"
+    }
+  ]
+}

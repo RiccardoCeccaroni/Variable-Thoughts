@@ -1,0 +1,420 @@
+SOURCE: ubs/ubs_2022.pdf
+PAGES: 9
+
+--- PAGE 1 ---
+17 December 2021, 00:48AM UTC
+Chief Investment Office GWM
+Investment Research
+2022 outlook: a year of two halves
+US equities
+Authors: David Lefkowitz, CFA, Head of Equities Americas, UBS Financial Services Inc. (UBS FS); Nadia Lovell, Senior Equity Strategist Americas, UBS
+Financial Services Inc. (UBS FS); Matthew Tormey, Associate Equity Strategist Americas, UBS Financial Services Inc. (UBS FS)
+• We expect solid equity market returns in 2022
+driven by strong consumer and business spending.
+While the Fed is beginning to withdraw stimulus, it
+will be some time before policy gets “tight.” Stocks
+usually rise after the first Fed rate hike. Our S&P 500
+price targets are 5,000 for June 2022 and 5,100 for
+December 2022.
+• However, economic and corporate profit growth
+will likely slow and inflation will cool as the year Source: UBS
+progresses. This could lead to a year of “two
+halves” whereby the market winners in the first half
+of the year could be somewhat different from those
+in the second half.
+• In the first portion of the year a cyclical bias
+within the equity market still makes sense, but
+it may be a challenge for cyclicals to outperform
+as growth begins to slow. Right now we prefer
+value and mid-caps. At a sector level we prefer
+consumer discretionary, energy, financials, and
+healthcare. Our preferred themes include companies
+that are leveraged to robust business spending,
+easing supply chains, and beneficiaries of Biden
+administration policies, among others.
+Strong economic momentum... low mortgage rates, and over USD 2 trillion of “excess”
+It has been another strong year for equity investors with savings (Fig. 2). Third, business spending is on solid footing
+the S&P 500 up 26% as of this writing. This comes on the driven by record corporate profits (and profitability),
+heels of an 18% gain in 2020. Still, we believe the drivers easy access to capital (Fig. 3), and significant needs to
+that have propelled equites on this strong run should rebuild inventories and expand capacity to accommodate
+remain in place as we enter 2022. the surge in demand. Finally, the Fed unleashed an
+extraordinary amount of support in 2020. And although
+First, despite some periodic setbacks, the pandemic the central bank is beginning to wind down this stimulus,
+continues to improve. About 8.5 billion vaccine shots it will take quite a while for monetary policy to become
+have been administered globally and some very promising “tight.” As a result, our economics team expects robust
+antivirals look poised to be approved by regulators. economic growth of 4.5% in 2022 and solid growth of
+Omicron is a risk, but society should be better prepared 2.9% in 2023.
+for this wave. Second, consumer spending should remain
+well-supported by plentiful jobs (Fig. 1), rising wages,
+This report has been prepared by UBS Financial Services Inc. (UBS FS). Please see important disclaimers and
+disclosures at the end of the document.
+
+--- PAGE 2 ---
+US equities
+Fig. 1: Record unfilled jobs revenue growth. As a result, we expect revenue growth
+Job openings in millions (JOLTS) of nearly 8% in 2022. Cyclical segments of the market
+such as industrials (especially aerospace) and consumer
+discretionary that are still recovering from the pandemic
+should grow faster than average.
+Consistent with recent quarters, the strong revenue
+growth should help offset continued cost pressures.
+Furthermore, as we explain a bit later on, we expect
+inflationary pressures to ease over the course of 2022.
+Therefore, we expect profit margins to remain at high
+levels. Supply chain bottlenecks are a wildcard, but most
+large companies have been managing through these
+headwinds relatively well, and it appears that supply
+Source: Bloomberg, UBS, as of 16 December 2021 chain strains are not getting worse and may actually be
+improving in certain segments. Share buybacks—which
+account for 1.8% of the S&P 500 market cap on a trailing
+Fig. 2: US consumer savings remain elevated basis will also support earnings per share growth.
+Personal savings as % of disposable income
+...and solid profit growth
+Lastly, we no longer expect corporate tax hikes in 2022.
+Instead, it appears that any tax hikes associated with
+the Build Back Better bill that is currently pending in
+Congress will be implemented in 2023. We had previously
+estimated that these tax hikes would reduce S&P 500
+profits by about 2-3% and had incorporated them into
+our estimates. Shifting the tax hike into 2023 increases our
+2022 estimate but has no impact on our 2023 estimate. It
+does, however, mean that EPS growth will be a bit higher
+in 2022 and a bit lower in 2023 than we had previously
+Source: Bloomberg, UBS, as of 16 December 2021
+expected. Putting it all together, we now expect 2022 EPS
+of USD 235 (12% growth) up from USD 233 previously.
+Fig. 3: Access to capital for businesses is easy We are also introducing a 2023 EPS estimate of USD 255
+(9% growth), (Fig. 4).
+Senior Loan Officer Opinion Survey (shaded area = recession)
+Fig. 4: Continued strong earnings growth
+S&P 500 Annual EPS, actuals and CIO estimates
+Source: Bloomberg, UBS, as of 16 December 2021
+...driving strong revenue growth...
+Source: FactSet, UBS, as of 16 December 2021
+Our outlook for solid economic growth should translate
+into another year of healthy gains in corporate profits.
+Positive earnings revisions
+Clearly, S&P 500 earnings growth will slow from the torrid
+Our estimates are about 5% higher than the bottom-
+48% pace in 2021. But growth should still be higher
+up consensus for both years. So, we expect analysts to
+than average. Our economics team believes nominal
+continue to raise their outlooks. Our expectations for the
+GDP growth (including inflation) should be about 7%.
+ISM Manufacturing index also gives us conviction that
+Nominal growth tends to be a good proxy for S&P 500
+analyst estimates will continue to move higher. As we
+02
+
+--- PAGE 3 ---
+US equities
+show in Fig. 5, there is a good correlation between the When assessing valuations, we think it is important to look
+ISM Manufacturing index and earnings revisions. While at valuation in the context of the current environment.
+the ISM index will most likely trend lower over the course There is no doubt that equity market valuations are higher
+of the year, it will take some time before the index falls than long term historical averages. But valuations are
+to a level that would suggest downside risks to analyst reasonable based on the current set of macro-economic
+estimates. conditions. As we show in Fig. 7, over the last seven years,
+the S&P 500 forward P/E can largely be explained by
+Fig. 5: Healthy business sentiment suggests the real 10-year interest rate (nominal rate less inflation
+positive earnings revisions expectations), changes in the ISM Manufacturing index,
+the consumer price index, and high yield credit spreads. Of
+ISM Manufacturing (>50 denotes expansion) and S&P 500 EPS revisions
+those variables, the real interest rate is the most important.
+The relationship suggests that every 0.5% increase in real
+10-year interest rates will reduce the fitted P/E by about
+1.6x. But every 1% decline in the consumer price index
+will boost the P/E by 0.6x.
+Fig. 7: Valuation is consistent with current macro
+conditions
+S&P 500 actual forward P/E vs. fitted P/E (defined in text)
+Source: Datastream, Bloomberg, UBS, as of 30 November 2021
+At a sector level, industrials, consumer discretionary, and
+energy will produce the fastest earnings growth, largely
+driven by a recovery in COVID-impaired segments (Fig.
+6). Earnings for financials will likely decline in 2022, but
+bear in mind that 2021 results have been flattered by the
+release of provisions for loan losses that were built up
+in 2020 during the height of the economic lockdowns. Source: Bloomberg, UBS, as of 30 November 2021
+Investors know that 2021 earnings have been bolstered
+by this one-time benefit, and would suggest a focus on Stocks attractive versus bonds
+recurring earnings growth. If we strip out the impact of The yield spread between stocks and bonds tells a similar
+the reserve releases, financials will likely produce 8% story. Fig. 8 shows this yield spread. The S&P 500’s
+earnings growth in 2022. earnings yield (earnings divided by price) is currently
+4.5%. The 10-year Treasury is yielding 1.4%. So the
+Fig. 6: Cyclical sectors should produce rapid yield on stocks is about 3.0% higher than the yield on
+bonds. As the chart shows, the yield advantage for stocks
+earnings growth
+looks fairly attractive relative to history. So once again,
+2022 EPS growth, UBS CIO estimates
+stock valuations look reasonable, especially given the
+alternatives. Furthermore, stocks can offer some inflation
+protection because many costs can be passed on to
+consumers in the form of higher prices, thereby protecting
+corporate profits. Bonds and cash are not keeping pace
+with inflation.
+Source: FactSet, UBS, as of 16 December 2021
+Valuations high but consistent with macro conditions
+03
+
+--- PAGE 4 ---
+US equities
+Fig. 8: Equity valuations appear reasonable the outlook for real rates and inflation, the pace of Fed
+relative to bonds tightening will likely also be a key driver. Right now the
+futures markets are suggesting that the Fed funds rate will
+S&P 500 equity risk premium (Earnings yield minus 10-year Treasury
+yield) rise from 0.1% to about 0.8% by the end of 2022. That
+equates to about three rate hikes of a quarter percentage
+point each. Rate hikes of that magnitude should already
+be anticipated by the equity market, in our view.
+So that gives us a June 2022 price target of 5,000 and
+a December 2022 price target of 5,100. Equity markets
+should be well-supported in the early part of the year
+by better than expected corporate profits, easing supply
+chain bottlenecks, hopefully continued progress on the
+pandemic, and a cooling in inflation. However, as we get
+deeper into 2022 and growth begins to slow to more
+Source: Bloomberg, UBS, as of 16 December 2021
+sustainable levels, the risks to the equity market could
+rise, especially if the Fed raises interest rates more than
+Valuation matters more for long-term returns
+expected. Incidentally, Fed hiking doesn’t tend to be
+Lastly, it’s important to understand how valuations should
+negative for equity markets. Fig. 10 shows the average
+influence portfolio allocation decisions. Valuations have
+performance of the S&P 500 in the months after the first
+very little correlation with returns over the next one to
+Fed interest rate hike.
+three years. But valuations are much more powerful
+when assessing the longer term outlook. Today’s high P/
+Fig. 10: Stocks tend to rise after the Fed begins
+E ratios suggest that returns for US large-cap stocks will
+be low by historical standards (Fig. 9). But we don't think to raise interest rates
+high valuations will have a material impact on the 2022 S&P 500 performance in the months after the first Fed rate hike, since
+outlook. 1983
+Fig. 9: Valuations play an important role in long-
+term returns
+S&P 500 historical annualized returns vs. trailing P/E, current: 22.5x
+Source: Bloomberg, UBS, as of 16 December 2021
+The pace of inventory replenishment could also be a
+key factor. Inventories (Fig. 11) may start getting rebuilt
+at the same time that demand is cooling. This raises
+Source: Bloomberg, UBS, as of 16 December 2021 the risk of an overshoot on inventories that could lead
+to an even more pronounced slowdown in business
+One final point, sharp reductions (more than 15%) momentum. There is a strong correlation between the
+in valuations usually only occur in recessions, during ISM Manufacturing index and equity market returns (Fig.
+heightened fears of recession, or if the market is 12). So we will be watching the pace of the decline in
+concerned that Fed policy is too restrictive. Of the three the ISM Manufacturing index very closely. An ISM reading
+risks, an overly aggressive Fed seems the most likely and approaching 50 by the end of the year is certainly a
+something we will be on the watch for over the course of possibility and that would typically be associated with a
+2022. more challenging environment for stocks.
+Further gains ahead
+Based on the valuation discussion above, we believe a
+target P/E of 20x is appropriate for the S&P 500, which is
+slightly lower than the current forward P/E of 21x. Besides
+04
+
+--- PAGE 5 ---
+US equities
+Fig. 11: Low inventories suggest strong business Fig. 13: Explosive demand for goods has sparked
+spending ahead inflation
+ISM Manufacturing customer inventories index YoY % change in goods consumption as measured in GDP
+Source: Bloomberg, UBS, as of 16 December 2021 Source: Bloomberg, UBS, as of 30 September 2021
+The jump in commodity prices seen this year is also
+Fig. 12: Market gains are highly correlated with unlikely to repeat. We’re already seeing pullbacks in
+business sentiment lumber and steel prices. Oil prices—the most important
+commodity—were depressed a year ago and have
+S&P 500 and ISM Manufacturing index (>50 denotes expansion)
+surged 50% over the last 12 months. But with oil
+prices now much closer to our estimate of a long-term
+"normal" price, it's highly unlikely that a surge of that
+magnitude will repeat in the coming year. Moreover,
+long-term inflation expectations have moved up but are
+still anchored at around 3% (Fig. 14), suggesting that
+consumers are not expecting the surge in prices to be
+long-lasting. Inflation expectations are an important
+component of the willingness of consumers to accept
+higher inflation.
+Source: Bloomberg, UBS, as of 30 November 2021
+Fig. 14: Long-term inflation expectations haven't
+spiked
+Inflation is a key risk but should moderate
+One of the main risks to our constructive outlook is Univ of Michigan expected change in prices, next 5-10 years
+inflation and the possibility that the Fed will be forced
+to hike interest rates substantially faster than expected.
+But looking at the drivers of the inflation surge gives
+us confidence that the pace of price increases should
+moderate. From our perch, the explosive growth in goods
+consumption (Fig. 13) has been the main driver of higher
+inflation. The goods-producing sector of the economy
+and the logistics networks simply did not have enough
+capacity to handle this level of demand. The good news
+is that the pace of growth in goods consumption is
+already moderating. This should give the supply side of
+the economy time to catch up to demand. The eventual
+Source: Bloomberg, UBS, as of 16 December 2021
+winding down of the pandemic should further cool
+demand for goods as consumers shift purchases back
+Finally, wage growth has ticked up recently and is worth
+to services (vacations, restaurants, live entertainment).
+watching. However, the wage pressures are not yet broad-
+Better pandemic trends should also mean that production
+based (Fig. 15), suggesting that the economy is not yet
+disruptions can be avoided.
+in a wage-price spiral that propelled inflation higher in
+the 1970s. Furthermore, there should still be slack in the
+labor markets, with payrolls still down by 4 million from
+their pre-pandemic level, not to mention the fact that the
+05
+
+--- PAGE 6 ---
+US equities
+working age population has increased by about 2 million Fig. 16: Maintain a cyclical tilt in our sector
+since the onset of the pandemic. preferences
+Tactical preferences from benchmark (S&P 500)
+Fig. 15: Wage increases not yet problematic
+Atlanta Fed Wage Growth Tracker, median wage growth
+Source: Bloomberg, UBS, as of 16 December 2021
+Source: UBS, as of 16 December 2021
+Stay cyclical for now
+Heading into the new year, we continue to believe Prefer value over growth
+investors should have a cyclical tilt in their portfolios. Our preference for value over growth revolves around two
+Today's current strong economic and earnings growth key pillars: strong earnings growth and further increases in
+should be supportive for cyclicals, which are most long-term interest rates. Value’s recent underperformance
+leveraged to these trends. Still, economic growth should is likely due to less confidence in the outlook for these two
+slow as the year progresses, and it may be prudent to scale pillars driven by the recent uptick in COVID-19 cases from
+back cyclical exposure over the course of the year. Among the delta and omicron variants. As the COVID-19 waves
+sectors, we have most preferred views on consumer crest in the coming months, investors should gain more
+discretionary, energy, financials, and healthcare. Consumer confidence in the growth outlook and long-term interest
+staples and utilities are least preferred (Fig. 16). rates should rise, supporting value stocks. Furthermore,
+during periods of strong economic growth, it’s common
+The consumer discretionary sector should benefit from to see value index earnings grow at a faster pace than
+household balance sheets that are flush with cash, a growth index earnings. We are seeing evidence of this
+robust jobs market, secular trends in e-commerce, and already. This should continue for the next several quarters.
+low mortgage rates. Financial sector profitability is likely Lastly, value stocks look incredibly cheap relative to growth
+to improve as short-term interest rates move higher. Our stocks.
+fixed income team's expectations for an increase in longer-
+term interest rates (10-year Treasury yield to reach 2% Prefer mid-caps
+by June) should boost valuations for the sector. Relative Within size segments, we maintain our preference for
+to oil prices, the energy sector looks cheap. It appears mid-caps over large-caps. Smaller-sized segments tend
+that the sector is pricing in an oil price in the high USD to benefit during periods of strong economic growth
+50s. After years of under-investment in oil exploration and as the cycle matures, the higher quality nature of
+and production, it seems likely that today's spot West mid-caps should lead to more resilient returns relative to
+Texas Intermediate (WTI) oil price of around USD 70 has small-caps. Recently, we’ve also seen a high correlation
+an upward bias and prices in this range will be sustained between mid-caps and the yield curve suggesting further
+for quite some time. Our commodity team believes spot outperformance if the curve steepens. Lastly, valuations
+oil prices should reach USD 82 by mid-year. Healthcare is and earnings growth relative to large-caps are attractive.
+the fastest growing defensive sector and most risks around
+drug pricing reform appear to be reflected in share prices Timely themes
+based on very attractive valuations. Consumer staples Finally, investors can also take advantage of the current
+and utilities tend to lag the market in periods of robust economic and market environment through a number of
+earnings growth. themes. In the latest monthly update of our Tactical US
+Equity Themes report, we highlight companies that we
+expect to benefit from a number of themes including:
+beneficiaries from Biden administration policies; companies
+leveraged to higher business spending; and our newest
+06
+
+--- PAGE 7 ---
+US equities
+theme focused on companies we believe will benefit as
+supply chain disruptions ease. For more details, please see
+Tactical US Equity Themes: monthly update and Easing
+supply chain winners.
+07
+
+--- PAGE 8 ---
+US equities
+Appendix
+UBS Chief Investment Office's ("CIO") investment views are prepared and published by the Global Wealth Management business of UBS
+Switzerland AG (regulated by FINMA in Switzerland) or its affiliates ("UBS").
+The investment views have been prepared in accordance with legal requirements designed to promote the independence of investment
+research.
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, to buy or sell any investment or
+other specific product. The analysis contained herein does not constitute a personal recommendation or take into account the particular
+investment objectives, investment strategies, financial situation and needs of any specific recipient. It is based on numerous assumptions.
+Different assumptions could result in materially different results. Certain services and products are subject to legal restrictions and cannot be
+offered worldwide on an unrestricted basis and/or may not be eligible for sale to all investors. All information and opinions expressed in this
+document were obtained from sources believed to be reliable and in good faith, but no representation or warranty, express or implied, is made
+as to its accuracy or completeness (other than disclosures relating to UBS). All information and opinions as well as any forecasts, estimates and
+market prices indicated are current as of the date of this report, and are subject to change without notice. Opinions expressed herein may differ
+or be contrary to those expressed by other business areas or divisions of UBS as a result of using different assumptions and/or criteria.
+In no circumstances may this document or any of the information (including any forecast, value, index or other calculated amount ("Values"))
+be used for any of the following purposes (i) valuation or accounting purposes; (ii) to determine the amounts due or payable, the price or
+the value of any financial instrument or financial contract; or (iii) to measure the performance of any financial instrument including, without
+limitation, for the purpose of tracking the return or performance of any Value or of defining the asset allocation of portfolio or of computing
+performance fees. By receiving this document and the information you will be deemed to represent and warrant to UBS that you will not use this
+document or otherwise rely on any of the information for any of the above purposes. UBS and any of its directors or employees may be entitled
+at any time to hold long or short positions in investment instruments referred to herein, carry out transactions involving relevant investment
+instruments in the capacity of principal or agent, or provide any other services or have officers, who serve as directors, either to/for the issuer,
+the investment instrument itself or to/for any company commercially or financially affiliated to such issuers. At any time, investment decisions
+(including whether to buy, sell or hold securities) made by UBS and its employees may differ from or be contrary to the opinions expressed in
+UBS research publications. Some investments may not be readily realizable since the market in the securities is illiquid and therefore valuing the
+investment and identifying the risk to which you are exposed may be difficult to quantify. UBS relies on information barriers to control the flow
+of information contained in one or more areas within UBS, into other areas, units, divisions or affiliates of UBS. Futures and options trading is
+not suitable for every investor as there is a substantial risk of loss, and losses in excess of an initial investment may occur. Past performance of
+an investment is no guarantee for its future performance. Additional information will be made available upon request. Some investments may
+be subject to sudden and large falls in value and on realization you may receive back less than you invested or may be required to pay more.
+Changes in foreign exchange rates may have an adverse effect on the price, value or income of an investment. The analyst(s) responsible for
+the preparation of this report may interact with trading desk personnel, sales personnel and other constituencies for the purpose of gathering,
+synthesizing and interpreting market information.
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does not provide legal or tax advice and
+makes no representations as to the tax treatment of assets or the investment returns thereon both in general or with reference to specific client's
+circumstances and needs. We are of necessity unable to take into account the particular investment objectives, financial situation and needs of
+our individual clients and we would recommend that you take financial and/or tax advice as to the implications (including tax) of investing in any
+of the products mentioned herein.
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise agreed in writing UBS expressly
+prohibits the distribution and transfer of this material to third parties for any reason. UBS accepts no liability whatsoever for any claims or
+lawsuits from any third parties arising from the use or distribution of this material. This report is for distribution only under such circumstances as
+may be permitted by applicable law. For information on the ways in which CIO manages conflicts and maintains independence of its investment
+views and publication offering, and research and rating methodologies, please visit www.ubs.com/research. Additional information on the
+relevant authors of this publication and other CIO publication(s) referenced in this report; and copies of any past reports on this topic; are
+available upon request from your client advisor.
+Options and futures are not suitable for all investors, and trading in these instruments is considered risky and may be appropriate only
+for sophisticated investors. Prior to buying or selling an option, and for the complete risks relating to options, you must receive a copy of
+"Characteristics and Risks of Standardized Options". You may read the document at https://www.theocc.com/about/publications/character-
+risks.jsp or ask your financial advisor for a copy.
+Investing in structured investments involves significant risks. For a detailed discussion of the risks involved in investing in any particular structured
+investment, you must read the relevant offering materials for that investment. Structured investments are unsecured obligations of a particular
+issuer with returns linked to the performance of an underlying asset. Depending on the terms of the investment, investors could lose all or a
+substantial portion of their investment based on the performance of the underlying asset. Investors could also lose their entire investment if the
+issuer becomes insolvent. UBS Financial Services Inc. does not guarantee in any way the obligations or the financial condition of any issuer or the
+accuracy of any financial information provided by any issuer. Structured investments are not traditional investments and investing in a structured
+investment is not equivalent to investing directly in the underlying asset. Structured investments may have limited or no liquidity, and investors
+should be prepared to hold their investment to maturity. The return of structured investments may be limited by a maximum gain, participation
+rate or other feature. Structured investments may include call features and, if a structured investment is called early, investors would not earn any
+further return and may not be able to reinvest in similar investments with similar terms. Structured investments include costs and fees which are
+generally embedded in the price of the investment. The tax treatment of a structured investment may be complex and may differ from a direct
+investment in the underlying asset. UBS Financial Services Inc. and its employees do not provide tax advice. Investors should consult their own tax
+advisor about their own tax situation before investing in any securities.
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider and incorporate
+environmental, social and governance (ESG) factors into investment process and portfolio construction. Strategies across geographies and styles
+approach ESG analysis and incorporate the findings in a variety of ways. Incorporating ESG factors or Sustainable Investing considerations may
+08
+
+--- PAGE 9 ---
+US equities
+inhibit the portfolio manager’s ability to participate in certain investment opportunities that otherwise would be consistent with its investment
+objective and other principal investment strategies. The returns on a portfolio consisting primarily of sustainable investments may be lower
+or higher than portfolios where ESG factors, exclusions, or other sustainability issues are not considered by the portfolio manager, and the
+investment opportunities available to such portfolios may differ. Companies may not necessarily meet high performance standards on all
+aspects of ESG or sustainable investing issues; there is also no guarantee that any company will meet expectations in connection with corporate
+responsibility, sustainability, and/or impact performance.
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External Asset Manager
+or an External Financial Consultant, UBS expressly prohibits that it is redistributed by the External Asset Manager or the External Financial
+Consultant and is made available to their clients and/or third parties.
+USA: Distributed to US persons by UBS Financial Services Inc., UBS Securities LLC or UBS Swiss Financial Advisers AG, subsidiaries of UBS AG.
+UBS Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliarios Ltda, UBS Asesores Mexico, S.A. de C.V.,
+UBS SuMi TRUST Wealth Management Co., Ltd., UBS Wealth Management Israel Ltd and UBS Menkul Degerler AS are affiliates of UBS AG. UBS
+Financial Services Incorporated of Puerto Rico is a subsidiary of UBS Financial Services Inc. UBS Financial Services Inc. accepts responsibility
+for the content of a report prepared by a non-US affiliate when it distributes reports to US persons. All transactions by a US person
+in the securities mentioned in this report should be effected through a US-registered broker dealer affiliated with UBS, and not
+through a non-US affiliate. The contents of this report have not been and will not be approved by any securities or investment
+authority in the United States or elsewhere. UBS Financial Services Inc. is not acting as a municipal advisor to any municipal entity
+or obligated person within the meaning of Section 15B of the Securities Exchange Act (the "Municipal Advisor Rule") and the
+opinions or views contained herein are not intended to be, and do not constitute, advice within the meaning of the Municipal
+Advisor Rule.
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full disclaimer.
+Version B/2021. CIO82652744
+© UBS 2021.The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+09

@@ -1,0 +1,81 @@
+{
+  "company": "UBS Global Wealth Management",
+  "report_year": "2021",
+  "publication_date": "2020-11-17",
+  "forecast_period": "Mid-2021 (June 2021 targets)",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 price level",
+      "horizon": "June 2021",
+      "forecast_value": "3,800 (central scenario)",
+      "source_quote": "S&P 500 Central 3,800"
+    },
+    {
+      "category": "equities",
+      "region": "Europe",
+      "variable": "Euro Stoxx 50 price level",
+      "horizon": "June 2021",
+      "forecast_value": "3,600 (central scenario)",
+      "source_quote": "Euro Stoxx 50 Central 3,600"
+    },
+    {
+      "category": "equities",
+      "region": "Emerging markets",
+      "variable": "MSCI EM index level",
+      "horizon": "June 2021",
+      "forecast_value": "1,280 (central scenario)",
+      "source_quote": "MSCI EM Central 1,280"
+    },
+    {
+      "category": "equities",
+      "region": "Switzerland",
+      "variable": "SMI price level",
+      "horizon": "June 2021",
+      "forecast_value": "11,000 (central scenario)",
+      "source_quote": "SMI Central 11,000"
+    },
+    {
+      "category": "credit",
+      "region": "US",
+      "variable": "USD investment-grade credit spread",
+      "horizon": "June 2021",
+      "forecast_value": "80 bps (central scenario)",
+      "source_quote": "USD IG spread Central 80bps"
+    },
+    {
+      "category": "credit",
+      "region": "US",
+      "variable": "USD high-yield credit spread",
+      "horizon": "June 2021",
+      "forecast_value": "400 bps (central scenario)",
+      "source_quote": "USD HY spread Central 400bps"
+    },
+    {
+      "category": "credit",
+      "region": "Emerging markets",
+      "variable": "EMBIG spread",
+      "horizon": "June 2021",
+      "forecast_value": "340 bps (central scenario)",
+      "source_quote": "EMBIG spread Central 340bps"
+    },
+    {
+      "category": "fx",
+      "region": "Global",
+      "variable": "EUR/USD exchange rate",
+      "horizon": "June 2021",
+      "forecast_value": "1.22 (central scenario)",
+      "source_quote": "EURUSD Central 1.22"
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Gold price per ounce",
+      "horizon": "June 2021",
+      "forecast_value": "USD 1,950/oz (central scenario)",
+      "source_quote": "Gold Central USD 1,950/oz"
+    }
+  ],
+  "excluded_vague_count": 8
+}

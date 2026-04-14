@@ -1,0 +1,2012 @@
+SOURCE: vanguard/vanguard_2018.pdf
+PAGES: 35
+
+--- PAGE 1 ---
+Vanguard economic and market
+outlook for 2018: Rising risks
+to the status quo
+Vanguard Research December 2017
+■ Strong market returns and low financial volatility underscore investors’ conviction
+that the current global environment of modest growth and tepid inflation is here
+to stay. We agree with this long-term economic prognosis but argue that the chances
+of a short-term cyclical rebound are underappreciated. So the risks lie in mistaking
+persistent trends for the 2018 cycle.
+■ The most pronounced risk to the status quo resides in the United States, where an
+already tight labor market will grow tighter, driving the unemployment rate well below
+4%. This, followed by a cyclical uptick in wages and inflation, should justify the Federal
+Reserve’s raising rates to at least 2% by the end of 2018. Expectations of additional
+rate hikes would inevitably follow, ending an era of extraordinary monetary support in
+the United States and possibly leading markets to price in more aggressive normalization
+plans elsewhere. None of this is status quo.
+■ For 2018 and beyond, our investment outlook is one of higher risks and lower returns.
+Elevated valuations, low volatility, and secularly low bond yields are unlikely to be allies for
+robust financial market returns over the next five years. Downside risks are more elevated
+in the equity market than in the bond market, even with higher-than-expected inflation.
+■ In our view, the solution to this challenge is not shiny new objects or aggressive tactical
+shifts. Rather, our market outlook underscores the need for investors to remain disciplined
+and globally diversified, armed with realistic return expectations and low-cost strategies.
+
+--- PAGE 2 ---
+Lead authors Vanguard Investment
+Strategy Group
+Vanguard Global Economics
+and Capital Markets Outlook Team
+Joseph Davis, Ph.D., Global Chief Economist
+Joseph Davis, Ph.D. Roger A. Aliaga-Díaz, Ph.D. Americas
+Global Chief Economist Chief Economist, Americas
+Roger A. Aliaga-Díaz, Ph.D., Chief Economist, Americas
+Harshdeep Ahluwalia, M.Sc.
+Kevin DiCiurcio, CFA
+Joshua M. Hirt
+Jonathan Lemco, Ph.D.
+Vytautas Maciulis, CFA
+Peter Westaway, Ph.D. Qian Wang, Ph.D. David Pakula, CFA
+Chief Economist, Europe Chief Economist, Asia-Pacific
+Andrew J. Patterson, CFA
+Jonathan Petersen, M.Sc.
+Ashish Rajbhandari, Ph.D.
+Asawari Sathe, M.Sc.
+Adam J. Schickling, CFA
+Christos Tasopoulos, M.Sc.
+Haifeng Wang, Ph.D.
+Andrew J. Patterson, CFA Harshdeep Ahluwalia, M.Sc.
+Senior Investment Strategist Senior Investment Strategist
+Europe
+Peter Westaway, Ph.D., Chief Economist, Europe
+Editorial note
+Edoardo Cilla, M.Sc.
+This publication is an update of Vanguard’s annual
+Ankul Daga, CFA
+economic and market outlook for 2018 for key
+Alexis Gray, M.Sc.
+economies around the globe. Aided by Vanguard
+Capital Markets Model® simulations and other Eleonore Parsley
+research, we also forecast future performance for a
+Giulio Renzi-Ricci, M.Sc.
+broad array of fixed income and equity asset classes.
+Asia-Pacific
+Acknowledgments
+Qian Wang, Ph.D., Chief Economist, Asia-Pacific
+We thank Kristen M. Storti and Andrew S. Clarke, CFA,
+Sarinie Yating Ning
+for their significant contributions to this piece and
+acknowledge the work of the Global Economics and Matthew C. Tufano
+Capital Markets Outlook Team. Further, we would Beatrice Yeo
+like to acknowledge the work of Vanguard’s broader
+Investment Strategy Group, without whose tireless
+research efforts this piece would not be possible.
+
+--- PAGE 3 ---
+Contents
+Global outlook summary 4
+.................................................................................................................................................................................................
+I. Global economic perspectives 6
+.....................................................................................................................................................................
+Global economic outlook: Rising risks to the status quo .................................................................................................................................6
+Global growth outlook: Proprietary signals point to continued expansion .....................................................................................8
+United States: Tightening labor markets hold the key ....................................................................................................................................10
+China: Two steps forward, one step back ...................................................................................................................................................................16
+Japan: Rising with the tide … for now ...........................................................................................................................................................................18
+Europe: A brighter horizon ...........................................................................................................................................................................................................19
+Emerging markets: A varied outlook .................................................................................................................................................................................21
+II. Global capital markets outlook 22
+.................................................................................................................................................................
+Global equity markets: Higher risk, lower return ..................................................................................................................................................22
+Global fixed income markets: Positive but muted ..............................................................................................................................................25
+Portfolio implications: A low return orbit.......................................................................................................................................................................26
+III. Appendix 32
+.............................................................................................................................................................................................................................................
+About the Vanguard Capital Markets Model .............................................................................................................................................................32
+Index simulations ...................................................................................................................................................................................................................................33
+Notes on asset-return distributions
+The asset-return distributions shown here represent Vanguard’s view on the potential range of risk premiums that
+may occur over the next ten years; such long-term projections are not intended to be extrapolated into a short-term
+view. These potential outcomes for long-term investment returns are generated by the Vanguard Capital Markets
+Model® (VCMM) and reflect the collective perspective of our Investment Strategy Group. The expected risk premiums—
+and the uncertainty surrounding those expectations—are among a number of qualitative and quantitative inputs used
+in Vanguard’s investment methodology and portfolio construction process.
+IMPORTANT: The projections and other information generated by the VCMM regarding the likelihood of various
+investment outcomes are hypothetical in nature, do not reflect actual investment results, and are not guarantees
+of future results. Distribution of return outcomes from the VCMM are derived from 10,000 simulations for each
+modeled asset class. Simulations are as of September 30, 2017. Results from the model may vary with each use
+and over time. For more information, see the Appendix section “About the Vanguard Capital Markets Model.” 3
+
+--- PAGE 4 ---
+Vanguard’s distinct approach to forecasting
+To treat the future with the deference it deserves, Vanguard has long believed that market forecasts are
+best viewed in a probabilistic framework. This annual publication’s primary objectives are to describe the
+projected long-term return distributions that contribute to strategic asset allocation decisions and to present
+the rationale for the ranges and probabilities of potential outcomes. This analysis discusses our global
+outlook from the perspective of a U.S. investor with a dollar-denominated portfolio.
+Global outlook summary
+Global economy: Tight labor markets become tighter Specifically, the growing impact of cyclical factors such
+We expect economic growth in developed markets to as tightening labor markets, stable and broader global
+remain moderate in 2018, while strong emerging-market growth, and a potential nadir in commodity prices is likely
+growth should soften a bit. Yet investors should pay to push global inflation higher from cyclical lows. The
+more attention to low unemployment rates than GDP relationship between lower unemployment rates and
+growth at this stage of the cycle for prospects of either higher wages, pronounced dead by some, should begin
+higher spending for capital expenditures or wage to re-emerge in 2018, beginning in the United States.
+pressures. We see low unemployment rates across
+many economies declining further, in some instances Monetary policy: Tighter and trickier from here
+to multi-decade lows. Improving fundamentals in the The risk in 2018 is that a higher-than-expected bounce
+United States, Europe, and Japan should help offset in wages—at a point when 80% of major economies
+weakness in the United Kingdom. China’s ongoing effort (weighted by output) are at full employment—may lead
+to rebalance from a capital-intensive exporter to a more markets to price in a more aggressive path or pace of
+consumer-based economy remains a risk, as does the global monetary policy normalization. The most likely
+need for structural business-model adjustments across candidate is in the United States, where the Federal
+emerging-market economies. We do not anticipate a Reserve is increasingly likely to raise rates to 2% by the
+Chinese “hard landing” in 2018, but the Chinese end of 2018, a more rapid pace than anticipated by the
+economy should cool. bond market. The European Central Bank is probably two
+years away from raising rates and is unlikely to taper the
+Inflation: Secularly low, but not dead assets on its balance sheet until next decade, although a
+Previous Vanguard outlooks have rightly anticipated cyclical bounce in inflation may lead to a market surprise.
+that the secular forces of globalization and technological Overall, the chance of unexpected shocks to the
+disruption would make achieving 2% inflation in the economy as global monetary policy becomes more
+United States, Europe, Japan, and elsewhere more restrictive is high, particularly when considering that
+difficult. Our trend view holds, but the cycle may differ. it involves unprecedented balance-sheet shrinkage.
+In 2018, we think that the influences recently bearing
+down on inflation will subside, increasing the probability Investment outlook: A lower orbit
+of higher-than-trend inflation. The sky is not falling, but our market outlook has
+dimmed. Since the depths of the 2008–2009 Global
+Financial Crisis, Vanguard’s long-term outlook for the
+global stock and bond markets has gradually become
+4
+
+--- PAGE 5 ---
+more cautious—evolving from bullish in 2010 to And despite the risk for a short-term acceleration in
+constructive in 2012 to guarded in 2017—as market the pace of monetary policy normalization, the risk of a
+returns have risen with (and even exceeded) improving material rise in long-term interest rates remains modest.
+fundamentals. Although we are hard-pressed to find For example, our fair-value estimate for the benchmark
+compelling evidence of financial bubbles, risk premiums 10-year U.S. Treasury yield remains centered near 2.5%
+for many asset classes appear slim. The market’s in 2018, in part because we believe the chances of the
+efficient frontier of expected returns for a unit Federal funds rate heading back toward zero or reaching
+of portfolio risk now hovers in a lower orbit. its long-term neutral level in coming years are balanced.
+Overall, the risk of a correction for equities and other
+Based on our “fair-value” stock valuation metrics, high-beta assets is projected to be considerably higher
+the ten-year outlook for global equities has deteriorated than for high-quality fixed income portfolios, whose
+a bit and is now centered in the 4.5%–6.5% range. expected returns are only positive in nominal terms
+Expected returns for the U.S. stock market are lower over the next five years.
+than those for international markets, underscoring the
+benefits of global equity strategies in the face of lower
+expected returns. The projected odds of a U.S. market
+correction are higher than they have been historically.
+Indexes used in our historical calculations
+The long-term returns for our hypothetical portfolios are based on data for the appropriate market indexes
+through September 2017. We chose these benchmarks to provide the best history possible, and we split
+the global allocations to align with Vanguard’s guidance in constructing diversified portfolios.
+U.S. bonds: Standard & Poor’s High Grade Corporate Index from 1926 through 1968; Citigroup High Grade
+Index from 1969 through 1972; Lehman Brothers U.S. Long Credit AA Index from 1973 through 1975;
+and Bloomberg Barclays U.S. Aggregate Bond Index thereafter.
+Ex-U.S. bonds: Citigroup World Government Bond Ex-U.S. Index from 1985 through January 1989
+and Bloomberg Barclays Global Aggregate ex-USD Index thereafter.
+Global bonds: Before January 1990, 100% U.S. bonds, as defined above. January 1990 onward, 70% U.S.
+bonds and 30% ex-U.S. bonds, rebalanced monthly.
+U.S. equities: S&P 90 Index from January 1926 through March 1957; S&P 500 Index from March 1957 through
+1974; Dow Jones Wilshire 5000 Index from 1975 through April 2005; and MSCI US Broad Market Index thereafter.
+Ex-U.S. equities: MSCI World ex USA Index from January 1970 through 1987 and MSCI All Country World
+ex USA Index thereafter.
+Global equities: Before January 1970, 100% U.S. equities, as defined above. January 1970 onward, 60% U.S.
+equities and 40% ex-U.S. equities, rebalanced monthly.
+5
+
+--- PAGE 6 ---
+I. Global economic Financial markets have finally come to grips with
+this reality, and they anticipate little deviation from this
+perspectives
+long-term outlook in 2018. Simply put, status quo is the
+consensus baseline for the major economies, justifying
+the trinity of low global real interest rates, elevated stock
+valuations, and easy financial conditions.
+Global economic outlook: Rising risks
+to the status quo Low market volatility underscores markets’ high
+The secular forces of globalization, demographics, and conviction on this status quo and more narrow range
+technological disruption have for years served as the of expectations of market fundamentals, including
+foundation of Vanguard’s long-term global economic inflation (see Figure I-2). However, we fear that markets
+outlook for modest secular growth, tepid inflation, and may be mistaking the secular trend for the cycle, as it’s
+yet full employment in most major developed economies very plausible that we will see a short-term deviation
+(Davis et al., 2014, 2015, and 2016). from this trend.
+Markets and policymakers have been slow to recognize Although inflation is still slow to respond, labor markets
+these trends, as most continued to expect a slow yet full continue to tighten beyond expectations. Almost all
+recovery to pre-2008 norms. For the past few years, major economies are at or below estimates of their
+economists and investors started each year holding high full-employment benchmark (see Figure I-3). The
+hopes for a cyclical bounce, just to correct their forecasts most pronounced risk in our 2018 outlook is that
+downward a few months later, bringing them back in line tightness in global labor markets will grow tighter,
+with the stubbornly low trends (see Figure I-1). leading to generational lows in unemployment rates
+Figure I-1. Market consensus has finally
+embraced the low secular trends
+Note: The Group of Seven (G7) countries are the industrialized democracies
+Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States.
+Source: Vanguard, based on data from the International Monetary Fund.
+6
+noitaflni
+dna
+htworg
+PDG
+8102
+seirtnuoc
+7G
+rof
+stsacerof
+Figure I-2. A too-narrow range of inflation expectations
+2018 consensus forecasts for the past five years
+2.5% GDP growth Inflation rate
+2
+1.5
+1
+20132014201520162017 20132014201520162017
+Today
+Typical
+ytisned
+ytilibaborP
+0.3 0.8 1.3 1.8 2.3 2.8 3.3 3.8%
+Range of U.S. core PCE expectations
+Note: Distributions represent bell curves created by using the standard deviation
+of survey respondents’ forecasts for U.S core Personal Consumption Expenditures
+(PCE) under the assumption of normal distribution.
+Source: Vanguard, based on data from the Federal Reserve Bank of Philadelphia’s
+Survey of Professional Forecasters.
+
+--- PAGE 7 ---
+Figure I-3. Help wanted: 80% of major economies
+at full employment
+7
+anihC
+dna
+seirtnuoc
+DCEO
+fo
+%
+)dethgiew-PDG(
+tnemyolpme
+lluf
+ta
+100% 80% of major economies
+at full employment
+80
+60
+40
+20
+0
+2006 2008 2010 2012 2014 2016
+Source: Vanguard, using data from the Organization for Economic Cooperation
+and Development and the International Monetary Fund.
+Figure I-4. The inflation-unemployment link
+may surprise markets in 2018
+Source: Vanguard.
+snoitatcepxe
+etar
+noitaflnI
+despite still-modest growth. In an environment where
+long-term trend growth is unlikely to return to pre-crisis
+averages, a short-term acceleration combined with lower
+unemployment could finally lead to a cyclical uptick from
+low inflation.
+Just when consensus has settled around a contained
+inflation scenario, any upside movement could surprise
+markets (see Figure I-4). And although inflation is not
+expected to surpass central banks’ 2% targets in 2018
+in regions including the United States, the euro zone,
+and Japan, the movement toward that target may be
+faster and more abrupt than recent trends imply.
+Based on historical experience, periods of tightness
+in global labor markets such as the current one can
+lead to one of three outcomes:
+• An acceleration of wage growth and inflation
+pressures (not currently priced by markets).
+• A spur of business capital spending and productivity
+growth (not currently expected).
+• No impact on inflation, wages, or productivity
+(status quo, which is unlikely in our view).
+Above United Euro area
+States China
+Although they are at very different stages of their rate-
+hiking cycles, the Fed and the Bank of England have Slightly above
+accelerated their normalization steps ahead of any
+Japan
+expectations priced into the markets at the beginning of Recent trend
+2017. The European Central Bank (ECB) presses on with
+asset purchases, albeit at a slower pace. A cyclical recovery Slightly below Australia
+in inflation may finally happen just as global central banks United
+Canada
+enter the normalization phase of the easing cycle. Kingdom
+Below
+Just as the response to the financial crisis was Below Slightly Recent Slightly Above
+unprecedented, the banks’ path to normalization below trend above
+is not well-marked. The path ahead covers uncharted
+Unemployment rate expectations
+territory, so the chance of unexpected shocks
+to markets is high. Circle sizes represent GDP in U.S. dollars.
+
+--- PAGE 8 ---
+Global growth outlook: Proprietary signals point to continued expansion
+We expect the U.S. economy to once again break The euro area is expected to perform strongly again
+above its long-term potential growth of about 2% in 2018 in 2018, with GDP growth of close to 2%. We base this
+in spite of long-term structural challenges, including slowing view on strong momentum in the economy, as shown
+productivity growth and demographic headwinds. Our in our euro-area leading indicators dashboard (see
+proprietary U.S. leading indicators dashboard is a statistical Figure I-5c). Over the last several years, there has
+model based on more than 80 leading economic indicators been a significant increase in the green indicators, which
+from major sectors of the U.S. economy. As Figure I-5a represent manufacturing, trade, labor markets, financial
+shows, the pickup in green indicators (above-trend readings) markets, and sentiment. There are several factors behind
+in the dashboard points to an increased likelihood of a this momentum. First, the fiscal austerity imposed by
+cyclical pickup in growth versus a slowdown. The most governments in the early years after the financial crisis—
+positive (green) indicators are those associated with a significant drag on the economy in the early part of this
+increased business and consumer confidence, a tightening decade—has ended. In addition, the ECB has provided
+labor market, and a stronger manufacturing sector. The a vast amount of monetary stimulus, which has helped
+negative (red) indicators are associated with the trade revive bank lending and consumption and pushed down
+balance and wages. Housing market indicators and the exchange rate; this in turn has boosted net exports.
+consumer credit remain below trend but show positive Finally, political risk and the threat of a euro breakup have
+momentum (yellow indicators). The most prominent risks faded. The increase in green indicators translates into
+to our cyclically strong growth outlook include geopolitical substantially higher odds that 2018 will see growth above
+concerns and policy uncertainty, including trade negotiations. the potential rate, which is 1.2% (see Figure I-5d).
+Using simple regression analysis, we mapped our China is expected to continue its modest deceleration
+proprietary indicators to a distribution of potential in 2018, although risks to the outlook are tilted to the
+scenarios for U.S. economic growth in 2018, as shown upside according to our proprietary China leading
+in Figure I-5b. The odds of growth at or exceeding 3% indicators dashboard (see Figure I-5e). Specifically,
+in 2018 (47%) are higher than they were last year and while ongoing policy efforts to contain leverage and
+outweigh the potential for growth to stagnate and fall reduce overcapacity are likely to weigh on growth (as
+below 1.5% (32%). Our base case is for growth of is evident by the number of yellow and red indicators
+around 2.5% in 2018, toward the high end of the range associated with weaker industrial production and slower
+of 1.5%–2.5% experienced over the last three years. credit extension), continued progress in the transformation
+Figure I-5. Vanguard dashboards of leading economic indicators and implied economic growth for 2018
+United States: Slightly above consensus
+a. Economic indicators b. Estimated distribution of U.S. growth outcomes, 2018
+2000 2004 2008 2012 2016
+8
+dnert
+woleb/evoba
+srotacidnI
+)raey-revo-raey(
+htworg
+PDG
+laeR
+Above-trend growth: business and consumer confidence,
+manufacturing surveys, and unemployment claims
+Below trend, but positive momentum: housing starts
+and consumer credit
+Below trend and negative momentum: personal
+income and trade balance
+Real GDP growth year-over-year (right axis)
+ytilibaborP
+Odds of a Trend Odds of an
+100% 8% 50% slowdown growth acceleration
+6
+32% 21% 47%
+40
+75
+4
+30
+50 2
+20
+0
+25 10
+–2
+0 –4 0
+Recession: Less than –0.5%
+Mild recession: –0.5% to 0.5%
+Slowdown: 0.5% to 1.5%
+Trend: 1.5% to 2.5%
+Acceleration: 2.5% to 3.5%
+Acceleration to pre-crisis trend: 3.5% to 4.5%
+Overheating: More than 4.5%
+Notes: The distribution of growth outcomes is generated by bootstrapping the residuals from a regression based on a proprietary set of leading economic indicators and
+historical data, estimated from 1960 to 2017 and adjusting for the time-varying trend growth rate. Trend growth represents projected future estimated trend growth.
+Source: Vanguard calculations, based on data from Moody’s Analytics Data Buffet and Thomson Reuters Datastream.
+
+--- PAGE 9 ---
+of China’s growth model (as suggested by rising Against this backdrop, the Chinese economy is expected
+consumer confidence and a tight labor market) could to grow by around 6%–6.5% next year (see Figure I-5f),
+mitigate downside pressures from a slowdown in the with the risks of an upside surprise greater than those
+highly leveraged industrial sector. of a more pronounced slowdown.
+9
+dnert
+woleb/evoba
+srotacidnI
+)raey-revo-raey(
+htworg
+PDG
+laeR
+ytilibaborP
+Euro area: Above consensus
+c. Economic indicators d. Estimated distribution of euro-area growth outcomes, 2018
+Odds of a Trend Odds of an
+slowdown growth acceleration
+100% 6% 50% 22% 45% 33%
+4
+40 75
+2
+30
+50 0
+20
+–2
+25
+–4 10
+0 –6 0
+2000 2004 2008 2012 2016
+Above-trend growth: manufacturing, trade, Recession: Less than 0%
+labor markets, financial markets, and sentiment
+Slow growth: 0% to 1%
+B elow trend, but positive momentum: housing Trend: 1% to 2%
+Below trend and negative momentum: retail sales Acceleration: 2% to 3%
+Real GDP growth year-over-year (right axis) High growth: More than 3%
+Notes: The distribution of growth outcomes is generated by bootstrapping the residuals from a regression based on a proprietary set of leading economic indicators and
+historical data, estimated from 1960 to 2017 and adjusting for the time-varying trend growth rate. Trend growth represents projected future estimated trend growth.
+Source: Vanguard calculations, based on data from Thomson Reuters Datastream.
+1996 2000 2004 2008 2012 2016
+dnert
+woleb/evoba
+srotacidnI
+)raey-revo-raey(
+htworg
+PDG
+laeR
+Above-trend growth: corporate profitability, trade, Hard landing: Less than 5.5%
+consumer confidence and labor markets
+Slowdown: 5.5% to 6%
+B elow trend, but positive momentum: housing,
+Trend: 6% to 6.5%
+credit extension, and commodities
+Acceleration: 6.5% to 7%
+Below trend and negative momentum: industrial
+Acceleration to pre-crisis trend: More than 7%
+production and public spending
+Real GDP growth year-over-year (right axis)
+ytilibaborP
+China: Slightly above consensus
+e. Economic indicators f. Estimated distribution of China growth outcomes, 2018
+100% 16% 50% Odds of a Trend Odds of an
+slowdown growth acceleration
+14 25% 38% 37%
+40
+75 12
+10 30
+50 8
+6 20
+25 4
+10
+2
+0 0 0
+Notes: The distribution of growth outcomes is generated by bootstrapping the residuals from a regression based on a proprietary set of leading economic indicators
+and historical data, estimated from 1960 to 2017 and adjusting for the time-varying trend growth rate. Trend growth represents projected future estimated trend growth.
+Source: Vanguard calculations, based on data from Thomson Reuters Datastream and CEIC.
+
+--- PAGE 10 ---
+United States: Tightening labor markets hold the key continue to restrain the growth potential of the U.S.
+economy (and most other developed markets) into the
+In 2017, U.S. economic growth is on pace to surpass
+foreseeable future. Not only do these structural forces
+its long-term trend of 2% a year for the first time
+provide a coherent explanation for the slowdown
+in three years. Strong domestic economic fundamentals
+in growth trends and lower interest rates, but they also
+have propelled consumer confidence and business
+reconcile apparent paradoxes, such as low economic
+optimism to levels not seen since before the financial crisis
+growth with full employment and tight labor markets
+(see Figure I-6). A powerful combination of extremely tight
+with low wage growth.
+labor markets, strong financial market returns, increasing
+housing values, improving access to credit, and the end of
+While in the past our focus has been on tempering
+the household deleveraging cycle are supporting both the
+investors’ expectations, the risk now is that investors
+consumer and business investment engines of economic
+will mistake this long-term structural view for a short-
+growth. Private-sector optimism has remained immune
+term expectation of the economy and markets in 2018.
+to the uncertainties of domestic policy debates and
+A lower unemployment rate, rather than subdued GDP
+geopolitical developments abroad.
+growth, is the key metric for investors to watch in 2018.
+As in previous editions of Vanguard’s economic and
+Further tightening in labor markets is likely, even as
+investment outlook (Davis et al., 2014, 2015, and
+the pace of job growth continues to moderate. As we
+2016), we believe that it is important to disentangle
+anticipated in early 2017, employment growth has
+the structurally lower trend growth of 2% (compared
+gradually declined toward 150,000 jobs a month, and
+with 3.25% average growth since 1950) from these
+the moderation is expected to continue into 2018. A
+shorter-term cyclical developments. The structural
+decrease in job growth is not abnormal at this stage of
+drivers of growth—namely, weak productivity growth
+the business cycle and should not be mistaken for an
+and unfavorable demographics—have been at work
+economic slowdown. However, as long as job creation
+since before the 2008–2009 financial crisis; they will
+Figure I-6. A more optimistic outlook
+0.6
+0.4
+0.2
+0.0
+–0.2
+–0.4
+–0.6
+–0.8
+–1.0
+–1.2
+2000 2005 2010 2015
+Recessions
+VLEI Sentiment Index
+10
+cimonocE
+gnidaeL
+draugnaV
+xednI
+tnemitneS
+srotacidnI
+Optimism
+at highest levels
+since 2005
+Notes: The chart depicts consumer and business sentiment indicators from the Vanguard Leading Economic Indicators Index, an aggregation of the signals of a proprietary
+set of leading economic indicators that is further filtered to include only sentiment and survey measures.
+Source: Vanguard calculations, based on data from Moody’s Data Buffet.
+
+--- PAGE 11 ---
+continues to exceed the flow of entrants to the labor for 2018, based on unemployment trends as well as high
+market (80,000 to 100,000 a month), the unemployment business sentiment measures, is for an acceleration
+rate is very likely to fall into the 3%–4% range; at the roughly in line with that of previous business cycles.
+time of this paper’s writing, the rate was 4.1%. Slower
+population growth and aging of the population will The relationship between lower unemployment rates
+continue to exert downward pressure on labor force and higher wages (the so-called wage inflation Phillips
+participation rates and will restrain labor force growth. curve)—pronounced dead by some—should also begin
+to re-emerge in 2018 (see Figure I-8). Many explanations
+With unemployment rate levels below 4%, the for persistently low inflation have been put forth, including
+potential for an upside surprise in either business structural forces such as demographics, technology, and
+capital expenditures or inflationary wage pressures globalization. Despite the struggles policymakers will face
+is increasingly likely. Historically, periods of labor in hitting their inflation targets in the medium term, we
+market tightness have resulted in labor shortages believe that in 2018, the growing impact of cyclical factors
+in certain industries, rising unit labor costs in others, such as tightening labor markets and stable and broader
+or a combination of both. Typically, companies see global growth may lead to wage and price inflation
+labor market tightness as an indication of robust demand stronger than currently anticipated by financial markets.
+prospects but also of more expensive labor input,
+and they respond by ramping up investment in new The risk in 2018 is that a higher-than-expected bounce in
+technologies that are less labor-intensive when possible. wages may lead markets to reprice a more aggressive path
+Thus, this is the stage of the cycle where we see of monetary policy normalization than currently expected.
+the fastest pace of business capital investment (see In particular, the Fed is projecting to raise rates to 2% by
+Figure I-7). Although business investment has been the the end of 2018, a more rapid pace than anticipated by the
+missing component of this recovery cycle, our estimations bond market. An “inflation surprise” would embolden the
+Figure I-7. Lower unemployment rates = higher
+business capital spending
+11
+ssenisub
+raey-revo-raeY
+htworg
+tnemtsevni
+Figure I-8. Back from hibernation: Sub-4%
+unemployment rates should boost wage growth
+10%
+8
+6
+4
+2
+0
+–2
+–4
+Lower Between Higher
+than 5% and 8% than
+5% 8%
+Unemployment rate
+Average investment growth in quarters with selected
+unemployment rate ranges since 1949
+Since 2009
+Range of 2018 potential outcomes should sentiment
+indicators in Figure I-6 remain elevated or fall back
+to trend
+Source: Vanguard, based on data from Moody’s Data Buffet, the U.S. Bureau
+of Economic Analysis, and the Bureau of Labor Statistics.
+htworG
+egaW
+s’deF
+atnaltA
+)9+t(
+rekcarT
+6%
+5
+October
+2017
+4
+3
+2
+Historical
+estimates of full
+1
+employment
+are ~5%
+0
+3 5 7 9 11%
+Unemployment rate
+Notes: The y-axis represents the Atlanta Fed’s Wage Growth Tracker nine months
+from the date of a specific unemployment rate. This captures the potential lag with
+which wages may react to changes in unemployment.
+Source: Vanguard, based on data from the Federal Reserve Bank of Atlanta.
+
+--- PAGE 12 ---
+Fed to press on with its policy normalization program while unknown. Paradoxically, in the face of such uncertainty,
+the bond market hastily reassesses both interest rate and market volatility remains placidly subdued. (See the
+break-even inflation expectations. If that is the case, the text box on page 14, “Quantitative easing unwind
+odds of a bumpy adjustment in financial markets would and market volatility: Is there anything abnormal about
+be significantly elevated, given the currently low levels of this normalization?”)
+asset price volatility and high valuation metrics in various
+risk asset classes. The early stages of the unwinding process have shown
+little market reaction, but we still have further to go (see
+At the same time, such a response from the Fed to Figure I-10). Studies on the potential effects of the Fed’s
+an “inflation surprise” would prevent a larger and more balance-sheet policies on asset prices are divided. Some
+persistent inflation acceleration in the economy. In fact, find evidence of symmetric effects of increases and
+our long-term inflation outlook remains unchanged from decreases in the size of the balance sheet on asset
+2017. For 2019 and beyond, the effects of the long-term prices. For instance, according to these studies, long-
+structural forces of technology and globalization on term interest rates could see a jump of 40 to 100 basis
+consumer prices are likely to regain control and keep points during the unwinding (although most of this effect
+inflation contained in spite of ongoing reflation efforts may have already happened when the normalization
+by the Fed and other major central banks. In our plans were announced earlier in 2017). Other research
+research, we have estimated that falling prices for finds strong support for asymmetric effects, in which
+technology inputs in the U.S. economy have restrained market prices respond only to quantitative easing
+overall core inflation metrics by 50 basis points on purchases, not to a decrease in the Fed’s balance sheet.
+average over the last 20 years.1 This drag is close to the According to these studies, a buildup of the Fed’s
+current inflation shortfall from target levels. As Figure I-9 balance sheet may affect markets insofar as it signals
+shows, the impact of these forces may have been in the Fed’s intentions regarding the future path of interest
+play since well before the financial crisis, with inflation rates (that is, the commitment to keep rates low for
+systematically falling short of the Fed’s 2% target even a long period).2
+during periods of strong growth and full employment.
+While we lean slightly toward the latter studies,
+In addition to uncertainties about the number of rate none would predict at this point a tight link between
+hikes in 2018, there are uncertainties surrounding Fed normalization actions in 2018 and long-term
+the Fed’s unwinding of its balance sheet. Just as the rate responses. As such, the chance of unexpected
+response to the crisis was unprecedented in terms of shocks to the economy during this unprecedented
+balance sheet expansion, the Fed’s path to normalization normalization is high.
+is not well-marked. The path ahead covers uncharted
+territory, with the market impact of policy decisions
+1 See Global Macro Matters—Why Is Inflation So Low? The Growing Deflationary Effects of Moore’s Law, (The Vanguard Group, 2017),
+available at https://personal.vanguard.com/pdf/ISGMMEML.pdf.
+12 2 For a review of the literature on the various schools of thought, see Borio and Zabai (2016) and Haldane, et al. (2016).
+
+--- PAGE 13 ---
+Figure I-9. U.S. inflation: Secularly low, but cyclically rising
+Source: Vanguard, based on data from the U.S. Bureau of Economic Analysis.
+13
+noitaflni
+ECP
+eroc
+raey-revo-raeY
+3%
+2018:
+Cyclical
+upturn
+2
+Medium
+1
+term
+Inflation falls below 2%
+target 77% of the time
+0
+1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020
+Inflation target
+Core PCE inflation
+Core PCE inflation projections
+Figure I-10. The unwind is expected to be more measured than the buildup
+snoillib
+ni
+sralloD
+Estimated
+tapering:
+$5,000 $1.2 trillion
+in 3 years
+4,000
+3,000
+Excess
+reserves
+2,000
+1,000
+0
+2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+Fed’s balance sheet
+Balance sheet expansion in line with economic growth
+Vanguard projections
+Notes: Excess reserves represent the amount of reserves held at the Federal Reserve Bank in excess of the amount required based on the deposits held at banks. Vanguard
+projections based on Fed stated caps and mortgage pre-payment model as described in Syron Ferris, et al. (2017).
+Source: Vanguard, based on data from the Federal Reserve.
+
+--- PAGE 14 ---
+Quantitative easing unwind and market Our research indicates that today’s low levels of volatility
+volatility: Is there anything abnormal about are not, in fact, unprecedented. Figure I-11 shows that
+this normalization? the S&P 500 VIX is near all-time lows, but it also hit
+similarly low levels before the Global Financial Crisis,
+With the onset of its balance-sheet roll-off in October
+when there were no quantitative easing or zero-interest-
+2017, the Federal Reserve has officially taken the first
+rate policies.
+steps toward the reversal of quantitative easing measures
+(central bank asset purchases) enacted in response to
+We also found that quantitative easing has made no
+the Global Financial Crisis nearly a decade ago. Although
+fundamental change to the relationship between financial
+central bank balance sheets in Europe and Japan will
+markets and two commonly cited drivers of volatility: the
+continue to grow, the pace of asset accumulation has
+sensitivity of asset prices to macroeconomic fundamental
+begun to slow. The pivot raises questions about the
+shocks or surprises (how strongly markets react as
+potential impact on the financial markets. Is low volatility
+macro data releases surpass or disappoint consensus
+in today’s financial markets a reflection of complacency
+expectations) and the uncertainty of market participants
+induced by these unprecedented policy measures? And
+about the economic outlook (economic uncertainty as
+if so, could volatility pick up as easy monetary policy is
+measured by the dispersion of individual professional
+rolled back?
+forecasts of growth, unemployment, inflation, and others).
+Figure I-11. Low-volatility environment is not unprecedented
+2007 2009 2011 2013
+CBOE Volatility Index (LHS)
+Federal funds rate (RHS)
+Q3 2017 volatility
+14
+xednI
+ytilitaloV
+EOBC
+etar
+sdnuf
+laredeF
+65 Pre QE-era Post QE-era 8%
+55
+6
+45
+35 4
+25
+2
+15
+5 0
+1993 1995 1997 1999 2001 2003 2005 2015 2017
+Note: The CBOE Volatility Index, or VIX, is a key measure of equity market volatility, specifically the 30-day implied volatility from options activity for the S&P 500 Index.
+Source: Vanguard, using data from Thomson Reuters Datastream, the Chicago Board Options Exchange (CBOE), and the Federal Reserve Board.
+
+--- PAGE 15 ---
+Figure I-12a compares this sensitivity of markets to the relationship between policy changes and volatility
+economic surprises and shows that the cycle is not could be characterized as countercyclical: tightening
+far removed from prior periods of easy monetary policy, when economic conditions are strong (and volatility
+extraordinary or otherwise. Similarly, Figure I-12b displays is low) and easing when conditions deteriorate (and
+extremely narrow forecast dispersion among economists volatility is high). The risks we point out in our cyclical
+at present, but again, current levels do not stand out economic outlook would suggest that volatility will rise
+as extraordinary relative to similar historical episodes. in 2018 in lockstep with economic surprises and potential
+turning points in monetary policy, although assuming
+Although the current environment is admittedly one that the degree of volatility has to be extraordinary may
+of low volatility, low forecast dispersion, decreased be overly pessimistic.
+sensitivity to macro fundamentals, and looming policy
+tightening, these conditions do not represent a departure Our intent is not to imply that the forthcoming
+from historical norms. removal of extraordinarily easy monetary policies
+will be without volatility but rather to show that it
+But we are in a period of tightening and policy may be overly pessimistic to assume that the degree
+normalization. So what might we expect in terms of volatility has to be equally extraordinary.
+of future market volatility? As the figures demonstrate,
+15
+serocs-Z
+egareva
+gnivom
+htnom-21
+)egareva
+morf
+snoitaived
+dradnats(
+7% 3 Pre QE-era Post QE-era
+2.5
+2
+1.5
+1
+0.5
+0
+–0.5
+–1
+–1.5
+1993 1997 2001 2005 2009 2013 2017
+Federal funds rate (LHS) Economic uncertainty
+Sensitivity to macro surprises (RHS) Market volatility
+etar
+sdnuf
+laredeF
+6
+5
+4
+3
+2
+1
+0
+–1
+ot
+ytivitisnes
+tekram
+kcotS
+)lamron=1(
+selbairav
+orcam
+Figure I-12. No evidence of QE’s effect on…
+a. … Market prices’ sensitivity to economic surprises b. … Lower market volatility; higher conviction
+is the status quo
+Pre QE-era Post QE-era 1.8
+1.5
+1.2
+0.9
+0.6
+0.3
+0
+–0.3
+1993 1997 2001 2005 2009 2013 2017
+Notes: For Figure l-12a: We used a process in which a time-varying coefficient is attached to an index of macro variables so that deviations above (or below) 1 represent
+heightened (or dampened) sensitivity of the S&P 500 Index to surprises in macro variables. The index for macro surprises was developed using daily data from the following
+U.S. macro announcements: retail sales, Institute for Supply Management (ISM) Non-Manufacturing Index, ISM Manufacturing Index, Philadelphia Federal Reserve Survey,
+industrial production, construction spending, capacity utilization, consumer credit, core Consumer Price Index, Treasury budget deficit, Empire State Manufacturing Survey, and
+wholesale sales. For Figure l-12b: “Economic uncertainty” represents the 12-month moving average equally weighted standardized cross-sectional dispersion metric of survey
+respondents’ projections for U.S. real GDP growth, the unemployment rate, inflation, and the 3-month Treasury bill rate one year into the future over time. “Market volatility”
+represents the 12-month moving average standardized value of the CBOE Volatility Index, which measures the 30-day implied volatility from options activity for the S&P 500 Index.
+Source: Vanguard, based on data from Thomson Reuters Datastream, Moody’s Data Buffet, the Chicago Board Options Exchange, and the Federal Reserve Bank of Philadelphia’s
+Survey of Professional Forecasters.
+
+--- PAGE 16 ---
+China: Two steps forward, one step back
+Following a decade of aggressive credit expansion,
+China’s credit profile has stabilized recently, as tighter
+financial controls and a rebound in nominal growth helped
+stunt a rise in corporate liabilities—the crux of China’s
+debt fears (see Figure I-13). Although this bodes well
+for China’s medium-term goal of maintaining financial
+stability, we are conscious of the negative impact it
+will have on growth in the near term. Alongside tighter
+property regulations and supply-side adjustments, the
+financial tightening is likely to cause China to decelerate
+modestly in 2018, reaching about 6.0%–6.5%.
+Nonetheless, the chance of a significant deceleration
+in the near term—that is, a hard-landing scenario—
+is low for several reasons.
+First, the oversupply and overcapacity drags in the real
+estate and heavy industrial sectors, which have weighed
+on China’s investment growth for years, are likely to
+be less intense going forward. In the property market,
+for example, a combination of strong demand and a
+sharp contraction in investment from the middle of 2013
+to 2015 has reduced the extent of inventory overhang
+(see Figure I-14a). Additionally, it appears that the peak
+of the industrial capacity reduction is behind us.
+Figure I-13. China’s debt-to-GDP ratio has stabilized
+on financial tightening and better growth
+16
+tbed
+laicos
+latoT
+PDG
+fo
+egatnecrep
+a
+sa
+300%
+250
+200
+150
+100
+50
+0
+2007 2009 2013 2016 1Q 2017 2Q 2017
+Government debt
+Household debt
+Corporate debt
+Source: Vanguard, using data from the People’s Bank of China (PBoC)
+and the National Bureau of Statistics of China (NBS).
+)htnom(
+selas/yrotnevnI
+Figure I-14a. Rapid destocking has taken place
+in smaller cities
+35
+30
+25
+20
+15
+10
+5
+0
+2012 2013 2014 2015 2016 2017
+Tier 1 cities average
+Tier 2 cities average
+Tier 3 cities average
+Source: Vanguard, using data from CEIC.
+Figure I-14b. The peak of industrial capacity reduction
+has passed
+)snoillim(
+snot—yticapac
+latoT
+As Figure I-14b illustrates, in the last 18 months,
+50% of the five-year capacity reduction target has
+been achieved in the coal sector, and nearly 90%
+has been achieved in the steel sector.
+50% of 800M-ton
+target achieved
+6,000 5,700
+5,299
+4,900 5,000
+4,000
+89% of 140M-ton
+3,000 target achieved
+2,000
+1,200 1,076 1,060
+1,000
+0
+Steel Coal
+2015
+Mid-2017
+2020 target
+Source: Vanguard, using data from NBS.
+
+--- PAGE 17 ---
+Reform Target Progress
+Source: Vanguard.
+17
+ytiroirP
+Overcapacity and Improve the quality of growth by reducing excess Supply-side reforms have played a key role
+environmental capacity and highly polluting investment. in reducing overcapacity.
+protection
+Financial Foster development of domestic capital markets A proposal for a registration-based IPO system
+and improve the resilience of the financial system. was recently approved; regulation and financial
+tightening have restricted shadow banking activity.
+Fiscal Redefine central/local government responsibilities “Lifelong accountability” for local government officials
+and centralize spending on basic pension and will help control financial risk.
+public security.
+State-owned Finish restructuring and deleverage. Trials are ongoing in mergers and acquisitions and
+enterprises mixed ownership, but nonperforming loan disclosure
+(SOEs) is still low as banks support SOE debt rollover.
+Urbanization Loosen household registration restrictions Quality lags quantitative improvement: Most
+and even out the urbanization process. new urban residents are still not legally allowed
+to access services.
+Service sector Lower entry barriers to introduce competition. Barriers are lower, but further deregulation
+is needed for fair competition.
+Capital account Achieve IMF classification of capital account Special Drawing Right inclusion, stock and bond
+transactions, expand cross-border portfolio investment connection, a Shanghai free-trade zone, a wider yuan
+schemes, and relax rules on cross-border financing. daily trading band, and one-way asymmetric capital
+account liberalization have been implemented. More
+must be done to allow two-way capital flows.
+hgiH
+woL
+Second, Chinese policymakers possess the toolkit and Our worry lies in the longer term. While many market
+flexibility to cushion downturns. Policymakers remain observers are concerned that aggressive pursuit of
+in a “fight and retreat” mode, with the recent easing economic and financial reforms could trigger a hard
+of capital outflow pressures temporarily providing them landing, overly focusing on near-term growth stability
+with some operational independence to achieve this without instituting necessary market reforms to correct
+internal objective. While Fed normalization in 2018 distortion in resource allocation will eventually lead to
+could trigger renewed capital outflow pressure, the further slowdown in productivity growth.
+tighter enforcement of capital flow management
+measures could limit the negative feedback loop On that front, it is encouraging that President Xi Jinping,
+between a weakening currency and capital outflows. during his political report in the 19th National Party
+Congress, prioritized the quality of growth over the
+Third, positive developments in the transformation speed. This suggests that policymakers could have
+of China’s growth model could mitigate downside a slightly higher tolerance for a lower growth rate in
+pressures coming from a slowdown in fixed investment coming years. In Figure I-15, we explore the areas in
+and the highly leveraged industrial sector. Growth which policymakers will most likely focus their reform
+in household consumption remains resilient and efforts. The key will be to relax government control to
+has outpaced that of investment and exports. With allow market forces to play a bigger role in the economy
+disposable income growing faster than headline and address the inefficiencies created by state-owned
+GDP growth, Chinese consumers have experienced enterprises (SOEs). Whether China can successfully
+a consumption upgrade, which, in turn, has provided transition to a productivity-led growth model will
+a boost to the tertiary sector even as the secondary ultimately shape its future as a global growth driver
+industrial sector has dwindled in recent years. or as the next Japan.
+Figure I-15. Priority and progress of structural reforms to date
+
+--- PAGE 18 ---
+Japan: Rising with the tide … for now Wage inflation remains anemic, though, and skepticism
+about Japan’s reflation efforts still runs deep. In our
+After nearly two decades of low growth and persistent
+view, this partly reflects the recent rise in labor supply
+deflation, Japan’s economy is showing signs of recovery.
+and the shift in workforce composition toward low-
+Unlike in other developed countries where monetary
+income part-time workers. In particular, the recent
+easing has partly succeeded in shoring up private
+increase in labor supply is largely concentrated in two
+demand, Japan’s latest expansion cycle has come
+population segments, namely women and the elderly;
+primarily from an acceleration in the export cycle and a
+both tend to work part-time jobs and therefore earn only
+mildly expansionary fiscal policy, while household and
+a third to half of that of a full-time employee.
+business spending remains modest (see Figure I-16).
+As demographic headwinds begin to bite, the labor market
+In 2018, we expect the recovery to become more
+in Japan could tighten further and lead to an acceleration
+broad-based, as rising confidence, a gradual increase
+in part-time wages (see Figure I-17). Together with a
+in real wages, and solid profitability leave room for
+widening positive output gap and weakening currency,
+domestic demand to pick up in coming quarters. Although
+core inflation is likely to pick up gradually toward 1% in
+this is unlikely to fully offset the drag from the fading
+2018. However, without further progress in labor market
+2016 fiscal stimulus, the more diversified pool of growth
+reforms and an acceleration in full-time wages, Japan
+drivers suggests Japan is likely to record another year of
+is unlikely to achieve and sustain its 2% inflation target
+above-trend growth in 2018.
+in the near term.
+The cyclical upturn is likely to lead to a further tightening
+Against this backdrop, the Bank of Japan, unlike most
+in labor market conditions. In fact, Japan’s market is
+developed central banks, is expected to maintain easy
+already as tight as it was during the early to mid-1990s,
+policy, anchoring the country’s 10-year government
+with the unemployment rate at the lower bound of its
+bond yield at about 0% in 2018. By targeting price over
+3%–3.5% natural rate.
+quantity, however, the Bank of Japan has effectively
+started to taper its asset purchases (see Figure I-18).
+It should be clear, though, that this is not an attempt
+Figure I-16. Expansion has yet to extend into private
+to reverse stimulus but rather an indirect consequence
+demand in Japan
+of moving the policy goalposts.
+Importantly, monetary policy alone cannot lift up Japan’s
+long-term growth potential, which ultimately influences
+wage-setting and business investment decisions. More
+structural reforms, from equalizing the wage gap between
+full- and part-timers to raising medium-term growth and
+inflation expectations, are needed to improve the
+effectiveness of such cyclical policies.
+With Prime Minister Shinzo Abe securing a solid mandate
+in the October 2017 snap election and expected to stay
+in power until 2021, Japan’s future now depends on
+whether Abe focuses his political capital on economic
+reforms to lift productivity and long-term growth potential.
+18
+PDG
+ot
+noitubirtnoc
+fo
+erahS
+7102
+Q2–6102
+Q1
+,htworg
+200%
+150
+100
+50
+0
+–50
+–100
+Japan United Euro United
+States area Kingdom
+Private consumption
+Private investment
+Public spending
+Net exports
+Source: Vanguard, using data from Thomson Reuters Datastream.
+
+--- PAGE 19 ---
+Figure I-17. Part-time wages to accelerate, although
+full-time wage growth remains subdued
+19
+egnahc
+egatnecrep
+raey-revo-raeY
+Figure I-18. The Bank of Japan’s ‘tapering’
+is not ‘tightening’
+Change in Bank of Japan holdings
+3.5%
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+–0.5
+–1.0
+2008 2010 2012 2014 2016
+Scheduled cash earnings (full-time)
+Hourly scheduled cash earnings (part-time)
+Source: Vanguard, using data from the Ministry of Health, Labour and Welfare.
+)noillirt(
+ney
+esenapaJ
+$100
+80
+60
+40
+20
+0
+–20
+–40
+2002 2005 2008 2011 2014 2017
+Year-over-year increase
+Annualized three-month change
+Source: Vanguard, using data from CEIC.
+Europe: A brighter horizon Figure I-19. Anti-euro sentiment: Is the tide turning?
+In the context of an increasingly synchronized global
+Percentage of population in favor of a single
+recovery, the outlook for the euro-area economy over
+currency—the euro
+the next 12 months is as bright as it has been since
+the 2008–2009 financial crisis. After years of recession,
+crises, and political uncertainty, the clouds are starting
+Ireland
+to clear. This is not to say that all the underlying issues
+have been resolved. Nonetheless, all countries are Spain
+growing again, and unemployment is steadily falling.
+Austria
+We anticipate that growth in the euro area will be just Germany
+below 2% in 2018, with risks tilted to the upside for the
+Netherlands
+first time since the 2008–2009 crisis. Political risk, in the
+Euro area
+form of a rise in anti-European Union parties, was
+dominant during 2017. The risk has not disappeared, Greece
+but it has diminished (see Figure I-19).
+France
+In the United Kingdom, by contrast, the economic Italy
+outlook is much more uncertain given the lack of clarity
+0 20 40 60 80 100%
+over Brexit. Our base case is for growth in the 1.5%–
+2.5% range. Ultimately, the major effects of Brexit 2016
+2013
+will be felt only once the country actually leaves the
+Source: Eurobarometer.
+
+--- PAGE 20 ---
+Figure I-21a. Underemployment is still very high
+in the euro area
+4
+2
+0
+–2
+–4
+–6
+–8
+United Germany Japan Euro United
+States area Kingdom
+20
+-rednu
+fo
+serusaem
+daorB
+tniop-egatnecrep(
+tnemyolpme
+)wol
+sisirc-erp
+morf
+ecnereffid
+0%
+–5
+–10
+–15
+–20
+–25
+–30
+Source: Capital Economics.
+ecnis
+ytisned
+noinu
+edart
+ni
+egnahC
+)seeyolpme
+fo
+egatnecrep(
+0891
+European Union (EU), which won’t happen until 2019 and of this was caused by rising import prices prompted by the
+possibly later if a transition is agreed to. We anticipate falling value of sterling. Abstracting from that, domestically
+four possible exit scenarios (see Figure I-20). We still generated inflation in the United Kingdom has similarly
+believe that no Brexit is a possible outcome, with roughly been more subdued than expected.
+a 10% probability.3
+As with other developed economies, this inflation puzzle
+Despite the positive growth picture, euro-area core inflation has a number of potential explanations:
+has remained stubbornly low, at 1.2%. The U.K. situation
+• Measured unemployment possibly disguising
+looks different superficially, given that U.K. Consumer Price
+underemployment of workers (see Figure I-21a).
+Index inflation, at 3%, is about 1% above target, but much
+• Decreasing bargaining power of labor because of
+continued declines in unionization (see Figure I-21b).
+Figure I-20. Four Brexit scenarios
+• Increasing influence of global rather than local
+measures of slack (globalization).
+Our probabilities
+• New technology reducing production costs
+35% Crash Brexit and putting downward pressure on profit margins.
+The U.K. fails to reach a deal and effectively falls out of the EU with
+no backstop. The U.K. moves to World Trade Organization rules. Notwithstanding these influences, which are leading the
+inflation response to be slower than in previous upturns,
+35% Hard Brexit
+our view is that inflation will eventually reawaken as
+The U.K. leaves the EU Single Market and the Customs Union
+unemployment continues to fall toward the equilibrium
+and reintroduces immigration controls.
+rate, which is assumed to be 8.5%–9% in the euro area
+20% Soft Brexit and as low as 4% in the United Kingdom.
+The U.K. joins the European Economic Area and retains access
+to the EU Single Market and the Customs Union. Given this environment of gradually tightening product
+and labor markets in the euro area, we expect the
+10% No Brexit European Central Bank, under our base-case scenario,
+Article 50 is revoked and Brexit does not take place.
+Source: Vanguard.
+Figure I-21b: Trade union membership has declined
+across developed markets
+France Canada Japan United United Italy Germany
+States Kingdom
+Source: Macrobond.
+3 Recent surveys suggest that 45% of Britons think the country was wrong to vote to leave the EU, versus 42% who think it was right. Reversing the decision
+would certainly be difficult, but it cannot be ruled out.
+
+--- PAGE 21 ---
+Figure I-22. Economic growth prospects
+21
+htworg
+PDG
+laer
+ni
+egnahc
+tniop
+egatnecrep
+egarevA
+to terminate its asset purchases at the end of 2018, slightly Emerging markets: A varied outlook
+beyond the ECB’s existing commitment to purchase
+Growth in emerging markets in aggregate is expected
+assets until September 2018. We do not anticipate rate
+to be 4.9% in 2018, in line with a lower structural trend
+increases until at least 2019, and possibly not until the
+post-GFC. We maintain that emerging markets are unlikely
+next decade, given the ECB’s commitment to keep rates
+to go back to the pre-recession levels of economic growth.
+on hold until well past the end of its quantitative easing.
+However, the emerging-market grouping hides vast
+In the United Kingdom, given Brexit uncertainty, the policy
+heterogeneity across regions and countries (see
+outlook for the Bank of England over the coming years
+Figure I-22). In Latin America, growth will continue
+is challenging. The U.K. recovery has continued since the
+improving in 2018, but it will remain below potential
+2016 Brexit referendum, with unemployment falling to
+trend levels for the region over the medium term.
+a 42-year low, although estimates of trend productivity
+Forecasts for emerging Asia remain robust, with
+growth have been revised down, partly because of the
+an average growth rate of 6.2% for 2018–2022.
+weakness of the supply side since the financial crisis and,
+looking forward, because of the likely shock to productive
+The main risks for emerging markets are externally based;
+potential caused by Brexit. And headline inflation has been
+the most notable are the impact of a slowing China on
+pushed well above target by the sharp fall in sterling
+world commodity markets and a potential faster pace
+following the EU referendum. For these reasons, the Bank
+of monetary policy normalization in the United States and
+of England has now removed the emergency rate hike
+other developed economies. In particular, central banks
+made in the summer of 2016 and signaled that rates may
+in emerging markets will be alert to any news coming out
+need to rise further, albeit gradually.
+of the U.S. Federal Reserve, which could create disruptions
+in foreign exchange and domestic financial markets.
+Corporate leverage also poses a key risk, since it has
+increased continuously since the GFC, with high levels
+of debt issuance in hard currencies (U.S. dollars or
+euros). Sudden movement of the U.S. dollar could
+severely damage the balance sheets of local corporations.
+10
+Emerging markets BRICS nations
+India
+Emerging Asia China
+8 7.88
+7.10
+6.68 7.14
+6 6.44 Emerging 6.16
+Europe
+4.22 Latin
+4 America
+3.28 South
+Brazil Africa
+2.46 Russia 1.86
+2 1.90
+1.52 1.30
+0.90
+0.26
+0
+–0.64
+–2
+2013–2017
+2018–2022
+Source: IMF World Economic Outlook.
+
+--- PAGE 22 ---
+II. Global capital markets Equity valuations and Vanguard’s “fair value” CAPE
+As discussed in a new Vanguard Global Macro Matters
+outlook
+piece titled As U.S. Stock Prices Rise, the Risk-Return
+Trade-Off Gets Tricky, price/earnings ratios—including
+Robert Shiller’s cyclically adjusted P/E ratio (CAPE)—are at
+Vanguard’s outlook for global stocks and bonds is subdued alarming levels. The current CAPE level corresponds to the
+at best given stretched equity valuations and low interest 95th percentile of its historical range of values, approaching
+rates. Downside risks are particularly elevated in the highs seen during the dot-com era. However, a straight
+equity market. Although we are hard-pressed to find comparison of CAPE (and any other valuation multiple) with
+compelling evidence of financial bubbles, risk premiums its historical average can be misleading, failing to account
+for many asset classes appear slim. for today’s low inflation and interest rates.
+The market’s efficient frontier of expected returns for Because a secular decline in interest rates and inflation
+a unit of portfolio risk now hovers in a lower orbit. More depresses the discount rates used in asset-pricing
+important, common return-centric portfolio tilts, seeking models, investors are willing to pay a higher price for
+higher return or yield, are unlikely to escape the strong future earnings, thus inflating P/E ratios. Therefore, a
+gravitational pull of low-return forces in play. high CAPE may not be indicating overvalued stock prices,
+but rather may be an outcome of low interest rates.
+Global equity markets: Higher risk, lower return
+Vanguard’s fair-value CAPE accounts for current interest
+Global equity has rewarded patient investors with rates and inflation levels and provides a more useful
+a 15.5% annualized return over the 8½ years since time-varying benchmark against which the traditional
+the lows of the financial crisis. As part of this strong CAPE ratio can be compared, instead of the popular
+performance, valuations have risen gradually. For instance, use of historical average benchmarks.
+valuations in the United States and in emerging markets
+currently appear stretched relative to our proprietary fair- Figure II-1a plots Shiller’s CAPE versus our fair-value
+value benchmark, making our global equity outlook model. For instance, in the late 1990s, the difference
+highly guarded. between CAPE and our fair-value estimate would have
+suggested a bubble. Today, although CAPE is approaching
+The ten-year outlook for global equities has deteriorated historical highs, it is not grossly overvalued, as it would be
+since last year and is now centered in the 4.5%–6.5% in a bubble, when compared with its fair value.
+range, based on our Vanguard Capital Markets Model®
+(VCMM) projections. Expected returns for the U.S. stock We have extended this fair-value concept to other
+market are lower than those for international markets, regions. As illustrated in Figure II-1b, our equity valuation
+underscoring the benefits of global equity strategies in dashboard indicates that non-U.S. developed markets are
+this environment. fairly valued, even after adjusting valuations for rates and
+inflation. For emerging markets, it is important to note
+that their stocks typically trade at lower multiples than
+stocks in developed markets because of the higher risk
+and higher earning yields required by investors. Even
+after adjusting for higher risk, emerging markets are
+above their fair-value levels and slightly overvalued.
+22
+
+--- PAGE 23 ---
+Figure II-1. Divergence in global equity valuations
+a. CAPE for the U.S. S&P 500 Index is approaching b. Other developed markets appear
+overvalued territory to be fairly priced
+50
+40
+30
+20
+10
+0
+CAPE
+Fair-value CAPE +/–0.5 standard error
+23
+detsujda
+yllacilcyC
+oitar
+sgninrae-ot-ecirp
+Overvalued,
+maybe, but not
+Dot-com a bubble
+bubble
+1950 1960 1970 1980 1990 2000 2010
+Notes: Fair-value CAPE is based on a statistical model that corrects CAPE measures
+for the level of inflation expectations and for lower interest rates. The statistical
+model specification is a three-variable vector error correction (VEC), including
+equity-earnings yields, ten-year trailing inflation, and ten-year U.S. Treasury yields
+estimated over the period January 1940–September 2017.
+Source: Vanguard calculations, based on data from Robert Shiller Online Data,
+the U.S. Bureau of Labor Statistics, and the Federal Reserve Board.
+elitnecrep
+noitaulaV
+eulav
+riaf
+ot
+evitaler
+100%
+Emerging markets 80 United States
+60
+Ex-U.S. developed markets
+40
+20
+0
+Equity markets
+Stretched
+Fairly valued
+Undervalued
+Notes: The U.S. valuation measure is the current CAPE percentile relative to
+fair-value CAPE for the S&P 500 Index estimated over the period January 1940 to
+September 2017. The developed markets valuation measure is the weighted average
+of each region’s (Australia, United Kingdom, Euro-area, Japan, and Canada) current
+CAPE percentile relative to each region’s own fair-value CAPE. The fair value CAPE
+for Australia, the U.K., the Euro area, Japan, and Canada is a five variable vector
+error correction (VEC) model with equity earnings yield (MSCI index), ten-year
+trailing inflation, ten-year government bond yield, equity volatility, and bond volatility
+estimated over the period January 1970 to September 2017. The emerging markets
+valuation measure is a composite valuation measure of EM to U.S. relative valuations
+and current U.S. CAPE percentile relative to its fair value CAPE. The relative valuation
+is the current ratio of EM to U.S. P/E metrics relative to its historical average, using
+three-year trailing average earnings from January 1990 to September 2017.
+Source: Vanguard calculations, based on data from Robert Shiller Online Data,
+the U.S. Bureau of Labor Statistics, the Federal Reserve Board, and Thomson
+Reuters Datastream.
+
+--- PAGE 24 ---
+Global equities and the diversification of domestic risks valuation expansion proved to be a tailwind to returns
+As shown in Figure II-2, our expected return outlook over those 30 years, we expect valuations to contract
+for U.S. equities over the next decade is centered in the as interest rates gradually rise over the next decade.
+3%–5% range, in stark contrast to the 10% annualized The expected equity risk premium (over cash) for the
+return generated over the last 30 years. Although U.S. market appears compressed, primarily because
+of elevated valuations today.
+Figure II-2. The outlook for equity markets is subdued From a U.S. investor’s perspective, the expected
+return outlook for non-U.S. equity markets is in the
+a. Exposure to non-U.S. equities may be beneficial 5.5%–7.5% range, modestly higher than that of
+U.S. equity (see Figures II-2a and b). The equity
+risk premium for non-U.S. equity markets, however,
+may be slightly higher going forward, as the valuation
+contraction may not be as drastic as that experienced
+over the last three decades.
+This result is a function of the currently moderate level of
+valuations as well as long-term expectations for the U.S.
+dollar decline priced in by the markets, especially with
+respect to other major currencies such as the euro and yen.
+Our ten-year outlook for global equity is in the 4.5%–
+6.5% range, as seen in Figure II-2b. While the case for
+global diversification is particularly strong now, for the
+purposes of asset allocation, we caution investors
+against implementing tactical tilts based on just the
+median expected return—that is, ignoring the entire
+distribution of asset returns and their correlations.
+24
+nruter
+dezilaunnA
+12% U.S. equity Global ex-U.S.
+equity in U.S. dollars
+8
+4
+0
+–4
+Last 30 years Next 10 years Last 30 years Next 10 years
+Equity risk premium
+Cash return
+Valuation expansion/contraction (%)
+Notes: Data for the last 30 years are from January 1987–December 2016, in U.S.
+dollars. Next-ten-year data are based on the median of 10,000 simulations from
+VCMM as of September 30, 2017, in U.S. dollars. Historical returns are computed
+using indexes defined in “Indexes used in our historical calculations” on page 5.
+Historical cash returns are from Dimson-Marsh-Staunton data. See Appendix section
+“Index simulations” for further details on the asset classes shown.
+Sources: Vanguard, Dimson-Marsh-Staunton Dataset, FactSet, Morningstar Direct,
+and Thomson Reuters Datastream.
+b. Equity market ten-year return outlook: Setting reasonable expectations
+Median
+volatility (%)
+Percentile key
+50%
+U.S. equities Cumulative 25% 75%
+probability of
+lower return 5% 95%
+Percentiles
+Global equities
+Inflation
+–5 0 5 10 15%
+Ten-year annualized return
+5th 25th Median 75th 95th
+U.S. REITs 18.9
+17.1
+Global equities ex-U.S.
+16.3
+(unhedged)
+15.7
+2.4
+Notes: This forecast corresponds to the distribution of 10,000 VCMM simulations for ten-year annualized nominal returns as of September 30, 2017, in U.S. dollars. Median volatility is
+the 50th percentile of an asset class’s distribution of annual standardized deviation of returns. See Appendix section “Index simulations” for further details on the asset classes shown.
+Source: Vanguard.
+
+--- PAGE 25 ---
+Figure II-3. Rates and risk premiums add up to modest returns
+Median
+volatility (%)
+U.S. high-yield bonds
+U.S. TIPS Percentile key
+50%
+U.S. credit bonds Cumulative
+25% 75%
+probability of
+U.S. bonds lower return 5% 95%
+U.S. Treasury bonds
+Percentiles
+Non-U.S. bonds (hedged)
+Inflation
+Cash
+–2 0 2 4 6%
+Ten-year annualized return
+25
+5th 25th Median 75th 95th
+Global fixed income markets: Positive but muted Figure II-4. Frothy credit valuations
+The return forecast for global fixed income is positive but
+muted, given our long-term outlook of restrained growth and
+inflation, as outlined in Section I. As shown in Figure ll-3,
+it is in the 2%–3% range for the next decade, slightly
+higher than projected at this time last year. Expected
+returns for many fixed income sub-asset classes appear
+more similar than differentiated compared with previous
+years, in part because of compressed credit spreads (see
+Figure ll-4). Elevated equity market risk points to credit
+risk being higher than duration risk in this environment.
+U.S. interest rates: A slightly higher, slightly flatter Bond markets
+yield curve
+Despite the risk of a short-term acceleration in the pace
+of monetary policy normalization, the risk of a material rise
+in long-term interest rates remains modest. For example,
+our fair-value estimate for the benchmark 10-year U.S.
+Treasury yield remains centered near 2.5% in 2018. As
+illustrated in Figure II-4, duration strategies are less risky
+than investors may believe in a rising rate environment.
+This is because we expect the short end of the curve to
+rise more than the long end over the next decade, as the
+long rates are anchored by inflation expectations.
+11.4
+7.7
+6.5
+5.2
+5.1
+3.8
+2.4
+1.3
+Notes: This forecast corresponds to the distribution of 10,000 VCMM simulations for ten-year annualized nominal returns as of September 30, 2017, in U.S. dollars. Median volatility is
+the 50th percentile of an asset class’s distribution of annual standardized deviation of returns. See Appendix section “Index simulations” for further details on the asset classes shown.
+Source: Vanguard.
+elitnecrep
+noitaulaV
+100
+80 Intermediate credit
+U.S. aggregate bonds
+60
+Duration strategy
+40 TIPS
+20
+0
+Stretched
+Fairly valued
+Undervalued
+Notes: Valuation percentiles are relative to 30-year VCMM projections. Intermediate
+credit and U.S. aggregate bond valuations are current credit spreads relative to
+Year 30. Duration valuation is the expected return differential over the next decade
+between the long-term Treasury index and short-term Treasury index, relative to
+that of Years 21–30. TIPS valuation is the ten-year-ahead annualized inflation
+expectation relative to Years 21–30.
+Source: Vanguard.
+
+--- PAGE 26 ---
+Corporate bonds: Less upside than before Yields in most developed markets are historically low,
+The central tendency for U.S. credit bonds (specifically, particularly in Europe and Japan, yet diversification
+the Bloomberg Barclays U.S. Credit Bond Index) is through exposure to hedged non-U.S. bonds should help
+in the 2.5%–3.5% range, slightly higher than for Treasury offset some risk specific to the U.S. fixed income market
+bonds. The premium, however, has been narrowed (Philips et al., 2014).
+relative to last year, because of compressed spreads
+that indicate froth in the credit markets (Figure II-4). Less-than-perfect correlation between two of the main
+Historically, spreads tend to widen in times of equity drivers of bond returns—interest rates and inflation—
+market stress, resulting in capital losses for credit bonds. is expected as global central bank policies are likely to
+diverge in the near term. Diversification with non-U.S.
+The central tendency for high-yield corporate bonds bonds also helps to mitigate the risk of a policy mistake
+(specifically, the Bloomberg Barclays U.S. High Yield by central banks.
+Corporate Bond Index) is in the 2.5%–4.5% range, lower
+than projected at this time last year because of compressed
+Portfolio implications: A low return orbit
+spreads. We urge investors to be cautious in reaching for
+yield in segments such as high-yield corporates, not only Investors have experienced spectacular returns over the
+because of the higher expected volatility that accompanies last few decades because of two of the strongest equity
+the higher yield, but also because of the segment’s bull markets in U.S. history in addition to a secular decline
+correlation to the equity markets. in interest rates from 1980s highs. Figure II-5a contrasts
+our 3.5%–5.5% outlook for a global 60% equity/40% bond
+As shown in Figure II-5, a 20% overweight or tilt to portfolio for the next decade against the extraordinary
+high-yield corporates increases a portfolio’s volatility 9.5% return since 1970 and 7.4% since 1990. As
+excessively relative to a marginal increase in return. The highlighted in previous sections, elevated equity valuations,
+sensitivity of spreads to the economic environment is low rates, and compressed spreads have pulled the
+much larger for high-yield corporate bonds than for market’s efficient frontier of expected returns into a lower
+higher-quality segments of the U.S. fixed income market, orbit. The efficient frontier is also flatter (that is, with
+which also contributes to an increased investment risk. less return per unit of risk), as seen from the return and
+volatility expectations of balanced portfolios, as shown
+Treasury Inflation-Protected Securities (TIPS): in Figure II-5c.
+Markets don’t see inflation coming
+To try to increase portfolio returns, a popular strategy
+Break-even inflation expectations inferred from the U.S.
+is to overweight higher-expected-return assets or higher-
+TIPS market remain below the Fed’s 2% inflation target
+yield assets. A few common “reach for yield” strategies
+and slightly lower than the VCMM long-term median
+include overweighting real estate investment trusts
+levels. Markets are placing extremely low odds for higher
+(REITs) and high-yield corporates. Similarly, “reach for
+inflation outcomes. While not attractive in terms of return,
+return” strategies involve tilting the portfolio toward
+TIPS could be a valuable inflation hedge for some
+emerging markets equities to take advantage of higher
+institutions and investors sensitive to inflation risk.
+growth prospects. Home bias leads some to shy away
+from non-U.S. equities.
+Domestic versus international:
+Benefits of diversification remain
+Figure II-5b illustrates that these common return-centric
+Although the central tendency of expected return for strategies are unlikely, by themselves, to restore portfolios
+non-U.S. aggregate bonds appears to be marginally lower to the higher orbits of historical returns.
+than that of U.S. aggregate bonds (Figure II-3), we expect
+the diversification benefits of global fixed income in
+a balanced portfolio to persist under most scenarios.
+26
+
+--- PAGE 27 ---
+27
+nruter
+dezilaunnA
+10%
+9
+8
+7
+6
+5
+4
+3
+8 9 10 11 12%
+Volatility Volatility
+nruter
+dezilaunna
+raey-neT
+Figure II-5. Asset allocation for a challenging decade
+a. A lower return orbit … b. … that popular “active tilts”
+will likely fail to escape
+10%
+1970 – present
+9
+8
+1990 – present
+7
+6
+5 High-yield tilt
+Next decade Emerging markets
+TIPS
+equity tilt
+tilt
+4
+U.S.
+intermediate 60/40 without
+credit tilt ex-U.S. equity
+3
+8 9 10 11 12%
+Global 60% equity / 40% bond portfolio
+c. Projected ten-year annualized nominal returns as of September 2017
+5th 25th 75th 95th Median Risk-adjusted
+Portfolios percentile percentile Median percentile percentile volatility return
+100% bonds 1.3% 2.0% 2.6% 3.3% 4.3% 4.5% 0.59
+Global 20/80 stock/bond 1.8% 2.7% 3.3% 4.0% 5.1% 4.2% 0.80
+balanced 60/40 stock/bond 1.3% 3.2% 4.5% 5.8% 7.8% 9.2% 0.48
+portfolios 80/20 stock/bond 0.7% 3.2% 4.9% 6.6% 9.1% 12.4% 0.39
+100% equity 0.0% 3.0% 5.2% 7.2% 10.5% 15.7% 0.32
+60/40 stock/bond 1.3% 3.2% 4.5% 5.8% 7.8% 9.2% 0.48
+Portfolios High-yield tilt 1.4% 3.4% 4.7% 6.0% 8.0% 10.1% 0.46
+with common Inflation protection tilt 1.3% 3.1% 4.4% 5.7% 7.7% 9.1% 0.48
+20% tilts Emerging markets equity tilt 1.4% 3.3% 4.6% 5.9% 7.9% 10.4% 0.44
+relative to 60/40 U.S. intermediate credit tilt 1.4% 3.3% 4.6% 5.9% 7.9% 9.3% 0.48
+stock/bond
+60/40 without ex-U.S. equity 0.1% 2.4% 3.9% 5.6% 8.0% 10.1% 0.38
+■ L ower risk-
+adjusted return
+■ S ame or higher
+risk-adjusted
+return
+Notes: Summary statistics of 10,000 VCMM simulations for projected ten-year annualized nominal returns are as of September 2017 in U.S. dollars before costs. Historical returns
+are computed using indexes defined in “Indexes used in our historical calculations” on page 5. The global equity portfolio is 60% U.S. equity and 40% global ex-U.S. equity. The
+global bond portfolio is 70% U.S. bonds and 30% global ex-U.S. bonds. Portfolios with tilts include a 20% tilt to the asset specified funded from the fixed income allocation for
+the fixed income tilt and the equity allocation for the equity tilt.
+Source: Vanguard.
+
+--- PAGE 28 ---
+Portfolio strategies for three potential economic scenarios
+Based on our global economic perspective on the Using our VCMM simulations, we can not only illustrate the
+cyclically rising risks to inflation and policy normalization effectiveness of various portfolio strategies designed for
+imposed by tight global labor markets, we examine in each scenario but also show the risks of such strategies.
+Figure II-6 three possible economic scenarios occurring The following conclusions can be drawn from our analysis:
+over the next three years. The high-growth scenario
+illustrates an upside risk scenario of sustained economic 1. Portfolios designed for specific macroeconomic
+growth with a tighter labor market and a moderate scenarios entail important trade-offs: If the scenario
+pickup in wages and inflation. The two others are a for which the portfolio was designed does not take
+status quo scenario driven by continued low volatility place, then the portfolio performance is the worst
+with positive financial conditions and a recessionary of all the options.
+scenario caused by a turn in the business cycle and
+a correction in the equity markets. 2. A balanced portfolio works well for investors
+who are agnostic about the future state of the
+Figure II-6 shows optimal portfolios for each scenario economy: The 60/40 balanced portfolio is an
+that vary their exposures to the following four risk “all-weather” strategy, with either top or middle-
+premiums: (1) equity-risk premium, (2) term premium, of-the-road performance in each scenario.
+(3) credit premium, and (4) inflation-risk premium. In
+a high-growth scenario, expected global equity returns 3. Portfolio tilts should be done within a mean-variance
+would be high, causing the efficient frontier to be optimization framework: Ad hoc tilts ignore correlations
+steep. Long and short rates would also rise faster among assets and lead to inefficient portfolios. For
+than expected, resulting in an optimal portfolio loading instance, in a recession-scenario strategy, equities can
+on equity and short duration. be overweighted (as opposed to underweighted) because
+of the added diversification benefits of long-term bonds.
+A recessionary-scenario portfolio would underweight
+equity and overweight long duration. Surprisingly, the
+allocation to U.S. equity remains rather large, as the
+portfolio that is also heavy on long-term Treasuries
+derives a larger diversification benefit from lower-
+returning U.S. equity (especially in a recession) than
+from including higher-returning non-U.S. equity assets.
+The portfolio strategy in a status quo scenario
+is well diversified.
+28
+
+--- PAGE 29 ---
+a. Mean-variance Scenario 1 Scenario 2 Scenario 3
+optimal portfolios Status quo/baseline Recession High growth
+vary for different (50% probability) (19% probability) (31% probability)
+economic
+Diversified Overweight long duration Overweight equity
+environments
+portfolio and underweight equity and short duration
+b. A diversified
+portfolio is not
+always the best, but
+it’s never the worst
+29
+nruter
+dezilaunna
+naideM
+Figure II-6. Cyclical surprises and asset allocation trade-offs
+36% U.S. equity 46% U.S. equity 46% U.S. equity
+24% Global ex-U.S. equity 4% Global ex-U.S. equity 28% Global ex-U.S. equity
+10% Global ex-U.S. bonds 4% Global ex-U.S. bonds 6% Global ex-U.S. bonds
+10% Short-term credit 0% Short-term credit 6% Short-term credit
+10% Short-term Treasury 0% Short-term Treasury 14% Short-term Treasury
+10% Long-term Treasury 46% Long-term Treasury 0% Long-term Treasury
+0% Short-term TIPS 0% Short-term TIPS 0% Short-term TIPS
+6%
+4
+2
+0
+4 6 8 10% 10 12 14 16% 6 8 10%
+Median volatility
+Diversified Overweight long duration Overweight equity
+Best
+portfolio and underweight equity and short duration
+Overweight equity Diversified Diversified
+Second-best
+and short duration portfolio portfolio
+Overweight long duration Overweight equity Overweight long duration
+Worst
+and underweight equity and short duration and underweight equity
+c. P ortfolios designed
+Strategy upside relative 1.3% higher annualized 1.4% higher annualized
+for a single scenario to balanced portfolio return with 1.4% lower return with 1.9% higher
+volatility in a recessionary volatility in a high-growth
+are tempting but can
+scenario scenario
+be risky
+Strategy downside relative 2.6% lower annualized Same return with 2.7%
+to balanced portfolio return with 0.7% lower higher volatility in a
+volatility in a high-growth recessionary scenario
+scenario
+Notes: Performance is relative to the efficient frontier. Portfolios are selected from the frontier based on a fixed risk-aversion level. The forecast displays simulations of three-year
+annualized returns as of September 2017. Scenarios are based on sorting the VCMM simulations by rates, growth, volatility, and equity return. The three scenarios are a subset of
+the 10,000 VCMM simulations. See Appendix section “Index simulations” for further details on the asset classes shown.
+Source: Vanguard.
+
+--- PAGE 30 ---
+Figure II-7. Taking control
+30
+sseccus
+fo
+ytilibaborp
+no
+tcapmI
+20%
+15 Factors investors can control
+can have a big impact on
+their likelihood of success
+10 Sub-asset-class
+tilts have a
+smaller impact
+5
+0
+Saving Working Spending Investment 10% Higher Credit
+more longer less cost commodity inflation overweight
+protection
+tcapmi
+hgiH
+tcapmi
+woL
+Portfolio construction strategies: Time-tested Our prior research (Aliaga-Díaz, et al., 2016) shows that
+principles apply investment success is within the control of long-term
+Contrary to suggestions that an environment of low rates investors. Figure II-7 illustrates that factors within their
+and compressed equity and credit-risk premiums warrants control—such as saving more, working longer, spending
+some radically new investment strategy, Figure II-5 less, and controlling investment costs—far outweigh the
+reveals that the diversification benefits of global fixed less reliable benefits of ad hoc asset-return-seeking tilts.
+income and global equity are particularly compelling, given Thus, decisions related to saving more, spending less,
+the simulated ranges of portfolio returns and volatility. and controlling costs will be much more important than
+portfolio tilts.
+The market’s efficient frontier of expected returns for
+a unit of portfolio risk now hovers in a lower orbit. More Investment objectives based either on fixed spending
+important, common asset-return-centric portfolio tilts, requirements or on fixed portfolio-return targets may
+seeking higher return or yield, are unlikely to escape the require that investors consciously weigh their options
+strong gravity of low-return forces in play, as they ignore together with their risk-tolerance levels. Ultimately, our
+the benefits of diversification. Modestly outperforming global market outlook suggests a somewhat more
+asset-return-centric tilts requires a portfolio-centric challenging and volatile environment ahead, yet one in
+approach that leverages the benefits of diversification which investors with an appropriate level of discipline,
+by weighing risk, return, and correlation simultaneously. diversification, and patience are likely to be rewarded over
+the long term. Adhering to investment principles such as
+long-term focus, disciplined asset allocation, and periodic
+portfolio rebalancing will be more crucial than ever before.
+Notes: Probability of success is defined as the probability of having a positive balance in a target-date fund at age 95, based on specific savings and spending assumptions.
+Data show the impact of each factor changing from low (the 25th percentile of broad population data) to medium (the 50th percentile). VCMM simulations are as of March 2016.
+Investment cost is the relative impact on the probability of success of a target-date fund with a 50-basis-point higher fee or investment cost. For details, see Vanguard Life-Cycle
+Investing Model: A Framework for Building Target-Date Portfolios (Aliaga-Díaz et al., 2016).
+Source: Vanguard.
+
+--- PAGE 31 ---
+References Federal Open Market Committee, 2017. Economic Projections
+of Federal Reserve Board Members and Federal Reserve Bank
+Aliaga-Díaz, Roger, Harshdeep Ahluwalia, Kevin DiCiurcio,
+Presidents Under Their Individual Assessments of Projected
+Matthew C. Brancato, Scott Donaldson, and David Pakula, 2016.
+Appropriate Monetary Policy. September 2017. Washington,
+Vanguard Life-Cycle Investing Model: A Framework for Building
+D.C.: Board of Governors of the Federal Reserve System.
+Target-Date Portfolios. Valley Forge, Pa.: The Vanguard Group.
+Federal Reserve Bank of Philadelphia, 2017. Third Quarter 2017
+Berry, Stuart, Matthew Corder, Chris Duffy, Christopher Hackworth,
+Survey of Professional Forecasters. August 2017. Philadelphia,
+and Bradley Speigner, 2015. Trends in Labour Supply. Quarterly
+Pa.: Federal Reserve Bank of Philadelphia.
+Bulletin, Q4 2015. London, United Kingdom: Bank of England.
+Haldane, Andrew G., Matt Roberts-Sklar, Tomasz Wieladek,
+Borio, Claudio, and Anna Zabai, 2016. Unconventional
+and Chris Young, 2016. QE: The Story So Far. London, United
+Monetary Policies: A Reappraisal. Basel, Switzerland: Bank
+Kingdom: Bank of England.
+for International Settlements.
+International Monetary Fund, 2017. World Economic Outlook,
+Davis, Joseph H., Roger Aliaga-Díaz, Harshdeep Ahluwalia,
+October 2017: Seeking Sustainable Growth: Short-Term
+Frank Polanco, and Christos Tasopoulos, 2014. Vanguard Global
+Recovery, Long-Term Challenges. Washington, D.C.:
+Capital Markets Model. Valley Forge, Pa.: The Vanguard Group.
+International Monetary Fund.
+Davis, Joseph H., Roger Aliaga-Díaz, Andrew Patterson, and
+Philips, Christopher B., Joseph H. Davis, Andrew J. Patterson,
+Charles J. Thomas, 2014. Vanguard’s Economic and Investment
+and Charles J. Thomas, 2014. Global Fixed Income: Considerations
+Outlook. Valley Forge, Pa.: The Vanguard Group.
+for U.S. Investors. Valley Forge, Pa.: The Vanguard Group.
+Davis, Joseph H., Roger Aliaga-Díaz, Peter Westaway, Qian
+Swanson, Eric T., and John C. Williams, 2013. Measuring the
+Wang, Andrew Patterson, and Harshdeep Ahluwalia, 2015.
+Effect of the Zero Lower Bound on Medium- and Longer-Term
+Vanguard’s Economic and Investment Outlook. Valley Forge,
+Interest Rates. January 2013. San Francisco, California: Federal
+Pa.: The Vanguard Group.
+Reserve Bank of San Francisco.
+Davis, Joseph H., Roger Aliaga-Díaz, Peter Westaway, Qian
+Syron Ferris, Erin E., Soo Jeong Kim, and Bernd Schlusche,
+Wang, Andrew Patterson, and Harshdeep Ahluwalia, 2016. 2017
+2017. Confidence Interval Projections of the Federal Reserve
+Economic and Market Outlook: Stabilization, not Stagnation.
+Balance Sheet and Income. January 2017. Washington, D.C.:
+Valley Forge, Pa.: The Vanguard Group.
+Board of Governors of the Federal Reserve System.
+European Central Bank, 2017(a). Low Inflation in the Euro Area:
+Vanguard Group, The, 2017. Global Macro Matters—As U.S.
+Causes and Consequences. January 2017, No 181. Frankfurt,
+Stock Prices Rise, the Risk-Return Trade-Off Gets Tricky. Valley
+Germany: European Central Bank.
+Forge, Pa.: The Vanguard Group.
+European Central Bank, 2017(b). Assessing Labour Market
+Vanguard Group, The, 2017. Global Macro Matters—Why Is
+Slack. ECB Economic Bulletin, Issue 3, 2017. Frankfurt,
+Inflation So Low? The Growing Deflationary Effects of Moore’s
+Germany: European Central Bank.
+Law. Valley Forge, Pa.: The Vanguard Group.
+31
+
+--- PAGE 32 ---
+III. Appendix economic data. Using a system of estimated equations,
+the model then applies a Monte Carlo simulation method
+to project the estimated interrelationships among risk factors
+and asset classes as well as uncertainty and randomness
+About the Vanguard Capital Markets Model over time. The model generates a large set of simulated
+outcomes for each asset class over several time horizons.
+IMPORTANT: The projections and other information
+Forecasts are obtained by computing measures of central
+generated by the Vanguard Capital Markets Model regarding
+tendency in these simulations. Results produced by the
+the likelihood of various investment outcomes are
+tool will vary with each use and over time.
+hypothetical in nature, do not reflect actual investment
+results, and are not guarantees of future results. VCMM The primary value of the VCMM is in its application to
+results will vary with each use and over time. analyzing potential client portfolios. VCMM asset-class
+forecasts—comprising distributions of expected returns,
+The VCMM projections are based on a statistical analysis
+volatilities, and correlations—are key to the evaluation of
+of historical data. Future returns may behave differently
+potential downside risks, various risk–return trade-offs, and
+from the historical patterns captured in the VCMM. More
+the diversification benefits of various asset classes. Although
+important, the VCMM may be underestimating extreme
+central tendencies are generated in any return distribution,
+negative scenarios unobserved in the historical period
+Vanguard stresses that focusing on the full range of potential
+on which the model estimation is based.
+outcomes for the assets considered, such as the data
+presented in this paper, is the most effective way to use
+The VCMM is a proprietary financial simulation tool
+VCMM output. We encourage readers interested in more
+developed and maintained by Vanguard’s Investment
+details of the VCMM to read Vanguard’s white paper titled
+Strategy Group. The model forecasts distributions of future
+Vanguard Global Capital Markets Model (Davis et al., 2014).
+returns for a wide array of broad asset classes. Those asset
+classes include U.S. and international equity markets, several
+The VCMM seeks to represent the uncertainty in the
+maturities of the U.S. Treasury and corporate fixed income
+forecast by generating a wide range of potential outcomes.
+markets, international fixed income markets, U.S. money
+It is important to recognize that the VCMM does not impose
+markets, commodities, and certain alternative investment
+“normality” on the return distributions, but rather is
+strategies. The theoretical and empirical foundation for the
+influenced by the so-called fat tails and skewness in the
+VCMM is that the returns of various asset classes reflect
+empirical distribution of modeled asset-class returns. Within
+the compensation investors require for bearing different
+the range of outcomes, individual experiences can be quite
+types of systematic risk (beta). At the core of the model
+different, underscoring the varied nature of potential future
+are estimates of the dynamic statistical relationship
+paths. Indeed, this is a key reason why we approach asset-
+between risk factors and asset returns, obtained from
+return outlooks in a distributional framework.
+statistical analysis based on available monthly financial and
+32
+
+--- PAGE 33 ---
+Index simulations • U.S. short-term Treasury bonds: Bloomberg
+Barclays U.S. 1–5 Year Treasury Bond Index.
+The long-term returns of our hypothetical portfolios
+are based on data for the appropriate market indexes • U.S. long-term Treasury bonds: Bloomberg Barclays
+through September 2017. We chose these benchmarks U.S. Long Treasury Bond Index.
+to provide the most complete history possible, and
+• U.S. credit bonds: Bloomberg Barclays U.S. Credit
+we apportioned the global allocations to align with
+Bond Index.
+Vanguard’s guidance in constructing diversified portfolios.
+Asset classes and their representative forecast indexes • U.S. short-term credit bonds: Bloomberg Barclays
+are as follows: U.S. 1–3 Year Credit Bond Index.
+• U.S. high-yield corporate bonds: Bloomberg
+• U.S. equities: MSCI US Broad Market Index.
+Barclays U.S. High Yield Corporate Bond Index.
+• Global ex-U.S. equities: MSCI All Country World
+• U.S. bonds: Bloomberg Barclays U.S. Aggregate
+ex USA Index.
+Bond Index.
+• U.S. REITs: FTSE/NAREIT US Real Estate Index.
+• Global ex-U.S. bonds: Bloomberg Barclays Global
+• U.S. cash: U.S. 3-Month Treasury–constant maturity. Aggregate ex-USD Index.
+• U.S. Treasury bonds: Bloomberg Barclays U.S. • U.S. TIPS: Bloomberg Barclays U.S. Treasury Inflation
+Treasury Bond Index. Protected Securities Index.
+• U.S. short-term TIPS: Bloomberg Barclays U.S. 1–5
+Year Treasury Inflation Protected Securities Index.
+33
+
+--- PAGE 34 ---
+Notes on risk
+All investing is subject to risk, including the possible loss of the money you invest. Past performance is no guarantee
+of future returns. Investments in bond funds are subject to interest rate, credit, and inflation risk. Foreign investing
+involves additional risks, including currency fluctuations and political uncertainty. Diversification does not ensure a profit
+or protect against a loss in a declining market. There is no guarantee that any particular asset allocation or mix of funds
+will meet your investment objectives or provide you with a given level of income. The performance of an index is not
+an exact representation of any particular investment, as you cannot invest directly in an index.
+Stocks of companies in emerging markets are generally more risky than stocks of companies in developed countries.
+U.S. government backing of Treasury or agency securities applies only to the underlying securities and does not prevent
+price fluctuations. Investments that concentrate on a relatively narrow market sector face the risk of higher price volatility.
+Investments in stocks issued by non-U.S. companies are subject to risks including country/regional risk and currency risk.
+Bond funds are subject to the risk that an issuer will fail to make payments on time, and that bond prices will decline
+because of rising interest rates or negative perceptions of an issuer’s ability to make payments. High-yield bonds
+generally have medium- and lower-range credit-quality ratings and are therefore subject to a higher level of credit risk
+than bonds with higher credit-quality ratings. Although the income from U.S. Treasury obligations held in the fund is
+subject to federal income tax, some or all of that income may be exempt from state and local taxes.
+
+--- PAGE 35 ---
+Vanguard Research
+P.O. Box 2600
+Valley Forge, PA 19482-2600
+Connect with Vanguard® > vanguard.com © 2017 The Vanguard Group, Inc.
+All rights reserved.
+Vanguard Marketing Corporation, Distributor.
+CFA® is a registered trademark owned by CFA Institute. ISGVEMO 122017

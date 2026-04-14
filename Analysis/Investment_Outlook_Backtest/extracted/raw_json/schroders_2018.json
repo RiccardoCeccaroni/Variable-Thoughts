@@ -1,0 +1,82 @@
+{
+  "company": "Schroders",
+  "report_year": "2018",
+  "publication_date": "2017-12",
+  "forecast_period": "2018",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth",
+      "horizon": "2018",
+      "forecast_value": "3.3%",
+      "source_quote": "we have upgraded our global growth forecast for 2018 to 3.3% from a previous estimate of 3.0%"
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US GDP growth",
+      "horizon": "2018",
+      "forecast_value": "2.5%",
+      "source_quote": "we have raised our US and eurozone projections from 2% to 2.5%, and from 2% to 2.3%, respectively"
+    },
+    {
+      "category": "growth",
+      "region": "Eurozone",
+      "variable": "Eurozone GDP growth",
+      "horizon": "2018",
+      "forecast_value": "2.3%",
+      "source_quote": "we have raised our US and eurozone projections from 2% to 2.5%, and from 2% to 2.3%, respectively"
+    },
+    {
+      "category": "growth",
+      "region": "Japan",
+      "variable": "Japan GDP growth",
+      "horizon": "2018",
+      "forecast_value": "1.8%",
+      "source_quote": "Japan is forecast at 1.8% (previously 1.5%)"
+    },
+    {
+      "category": "growth",
+      "region": "Emerging Markets",
+      "variable": "Emerging markets GDP growth",
+      "horizon": "2018",
+      "forecast_value": "4.9%",
+      "source_quote": "in the emerging world we raise our growth forecast to 4.9% (previously 4.8%)"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China GDP growth",
+      "horizon": "2018",
+      "forecast_value": "6.4%",
+      "source_quote": "incorporates a slightly stronger figure for China in 2018 at 6.4%"
+    },
+    {
+      "category": "inflation",
+      "region": "Global",
+      "variable": "Global inflation",
+      "horizon": "2018",
+      "forecast_value": "2.3%",
+      "source_quote": "We forecast inflation at 2.3% in 2018 (up from 2.2%)"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate end-2018",
+      "horizon": "2018",
+      "forecast_value": "2.25%",
+      "source_quote": "The Fed funds rate is now forecast to end 2017 at 1.5%, 2018 at 2.25% and 2019 at 2.5%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Number of Fed rate hikes in 2018",
+      "horizon": "2018",
+      "forecast_value": "3",
+      "source_quote": "we now expect three rate hikes next year after an increase at the December 2017 meeting",
+      "not_scoreable": true,
+      "reason": "Count-type prediction (actual was 4 hikes in 2018) - cannot match against rate reference table"
+    }
+  ]
+}

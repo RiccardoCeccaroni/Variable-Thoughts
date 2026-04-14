@@ -1,0 +1,49 @@
+{
+  "company": "Morgan Stanley Investment Management",
+  "report_year": "2022",
+  "publication_date": "2021-11-14",
+  "forecast_period": "2022",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 Index price return",
+      "horizon": "end of 2022",
+      "forecast_value": "-5% decline",
+      "source_quote": "strategists think the S&P 500 index could decline 5% in 2022 while other developed markets could end the year higher."
+    },
+    {
+      "category": "equities",
+      "region": "Japan",
+      "variable": "Japanese equity market (TOPIX) price return",
+      "horizon": "2022",
+      "forecast_value": "+12%",
+      "source_quote": "Japan's stock market could appreciate 12% next year."
+    },
+    {
+      "category": "equities",
+      "region": "Europe",
+      "variable": "MSCI Europe price return",
+      "horizon": "2022",
+      "forecast_value": "8% price return, double-digit total return",
+      "source_quote": "Our combined earnings and valuation assumptions suggest that European stocks can deliver an 8% price return and double-digit total return"
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "10-year U.S. Treasury yield",
+      "horizon": "end of 2022",
+      "forecast_value": "above 2%",
+      "source_quote": "strategists recommend underweighting U.S. Treasuries - particularly those with intermediate maturities - in expectation of the 10-year Treasury moving past 2% by the end of 2022."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Brent crude oil price",
+      "horizon": "2022",
+      "forecast_value": "above $90 per barrel",
+      "source_quote": "His team believes oil could top $90 a barrel in 2022 as rising demand meets relatively spare capacity."
+    }
+  ],
+  "excluded_vague_count": 10
+}

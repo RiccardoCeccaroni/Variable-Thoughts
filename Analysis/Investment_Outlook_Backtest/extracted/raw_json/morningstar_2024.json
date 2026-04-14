@@ -1,0 +1,142 @@
+{
+  "company": "Morningstar",
+  "report_year": "2024",
+  "publication_date": "2024-01",
+  "forecast_period": "2024",
+  "predictions": [
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core PCE YoY reaching 2% target",
+      "horizon": "Q2 2024",
+      "forecast_value": "2.0%",
+      "source_quote": "Our projection is that core PCE will hit 2% year over year by the second quarter of this year."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Average inflation (CPI)",
+      "horizon": "2024",
+      "forecast_value": "~2%",
+      "source_quote": "We are expecting inflation on average to be about 2% over the course of this year."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Inflation dips below Fed 2% target",
+      "horizon": "2025-2027",
+      "forecast_value": "<2%",
+      "source_quote": "We're expecting it to happen even faster and even dip below the Fed's 2% inflation target a bit over 2025 to 2027."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate target range year-end",
+      "horizon": "end-2024",
+      "forecast_value": "3.75%-4.00%",
+      "source_quote": "In the near term, our views are expecting a 3.75% to 4.00% target range at the end of 2024."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "First Fed rate cut timing",
+      "horizon": "March 2024",
+      "forecast_value": "March 2024",
+      "source_quote": "We're expecting our first cut in March, which is now the market consensus."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed cutting cycle completion",
+      "horizon": "2026",
+      "forecast_value": "cuts wrap up by 2026",
+      "source_quote": "We expect the Fed to cut starting this year and proceed aggressively over the course of this year heading into 2025, wrapping up cuts by 2026."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "10-year Treasury yield long-term target",
+      "horizon": "long-term",
+      "forecast_value": "2.75%",
+      "source_quote": "That lower federal-funds rate will drive the 10-year Treasury yield ultimately down to our long-term projection of 2.75%, down from current levels of 4.0%."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "30-year mortgage rate target",
+      "horizon": "long-term",
+      "forecast_value": "4.25%",
+      "source_quote": "Including a fall in the 30-year mortgage rate, which we expect to ultimately fall to 4.25%, just a bit above prepandemic levels."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "Investment-grade credit spread observation (not a prediction)",
+      "horizon": "December 2023 (current)",
+      "forecast_value": "<100 bps",
+      "source_quote": "Investment grade has tightened 18 basis points. We're sub-100 spread in investment-grade today.",
+      "not_scoreable": true,
+      "reason": "Observation about current state, not a forward prediction"
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "High-yield credit spread observation (not a prediction)",
+      "horizon": "December 2023 (current)",
+      "forecast_value": "338 bps",
+      "source_quote": "High yield, 338 as of Dec. 21.",
+      "not_scoreable": true,
+      "reason": "Observation about current state, not a forward prediction"
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth QoQ annualized",
+      "horizon": "Q4 2023",
+      "forecast_value": "1.7%",
+      "source_quote": "In the fourth quarter, we expect 1.7% real GDP growth quarter over quarter."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Cumulative real GDP growth vs consensus (5-year)",
+      "horizon": "2024-2028",
+      "forecast_value": "+3% above consensus",
+      "source_quote": "On a five-year time horizon we do expect a cumulative 3% more real GDP growth than consensus, owing to principally our views on the supply side of the economy in terms of labor force expansion and also productivity growth."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "Unemployment rate average",
+      "horizon": "2024",
+      "forecast_value": "4.2%",
+      "source_quote": "The slowdown in GDP growth that we're expecting for 2024 will generate a modest uptick in unemployment averaging 4.2% that year."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "Unemployment rate peak",
+      "horizon": "Q4 2024",
+      "forecast_value": "4.5%",
+      "source_quote": "We think unemployment will peak at about 4.5% in the fourth quarter of 2024."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 price/fair value ratio observation (not a prediction)",
+      "horizon": "December 2023",
+      "forecast_value": "1.0",
+      "source_quote": "Our price/fair value metric, it was at 1 at Dec. 21.",
+      "not_scoreable": true,
+      "reason": "Observation about current valuation, not a forward prediction"
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "Value stocks discount to fair value",
+      "horizon": "January 2024",
+      "forecast_value": "-10%",
+      "source_quote": "Value stocks are still trading at a pretty respectable discount from fair value, trading at about a 10% discount."
+    }
+  ]
+}

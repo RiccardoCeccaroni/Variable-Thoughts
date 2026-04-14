@@ -1,0 +1,1820 @@
+SOURCE: amundi/amundi_2023.pdf
+PAGES: 25
+
+--- PAGE 1 ---
+INVESTMENT OUTLOOK | 2023
+Some light for investors after the storm
+Marketing communication
+The views expressed in this document are those of the Global Investment Committee and
+are subject to change at any time. These views should not be relied upon as investment
+advice,assecuritiesrecommendations,orasanindicationoftradingintentonbehalfofany
+ofAmundi’sstrategies.
+
+--- PAGE 2 ---
+IINNVVEESSTTMMEENNTT OOUUTTLLOOOOKK || 22002233
+2023 KEY CONVICTIONS FROM CIOS
+1. The Russia-Ukraine conflict is acting as an accelerator towards a regime shift, featuring higher inflation, geopolitical
+uncertainty, and a tug of war between monetary and fiscal policy, in a world already flooded by debt. Expect economic
+divergences tointensify.
+2. The energy crisis will be the main economic driver in Europe, which will fall into recession. Fiscal measures may
+mitigate this, but the moment of truth will be in Q4 2023, when gas inventories need to be restored. Gaining strategic
+energy independence and signingnew commercialtieswillbe keyinatransformativeyear.
+3. China’s economy could unveil positive surprises in 2023, depending on the outcome of the two main challenges:
+housing market and Covid-19 policy. On the former, we see a stabilisation thanks to looser policy, on the latter a
+gradual relaxation of restrictions.Geopoliticalpressureand an intensifyingUS-Chinaconfrontationarekeyrisks.
+4. Central banks (CB) will do whatever it takes to fight inflation and avoid a 1970s-style crisis. The tightening cycle has
+further to go, although at a slower pace than in 2022. Financial markets may have integrated the bulk of the future
+hikes, but the level of the Federal Reserve’s (Fed) terminal rate will be critical: if close to 6%, a US recession will be
+inthecardsand couldbe more severethanwhat isexpected today.
+5. After the great repricing, market valuations are more appealing; this is the glass half full. While economic conditions
+deteriorate and volatility remains elevated, markets will start pricing a Fed pivot between Q1 and Q2. Follow the
+sequence: start with a cautious positioning, as the earnings outlook is weak, but prepare for entry points with a
+gradual approach.
+6. ‘Bonds are back’ remains an investor theme entering 2023, with a focus on high-quality credit, an active duration
+stance, and currency management in a world of diverging policies. Pay attention to liquidity risk and corporate
+leverage.
+7. Equities, in our view, will offer entry points during the year. Start cautiously, favour US stocks and the
+quality/value/high dividend tilt, but be ready to addEurope and China stocks, and alsocyclical and deep-value ones to
+playthe rebound.
+8. Emerging markets (EM) divergences will intensify in 2023. Selection will remain crucial. Look at countries where the
+inflationand monetary outlooksappear morebenign and expect theFed pivot tosupport EMequities.
+9. Long-term ESG themes were reinforced by the Covid-19 crisis and the Ukraine war. Investors should play the energy
+transition and food security themes, accelerate the Net-zero path, and look for companies that can improve their ESG
+profile,notably thanksto activeengagement.
+10. The 60-40 allocation revival is in sight, as looming recession risks will mean the government bond diversification
+engine will work again. Persistent inflation will call for greater allocation towards real assets and to sectors more
+resilienttothe differentinflationsources.
+“2023 will be a two-speed year, with plenty of
+risks to watch out for. Bonds are back, market
+valuations are getting more attractive, and a Fed
+pivot in the first part of the year could trigger
+Vincent MORTIER interesting entry points.” Matteo GERMANO
+Group Chief Deputy Group Chief
+Investment Officer Investment Officer
+INDEX
+2023 key convictions from CIOs 2 Inflationin portfolio construction 13
+CONVICTIONS 3 ASSETCLASS VIEWS 14
+2023global outlook faces steep challenges 4-5 DM equityand fixed income 15
+Infographic: Themes to shape the 2023 main scenario;
+6-7 Emergingmarkets 16
+investing in 2023
+HOTDEBATES 8 Infographic:ESG themes for 2023 17
+Geopolitics in focus 9 DM and EM Currencies 18
+Monetaryand fiscal policy mix 10 Commodities and Hedge Funds 19
+Source: Amundi Institute as of 16 June 2022.
+Central banks in focus 11 Private markets 20
+China’s economic challenges 12 ECONOMICAND CENTRAL BANK FORECASTS 21-22
+2 Marketing material for professional investors only
+
+--- PAGE 3 ---
+IINNVVEESSTTMMEENNTT OOUUTTLLOOOOKK || 22002233 INVESTMENT OUTLOOK | 2023
+At end-September 2022, we
+gathered in Paris to explore
+key client themes and to
+share portfolio allocation
+ideas for 2023. This year’s
+Amundi Investment Outlook
+brings together the hot
+debates and key investment
+convictions discussed at
+the inaugural Amundi
+CONVICTIONS
+Institute and Investment
+Division seminar
+Asset class preference calls for a Prevailing downside risks: risk of
+barbell approach in 2023 excessive Fed tightening seen as top
+risk for 2023
+49%
+% of voters indicating
+47% 29% the risk as the most
+28%
+relevant for 2023
+12%
+5% 5%
+Think EQUITYwill be Think CASHwill be
+the best performer
+the best performer
+Excessive Global profit Global China Inflation
+Fed recession slump / debt recession fears
+tightening crisis in EMs dissipate /
+triggers a no
+recession stagflation
+(US)
+In equities, United States is the top Dollar is set to remain strong at least for
+audience preference; China will likely the first half of the year, but possibly
+come back in 2023 weaker later in 2023
+US 52% H1 2023
+in 0.85-0.95 range
+China 15% For 46% of the audience
+Europe 15%
+EM 12% End-2023
+EURUSD
+>0.95
+Japan 5% For 67% of the
+audience
+DatareferstopollstakenattheAmundiInstituteandInvestmentSeminaronasampleof50seniorportfoliomanagersandresearchspecialists.Dataisasof23
+September2022.
+33 MMaarrkkeettiinngg mmaatteerriiaall ffoorr pprrooffeessssiioonnaall iinnvveessttoorrss oonnllyy
+
+--- PAGE 4 ---
+IINNVVEESSTTMMEENNTT OOUUTTLLOOOOKK || 22002233
+2023 GLOBAL OUTLOOK FACES STEEP CHALLENGES
+Shallow recession in sight amid sticky inflation and global divergences
+We expect global growth to slow significantly, with several countries across both
+developedmarkets(DM)andEMsufferingstagnation,whileothersmayfaceaslowdownat
+best. Globalgrowth shouldland ataround2.2% in 2023,down from 3.4%in2022, withDM
+expectedtoslowto0.3%from2.6%,whileEMgrowthshouldslowto3.5%from4.0%.While
+bothaggregatesshoulddecelerate,theEM-DMgrowthgapshouldfavourtheformer.While
+the slowdown partly results from the increasingly coordinated withdrawal of policy
+accommodation,regionalorcountry-specificfactorsaredrivingmixedtrends.Thedepthand
+persistence of the stagflationary environment will depend on how the ideological, political,
+economicandtechnologicaltransitionsareaddressed.
+The main driver of European growth dynamics remains the energy shock, compounded by
+unresolved post-Covid-19 supply-side inflationary pressures and resulting in double-digit
+inflation.Thisisgeneratingacost-of-livingcrisis,whichweexpecttodragEuropeinto
+recessionthiswinter,followedbyaslowrecovery.Notwithstandingtherecession,inflation
+shouldremainsignificantlyabove targetup toend-2023. Exogenously, the outlookdepends
+on energy prices, gas supply and storage issues, which may return in mid-2023, while the
+key endogenous risk is for policy mistakes, both on the monetary and fiscal front. On the
+othersideoftheAtlantic,theFedembarkedonanaggressivetighteningcycle,whichshould
+push growth severely below potential in H2 2023, in order to rein in domestic inflationary
+Monica DEFEND,
+pressuresstemmingfromatightlabourmarketandstrongdomesticdemand.USrecession
+risks for H2 2023 have increased due to the accelerating tightening path which should not Head of Amundi Institute
+slow in the near term. We expect consumption and residential investment to slow, but be
+partly offset bylower imports. Inflation should remain significantlyabove target at end-
+2023,despiterentscoolingdownandhighinventorylevels.Theavoidanceofacreditevent
+andpreservationoffinancialstabilityarekeytotheseprojections.
+Thelowgrowth-highinflationbackdropshouldspreadevenlyacrosstheEMuniversewitha
+“Regime shifts
+few exceptions, the most relevant being China. While we cut China’s 2023 growth from
+5.2% to 4.5%, it remains on an upward trend when compared to 2022’s anaemic underpin a new
+growth at 3.2%. Housing market stabilisation and China’s gradual reopening are key
+assumptions. Indeed, the global slowdown and the impact of early and bold monetary global disorder.”
+tightening would be a drag on EM growth. Favourable 2022 nominal growth conditions
+should revert in 2023, making fiscal support less affordable for many countries due to the
+debt trajectory becoming less sustainable.While moderating inflation should allow a shift in
+monetary policy stance, global financial conditions would warrant caution in EMCB easing.
+On this new monetary policy path, there are countries with persistent and convincing
+deflationary trends (e.g., Brazil) or countries where recession is close and deep, such as
+CEEorrelativelysmallLatamcountries.
+Amundi growth and inflation projections
+Average GDP growth Inflation
+10
+5
+9
+4 8
+7
+3
+% 6
+,Y
+o
+2
+%
+,Y 5
+Y o Y 4
+1
+3
+0 2
+1
+-1
+0
+US Eurozone China DM EM World
+2022 2023 2024 2022 2023 2024
+Source:AmundiInstitute.Dataandforecastsareasof3November2022.
+4 Marketing material for professional investors only
+
+--- PAGE 5 ---
+IINNVVEESSTTMMEENNTT OOUUTTLLOOOOKK || 22002233
+Start defensive in asset allocation, but stand ready to The aforementioned headwinds should abate somewhat in
+adjustthroughouttheyear the second half of 2023, favouring an improvement in the
+business cycle and a switch from Correction to Late Cycle
+The economicbackdropshould translate intoa continuation according to AIP. Another of Amundi Institute’s proprietary
+of the current Correction phase in financial markets during models (Inflation Phazer) indeed signals a transition from
+the first half of 2023, featuring a profit recession and high the Hyperinflationary regime which prevailed in 2022 – and
+inflation. This is the most likely scenario according to the possibly also in Q1 2023 – to a more benign Inflationary
+AmundiInstitute’sAdvancedInvestmentPhazer(AIP). regime, which has historically featured price pressures in
+the 3-6% range. Although still above target, moderating
+The first factor contributing to this outcome is the
+pricepressuresshouldmitigatetheburdenoftherisingcost
+macroeconomicoutlook.Growthshoulddecelerateacross
+oflivingonconsumers,allowinganeconomicrecoveryfrom
+DM,spanningfromsub-parlevelsintheUnitedStatesupto
+the first-half lows and prompting the Fed to halt interest
+recessions in the Eurozone and the United Kingdom. The
+rateshikes.
+exceptional spike in global inflation experienced over the
+past18monthsshouldpersistinto2023–albeitataslowing Oneofthemostcrucialimplicationsoftheabovescenariois
+pace – should take a toll on consumer spending and the dollar, which we expect to depreciate by 4.7% on a
+sentiment.Atthesametime,itshouldkeepcentralbanksin trade-weighted basis in 2023. This should have positive
+tightening mode in their effort to ease price pressures via spillover on EPS revisions amid a less challenging
+cooler demand and prevent any unwanted loosening of macroeconomic environment for profits, which should
+financialconditions. recover from H1 lows. From an asset allocation
+standpoint, with the next move for on-hold monetary
+The second factor shaping the 2023 business cycle
+policy expected to be a cut yield curves should bull
+stems directly from the first one: a profit recession is on
+steepen and conditions be supportive for risky assets,
+thecardsforQ1andQ2,withUSEPSforecasttocontract
+withatilttowardsDMequityandhigh-qualitycredit.
+by -10% and -15%, respectively, on a twelve-month trailing
+basis. Earnings will be challenged by top-line deceleration When turning to the most relevant risks threatening the
+causedbydollarstrengthandweaker nominalGDPgrowth. business cycle in 2023, the realised inflation pattern will be
+Margins will also be under pressure due to increased costs at the forefront. If inflation fails to normalise to sustainable
+acrosstheentirespectrum:production,capitalandlabour. levels, the macroeconomic scenario will turn into a more
+severe stagflation, with the Fed forced to keep hiking
+The resulting asset allocation for a Correction phase
+despite the recession. Under such a scenario, risky assets
+favours a defensive approach, with gold and IG credit
+would face losses, amid severe market turmoil and liquidity
+among the preferred asset classes. The hawkish Fed
+stress. Monetary and fiscal policies will have to be mutually
+narrative feeding through 2023 – and likely to persist up to
+consistent,asrecenttheUKepisodehighlighted.
+Q1 – will add upside risk to government bond yields in H1,
+as a result of no clear Fed pivot yet and sticky inflation Alongside inflation, geopolitics will also remain crucial in
+pressure. This will call for an active duration stance in shaping macroeconomic and financial trends over the next
+government bonds which are the favoured component in a few quarters. As such, investors should focus on the
+‘typical’correctionphase. evolution of the Russia-Ukraine war and the United States-
+Chinarelationship.
+Cautious portfolio allocation early in 2023; increase risk later in the year
+Advanced Investment Phazer From a Correction to a Late Cycle allocation
+100%
+Moving from Correction to
+90%
+Late cycle in H2 2023 35% 46%
+80%
+y 70%
+tilib
+a 60%
+%
+,e
+b r 13%
+o r p 50% a h s
+y o 23%
+lr
+e 40%
+ilo 42%
+tr
+a u Q 30%
+ftr
+o P
+20% 10%
+10%
+Correction Late cycle
+0%
+2021 H1 2021 H2 2022 H1 2022 H2 2023 H1 2023 H2 Cash Nominal gov.bonds IL bonds
+Global credit Global equity Commodities
+Reflation Recovery Late cycle Correction Contraction
+Gold
+Source: Amundi Institute, Bloomberg. Data is as of 31 October 2022. For Illustrative purposes only. Please refer to Advanced Investment Phazer: a guide to
+dynamic asset allocationfor further information on Amundi’s AIP.
+5 Marketing material for professional investors only
+
+--- PAGE 6 ---
+IINNVVEESSTTMMEENNTT OOUUTTLLOOOOKK || 22002233
+THEMES TO SHAPE THE 2023 MAIN SCENARIO
+Timing and shape of the global economic rebound
+End 2022 Q1 2023 Q2 2023 Q3 2023 Q4 2023
+US: Fed
+pivot
+15% probability
+l a upside scenario
+i A Fed pivot by end-Q1 with
+t
+n
+terminal rate at 5.25% amid
+e
+t o tightening financial conditions
+p
+h
+s r
+e Europe:
+and weakening job market
+tv
+i wo Energy Inflation falls back
+l
+s l i p crisis quickly and China’s 70% probability
+es growth rebounds central scenario
+m
+l
+ea
+hb
+to
+l a l g China:
+n 15% probability
+o Growth
+i downside scenario
+g
+e path Excessive Fed tightening or a
+R
+recession in Chinacould lead to
+a deep recession Worsening energy crisis could
+lead to a deep recession
+CENTRAL AND ALTERNATIVE SCENARIOS
+15% 70% 15%
+DOWNSIDESCENARIO CENTRALSCENARIO UPSIDESCENARIO
+Deep global slump Stagflationary episode, with rising Inflation falls back ending the
+divergences and persistent inflation stagflationary episode
+ Worsening / expanding Ukraine war.  Stalematein the Ukraine war.  Ceasefire in Ukraine.
+ Russia partially resumes gasexports to
+Europe.
+ De-anchoredinflation expectations, CB  Inconsistent fiscal and monetary policy.  Fiscal discipline gradually restored.
+over-react.  Fed ends tightening in Q1 2023, more
+dovish stance in Q4 2023; BoE: soft
+hiking cycle; ECBraises rates /
+activates TPI; PBoCeasing.
+ EU activates rescue plan todeal with
+energy crisis.
+ Global economic downturn (US, China,  Softeningenergy crisis in H2 2023.  Inflation falls back quickly.
+Europe)/ renewed deflationary  Inflation: above CB target until 2024.  Lower uncertainty, extra savings and
+pressures, inflation out of control /de-  Global nominal GDP growth trends renewed purchasing power fuel DM
+anchored inflation expectations. higher with recession (EU), modest demand.
+ Energy crisis backto acute in H2 2023. rebound (China), sub-par growth (US).
+ Corporateprofit recession to go on in
+H1 2023, followed by recovery.
+ Global financial crisis, debt crisis with  Global financial conditions to  Returnof risk-on sentiment in the
+several EM defaults. deteriorate amid continuationof the market
+ Credit event. tightening cycle.
+ Limited spread widening.
+ Climate transition measures postponed.  Climate change adds to stagflationary  Climate change policy and energy
+ Broad-based extremeclimate trends. transitionas top priorities
+conditions.  Climaterisk hampers growth.
+Source:AmundiInstituteasof28October2022.DM:developedmarkets.EM:emergingmarkets.CB:centralbanks.Fed:FederalReserve.BoE:Bankof
+England.ECB:EuropeanCentralBank.PBoC:People’sBankofChina.QT:quantitativetightening.TPI:TransmissionProtectionInstrumentbytheECB.
+66 MMaarrkkeettiinngg mmaatteerriiaall ffoorr pprrooffeessssiioonnaall iinnvveessttoorrss oonnllyy
+
+--- PAGE 7 ---
+INVESTMENT OUTLOOK | 2023 INVESTMENT OUTLOOK | 2023
+INVESTING IN 2023: MORE APPEALING VALUATIONS
+Valuation levels, historic percentiles since 1998
+Most
+expensive
+historically
+Most cheap
+historically
+EU IG US IG EM IG EU HY US HY EM HY EMSov EU EQ US EQ EM EQ
+HC
+Credit InvestmentGrade Credit High Yield EM Sov Equity
+Nov-22 Dec-21
+INVESTING IN 2023: FOLLOW THE SEQUENCE
+End 2022 Q1 2023 Q2 2023 Q3 2023 Q4 2023
+ Government bonds;
+ Focus remains on high-  HY credit may start to
+ IG credit;
+Bonds are back quality credit; offer selective
+O  Cautious in HY credit and selective in  Add EM bonds. opportunities.
+IR EM HC bonds.
+A
+N  Deep-value equity
+E  Caution overall;  Add global equity;
+C Equity seeks entry opportunities,
+S points  Play quality-value and high dividend;  Look for some selective cyclical, small caps
+L  US equity vs. rest or the world. EM equities.
+A and EM.
+R
+T 60-40 reloaded 60-40 paradigmis back in a decelerating economic environment, with focus still on inflation.
+N
+E
+C Lookfor ESG improvers, accelerate on the net-zero path, play the energy transition and food security
+ESG themes themes and, more broadly, climate change and socially-oriented strategies (agriculture, infrastructure,
+transportation, healthcare).
+E VS Downside   M Fa o v v o e u t r o c a a s v h e , r g y o c l a d u , t U io S u D s s a t n a d n c U e S i n T r r e is a k s y u a ri s e s s e a ts s ; hedges;
+IT
+A
+O
+IR
+scenario
+ Play minimum-volatility strategies.
+NA
+RN
+EE Upside  Increase risky asset exposure, favour cyclical and value;
+TC
+LS scenario  Favour inflation-linkers and play inflation diversification.
+A
+Source:AmundiInstitute,Bloomberg,DataStream.Latestmonthlydataisasof14November2022.EUIG,USIG,EMIG,EUHY,USHY,EMHYareICEBofA
+corporatebondindices.IG:investmentgrade.HY:highyield.EMSovHC:isJPMorganEMBIGlobalDiversified.EUEQ,USEQ,EMEQareMSCIindicesfor
+equitymarkets.Allindicesrefertoaspecificregion(EU:Europe,US:UnitedStates,EM:emergingmarkets.Analysisisbasedonspreadsforbondindicesandon
+twelve-monthforwardPEratioforequityindices.Valuationareinhistoricpercentilesince1998.Cheapestmeansisinthefirstquartile,Mostexpensiveisinthe
+fourthquartile.
+77 MMaarrkkeettiinngg mmaatteerriiaall ffoorr pprrooffeessssiioonnaall iinnvveessttoorrss oonnllyy
+
+--- PAGE 8 ---
+HOT DEBATES
+Geopolitical risks investors should Policy mix will drive the path for US Treasury
+watch for in 2023 yields in 2023
+1 Where do you see ten-year Treasury yields at end-
+2023?
+51%
+N.
+37%
+Ukraine-Russia war
+10%
+evolution
+2%
+0%
+Below 2% 2% to 3.5% 3.5% to 5% 5% to 6% Above 6%
+Key China themes to watch for in 2023 Inflation to remain a hot topic in 2023
+Inflation >6%
+10%
+1
+Zero-Covid-19 policy
+Inflation in the
+52%
+2 Housing sector stabilisation and 4%-6% range
+corporate exposure to housing
+3 Country modernisation and reforms 38% I I n n f f l l a a t t i i o o n n < < 4 4 % %
+DatareferstopollstakenattheAmundiInstituteandInvestmentseminaronasampleof40seniorportfoliomanagersandresearchspecialists.Dataisasof23
+September2022,forecastforendof2023.
+88 MMaarrkkeettiinngg mmaatteerriiaall ffoorr pprrooffeessssiioonnaall iinnvveessttoorrss oonnllyy
+
+--- PAGE 9 ---
+INVESTMENT OUTLOOK | 2023
+GEOPOLITICS IN FOCUS
+A difficult year ahead, with bright spots along the way
+2023 will be a difficult year for Europe, but it will also be Coupled with a difficult economic environment, these
+transformative. How the war in Ukraine progresses will pressures will undermine the United States’ commitment to
+determine the depth of Europe’s recession, fiscal and Ukraine,againfeedingintoourwarbase-casescenario.
+energy policy, the direction of domestic politics, as well as
+The EUwill resist being dragged intothe United States’
+Europe’sinternationalrelations.Conversely,themoodinthe
+decouplingfromChina,aslongastheTaiwantensionsdo
+Westwillalsoshapethenextphasesofthewar.
+not lead to direct military confrontation. The economic
+We identify six scenarios for how the war might evolve. A impact of the Russia-Ukraine war reduces appetite to
+ceasefire – most likely in H2 – leading to an end of weaken ties with China. The need to expand renewables
+hostilities is our base case at 35% likelihood. will be acute in 2023 and China is a major producer of
+Nevertheless, risk is tilted to the downside, including a solarpanels.
+25% likelihood for the war escalating into a direct
+However, concerns about over reliance on China (e.g., rare
+military confrontation between Russia and the West in
+earth minerals) will see the bloc forge new trade ties.
+Ukraine. This risk grows as Russia suffers more military
+TradedealswithMexicoandChilearelikelyandMercosur
+defeats.
+is back on the agenda. An agreement with Australia and
+The trajectory of our base case (ceasefire in H2 2023) New Zealand is in the making. EU-United Kingdom
+depends on various conditions: both Russia and Ukraine relations may improve, while a likely trade deal between
+would need to see their military capabilities weaken. For India and the United Kingdom will alleviate some Brexit
+Ukraine,itwouldbebecauseWesternsupportwanes,while pains. Intra-EU relations will benefit from elections in
+for Russia it would be because it has exhausted its military Poland, which are likely to usher in a pro-EU government,
+toolboxandtakenenoughterritorytoclaim‘victory’.Ukraine whichwouldunfreezebillionsofEUfunds.
+wouldlaydownarmsifofferedsufficientsecurityguarantees
+ItisintimesofcrisesthattheEUgrowsmorepowerful.
+bytheWest,whichthelatterwouldbecompelledtoprovide.
+The pandemic and the war have seen the bloc take
+These guarantees, coupled with Russia’s military losses,
+unprecedented decisions on joint debt, sanctions,
+could see an end to the war, not just a temporary ceasefire
+defence and energy. There has also been progress
+waitingtobebrokenonceRussiarearms.
+towards achieving the EU’s green goals despite, and
+The energy crisis will pose severe challenges. Prices because,ofthewar:2023shouldseemoreofthesame.
+may remain high as supply is tight, but severe energy
+shortages are not our base-case scenario, as demand Russia-Ukraine main war scenarios, non-exhaustive
+will be reduced to offset the lack of Russian gas flows and
+additional sources are likely to come online. A more
+‘benign’ energyoutlook reduces policymakers’ appetite Ceasefire in H2 2023 leads
+to end of war
+for making difficult choices. Without an acute crisis,
+Germany is unlikely to revisit its decision to shut the
+remaining nuclear reactors in April. The Netherlands,
+despitesittingonamplereservesintheGroningengasfield, Ongoing fighting for years
+willsticktoitscommitmenttohaltproductionthere.Differing
+attitudes to ‘saving’ energy will reduce appetite for energy
+Direct confrontation with
+sharingbetweencountries.Asaresult,Europeislikelyto
+the West*
+faceadeeperrecession.
+We expect a new EU-wide fiscal support package to Power shift in Russia leads
+alleviate the economic fallout. However, rising interest rates to end of war
+and the recent UK market turmoil will make fiscal support
+smallerandmoretargeted,asgovernmentsreturntofiscal
+conservativism. The consequence will be more people
+Ukraine 'wins'
+sufferingtheeconomicimpactsofthewar.Thissupports
+our base-case scenario of a ceasefire, as a shift in public
+opinion against the war will push politicians towards
+Russia 'wins'
+persuadingUkrainetonegotiate.
+0% 10% 20% 30% 40%
+The war will also shape the EU’s foreign policy. The
+Likelihood
+Democrats’ uphill battle leading up to the 2024 election
+will remind EU leaders about the perils of relying too Source: Amundi Institute as of 7 November 2022. *: e.g., after a tactical
+much on the United States. Through 2023, the Biden nuclearattackbyRussiainUkraine.
+administration will be busy with domestic political
+battles,astheRepublicanswillbeamoredisruptiveforce.
+Anna Rosenberg
+Head of Geopolitics, Amundi Institute
+9 Marketing material for professional investors only
+
+--- PAGE 10 ---
+INVESTMENT OUTLOOK | 2023
+MONETARY AND FISCAL POLICY MIX
+Too early for a European energy crisis plan; there will be pain before
+action
+With low or negative growth and high inflation, the The sums to be mobilised may exceed the borrowing
+Eurozone is experiencing a stagflationary episode that capacity of some states. A Europe-wide approach would
+is challenging economic policy. Rising prices are no reassure investors, as fragile states would benefit from
+longerlimited to energyand wagesareexpected tooffset lower risk premiums. However, the conditions for setting
+the loss of purchasing power, at least partially. The ECB up such a fund are not yet in place. Politically, the
+intends to further normalise its monetary policy as its positions of heads of states remain divergent. A‘European
+credibility is at stake. It is up to the ECB to anchor inflation solution’ would eventually be necessary to avoid a
+expectations,astherecessionmaynotbesufficienttobring crisis, later in 2023. The ‘new’ fiscal rules need to provide
+inflationbacktotarget. a sufficiently binding framework provide debt sustainability
+reassurance. A move towards simpler (expenditure-based)
+For their part, governments are actively using fiscal
+fiscal rules is expected. However, the final framework will
+policy to limit the recessionary impact of the energy
+notbewritteninstonebeforemid-2023,astheStabilityand
+crisis. The rise in energy prices has led them to implement
+GrowthPactrulesaresuspendeduntilend-2023.AnewEU
+a battery of measures to protect households and
+programmewouldneedtocompensatefor thereturnof
+businesses, such as reduction of energy tax or VAT,
+fiscal rules.Finally, EUstates shouldwait for the endof
+regulation of retail and wholesale prices, transfers to
+monetarynormalisation – expected in Spring 2023 – and
+vulnerable groups and taxes on windfall profits. Since the
+a significant slowdown in inflation. Otherwise, the ECBmay
+beginning of the year, over €500bn of measures have been
+overreact, which would be counterproductive. New debt
+announced in the Eurozone, accounting for some 4% of
+issuance(evenifitisjointdebt)willonlybewellreceivedby
+GDP).
+investorsifthepolicymixisconsistent.
+The resulting policy mix is ineffective in two ways.
+In summary, in our central scenario we attach a high
+Firstly, fiscal measures have not been the subject of
+probability to the issuance of common debt. However,
+any consultation among EU governments. The €200bn
+preconditionswillprobablynotbemetbeforemid-2023.
+German programme (worth 5.5% of GDP) was not well
+The SURE (Support to mitigate Unemployment Risks in an
+received by other EU members, particularly by countries
+Emergency) programme set up in 2020 to avoid mass
+that do not have the same budgetary means to cope with
+unemploymentfollowingpandemiclockdownshasbeenwell
+the energy crisis. In the end, the funds allocated so far this
+received by investors. The economic results were very
+year account for less than 1.0% of GDP (Belgium, Finland,
+positive, and it could serve as a template. German leaders
+Estonia, Slovenia, and Ireland), 2.3% in France, 3.5% in
+havealreadyindicatedthattheyarenolongeropposedtoa
+Italy, and 8% in Germany. If EU governments go down this
+newEUjoint-debtprogramme,provideditisbasedonloans
+road, the result will be increased economic and financial
+(such as SURE) and not grants, a way of making
+fragmentation, a harmful consequence for all Eurozone
+governmentsfullyaccountablefortheirdebt.
+countries. Secondly, because fiscal and monetary
+policiesworkinoppositedirections.Fiscalmeasureswill Allocated funds in selected Eurozone countries, 2022
+haveaninflationaryimpact,leadingtheECBtonormaliseits
+monetary policy further. As a result, financial conditions are 8% 300
+tightening at a time when governments need to take on
+7%
+moredebt. 250
+T
+go
+h
+v
+e
+er
+r
+n
+e
+m
+ce
+e
+n
+n
+t
+ts
+U
+.
+K
+Th
+c
+e
+r
+y
+is
+n
+is
+o
+h
+lo
+a
+n
+s
+ge
+s
+r
+en
+ha
+t
+v
+a
+e t
+w
+h
+a
+e
+rn
+s
+i
+a
+n
+m
+g
+e
+s
+r
+i
+o
+g
+o
+n
+m
+al
+f
+t
+o
+o
+r
+6%
+200 c
+oll A
+5% a
+manoeuvre, particularly when CB intend to tighten policy at et
+d
+t u h m e br s e a lla m , e risk tim p e re . m W ium ith s o o u n t s t o h v e ere q i u g a n n d ti e ta b t t iv w e ou e ld as r i i n s g ein (Q lin E e ) P D G 4% Corporate 150 n uf
+w
+on
+it
+l
+h
+y
+p
+o
+u
+n
+b
+e
+l
+s
+ic
+co
+d
+n
+e
+c
+b
+e
+ts
+rn
+a
+e
+n
+d
+d
+.
+peripheral countries are no longer the %
+2
+3
+%
+%
+def
+i
+a
+n fi
+u
+s n
+l
+t a
+t
+a
+s
+n b c
+l
+i
+e
+i l a i
+a
+t l y
+d to
+100 € , g
+ni
+d
+b
+Whatnext n
+50
+In our central scenario of a lasting energy crisis, there 1%
+are two different scenarios on fiscal policy: either EU
+0% 0
+governments continue to act in an uncoordinated way, or
+they set up a European fund (common debt) dedicated to
+the energy crisis. The second scenario is the most likely,
+for at least two reasons. Firstly, fiscal rules do not
+provide an adequate framework to effectively deal with Share of GDP Allocated funding, RHS
+thecurrentenergycrisis.Thechallengeofdiversifyingthe
+Source:AmundiInstituteasof31October2022.
+energy mix with no Russian gas is an EU-wide challenge
+Didier Borowski
+and requires a common response, as happened during the
+Covid-19 crisis. Rising bond yields are preventing Head of Macro Policy Research, Deputy Head of Global
+governmentsfromspendingunlimitedfunds. Macroeconomics, Amundi Institute
+10 Marketing material for professional investors only
+
+--- PAGE 11 ---
+INVESTMENT OUTLOOK | 2023
+CENTRAL BANKS IN FOCUS
+Markets will watch out for any sign of a hawkish-to-dovish shift
+Developed market central banks have hiked rates tightening will be considered too. Consequently, we have
+aggressively in 2022 to tame inflation pressures, but cutourterminalratefrom2.75%to2.50%.
+theyareunlikelytokeepthispacegoingin2023.
+The message on potential QT was dovish as well, as the
+The US Fed hiked its Fed Funds rates to 3.75-4.00% but topic was not discussed at the October meeting. PEPP
+does not want markets to interpret a slower pace of rate reinvestments should remain flexible up to end-2024. Over
+hikesgoingforwardasadovishpivot,inordertomakesure the next few quarters, the ECB balance sheet will shrink
+thatfinancialconditionsdonoteasefurther(positivemarket thankstoTLTROrepaymentandscheduledmaturities.
+reaction to October CPI data is a case in point).
+The BoE also hiked rates aggressively, reaching 3.00% in
+In light of the resilience of the US economy, the inflation
+October,alongwithsomedovishcommunication.Itsforward
+persistence and the Fed’s willingness to go into highly
+guidance acknowledged the need to tighten more, but less
+restrictive territory, we see a high probability of official
+than the level implied by markets. We expect rates to peak
+rates rising to a terminal policy rate of 5.25%, slightly
+at4.50%.
+abovewhatthemarketiscurrentlypricingin.
+MovingtoJapan,thedollar-yenexchangerateweakenedto
+HowFedhikesaffecttheUSeconomywillhingecriticallyon
+150, a 32-year low, prompting the Ministry of Finance to
+the terminal rate level.Wecompare the current level priced
+intervene on the FX market to slow such depreciation.
+in by the market (4.75/5%) against a 6.00% terminal rate
+scenario. The economic implications for the stress-level Meanwhile, the Bank of Japan (BoJ) had to protect its
+scenarioare:alonger-than-expectedUSrecession,ahigher yield-control targets by offering emergency Japanese
+unemployment rate (above 5% in 2024) which will bring GovernmentBonds(JGB)purchases.
+inflationbackto2%in2024.Regardingfinancialconditions,
+weforeseeastrongerdollar,higherratesandacontinuation Theunprecedenteddollarstrengthandmonetarypolicygap
+of the equity bear market, coupled with higher stress at a are exerting upward pressure on JGB yields, as a weaker
+corporatelevel. yenfeedsintostrongerimportedinflation,drivingmarketsto
+betthattheBoJwilleventuallyfollowupwithtightening.
+The ECB hiked rates as well, with its deposit rate raised to
+2.00% in late October. At this meeting, the ECB’s forward
+We do not expect anychange in the foreseeable future,
+guidance sounded dovish, suggesting a less aggressive
+as the BoJ appears ready to buy time, waiting for US
+path ahead. It highlighted how “substantial progress in
+ratestopeak.
+withdrawing monetary policy accommodation” has been
+achieved and that lagged effects from monetary policy
+US Fed Funds terminal rate will likely define the extent of economic pain
+2023 outcome 2024 outcome
+5,0 6
+4,5
+5
+4,0
+3,5 4
+3,0
+3
+% 2,5 %
+2 Corporate
+2,0
+defaults lead to
+1,5 financial
+1
+instability
+1,0
+0
+0,5
+0,0 -1
+4.75-5.00% 6.00% 4.75-5.00% 6.00%
+Source:AmundiInstitute.Dataisasof24October2022.Inbothscenarios,oncereachedthepeakinMarch2023,theterminalrateisleftonholdwithnopivot.
+11 Marketing material for professional investors only
+
+--- PAGE 12 ---
+INVESTMENT OUTLOOK | 2023
+CHINA’S ECONOMIC CHALLENGES
+2023 outlook hinges more on reopening than on housing
+Reopening:patienceisavirtue Housing:nearlyoutofwoods
+One of the main unsolved puzzles for markets in 2023 will The housing market is another major concern for investors.
+be when will China reopen its economy, as this matters on From the peak in Q4 2020 to Q3 2022, new home sales
+multiple levels, for China’s own growth, for regional trade, volumefell40%,wipingoutallgrowthfromthepreviousfive
+and for global inflation. Over the past two years, hopes and years.Themonthlysalesvolumedroppedbacktomid-2015
+disappointments have come and gone and market bets levels and government entities continued to step up their
+have become more and more reliant on the reopening easing efforts. In a year, mortgage rates declined by 162bp
+and 109bp, respectively, to 4.1% and 4.9%, for first and
+outcome.
+second home buyers. Now it takes on average 25 days for
+The frustrating process itself reflects the unpredictable
+an individual to gain a mortgage approval. Local purchase
+nature of the reopening question. Predictions on the street
+restrictionshavebeenrelaxedtocyclicallows.
+arehighlyspeculative.Wehave alowconvictiononvarious
+forecasts surrounding the zero-Covid-19 exit roadmap,
+Signsofstabilisationareemerging.TheQ3PBoCsurvey
+whichtheChinesegovernmentsaysdoesnotexist.
+shows that the share of households planning to buy homes
+Politicalwillingness is as much – if not more – relevant increasedforthefirsttimesincemid-2021.Newhomesales
+than the ramping-up of domestic treatments or booster volume, after seasonal adjustments, increased for the
+shots for the elderly. As Xi said himself, China puts its second consecutive month in September. Our trend
+people and their lives above everything else. This is a high estimate indicates that the fall has slowed significantly.
+bartoreach,consideringexistingmedicalresourcesandthe Meanwhile, high-frequency October data suggests the
+virus’rapidevolution. housing market has become more resilient to lockdown
+shocks, thanks to the continuous easing efforts from PBoC
+Most argue that the vaccination rate is a precondition for
+and the Ministry of Finance. This evidence points to a
+reopening, but we caution whether a high vaccination rate
+stabilisation of housing sales at end-2022. Hence, we
+will be enough. Taking Singapore as an example, 92% of
+hold the view that housing sales are near their cyclical
+the population has completed a two-dose vaccine regimen
+bottom. The transmission of housing policy easing has
+and 79% received booster shots. Still, 0.24% of the fully
+improved. In 2023, we expect housing sales to register a
+vaccinatedwithboosterrequiredoxygensupplementationin
+small gain and become less of a drag on GDP growth.
+generalwards,inintensive-careunits(ICU),ordied.
+Having said that, at a more structural level, a down-sized
+This translates into at least 3.1mn ICU beds or wards with housing market will not resume being the effective (if not
+ventilatorsinChina’scase.Thenumbercouldeasilyjumpto efficient)growthengineitusedtobeinthepast.
+over 10mn considering the difference in vaccine efficacy.
+However, China only has an estimated 60,000 ICU beds.
+Even it can increase the number of beds significantly, there Residential housing floor space sold, monthly, mn sqm
+will not be enough ICU nurses and doctors, who take a few
+yearstotrain. 200
+Even after China successfully boosts vaccinations for the
+elderly or starts importing Western mRNA vaccines, we
+need to be cautious, as a scenario featuring a significant
+150
+amount of deaths or strained hospitals is likely to stay. It
+appears to us that it is not the death rate, but the death toll
+that matters in the minds of China’s top leaders. This will m
+q
+have to change in future policy calculations, otherwise s
+n
+100
+Chinaislikelytoenduponamissionimpossible. m
+In 2023, the zero Covid-19 doctrine is likelyto stay. The
+‘dynamic clearing’ or ‘dynamic zero-Covid-19’ is set as a
+50 Sales set to return to their
+guiding principal for Covid-19 prevention and control, which
+long-term equilibrium in 2023
+is unlikely to change before China can declare victory
+~1.3tn sqm per annum
+against Covid-19. That victory could be when the WHO
+(2017-19 average 1.5tn)
+announcestheendofthepandemic.
+0
+8 0 2 4 6 8 0 2 4 6 8 0 2
+Despite the ongoing ‘dynamic clearing’ goal, we could 9 0 0 0 0 0 1 1 1 1 1 2 2
+9 0 0 0 0 0 0 0 0 0 0 0 0
+seeadjustmentsattheexecutionlevel.Weexpectthisto 1 2 2 2 2 2 2 2 2 2 2 2 2
+be a baseline scenario, i.e., disruptions without paralysing Residential housing floor space sold
+the whole economy. This assumption underpins our growth Trend estimate
+forecastforChina.
+Source:AmundiInstitute,CEICasof31October2022.sqm:squaremeters.
+The pace of recoveryis not great and much lower than
+Claire Huang
+pre-Covid-19levels,butarecessioncanbeavoided.
+Senior EM Macro Strategist, Amundi Institute
+12 Marketing material for professional investors only
+
+--- PAGE 13 ---
+INVESTMENT OUTLOOK | 2023
+INFLATION IN PORTFOLIO CONSTRUCTION
+How the “inflation-parity” approach could benefit investors
+For decades investors have not focused on aspects related As such, the ‘inflation parity’ concept allows these
+to inflation, as this was not on their radar. Unfortunately, differencesintheassetallocationtobefactoredin.
+2022 put this topic back in the spotlight and we believe this In 2022, returns gyration in several market segments (e.g.,
+will remain relevant in 2023 despite the expected slowdown sectors) occurred when inflation pressures shifted from
+ininflation. cyclical to services and labour. Services inflation forced CB
+to act aggressively, generating a less market friendly
+There are four key themes that investors should consider
+environment, where risky assets suffered significantly and
+whenassessingtheimpactofinflationdynamicsonportfolio
+traditional safe havens did not work properly. As we expect
+construction:
+servicesandotherpersistentinflationcomponentstopersist
+1. Inflation is more persistent and unpredictable than in2023,amorebalancedanddiversifiedportfolioshouldbe
+growth:inflationdynamicsarelessregularthangrowth among the primary focuses of 2023 asset allocation. The
+ones,withswingsandshiftsprovingmorepersistent; inflationparityconceptprinciplesare:
+2. Inflation is multi-faceted: different forces can
+1. A thematic asset allocation based on asset class
+generate inflation and, by nature, they can have
+correlations toallinflationsources.
+different impacts in terms of persistency in the swings,
+2. The allocation gives the same importance to the four
+preventinglinearmeanreversion.
+inflation sources (parity concept) balancing the
+3. Inflation is driven by both endogenous and
+traditionalcyclicaltiltwithlessgrowth-friendlyonessuch
+exogenous forces, meaning that some are originated
+as services, food and energy. This results in a less
+internally in the economic system, while others are
+concentrated allocation that helps mitigate
+external, e.g., due to a shock (positive or negative) in
+macroeconomicrisks.
+theeconomicsystem.
+3. Sensitivities to inflation sources are dispersed
+4. Central banks are more effective in addressing
+withinassetclassesand,specificallyinequities,ata
+endogenous forces and less effective in absorbing
+sector level (as some of them are directly impacted,
+external shocks; often, rather than absorbing shocks,
+including energy, staples and materials), at the regional
+they tend to exacerbate and amplify them in the
+level (given different sector composition), and at the
+economicsystem.
+factor level (e.g., preference for value in demand
+There are four important inflation sources to consider: inflation and for quality in less-market friendly
+cyclical (demand driven), services, energy and food. They environmentsduetoitspricingpowercapacity).
+originate from different factors and respond to different 4. Infrastructure–andrealassetsingeneral–aregood
+forces. Some reflect economic demand recovery (cyclical), inflation diversifiers as they exhibit stable correlation
+others often lead to a recession (e.g., services) due to dynamicsamidrisinginflation.
+aggressive CB response, while others (e.g., food and 5. In inflationary times, calibrating weights according to
+energy)mayendupinstagflation.Notsurprisingly,different an equal-weight approach based around assets’
+inflation sources and CB responses also result in different correlation to the various inflation sources can help
+asset class behaviour, due to varying sensitivity to these generateextraperformance.
+fourinflationarysources.
+Lorenzo Portelli
+Head of Cross Asset Strategy, Amundi Institute
+Different sources of inflation Asset class correlation to different inflation
+25% 50% sources
+% ,A 1 2 5 0 % % 3 4 0 0 % % n o m 6 - A cl s a s s e s t IG* HY* EMBI*Equity Gold l I i n n f k l. * Cash C C o yc m l. . I E n q fr . .
+M ht
+Y o Y
+h
+1
+5
+0
+%
+%
+1
+2
+0
+0
+%
+%
+M
+Y o Y Cyclical 17.0% 13.5% 0.0% 5.3% 17.
+-
+7% 16.6% -10.7% 8.5% -13.3%
+tn
+o m 0% 0% % ,
+A
+Service
+-41.9%-47.2%-21.7%-41.3%
+12.5%
+-13.8% 56.3% -6.0% -2.9%
+6- of
+-5% -10%e r Energy 7.0% 19.5% 28.8% 18.6% 27.8% 53.1% 25.9% 58.5% 24.0%
+n
+e
+-10% -20%g r
+-60.8%-52.7%-47.4%-32.6% 18.8%-17.4% 50.1% -18.1% -6.2%
+8147036925814703692 y Food
+6777888899900011112
+9999999999900000000
+1111111111122222222
+Correlation analysis is run from April 1999 to December 2021.
+Services less energy services Food Cyclical (commodities ex food and energy) Energy, RHS
+Source: Amundi Institute, Bloomberg. Data is as of 30 September 2022. *FI risk premium vs. US government bonds. Please refer to Resilient multi-asset
+portfoliosinaninflationaryregimeforfurtherinformationonAmundi’sInflationPhazer.
+13 Marketing material for professional investors only
+
+--- PAGE 14 ---
+ASSET CLASS VIEWS
+Asset class Current Outlook for H1 2023
+stance
+UnitedStates =/+ =/+ Stable
+US value + + Stable
+M
+R
+O US growth - -/= Improving
+F
+T
+A
+L Europe - =/+ Improving
+P
+Y
+T Japan = = Stable
+IU
+Q
+E China = =/+ Improving
+Emerging markets = =/+ Improving
+ex-China
+US govies =/+ + Improving
+US IG corporate =/+ + Improving
+M US HY corporate - -/= Improving
+R
+O F European govies = =/+ Improving
+T (core)
+A
+L P European govies -/= =/+ Improving
+E (peripherals)
+M
+O Euro IG corporate = =/+ Improving
+C
+N
+I
+D
+Euro HY corporate - -/= Improving
+E
+X IF China govies =/+ =/+ Stable
+EM bonds HC =/+ + Improving
+EM bonds LC = =/+ Improving
+R Commodities =/+ =/+ Stable
+E
+H
+T O Currencies (USD vs. + = Deteriorating
+G10)
+-- - = + ++
+Source: Amundi as of 16 November 2022.
+Negative Neutral Positive
+1144 MMaarrkkeettiinngg mmaatteerriiaall ffoorr pprrooffeessssiioonnaall iinnvveessttoorrss oonnllyy
+
+--- PAGE 15 ---
+INVESTMENT OUTLOOK | 2023
+DEVELOPED MARKET EQUITIES
+Cautious stance confirmed; bottom might materialise in mid-2023
+2022hasbeenabear-marketyear,mainlydrivenbyasharp S&P 500 and three-month/ten-year Treasury spread
+fall in price-earnings (PE) ratios. Earnings downgrades
+eventuallystarted,mainlydrivenbymargincompression.As
+S&P 500 bottom UST 3m-10y bottom
+such, caution is still needed, but a bottom in 2023 12
+should lead to a radical reversal of positions. Two
+3200
+conditions are needed: primarily, the Fed has to shift its 10
+focusfromtoomuchinflationtonotenoughgrowth;equities
+cyclically bottom out during bull steepening, not flattening. 1600 8
+Secondly, the process of earnings revisions has to be more 3
+e m
+advanced. Often, it leads to a volatility spike of HYspreads la c 800 6 1-
+a
+O
+n
+n
+d
+r
+o
+e
+u
+g
+t
+i
+f
+o
+lo
+n
+w
+s
+s
+,
+.
+the shift to profit downgrades makes the case
+s
+g
+o l ,0 400 4 e r p s
+y 0
+for the United States over Eurozone for now but non-US 0 a
+5 2 d
+equityis expected to outperform later in the recoverystage. P & 200 % ,
+On styles, quality value is a core position, but should S 0
+eventuallyleavethefloortodeepvalue.Highdividendsand
+lowvolatilityarecomplementarybutwillhavetobereplaced 100 -2
+by small caps and high beta later on. On sectors,
+defensives should continue to outperform a while but, 50 -4
+looking into granularity, some quality cyclicals are already 925814703692581470
+677788899990001112
+worthconsidering. 999999999990000000
+111111111112222222
+Recession S&P500
+ Markettriggers:risingratesandprofitdowngrades.
+UST 3m-10y spread, RHS 0, RHS
+ Towatch:credibleFedpivot,volatilityspike.
+Source:Amundi Institute, Refinitiv.Dataisas of 18 October 2022.HY: high
+ Risks: geopolitics, deeper- and longer-than-anticipated
+yield.
+recession.
+DEVELOPED MARKET FIXED INCOME
+CB to set the course for credibility, anchoring inflation expectations
+In a deteriorating growth environment, CB will move away
+Market-implied path for Fed Funds rate target
+frompeak monetarysynchronisation. Thetrade-offbetween
+5
+inflation and financial stability will increase. However, CB
+will only be credible when implementing dovish surprises if
+inflation rates progress satisfactorily towards targets.
+Otherwise, a more accommodative tone is likely to be
+4
+accompanied by increased pressure on currencies and
+inflation expectations. We expect the Fed to pause at
+5.25%in March 2023, supported by core inflation being on
+a downward trend and by cooling labour market conditions.
+3
+Risks remain for an upward revision of terminal rates given
+the resilience of the US economy and the persistence of
+inflation.TheFeddovishpivotwillreducepressureonother %
+G10 CB. However, persistent inflation driven by energy
+2
+priceswillremainakeydeterminant.
+Amundi expectation of Fed
+In the coming months, the short end of the US yield curve Funds terminal rate:
+should remain under pressure. At some point in 2023, the 5.25% in March 2023
+deterioration in growth prospects will put downward 1
+pressureonlong-termrates.IntheEurozone,theimpactof
+the new supply of government debt should be monitored
+closely.Weexpectcreditspreadstowidenanddefaultrates
+to rise moderately. We favour IG over HY with no main 0
+regionalrelativepreferences. m m m y m m m y y
+3 6 9 1 5 8 1 2 3
+1 1 2
+ Market triggers: inflation peak, Fed pivot, European
+fiscalpolicy. May-22 Nov-22
+ Towatch:inflation,labourmarket,energyprices. Source:AmundiInstitute,Bloomberg.Dataisasof14November2022.
+ Risks:USrecession,persistentenergycrisisinEurope.
+15 Marketing material for professional investors only
+
+--- PAGE 16 ---
+INVESTMENT OUTLOOK | 2023
+EMERGING MARKETS
+Stabilising global conditions will likely improve sentiment in EM assets
+As we head into 2023, the EM domestic macroeconomic EM sovereign spreads: possible tightening ahead with
+backdrop is expected to show subdued growth – even the Fed pivot
+recession in several cases – and relatively high, albeit
+moderating, headline inflation. Such a scenario, which is 12-month
+1200 target
+unfavourableforriskyassets, willjoinforceswithtightening
+global financial conditions, triggering a late-cycle bear
+1000
+market, with widening EM spreads and likely higher EM
+900
+localbondyieldsintheveryshortterm.
+p 800
+The aforementioned gloomy backdrop should result in b
+already stretched sovereign balance sheets sinking under
+,d
+a
+e 600
+the weightofpoornegotiationoutcomesbetweensovereign r p 510
+debtorsandtheirmaincreditors(theCommonFrameworkis S
+barely proceeding). The pandemic, the energy and food 400
+price shocks, and rising interest rates have pushed many
+200
+countries onto an unsustainable debt path, especially low- 200
+incomecountries.TheEMBIdiversifiedspreadhaswidened
+to levels not seen since the 2008 Great Financial Crisis
+0
+(GFC) and the 2020 Covid-19 crisis. Geopolitical tensions 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2
+0 0 1 1 1 1 1 1 1 1 1 1 2 2 2
+have been showing up in high market volatility and are 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+adding to risk premium. Against this backdrop, IG spreads
+EMBI IG EMBI HY EMBI Sov
+have widened much less than HY ones. For 2023, we
+foresee narrowing EMBI spreads (bysome 50bp), driven
+Source: Amundi Institute, Bloomberg. Data is as of 11 November 2022.
+mostly by the HY segment on the back of a favourable
+RussiahasbeenexcludedfromallofJPMorgan'sfixedincomeindiceson
+EM-DM GDP growth gap (for the former) and stabilising March31,rebalancingallindices.EM:emergingmarkets.CEEMEA:Central
+financialconditionsthankstomoderatinginflation. EasternEurope,MiddleEast,andAfrica.
+the asset class’s total return, especially commodity
+Overthecourseof2023,EMLCbonds(GBI)shouldbenefit
+currencies, even though volatility should remain elevated.
+from falling yields, resulting in a positive total-return
+Overall in 2023, equity returns are expected to be
+performance. GBI yields have surprised to the upside for
+marginally positive. In the short term, the macro financial
+most of 2022 and still, in the very short term, the adverse
+backdrop suggests a preference for quality and profitability,
+backdropisnotfullypricedinorcouldunveilfurtheradverse
+mainlyLatamandqualityinEMAsia,suchasIndonesia.As
+surprises (e.g., GEM monetary policy tightening not over
+we move into the second half of 2023, we expect equity
+yet, US yields rising further, weak EM FX). However, EM
+performance to improve – though below its historical
+inflation seems to have peaked in late 2022 (in GBI-
+average – suggesting a shift in valuation styles (EMEA and
+weighted terms) and real yields have been bottoming out.
+EM Asia, focus on themes and countries linked to
+As such, over a three-to-six-month horizon, nominal
+technology, such as Korea). Following the strong recovery
+yields should be lower. A more cautious stance is
+in YoY earnings growth experienced in H1 2022, YoY
+warranted on EM Asian rates, where CB started hiking
+earnings are now slightly negative. We expect GEM
+later and will finish later and FX reserves positioning has
+earningstorecoverin2023,mostlyinthesecondhalfof
+worsened due to dollar strength and rising US rates. In
+the year.SuchamoveshouldbedrivenbyEMAsia,which
+areas where the monetary policy cycle is more mature,
+islessaffectedbyanybaseeffects.
+inflation should decline earlier and more persistently and
+brighter growth conditions should return in H2 2023. Here,  Markettriggers:globaleconomicandprofitslowdown.
+we have moderately positive views on EMEA and Latam.  Towatch:inflationpeak(Latamfirst)andnextFedpivot.
+EM currencies appear undervalued and should provide a  Risks: geopolitics and policy mistakes leading to a
+slightly positive contribution – in GBI-weighted terms – to recession.
+Key EM convictions
+Challenging macro-financial backdrop should evolve gradually into a more constructive environment.
+The geopolitical backdrop is heightening fragmentation; different alliances to watch.
+Caution in the short term. Constructive on HC even though we see less upside than previously expected (watch
+forcatalystsofliquiditywithdrawalexacerbatingdistressedsituations,notsystemicones).
+Stabilising global macro-financial backdrop should put EM asset classes under the spotlight. On local currency
+duration, some Latam and CEEMEA countries still offer attractive valuations. EM equity and FX allocation to
+increaseonamorefavourablebackdrop.EquityvaluationsmoreattractivethanFX.
+16 Marketing material for professional investors only
+
+--- PAGE 17 ---
+INVESTMENT OUTLOOK | 2023 INVESTMENT OUTLOOK | 2023
+ESG THEMES FOR 2023
+1 2
+Top-down view from macro / Cyclical view and its ESG impact
+geopolitical / regulation
+From a top-down standpoint, key themes  A decelerating economy with high
+are: inflation tends to favour ESG with a
+best-in-class approach, to avoid the
+ Energy transition (reinforced after the
+exclusion of sectors that could benefit
+crisis), with opportunities in both equities
+frominflation.
+andgreenbonds.
+ Social themes may be back infocus, as
+ Food securityacrossassetclasses;
+the deteriorating labour market and
+ Infrastructure in focus to support the
+ongoing high inflation will call for more
+energy transition and the geopolitical re-
+attentiontowards social well-being.
+shoringtrend.
+3 4
+Deep dive into key E, S and G
+Net zero impact
+subthemes
+ Search for improvement in E, S andG;  Commitment towards net zero will be
+look for key material factors on the E, S, crucial in 2023, as investors will need to
+and G pillars within each sector, where acceleratethis effort.
+improvements could lead to value
+repricing.
+Source: Amundi as of 26 October 2022.
+1177 MMaarrkkeettiinngg mmaatteerriiaall ffoorr pprrooffeessssiioonnaall iinnvveessttoorrss oonnllyy
+
+--- PAGE 18 ---
+INVESTMENT OUTLOOK | 2023
+DEVELOPED MARKETS CURRENCIES
+USD: from a lack of positive catalysts to excessive valuation
+The USD is becoming vulnerable to pullbacks, as it is
+G10 FX valuations
+expensive compared to historical standards and the Fed’s
+tightening cycle is entering its mature stage. Yet, with Current
+Policy Sensitivity Terms of Reaction
+inflation remaining the Fed’s top priority and the economic Exchange valuat.
+rate to lower trade to credible
+slowdownpossiblyextendingglobally,thingsmaygetworse rates vs. fair forecast growth improv. Fed pivot
+value
+before improving. The greenback is the only high-yielding
+currency with safe-haven features and, given the structural NOK
+shocks elsewhere (Eurozone, United Kingdom, and Japan),
+we see no credible catalysts for a proper mean AUD
+reversiontowardsfairvaluation.
+CAD
+With no sharp fall in US inflation, we expect the USD to
+USD
+prove strong in the short run and see inflection points
+aroundtheendoftheFed’stighteningcycle.TheFedwillbe NZD
+keyin defining relative winners and losers.With no credible
+pivotexpectedin2023,JPYandCHFcouldbesafespotsto CHF
+start reducing USD exposure, while riskier positions may
+GBP
+come through at a later stage. Yet financial instability can
+quickly turn into a dominant market mover, given the thin SEK
+level of USD reserves across international players. Any
+attempt by the Fed or the US Treasury to mitigate the EUR
+burden (by pumping liquidity into the system) would be a
+JPY
+clear-cuttriggerforabroaderUSDsell-off.
+ Market triggers: global economic slowdown, tightening Source:AmundiInstituteasof7November2022.Forillustrativepurposes
+Fed. only on historical currency response to selected factors. Dark green/red
+reflect high positive/negative sensitivity to the related factors and/or
+ Towatch:inflationandglobalgrowthdynamics.
+under/overvaluation.Lightgreen/redreflectlimitedpositive/negativereaction
+ Risks: financial instability, inconsistent policy mix, and/orunder/overvaluation.
+geopoliticaltensions.
+EMERGING MARKETS CURRENCIES
+EM central banks are in no rush to ease
+Acting as the most powerful shock absorber across EM EM FX outlook
+asset classes, EMFX have been showing oversold signals.
+With the USD expected to depreciate mildly and based on -20% Cheap
+COP
+attractive valuations, the outlook is supportive for the ZAR KRW
+assetclassin2023.Moderatinginflationaccompaniedbya CLP MYR CNY
+-10% THB TWD
+prudent monetary policy shift(starting with the most mature IDR PEN
+hikingcycles)willresultinneutral/positiverealrates,which PLN ILS BRL PHP
+aremoreappealingthantheextremelynegativelevelsseen n 0% I
+i
+t
+n
+he
+th
+E
+e
+M
+rec
+C
+e
+B
+nt
+s
+p
+ta
+a
+n
+s
+c
+t.
+e
+O
+(
+n
+vis
+th
+-a
+e
+-v
+o
+is
+the
+in
+r
+fl
+h
+a
+a
+ti
+n
+o
+d
+n
+,
+a
+a
+n
+p
+d
+re
+th
+m
+e
+at
+F
+u
+e
+re
+d)
+sh
+c
+i
+o
+ft
+ul
+i
+d
+n o z ir
+o HUF
+RON RUB
+h CZK
+trigger some underperformance due to existing m 10% MXN
+vulnerabilities,ashighlightedbytwin-deficitpositions. 2 1
+ta
+While we do expect volatility to be high, supportive n 20%
+o Bubble size:
+elementscantranslateintopositiveperformanceforthe ita
+Risk-adjusted
+mostundervaluedcurrencies,startingwithLatam,when u
+la 30%
+the leading tightening cycle will finally result in slowing v
+inflation.Investorsshouldcloselymonitorthepaceofeasing r e
+d
+on the back of moderating inflation in order to avoid ending n u 40% Rich
+upinrealrateswhichmayturnouttobelessattractivethan /r
+e TRY
+expected. v O
+50%
+  M To ar w k a e t t c t h ri : g i g n e fla rs ti : o g n lo p b e a a l k e a c n o d no n m ex ic tF a e n d d p p i r v o o fi t t . recession. More -1,5 -1,0 -0,5 0,0 0 L ,5 ess 1,0
+vulnerable External vulnerability Index vulnerable
+ Risks: geopolitics and policy mistakes leading to a
+recession.
+Source:AmundiInstitute.Dataisasof2November2022.
+18 Marketing material for professional investors only
+
+--- PAGE 19 ---
+INVESTMENT OUTLOOK | 2023
+COMMODITIES
+Tight oil markets, gold mean reversion
+While oil prices may remain capped by slowing growth in
+Gold around the Fed pivots
+early 2023, supply issues could return to the fore. Tight
+OPEC+ production and spare capacity, the EU ban on 108
+Russian crude, low oil stocks and rebuilding US strategic
+reserves could lead to supply scarcity. Brent prices could
+trade around $95/barrell on average, with upside risks 106
+in late-2023. Given US producers’ improving financial
+health, US output could matter again. Refiled storage and
+EU solidarity efforts suggest hard gas rationing will not be
+104
+necessarythiswinter.Yet,withnoquickfixestoreplacelost e
+c
+Russian supply, curbing demand will be required, keeping ir
+p
+gas prices high until late 2023 (€100-150Mwh on average). d
+e 102
+Base metals could be pressured in H1, due to their s
+a
+cyclicality. In H2, a moderating dollar and rising b e
+R
+productioncostscouldhelparally.Longer-runprospects
+remain promising. Supply may struggle to meet demand 100
+fromtheenergytransition,whichcouldaccelerateintheEU.
+When nearing the Fed pivot, focus should turn on slowing
+growth. Gold would be in demand, with valuation and 98
+positioningprovidingattractiveentrypoints.
+ Market triggers: investors looking through the
+96
+recession.
+-270 -180 -90 0 90 180 270 360
+ Towatch:ratepeak,coreinflationtrends.
+ Risks: Chinese property markets, US oil production up. Days around Fed pivot
+Source:AmundiInstitute,Comex.Dataisasof2November2022.Datastarts
+from1January1967andisrebasedto100.Goldpriceisrebasedto100=Fed
+pivotdatesince1965.
+HEDGE FUNDS
+Intensifying search for alpha
+Hedge funds’ appeal is likely to persist in 2023. The
+Hedge fund strategies outlook
+multi-year bond bull market has likely ended, making - N +
+diversification more challenging. Given their low volatility,
+market beta and sensitivity to duration, hedge funds are L/S equity Directional
+attractive. For 2023, the table on the right gives an
+overview oftheoutlookfordifferentstrategies.Besides,
+Market neutral
+higher short-term yields provide a growing return
+contribution for hedge-funds, which are long cash. Rising Event-driven Merger arbitrage
+geopolitical risks, peaking globalisation, the energy
+Special situations
+transition, ballooning sovereign debt, and ageing population
+would all contribute to above-par inflation, sub-par growth, FI arbitrage L/S US credit
+shortereconomiccycles,andabove-parassetvolatility.
+L/S EU credit
+Thus,amidmildertraditionalassets’returns,thesearchfor
+alphawouldintensify.Forseveralyears,alphageneration L/S EM credit
+was eroded by a series of atypical shocks, including the
+RelativeFI arbitrage
+trade war, Brexit, the pandemic, supply-chain disruptions,
+and anomalies from massive stimulus. We expect some of Global macro Discretionary
+thesehurdlesto lift.Shrinkinggloballiquidity wouldresult in
+Multi-strategy
+greater asset dispersion, sharper valuation discrimination,
+more fundamental pricing, and more room for thematic
+CTAs
+trading,whichwouldbodewellforalpha.
+ Markettriggers:continuedliquiditytighteningandasset 3m stance 6m trend
+valuationsreset.
+ Towatch:ratepeak,corporateactivity.
+ Risks:fastmarketrally,another‘atypical’shock. Source:AmundiInstitute.Dataisasof2November2022.
+19 Marketing material for professional investors only
+
+--- PAGE 20 ---
+INVESTMENT OUTLOOK | 2023
+PRIVATE MARKETS
+Shields against inflation and low growth
+The current environment of rising rates, decelerating global The lower lending activity from banks also affects the
+growth and ongoing sustained inflation will continue to put private equity space where transaction volumes and
+corporate earnings under pressure, potentially leading to pricing are slowing, a trend that we expect will continue for
+further market adjustments across the board. Against this some time. In fact, the slowdown is mainly due to the
+backdrop,investorsshouldconsiderprivatemarketstoseek difficulty in finding financing from banks. Despite this,
+exposure to assets that appear more resilient in this phase sectors such as healthcare and technology have trading
+(i.e., infrastructure), while also starting to look for longer levels only marginally lower than those that existed before
+termopportunitieswithaveryselectiveapproachgiven the crisis. Thesecompanies are experiencingstronggrowth
+the likely increased dispersion of returns within each trends and usually protect from higher inflation due to
+assetclass.Indeed,thereisnosuchthingasonesingle pricingpower. Despitedecliningpricesandalackoftrading
+privateassetsmarket. across many sectors, we believe that over the next five
+years–thetypicalinvestmentperiodofaprivateequityfund
+Infrastructure investment can provide a shield as well as – private equity markets will start to offer some selective
+enhance portfolio diversification. Strong volume growth, as entrypointsforinvestorswithanappropriatetimehorizon.
+wellasstablepricingisveryevident,whilethereareseveral
+growth trends that will support this area of investing in the Real estate, another good diversifier within a portfolio,
+yearaheadandbeyond.Forinstance,decarbonisationisa should profit from both indexed rents and resilience in the
+key focus of governments, but private capital is needed to demand for the best buildings in terms of location and
+complement public funding. Massive new investments are energyperformance. However, globally this benefit maynot
+required, not only in building solar plants and wind farms, besufficienttooffsettheimpactofexpectedyieldincreases,
+but in the digitalisation of networks as they adapt to new at least in the first months of 2023. For new investments in
+types of power generation. Furthermore, for EU leaders to existing buildings, revised valuations nevertheless create
+achieve energy independence from Russia and fossil opportunities.
+fuels, substantial new infrastructure investment will be
+required. The deconsolidation of assets by corporates Tosummarise,thebuy-and-holdnatureofinvestinginthese
+and governments is also a key growth driver. As soon as asset classes, and their ability to absorb or pass on cost
+such an asset enters the market, value can be created increases means that they can provide protection against
+through strategies such as management optimisation or inflation and low growth. Furthermore, they offer
+contract renegotiation. Turning to inflation, infrastructure opportunities to find yield and access returns, although
+exposure can protect against it by generating indexed cash selectively. We believe they will play an increasingly
+flows: for example, long-term contracts awarded by important role for investors who are looking for attractive
+regulators to toll road operators often contain clauses for realreturns.
+adjusting tolls, so as to link the company’s revenue to
+inflation. In addition, for some companies a link with energy
+prices can provide a shield, as those prices are a large Real assets outlook for 2023 and beyond
+componentofinflation.
+Private Private Real
+Infrastruc.
+With regard to private debt, this asset class has equity debt estate
+experienced some repricing, as spreads have widened, but
+it also continues to benefit from fundamentals remaining Outlook for ++ -/= + -/=
+strong.Currently,theprivatedebtmarket’sliquiditypremium 2023
+is low compared to listed corporate debt, but we are very
+confident that it will increase again.When there has been a
+Entry
+largemoveinthelistedmarket,aswehaveseenrecently,it
+opportunities = + + +
+takes times for private debt valuation levels to adjust.
+over the next
+Overall, current valuations offer an attractive entry point for
+five years
+investors with medium to long-term investment horizons.
+Furthermore, private debt is typically structured around
+floating-rate notes, offering protection against rising rates Potential for
+and inflation. As interest rates rise, the corporate debt inflation ++ = ++ +
+burdencanbeheavy, butdirectlending fundsoften request protection
+corporates to hedge their interest rate risk. Looking ahead,
+these funds should benefit from strong bargaining power in
+negotiating lending contracts, as bank-financing remains Diversification +++ + + ++
+benefit
+constrained. In fact, banks are less active in the lending
+space, due to a notable amount of leveraged loans on their
+balance sheets that have declined in value, making the Source: Amundi Real Assets qualitative assessment as of 8 November
+banksreluctanttosellthem. 2022. Infrastruc. = Infrastructure. For illustrative purposes only, on a
+scalerangingfrom---to+++.
+20 Marketing material for professional investors only
+
+--- PAGE 21 ---
+INVESTMENT OUTLOOK | 2023
+MACROECONOMIC FORECASTS
+Macroeconomic forecasts as of 3 November 2022
+Real GDP growth,YoY, % Inflation (CPI,YoY, %)
+Annual averages, %
+2022 2023 2024 2022 2023 2024
+UnitedStates 1.9 0.8 0.6 8.1 4.1 2.3
+Japan 1.6 0.5 1.2 2.3 1.3 0.4
+Eurozone 3.2 -0.7 1.1 8.7 7.5 3.2
+Germany 1.7 -0.7 1.1 9.0 7.6 3.1
+France 2.5 0.0 1.0 6.1 5.3 3.0
+Italy 3.7 -0.4 0.8 8.9 8.1 3.2
+Spain 4.5 0.3 1.3 8.6 4.3 3.4
+United Kingdom 4.4 -0.6 1.1 9.1 7.7 3.8
+Brazil 3.1 0.9 1.6 9.3 4.3 4.1
+Mexico 2.6 0.7 0.6 8.0 5.8 4.2
+Russia -3.3 -1.5 2.0 13.9 7.5 4.5
+China 3.2 4.5 4.3 2.1 2.3 2.1
+India 7.3 5.6 6.0 6.9 6.3 6.0
+Indonesia 5.3 4.8 4.7 4.3 5.0 4.1
+South Africa 1.7 1.2 1.5 6.8 5.6 4.8
+Turkey 5.3 3.1 4.4 73.1 53.7 24.1
+Developed countries 2.6 0.3 1.0 7.6 5.1 2.5
+Emerging countries 4.0 3.5 3.9 8.8 6.9 4.8
+World 3.4 2.2 2.7 8.3 6.2 3.9
+Central bank official rates forecasts, %
+4 November 2022 Amundi +6m. Consensus +6m. Amundi+12m Consensus +12m.
+UnitedStates* 4.00 5.00 5.10 5.25 5.00
+Eurozone** 1.50 2.50 2.80 2.50 3.00
+Japan -0.10 -0.10 0.02 -0.10 0.09
+UnitedKingdom 3.00 4.50 4.50 4.50 4.50
+China*** 3.65 3.65 3.65 3.65 3.65
+India 5.90 6.15 6.20 6.15 6.15
+Brazil 13.75 12.25 13.10 10.00 10.80
+Russia 7.50 7.00 7.00 6.50 6.75
+Source: Amundi Institute. Forecasts are as of 4 November 2022. CPI: consumer price index. *: Upper Fed Funds target range. **: Deposit rate. ***: One-year loan
+prime rate.
+21 Marketing material for professional investors only
+
+--- PAGE 22 ---
+INVESTMENT OUTLOOK | 2023
+FINANCIAL MARKET FORECASTS
+Bond yields
+Two-year bond yield forecasts, %
+11 November 2022 Amundi +6m. Forward +6m. Amundi+12m. Forward+12m.
+UnitedStates 4.42 4.50/4.70 4.71 4.30/4.50 4.57
+Germany 2.09 1.80/2.00 2.11 1.80/2.00 1.69
+Japan -0.06 -0.10/0.00 -0.01 -0.10/0.00 0.01
+United Kingdom 3.07 3.10/3.30 3.08 3.20/3.40 3.27
+Ten-year bond yield forecasts, %
+11 November 2022 Amundi +6m. Forward +6m. Amundi+12m. Forward +12m.
+UnitedStates 3.87 4.00/4.20 4.18 3.90/4.10 4.17
+Germany 2.11 2.30/2.50 2.29 2.30/2.50 2.16
+Japan 0.24 0.10/0.30 0.37 0.10/0.30 0.47
+United Kingdom 3.36 3.60/3.80 3.42 3.60/3.80 3.50
+Equities forecast 12m. forward
+MSCIindex Pacific ex-
+US Europe EMU UK Japan World World AC
+levels at Japan
+11 Nov. 2022 3796 1740 239 2102 1213 1266 2674 619
+Lower bound 3260 1540 200 1920 1080 1090 2320 550
+Upper bound 4160 1850 260 2220 1300 1340 2910 680
+Exchange rates
+Exchange rates forecasts vs. USD
+11 November 2022 Amundi +6m. Consensus +6m. Amundi+12m. Consensus +12m.
+EUR/USD 1.03 0.96 1.01 1.04 1.04
+USD/JPY 139 140 140 129 134
+GBP/USD 1.18 1.10 1.13 1.17 1.18
+USD/CHF 0.94 0.95 0.98 0.95 0.97
+USD/NOK 9.93 10.50 9.93 9.45 9.17
+USD/SEK 10.37 11.10 10.67 9.92 9.72
+USD/CAD 1.33 1.38 1.35 1.30 1.32
+AUD/USD 0.67 0.65 0.66 0.71 0.68
+NZD/USD 0.61 0.58 0.60 0.62 0.63
+USD/CNY 7.10 7.10 7.15 6.80 7.03
+Exchange rates forecasts vs. EUR
+11 November 2022 Amundi +6m. Consensus +6m. Amundi+12m. Consensus +12m.
+EUR/USD 0.99 0.92 1.00 1.04 1.05
+EUR/JPY 144 135 141 134 139
+EUR/GBP 0.87 0.88 0.88 0.89 0.88
+EUR/CHF 0.97 0.92 0.99 1.00 1.00
+EUR/NOK 10.27 10.13 10.10 9.87 9.85
+EUR/SEK 10.74 10.70 10.80 10.36 10.50
+EUR/AUD 1.54 1.48 1.53 1.47 1.53
+EUR/NZD 1.69 1.65 1.68 1.67 1.65
+EUR/CNY 7.34 6.85 7.22 7.10 7.31
+Source: Amundi Institute. Forecasts are as of 11 November 2022.
+22 Marketing material for professional investors only
+
+--- PAGE 23 ---
+INVESTMENT OUTLOOK | 2023
+AUTHORS
+Chiefeditors Editors,AmundiInstitute
+MonicaDEFEND,HeadofAmundiInstitute Claudia BERTINO, Head of Investment Insights & Publishing
+VincentMORTIER,GroupChiefInvestmentOfficer Laura FIOROT, Head of Investment Insights & Client Division
+MatteoGERMANO,DeputyGroupChiefInvestmentOfficer
+Research team, Amundi Institute
+Valentine AINOUZ, CFA, Head of Global Fixed Income Strategy
+Mickael BELLAICHE, Fixed Income and Credit Research Strategist
+Alessia BERARDI, Head of Emerging Macro Strategy
+Jean-Baptiste BERTHON, Senior Cross Asset Strategist
+Investment platforms leadership teams Sergio BERTONCINI, Senior Fixed Income Research Strategist
+Amaury D’ORSAY, Head of Fixed Income Pierre BROUSSE, Analyst
+Kasper ELMGREEN, Head of Equities Didier BOROWSKI, Head of Macro Policy Research, Deputy Head of
+John O’TOOLE,Head of Multi-Asset Investment Solutions Global Macroeconomics
+Francesco SANDRINI, Head of Multi-Asset Strategies Federico CESARINI, Head of DM FX
+Yerlan SYZDYKOV, Head of Emerging Markets John COADOU, Equity Strategist
+Kenneth J. TAUBES, CIO of US Investment Management Debora DELBO', Senior EM Macro Strategist
+Silvia DI SILVIO, Senior Cross Asset Strategist
+Patryk DROZDZIK, Senior EM Macro Strategist
+Delphine GEORGES, Senior Fixed Income Research Strategist
+Karine HERVE’, Senior EM Macro Strategist
+Claire HUANG, Senior EM Macro Strategist
+Jung Hun KIM MOON, CFA, Senior Cross Asset Strategist
+Valérie LETORT, Economist
+Eric MIJOT, Head of Global Equity Strategy
+Shail NATHOO, EM Research Analyst (V.I.E.)
+Investment Insights & Client Division, Amundi Institute Lorenzo PORTELLI, Head of Cross Asset Strategy, Head of Research
+Pol CARULLA, Investment Insights & Client Division Specialist at Amundi Italy
+Anna ROSENBERG, Head of Geopolitics
+Ujjwal DHINGRA, Investment Insights & Client Division Specialist
+Paula NIALL, Investment Insights & Client Division Specialist Joao TONIATO, Senior Equity Strategist
+Francesca PANELLI, Investment Insights & Client Division Specialist Annalisa USARDI, CFA, Senior Economist
+Tristan PERRIER, Macroeconomist & Investment Insights Specialist Sosi VARTANESYAN, Senior Sovereign Analyst
+AMUNDI INSTITUTE
+In an increasingly complex and changing world, investors have expressed a critical need to understand better their
+environment and the evolution of investment practices in order to define their asset allocation and help construct their
+portfolios. Situated at the heart of the global investment process, the Amundi Institute's objective is to provide thought
+leadership, strengthen the advice, training and daily dialogue on these subjects across all assets for all its clients –
+distributors,institutionsandcorporates.TheAmundiInstitutebringstogetherAmundi’sresearch,marketstrategy,investment
+insightsandassetallocationadvisoryactivities.ItsaimistoprojecttheviewsandinvestmentrecommendationsofAmundi.
+23 Marketing material for professional investors only
+
+--- PAGE 24 ---
+INVESTMENT OUTLOOK | 2023
+Q2 2021 | May 2021
+.
+.
+..
+Sourcescorrelationanalysispage13:
+.
+Theanalysisisbasedonthefollowingindices:Equity:S&P500index,Governmentbonds:JPMUSallmaturity,USIGandHY:ICEBofA
+.
+corporateIGandHYindices,EMbonds:JPMorganGEMindex,Inflationlinkers:Bloombergallmaturitiesinflation-linkedbonds,Cash:
+UScashtotalreturn,Gold:goldspotpriceinUSD.
+DefinitionsofFXshowedinbottomchartonp.17:
+BRL:Brazilianreal,PEN:Peruviansol,ILS:Israelishekel,IDR:Indonesianrupee,CLP:Chileanpeso,ZAR:SouthAfricarand,INR:Indian
+rupee,COP:Colombianpeso,COP:Philippinespeso,THB:Thaibaht,PLN:Polishzloty,HUF:Hungarianforint,TWD:Taiwandollar,RUB:
+Russianruble,CZK:Czechkrona,CNY:Chineseyuan,RON:Romanianleu,MYR,Malaysiaringgit,KRW:Koreanwon,MXN:Mexicopeso,
+TRY:Turkishlira.
+Definitionsandabbreviations:
+Alpha: The additional return above the expected return of the beta-adjusted market return; a positive alpha suggests risk-adjusted value is
+added by the money manager compared with the index.
+Asset purchase programme: A type of monetary policy wherein central banks purchase securities from the market to increase money
+supply and encourage lending and investment.
+Basis points: One basis point is a unit of measure equal to one one-hundredth of one percentage point (0.01%).
+Beta:Betaisariskmeasurerelatedtomarketvolatility,with1beingequaltomarketvolatilityandlessthan1beinglessvolatilethanthe
+market.
+Correlation: The degree of association between two or more variables; in finance, it is the degree to which assets or asset class prices
+have moved in relation to each other. Correlation is expressed by a correlation coefficient that ranges from -1 (always move in opposite
+direction)through0(absolutelyindependent)to1(alwaysmoveinthesamedirection).
+Creditspread:ThedifferentialbetweentheyieldonacreditbondandtheTreasuryyield.Theoption-adjustedspreadisameasureofthe
+spreadadjustedtotakeintoconsiderationthepossibleembeddedoptions.
+Currency abbreviations: USD: US dollar, JPY: Japanese yen, GBP: British pound, EUR: euro, CAD: Canadian dollar, SEK: Swedish
+krona,NOK:Norwegiankrone,CHF:SwissFranc,NZD:NewZealanddollar,AUD:Australiandollar,CNY:Chineserenminbi.
+Curve flattening: A flattening yield curve may be a result of long-term interest rates falling more than short-term interest rates or short-term
+rates increasing more than long-term rates.
+Curve steepening: A steepening yield curve may be a result of long-term interest rates rising more than short-term interest rates or short-
+term rates dropping more than long-term rates.
+Cyclical vs. defensive sectors: Cyclical companies are companies whose profit and stock prices are highly correlated with economic
+fluctuations. Defensive stocks, on the contrary, are less correlated to economic cycles. MSCI GICS cyclical sectors are: consumer
+discretionary, financial, real estate, industrials, information technology and materials. Defensive sectors are: consumer staples, energy,
+healthcare,telecommunicationsservicesandutilities.
+Directionalstrategies(Long-shortequity,CTAandfuturestrading,globalmacro):Thesestrategiestakelongandshortpositionson
+markets according to fundamental or statistical analysis. Directional positions may be taken in various markets based on systematic or
+discretionarytradingmodels.
+Diversification:Diversificationisastrategythatmixesavarietyofinvestmentswithinaportfolio,inanattemptatlimitingexposuretoany
+singleassetorrisk.
+Duration: A measure of the sensitivity of the price (the value of principal) of a fixed income investment to a change in interest rates,
+expressedasanumberofyears.
+Event-driven strategies (distressed securities, special situations, merger arbitrage): Buy or sell securities considered to be
+under/over-valuedwithregardtoexistingorpotentialevents.
+FX:FXmarketsrefertotheforeignexchangemarkets,whereparticipantscanbuyandsellcurrencies.
+GBI:GovernmentBondIndex.
+Liquidity:Thecapacitytobuyorsellassetsquicklyenoughtopreventorminimisealoss.
+PEPP:Pandemicemergencypurchaseprogramme.
+PE ratio:Theprice-to-earnings ratio (PE ratio)is theratioforvaluingacompanythat measures itscurrent sharepricerelativetoitsper-
+shareearnings(EPS).
+Qualityinvesting: Thismeans to capture the performance of quality growth stocks by identifying stocks with: 1) A high return on equity
+(ROE);2)Stableyear-over-yearearningsgrowth;and3)Lowfinancialleverage.
+Quantitativeeasing(QE):QEisamonetarypolicyinstrumentusedbycentralbankstostimulatetheeconomybybuyingfinancialassets
+fromcommercialbanksandotherfinancialinstitutions.
+Quantitativetightening(QT):QTisacontractionarymonetarypolicyaimedtodecreasetheliquidityintheeconomy.ItmeansthataCB
+reducesthepaceofreinvestmentofproceedsfrommaturinggovernmentbonds.ItalsomeansthattheCBmayincreaseinterestratesasa
+tooltocurbmoneysupply.
+Relative-value strategies(convertible arbitrage, fixed-incomearbitrage, marketneutral, long-shortcredit):Thesestrategies exploit
+pricinganomaliesonvariousmarkets.
+Spread:Thedifferencebetweentwopricesorinterestrates.
+TLTRO: Thetargetedlonger-term refinancingoperations (TLTROs)areEurosystem operations that provide financingtocredit institutions
+for a predefined period. They offer long-term funding at attractive conditions to banks tofurther ease private sector credit conditions and
+stimulatebanklendingtotherealeconomy.
+Valuestyle:Thisreferstopurchasingstocksatrelativelylowprices,asindicatedbylowprice-to-earnings,price-to-bookandprice-to-sales
+ratios,andhighdividendyields.Sectorswithadominanceofvaluestyle:energy,financials,telecom,utilities,realestate.
+Volatility:Astatisticalmeasureofthedispersionofreturnsforagivensecurityormarketindex.Usually,thehigherthevolatility,theriskier
+thesecurity/market.
+Yield curve control: YCC involves targeting a longer-term interest rate by a central bank, then buying or selling as many bonds as
+necessary to hit that rate target. This approach is dramatically different from any central bank’s typical way of managing a country’s
+economicgrowthandinflation,whichisbysettingakeyshort-terminterestrate.
+24 Marketing material for professional investors only
+
+--- PAGE 25 ---
+INVESTMENT OUTLOOK | 2023
+Q2 2021 | May 2021
+.
+.
+..
+.
+.
+Importantinformation
+TheMSCIinformationmayonlybeusedforyourinternaluse,maynotbereproducedorredisseminatedinanyformandmaynotbeused
+as abasisfororacomponent of anyfinancial instruments orproductsorindices. Noneof theMSCI information isintendedtoconstitute
+investmentadviceorarecommendationtomake(orrefrainfrommaking)anykindofinvestmentdecisionandmaynotbereliedonassuch.
+Historicaldataandanalysisshould not betakenas anindicationorguarantee of anyfutureperformance analysis,forecastorprediction.
+The MSCI information is provided on an “as is” basis and the user of this information assumes the entire risk of any use made of this
+information. MSCI, each of its affiliates and each other person involved in or related to compiling, computing or creating any MSCI
+information (collectively, the “MSCI Parties”) expressly disclaims all warranties (including, without limitation, any warranties of originality,
+accuracy,completeness,timeliness,non-infringement,merchantabilityandfitnessforaparticularpurpose)withrespecttothisinformation.
+Withoutlimitinganyoftheforegoing,innoeventshallanyMSCIPartyhaveanyliabilityforanydirect,indirect,special,incidental,punitive,
+consequential(including,withoutlimitation,lostprofits)oranyotherdamages.(www.mscibarra.com).IntheEuropeanUnion,thisdocument
+is only for the attention of “Professional” investors as defined in Directive 2014/65/EU dated 15 May 2014 on markets in financial
+instruments(“MIFID”),toinvestmentservicesprovidersandanyotherprofessionalofthefinancialindustry,andasthecasemaybeineach
+localregulations and,asfarastheofferinginSwitzerlandisconcerned, a“QualifiedInvestor”within themeaningoftheprovisionsof the
+SwissCollectiveInvestmentSchemesActof23June2006(CISA),theSwissCollectiveInvestmentSchemesOrdinanceof22November
+2006 (CISO) and the FINMA’s Circular 08/8 on Public Advertising under the Collective Investment Schemes legislation of 20 November
+2008.InnoeventmaythismaterialbedistributedintheEuropeanUniontonon“Professional”investorsasdefinedintheMIFIDorineach
+local regulation, or in Switzerland to investors who do not comply with the definition of “qualified investors” as defined in the applicable
+legislationandregulation.
+Thisdocumentissolelyforinformationalpurposes.Thisdocumentdoesnotconstituteanoffertosell,asolicitationofanoffertobuy,ora
+recommendationofanysecurityoranyotherproductorservice.Anysecurities,products,orservicesreferencedmaynotberegisteredfor
+salewiththerelevantauthorityinyourjurisdictionandmaynotberegulatedorsupervisedbyanygovernmentalorsimilarauthorityinyour
+jurisdiction.Anyinformationcontainedinthisdocumentmayonlybeusedforyourinternaluse,maynotbereproducedorredisseminatedin
+anyform andmaynotbeusedasabasisfororacomponentofanyfinancialinstrumentsorproductsorindices.Furthermore,nothingin
+thisdocumentisintendedtoprovidetax,legal,orinvestmentadvice.Unlessotherwisestated,allinformationcontainedinthisdocumentis
+from Amundi Asset Management S.A.S. and is as of 14 November 2022. Diversification does not guarantee a profit or protect against a
+loss. This document is provided on an “as is” basis and the user of this information assumes the entire risk of any use made of this
+information.Historicaldataandanalysisshouldnotbetakenasanindicationorguaranteeofanyfutureperformanceanalysis,forecastor
+prediction. The views expressed regarding market and economic trends are those of the author and not necessarily Amundi Asset
+Management S.A.S. and are subject to change at any time based on market and other conditions, and there can be no assurance that
+countries, markets or sectors will perform as expected. These views should not be relied upon as investment advice, a security
+recommendation, oras anindicationof tradingforanyAmundi product. Investmentinvolves risks,includingmarket,political,liquidityand
+currencyrisks. Furthermore, innoevent shall Amundi haveanyliabilityforanydirect, indirect, special,incidental, punitive, consequential
+(including,withoutlimitation,lostprofits)oranyotherdamagesduetoitsuse.
+Date of first use: 16 November 2022.
+DocumentissuedbyAmundiAssetManagement,“sociétéparactionssimplifiée”-SASwithacapitalof€1,143,615,555-Portfoliomanager
+regulated by the AMF under number GP04000036 – Head office: 91-93 boulevard Pasteur – 75015 Paris – France – 437 574 452 RCS
+Paris–www.amundi.com.Photocredit:©PaulKnowles/EyeEm-iStock/GettyImages.
+25 Marketing material for professional investors only

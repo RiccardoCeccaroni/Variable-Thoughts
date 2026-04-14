@@ -1,0 +1,25 @@
+{
+  "company": "Fidelity International",
+  "report_year": "2021",
+  "publication_date": "2021-04",
+  "forecast_period": "Mid-2021 onward",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "UK real GDP growth",
+      "horizon": "2021",
+      "forecast_value": "5.3%",
+      "source_quote": "The IMF expects a 5.3% rise in GDP this year, faster than for advanced economies generally."
+    },
+    {
+      "category": "growth",
+      "region": "Europe",
+      "variable": "Eurozone real GDP growth relative to 2021",
+      "horizon": "2022",
+      "forecast_value": "higher growth in 2022 than 2021",
+      "source_quote": "Europe is likely to be one of the few regions in the world to post higher growth in 2022 than this year."
+    }
+  ],
+  "excluded_vague_count": 16
+}

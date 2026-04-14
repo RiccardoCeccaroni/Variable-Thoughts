@@ -1,0 +1,176 @@
+{
+  "company": "PIMCO",
+  "report_year": "2019",
+  "publication_date": "2018-12",
+  "forecast_period": "2019",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "2.00% to 2.50%",
+      "source_quote": "United States GDP 2.00 - 2.50"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US CPI inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.50% to 2.00%",
+      "source_quote": "United States CPI 1.50 - 2.00"
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "UK real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.25% to 1.75%",
+      "source_quote": "United Kingdom GDP 1.25 - 1.75"
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "UK CPI inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.75% to 2.25%",
+      "source_quote": "United Kingdom CPI 1.75 - 2.25"
+    },
+    {
+      "category": "growth",
+      "region": "Eurozone",
+      "variable": "Eurozone real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.00% to 1.50%",
+      "source_quote": "Euro area GDP 1.00 - 1.50"
+    },
+    {
+      "category": "inflation",
+      "region": "Eurozone",
+      "variable": "Eurozone HICP inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.00% to 1.50%",
+      "source_quote": "Euro area HICP 1.00 - 1.50"
+    },
+    {
+      "category": "growth",
+      "region": "Japan",
+      "variable": "Japan real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "0.75% to 1.25%",
+      "source_quote": "Japan GDP 0.75 - 1.25"
+    },
+    {
+      "category": "inflation",
+      "region": "Japan",
+      "variable": "Japan CPI inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "0.25% to 0.75%",
+      "source_quote": "Japan CPI 0.25 - 0.75"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "5.50% to 6.50%",
+      "source_quote": "China GDP 5.50 - 6.50"
+    },
+    {
+      "category": "inflation",
+      "region": "China",
+      "variable": "China CPI inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "2.00% to 3.00%",
+      "source_quote": "China CPI 2.00 - 3.00"
+    },
+    {
+      "category": "growth",
+      "region": "India",
+      "variable": "India real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "7.00% to 8.00%",
+      "source_quote": "India GDP 7.00 - 8.00"
+    },
+    {
+      "category": "inflation",
+      "region": "India",
+      "variable": "India CPI inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "4.00% to 5.00%",
+      "source_quote": "India CPI 4.00 - 5.00"
+    },
+    {
+      "category": "growth",
+      "region": "Mexico",
+      "variable": "Mexico real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.50% to 2.50%",
+      "source_quote": "Mexico GDP 1.50 - 2.50"
+    },
+    {
+      "category": "inflation",
+      "region": "Mexico",
+      "variable": "Mexico CPI inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "3.75% to 4.75%",
+      "source_quote": "Mexico CPI 3.75 - 4.75"
+    },
+    {
+      "category": "growth",
+      "region": "Brazil",
+      "variable": "Brazil real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.50% to 2.50%",
+      "source_quote": "Brazil GDP 1.50 - 2.50"
+    },
+    {
+      "category": "inflation",
+      "region": "Brazil",
+      "variable": "Brazil CPI inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "4.00% to 5.00%",
+      "source_quote": "Brazil CPI 4.00 - 5.00"
+    },
+    {
+      "category": "growth",
+      "region": "Russia",
+      "variable": "Russia real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.00% to 2.00%",
+      "source_quote": "Russia GDP 1.00 - 2.00"
+    },
+    {
+      "category": "inflation",
+      "region": "Russia",
+      "variable": "Russia CPI inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "4.50% to 5.50%",
+      "source_quote": "Russia CPI 4.50 - 5.50"
+    },
+    {
+      "category": "growth",
+      "region": "DM",
+      "variable": "Developed Markets real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.50% to 2.00%",
+      "source_quote": "Developed Markets GDP 1.50 - 2.00"
+    },
+    {
+      "category": "growth",
+      "region": "EM",
+      "variable": "Emerging Markets real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "4.75% to 5.75%",
+      "source_quote": "Emerging Markets GDP 4.75 - 5.75"
+    },
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "World real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "2.75% to 3.25%",
+      "source_quote": "World GDP 2.75 - 3.25"
+    }
+  ]
+}

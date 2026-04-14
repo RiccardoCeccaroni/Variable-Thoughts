@@ -1,0 +1,48 @@
+{
+  "company": "Schroders",
+  "report_year": "2023",
+  "publication_date": "2022-12-05",
+  "forecast_period": "2023",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "-1%",
+      "source_quote": "we expect US GDP to fall by 1%"
+    },
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "1.3%",
+      "source_quote": "our slightly more modest outlook for global growth at 1.3% in 2023"
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "US unemployment rate",
+      "horizon": "end-2023",
+      "forecast_value": "7%",
+      "source_quote": "the unemployment rate hitting 7% at the end of next year"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate peak (target range)",
+      "horizon": "Q1 2023",
+      "forecast_value": "4.5% to 4.75%",
+      "source_quote": "We expect the US federal funds rate to peak at the target range 4.5-4.75% in Q1 2023"
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "US corporate profits growth (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "-14%",
+      "source_quote": "A 1% decline in US GDP tracks through to a 14% drop in US corporate profits next year"
+    }
+  ]
+}

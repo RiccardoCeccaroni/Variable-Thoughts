@@ -1,0 +1,1818 @@
+SOURCE: jpmorgan_am/jpmorgan_am_2023.pdf
+PAGES: 31
+
+--- PAGE 1 ---
+EYE ON THE MARKET OUTLOOK 2023
+The End of the Affair
+The affair with the market catalysts of the last decade is over now,
+and a new era of investing begins.
+By Michael Cembalest
+Chairman of Market and Investment Strategy for J.P. Morgan Asset & Wealth Management
+
+--- PAGE 2 ---
+MARY CALLAHAN ERDOES
+J.P. Morgan Asset & Wealth Management
+For the past 20 years, my investment partner Michael Cembalest has kicked off
+the new year with our best thinking to help investors better position portfolios.
+What we value most is his independent, and often non-consensus, opinions on
+How do you summarize a year that was in many respects indefinable? On one
+many topics—The End of the Affair is no exception.
+hand, the European sovereign debt crisis, contracting housing markets and high
+unemployment weighed heavy on all of our minds. But at the same time, record
+corporate profits and strong emerging markets growth left reason for optimism.
+On behalf of all my partners at J.P. Morgan, thank you for your continued trust
+Sano dr actohnefri dthenance l oino ka lbl aocf ku, sw. We’de laikree ptor ilvoiloekg eadh etaod s. eBrevcea auss ey oifu trh terrues’ste odn aed tvhiisnogr. that
+we’ve learned from the past few years, it’s that while we can’t predict the future,
+we can certainly help you prepare for it.
+Most sincerely,
+To help guide you in the coming year, our Chief Investment Officer Michael
+Cembalest has spent the past several months working with our investment
+leadership across Asset Management worldwide to build a comprehensive view
+of the macroeconomic landscape. In doing so, we’ve uncovered some potentially
+exciting investment opportunities, as well as some areas where we see reason to
+proceed with caution.
+Sharing these perspectives and opportunities is part of our deep commitment to
+you and what we focus on each and every day. We are grateful for your continued
+trust and confidence, and look forward to working with you in 2011.
+Most sincerely,
+PJCT-1222-PB-1357655-EOTM Outlook 2023_Mary Letter_v03
+Macintosh HD:Users:v488496:Downloads: EOTM Outlook 2023:Print:Text:PJCT-1222-PB-1357655-EOTM Outlook 2023_Mary Letter_v03.indd
+Page: 1 of 3
+Modified: 4 January 2023 3:58 PM
+
+--- PAGE 3 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+The End of the Affair
+It was nice while it lasted. The tattered posters on the cover show the remnants of some equity market catalysts
+over much of the last decade and in particular 2020-2021: profitless innovation, the Fed’s quantitative easing,
+the discredited Western conceit of “geopolitical change through trade”, the cocktail napkin appeal of Modern
+Monetary Theory and massive fiscal stimulus, unsustainable negative real interest rates and “TINA” (there is no
+alternative to equities), the dream sequence of a rapid transition to renewable energy, the Potemkin village of
+many metaverse/fintech narratives and the pseudo-libertarian gibberish of unregulated crypto.
+The largest combined monetary and fiscal experiment in history is ending now, and a major growth slowdown
+is coming to the US and Europe. But: avoid the trap of becoming more bearish the lower the market gets, and
+be prepared to take advantage of selloffs when/if they occur. As shown below, in the history of US recessions
+(with the exception of the dot-com collapse of 2001), equity markets bottomed well before the bottom in GDP,
+payrolls, S&P 500 earnings and housing starts and the peak in household/corporate delinquencies. The ISM
+survey has been the most reliable coincident indicator of a bottom in equities, which is why we pay so much
+attention to it. If history is any guide, the equity bottom would also coincide with the end of Fed hikes. I expect
+equity markets to bottom sometime in the first half of next year, and for the October 2022 lows to hold.
+Our outlook begins with a discussion of leading indicators and what equity markets are pricing in already. The
+sections that follow examine US inflation which we believe will cool enough for the Fed to pause at 5% in the
+spring; the decline in globalization and implications for investors; how the end of negative real rates may usher
+in a period of improved stock picking by value-oriented managers; how a regulatory wave is coming to the
+Fintech/crypto world; where we see value in global fixed income now that Central Bank financial repression is
+ending; and the latest news on mRNA vaccines and the 1969 moon landing.
+Michael Cembalest
+JP Morgan Asset Management
+130
+120
+110
+100
+90
+80
+70
+60
+50
+INVESTMENT PRODUCTS ARE: ● NOT FDIC INSURED ● NOT A DEPOSIT OR OTHER OBLIGATION OF,
+OR GUARANTEED BY, JPMORGAN CHASE BANK, N.A. OR ANY OF ITS AFFILIATES ● SUBJECT TO 1
+INVESTMENT RISKS, INCLUDING POSSIBLE LOSS OF THE PRINCIPAL AMOUNT INVESTED
+7591/6 7591/11 8591/4 8591/9 9591/2 9591/7 9591/21 3791/9 4791/2 4791/7 4791/21 5791/5 5791/01 6791/3 6791/8 1891/2 1891/7 1891/21 2891/5 2891/01 3891/3 3891/8 0991/2 0991/7 0991/21 1991/5 1991/01 2991/3 0002/3 0002/8 1002/1 1002/6 1002/11 2002/4 2002/9 3002/2 3002/7 3002/21 7002/5 7002/01 8002/3 8002/8 9002/1 9002/6 9002/11 0102/4 0102/9 1102/2 0202/1 0202/6 0202/11
+When recessions occur, the ISM survey has been the best coincident indicator of a bottom in equities
+S&P 500 indexed at 100 at start of each period, dots show when each indicator bottomed
+S&P 500 index ISM GDP Payrolls S&P Earnings Housing starts RE delinquencies
+ISM,
+payrolls &
+housing
+starts
+Eisenhower Stagflation Double dip recession S&L recession DotCom collapse GFC COVID
+Source: BEA, Census, NAR, Shiller, Bloomberg, S&P Dow Jones, JPMAM. 2022.
+
+--- PAGE 4 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+A quick look at declining leading indicators and US banking system resilience
+Leading indicators suggest that a major growth slowdown is coming to the US and Europe. Whether a recession
+technically occurs or not is beside the point; for equity investors, the slowdown ahead is likely to drag corporate
+profits down with it. We track manufacturing surveys closely since they’re good coincident indicators of a
+bottom in equity markets when recessions do occur. The first two charts predict where these surveys are
+headed given rising inventories and falling new orders. We expect a bottom in these manufacturing surveys in
+Q1/Q2 of 2023, and at levels that are above 2008 and 2020. In other words, if there is a recession, we expect it
+to be a milder one than the last two. The third chart projects the decline in S&P 500 earnings1; our best guess
+is a 10%-15% y/y decline in S&P earnings in 2023.
+In Europe, consumer spending is declining as energy crowds out other forms of consumption. While European
+governments are shielding consumers from peak gas and electricity prices (p.14), households will still face
+substantial energy bill increases in 2023, negatively impacting employment, housing and production. Core
+inflation in Europe is still running at 5%, forcing the ECB to tighten into economic weakness.
+US new orders lessinventories predicting ISM downturn EU new orders lessinventories predicting PMI downturn
+Index (50+ = expansion) Index, 3 month average Index (50+ = expansion) Index, 3 month average
+70 30 70 30
+ISM manufacturing PMI composite index (lhs) EU manufacturing PMI composite index (lhs)
+65 ISM new orders less inventories (3 month lead, rhs) 65 EU new orders less inventories (3 month lead, rhs)
+20
+20
+60 60
+10
+55 55
+10
+50 50 0
+0
+45 45
+-10
+40 40
+-10
+-20
+35 35
+30 -20 30 -30
+1983 1988 1993 1998 2003 2008 2013 2018 2023 1997 2002 2007 2012 2017 2022
+Source: Bloomberg, JPMAM. November 2022. Source: Bloomberg, JPMAM. November 2022.
+Leading earnings indicators point to S&P 500 earnings Europe's energy bill goes off the rails
+decline,Percent Net exports of energy products, % of GDP
+60% 1%
+Trailing S&P 500 earnings, y/y
+Net exports
+50% Earnings leading indicator: model 1 US EU
+Earnings leading indicator: model 2 0%
+40%
+30% -1%
+20%
+-2%
+14%
+10%
+0% -3%
+-10%
+-4%
+-20% Net imports
+-5%
+-30%
+1978 1982 1986 1990 1994 1998 2002 2006 2010 2014 2018 2022
+2001 2004 2007 2010 2013 2016 2019 2022
+Source: Morgan Stanley US Equity Strategy. October 2022. Source: BEA, European Statistical Office, JPMAM. Q3 2022.
+1 The first model includes the manufacturing PMI, business surveys, credit spreads and housing starts. The
+second includes business surveys, supplier deliveries, wage trackers, inflation and a cyclical GDP indicator.
+2
+
+--- PAGE 5 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Whenever growth slows materially, we examine the effects on the banking system since that’s where losses are
+magnified due to leverage and depositor risks. To us, the situation looks much better than 2008. US bank tier
+1 capital ratios have risen substantially; a lot of risky lending migrated from banks to capital markets and private
+credit lenders; US bank wholesale funding is now 7.5% of bank liabilities, down from 17.5% in 2000; and loan-
+to-deposit ratios fell from 1.00x in 2008 to ~0.65x, the most liquid the US banks have been since the 1970’s.
+Here’s the “but”. Due to rising rates, a lot of deposits fund high-quality bonds that trade below par, designated
+as “Available for Sale” or “Hold to Maturity”. According to the FDIC, unrealized losses on these securities at US
+banks have ballooned to ~$700 billion. As a result, we also look at loan-to-deposit ratios by adding these
+securities to loans, and compare the ratios by bank to the “stickier” retail share of its total deposits (first chart).
+US bank loan-to-deposit ratios Fed assets and liabilities
+Retail deposits share of total deposits US$, trillions US$, trillions
+80% $9.5 $4.0
+Lower Risk
+6 7 0 0 % % Deposit Base RF WFC PNC CFG T H FC BAN KEY $9.0 Fed assets $3.5
+MTB FITB
+50% JPM BAC ZION
+USB Bank reserves $3.0
+40%
+CMA $8.5
+30%
+$2.5
+20% Overnight
+10% C D H e i p g o h s e i r t R B i a s s k e $8.0 reverse repo $2.0
+0%
+70% 80% 90% 100% 110% 120%
+Loans plus securities as a % of deposits $7.5 $1.5
+Source: JPMAM. Securities include Hold to Maturity and Available for Sale Jan 22 Jul 22 Jan 23 Jul 23
+categories. Q3 2022. Source: FRB, J.P.Morgan Equity Research. November 2022.
+US bank tier 1 capital ratios US loan-to-deposit ratio, all commercial banks
+Tier 1 capital as a % of risk-weighted assets Ratio, loans / deposits
+15% 1.05x
+1.00x
+14%
+0.95x
+13% 0.90x
+0.85x
+12%
+0.80x
+11%
+0.75x
+10% 0.70x
+0.65x
+9%
+0.60x
+8% 0.55x
+1991 1994 1997 2000 2003 2006 2009 2012 2015 2018 2021 1973 1978 1983 1988 1993 1998 2003 2008 2013 2018
+Source: FDIC, Bloomberg, JPMAM. Q3 2022. Source: St. Louis Fed, Bloomberg, JPMAM. December 14, 2022.
+FDIC Q3 unrealized bank losses oninvestment securities
+US$, billions
+$150
+$75
+$0
+-$75
+-$150
+-$225 Available-for-Sale Securities
+-$300
+-$375 Held-to-Maturity Securities
+-$450
+-$525
+-$600
+-$675
+-$750
+2008 2010 2012 2014 2016 2018 2020 2022
+Source: FDIC. Q3 2022.
+3
+
+--- PAGE 6 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Table of Contents
+Topic #1: Tracking the repricing of financial assets ................................................................................................5
+The latest valuations in US equities; the decline of the YUCs and the MUCs; deep value pricing and the China
+reopening; the mysterious stability of leverage loan prices after a decade of collapsing covenant protection and
+rising leverage
+Topic #2: Tracking the Fed, and where inflation goes from here .......................................................................... 10
+There's enough evidence in the pipeline for the Fed to pause at ~5% but there's little room for easing in 2023; the
+long term inflationary impact of the renewable transition and reshoring of critical supply chains; Europe tackles
+energy inflation through price caps in power markets
+Topic #3: Tracking the gradual decline of globalization ........................................................................................ 15
+The unwinding of maximum globalization is underway, driven in part by intensifying US restrictions on China.
+Regional trade and cross-border investment is alive and well, and some industrial processes like semiconductors will
+be difficult to dislodge from existing producers
+Topic #4: Tracking the performance of active managers ...................................................................................... 20
+Negative real rates collapsed risk premia and created difficult stock-picking conditions for value oriented portfolio
+managers. Higher real interest rates could increase asset price dispersion and be a tailwind for stock picking
+Topic #5: Tracking the regulatory wave coming to Fintech/crypto, and JP Morgan’s crypto footprint ................... 21
+The Treasury and SEC are ramping up efforts to address Fintech/crypto customer protections, regulatory arbitrage,
+pricing transparency and financial stability; comments on JP Morgan, blockchain and crypto
+Topic #6: Tracking global fixed income for yield oriented investors ..................................................................... 23
+Focus on intermediate duration US municipals, conforming mortgage bonds, US-Europe-China government bonds,
+asset backed paper, floating rate notes/CP, Mexico local bonds and high-quality US/European preferred stock
+Topic #7: Just the Vax and nothing but the Vax ................................................................................................... 25
+Closing thoughts on mRNA vaccines, the CDC and the 1969 moon landing
+The end of an era: the largest peacetime monetary and fiscal experiment in US history is ending now
+15%
+10%
+5%
+0%
+-5%
+-10%
+4
+0381 0481 0581 0681 0781 0881 0981 0091 0191 0291 0391 0491 0591 0691 0791 0891 0991 0002 0102 0202
+Lowest real yields on cash since 1830, other than during US budget deficits (surpluses)
+wartime, T-bill/Funds rate less inflation, 5-year average Percent of GDP
+30% WWII
+25% Great
+Depression
+20%
+WWI COVID-19
+15% Pandemic
+10% Civil War GFC
+Civil
+War 5%
+WW II
+WW I 0%
+-5%
+18001820 1840 1860 1880 1900 1920194019601980 2000 2020
+Source: FRB, Robert Shiller, GFD, BLS, JPMAM. 2020. Source: Peterson Foundation, CBO projections, JPMAM. 2021.
+
+--- PAGE 7 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Topic #1: Tracking the repricing of financial assets
+The extraordinary gap between asset yields and policy rates is finally closing. This was the catalyst for the
+repricing of profitless innovation, and which then spread broadly to the entire equity market. As 2023 begins
+some public valuations are back to pre-COVID levels, while many private equity and private credit markets have
+yet to reprice. I suspect we will see a modest correction early in 2023 that brings valuations closer to long-term
+averages as the growth slowdown gets closer. Other trends we expect to continue: physical assets outpacing
+digital assets, and traditional energy outpacing renewable energy. Also: Fintech returns have now given up their
+entire outperformance vs traditional banks since 2019 (see p.21).
+Gap betweenasset yields and short rates is finally closing Dumb and Dumber
+Percent Index (100 = Jan 2019)
+17.5% 500
+15.0% 450 Metaverse, Hydrogen,
+Fintech, SPACs, crypto and
+12.5%
+400 other profitless innovation
+10.0% (software, e-commerce and
+350
+Developed world asset yields biotech), 2019-2022
+7.5%
+300
+5.0%
+250
+2.5%
+200
+0.0%
+-2.5% Developed world short rates 150 NASDAQ 100, 1998-2003
+adjusted for quantitative easing
+-5.0% 100
+1960 1970 1980 1990 2000 2010 2020 2019 2020 2021 2022
+Source: Bridgewater.December 7, 2022. Source: Bloomberg, JPMAM. December 27, 2022.
+Forward PE ratios: Russell 1000, growth & value S&P 500 price to earnings ratio
+Price / consensus 12 month forward earnings per share Price / 12 month forward earnings
+50 26x
+Megacap 8
+45 Russell 1000 Growth Index 24x
+40 Russell 1000 Index
+Russell 1000 Value Index 22x
+35
+20x
+30
+25 18x
+Average 16.7x
+20 16x
+15
+14x
+10
+12x
+5
+2006 2008 2010 2012 2014 2016 2018 2020 2022 10x
+Source: Bloomberg, JPMAM. December 27, 2022. Megacap 8 includes 1990 1995 2000 2005 2010 2015 2020
+GOOGL, AMZN, AAPL, FB, MSFT, NFLX, NVDA, TSLA. Source: Bloomberg, JPMAM. December 27, 2022.
+The Tortoise and the Hare "Reports of my death were greatly exaggerated"
+Index (100 = Dec2016) Index (100 = Dec 2018)
+900 500
+ARK Innovation ETF Renewables composite
+800 450
+(equal weighted)
+400
+700 Old economy basket: farm
+equipment, industrial REITs and 350
+600 NASDAQ CleanEdge
+office cleaning supplies / uniforms 300 Wilderhill Clean Energy
+500 250 S F & T P S E G l R ob e a n l e C w l / e A a lt n E E n n e e rg rg y y
+400 200 MAC Global Solar
+150
+300
+100
+200 MSCI World Energy Index
+50
+(oil, gas and pipelines)
+100 0
+2017 2018 2019 2020 2021 2022 2018 2020 2021 2022 2023
+Source: Bloomberg, JPMAM. December 27, 2022. Source: Bloomberg, JPMAM. December 27, 2022.
+5
+
+--- PAGE 8 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+I began writing about the YUCs (young unprofitable companies) early in 20202 when their valuations started to
+soar. After last year’s selloff, we’re much closer to the end of the YUC/MUC repricing than the beginning. By
+the time Peloton is priced at 1x sales rather than its peak level of 19x sales at the end of 2020, it’s time to start
+thinking about whether unprofitable companies like Peloton, Carvana, Shopify, DoorDash, Spotify, Roku and
+Roblox can become profitable or not.
+Many unprofitable companies are in that position since the market did not require them to be profitable. With
+the benefit of ample pre- and post-IPO capital, they forged ahead with enormous customer acquisition costs in
+an effort to gain scale. Many cannot do that anymore, but some will figure out how to become profitable in
+this new era. The aftermath of the 2000-2002 dot-com crash is interesting in this regard:
+ The third chart shows performance of tech companies from 2000 to 2004 based on their initial and
+subsequent profitability. Companies that remained unprofitable continued to languish
+ However, unprofitable companies that became profitable by 2004 rallied sharply, catching up to companies
+that had been profitable all along
+ This chart of course incorporates the benefit of perfect hindsight; still, it does indicate that for stock pickers
+that sift through the wreckage to try and identify survivors, there may be attractive opportunities. The size
+of this unprofitable-> profitable cohort was roughly 50% of the “unprofitable in 2000” universe
+The YUCs: Young Unprofitable Companies The MUCs: Megavalued (P/E >50x) or Unprofitable
+% of equity market capitalization Companies, % of total US market capitalization
+5% 45%
+Youngunprofitable company:
+●Negative net income in 2 of last 3 years 40%
+4% ●Less than 5 years since IPO
+35%
+●Annual revenues growing > 15%
+30%
+3%
+25%
+2% 20%
+15%
+1%
+10%
+0% 5%
+1990 1995 2000 2005 2010 2015 2020 1990 1995 2000 2005 2010 2015 2020
+Source: Factset, JPMAM. December 27, 2022. Source: Factset, JPMAM. December 27, 2022.
+The survivors: some companies will figure it out The price for profitless revenue growth
+Index of equal weighted large cap tech stock returns(100= Jan 2000) Price to sales ratio
+175 30x
+From unprofitable in 2000
+150 to profitable in 2004 25x 36 profitless
+growth stocks
+125 (mkt-cap wtd)
+Profitable in 2000 and 2004 20x
+100
+15x 36 profitless growth
+75
+stocks (equal wtd)
+50 10x
+25 Unprofitable in
+5x
+2000 and 2004
+Russell 1000 Growth Index
+0
+2000 2001 2002 2003 2004 0x
+Source: Factset, JPMAM. 2022. Profitability measured as positive or negative Dec-20 Apr-21 Aug-21 Dec-21 Apr-22 Aug-22 Dec-22
+net income in Q1 2000 and Q4 2004. Stocks with market cap > $400mm. Source: Bloomberg, JPMAM. December 23, 2022.
+2 I followed up in Feb 2021 with a “Hydraulic Spacking” Eye on the Market that was published at the peak of the
+SPAC boom. The piece highlighted how management estimates were shown to investors instead of actual
+earnings, the unequal distribution of returns by investor class, the disastrous post-merger returns of most SPAC
+targets and the increasingly poor quality of companies being brought public via SPACs.
+6
+
+--- PAGE 9 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+China equities. Pandemic restrictions, falling consumer spending and a collapsing property market have hit
+China hard. This year is expected to be the first time in three decades that most Asian economies will grow faster
+than China. I remain puzzled as to why China never made an arrangement with Moderna or Pfizer for their
+mRNA vaccines, which have higher efficacy (see p.25) than China’s attenuated virus vaccines. China reportedly
+informed Moderna that they would only arrange a distribution license if Moderna provided China with its
+vaccine intellectual property, which Moderna refused to do3. As of December 2022, one-third of China’s 267
+million people over age 60 hadn’t received their third Sinovac or Sinopharm vaccine booster dose. In any case,
+China is now reopening4 and accepting greater health risks in the process. An issue that may have affected the
+decision to reopen: the collapse in Chinese births and implications for future growth, illustrated below.
+A recovery cannot come soon enough for investors in China. After years of market-friendly policies, MSCI
+increased China’s weight in the Emerging Markets Equity Index to 40% by 2020, which drew in more foreign
+capital. Shortly thereafter, Xi’s “progressive authoritarianism” campaign began, ushering in the largest
+underperformance of Chinese vs world equities on record (-50%). Despite China’s underperformance vs world
+markets, the “overweight US/Emerging Markets, and underweight Europe/Japan” equity barbell we have been
+writing about for over a decade is still thriving.
+China total births China working age population projections
+Millions of births Millions of people ages 15 to 64
+35 1,100
+1,000
+30
+900
+25 800 2019
+estimates
+700
+20
+600
+500
+15 2022
+400 estimates
+10 300
+1950 1960 1970 1980 1990 2000 2010 2020 1950 1970 1990 2010 2030 2050 2070 2090
+Source: United Nations. 2022. Dot represents 2022 estimate. Source: United Nations,BCA Research.2022.
+China’s index weight, performance and policy changes Overweight US & EM, underweight Europe & Japan
+Chinaoutperformance, 28 day smooth China index wt 3-year rollingout (under) performance vs MSCI All World Index
+350% 45%
+10%
+Rolling 3 yr performance of
+300% China vs World equities (lhs) 40% 8%
+250% China weight in MSCI EM (rhs) 35%
+6%
+200% 30%
+4%
+150% 25%
+2%
+100% Xi's progressive 20%
+0%
+authoritarianism begins
+50% 15%
+-2%
+0% 10%
+-4%
+-50% 5% 1991 1994 1997 2000 2003 2006 2009 2012 2015 2018 2021
+-100% 0% Source: Bloomberg, JPMAM. December 2022. All equity portfolio, rebalanced
+2005 2007 2009 2011 2013 2015 2017 2019 2021 quarterly. 10% OW to US, 10% UW to Europe, 5% OW to EM, 5% UW to
+Japan. Assumes no currency hedging.
+Source: Bloomberg, JPMAM. December 27, 2022.
+3 “Moderna refused China request to reveal vaccine technology”, Reuters, October 1, 2022
+4 On December 26, 2022 China accelerated its reopening by removing quarantine for domestic infections,
+abandoning contact tracing and risk district classification systems, eliminating frequent testing/quarantine for
+inbound travelers and allowing people that test positive to go to work.
+7
+
+--- PAGE 10 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+China was close to deep value pricing by November of last year. Equity earnings yields ranged from 11%-12%
+(close to Global Financial Crisis levels), and China banks still trade at less than 0.5x book value. On property
+markets, there’s an enormous amount of bad news priced in as shown in the fourth chart: only 5%-10% of
+China’s high yield property bond universe is priced above 60% of par value, and a startling 85% of the universe
+is trading at or was exchanged at less than 20% of par value. I began my career at JP Morgan in 1987 in emerging
+markets and worked on the Brady bond exchanges; I don’t remember any default or restructuring episode as
+bad as this across an entire sector.
+Once markets reach the “how much worse can it get” phase, marginal improvements in policy or macro can
+lead to a sharp improvement in asset prices. The latest measures for the Chinese property market include a
+central bank relending program and the lifting of restrictions on equity market and shadow finance fundraising.
+And while the connection between household conditions and spending is not as clear as in the US, Chinese
+households are flush with cash: deposits are up 60% vs pre-COVID levels, and mortgage rates are back down to
+where they last were in 2017. In other words, the US-EM equity barbell may outperform again next year if
+China recovers after the intense COVID wave it is now experiencing.
+Equity index drawdowns: China vs World China earnings yields
+%, decline from prior peak Percent, 12 month forward earnings yield
+0% 14%
+MSCI
+-10% World 13% Hang Seng
+-18% 12% Index
+-20%
+11%
+-30%
+10%
+9%
+-40% 9%
+MSCI China -49% 8%
+8%
+-50%
+7%
+-60%
+6%
+-70% 5%
+MSCI China
+-80% 4%
+2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2006 2008 2010 2012 2014 2016 2018 2020 2022
+Source: Bloomberg, JPMAM. Dec 27, 2022. Dot represents latest drawdown. Source: Bloomberg, JPMAM. December 27, 2022.
+Chinese bank valuations China property high-yieldbond price distribution
+Average price to book ratio Bond price, % of par value
+2.0x 100%
+Banks included: Industrial and Commercial
+1.8x Bank of China, China Construction Bank, 90% Defaulted bonds
+Agricultural Bank of China, Bank of China 80% Exchanged bonds
+1.6x
+70% Undefaulted and unexchanged bonds
+1.4x 60%
+50%
+1.2x
+40%
+1.0x
+30%
+0.8x 20%
+10%
+0.6x
+0%
+0.4x 0% 10% 20% 30% 40% 50% 60% 70% 80% 90%
+2010 2012 2014 2016 2018 2020 2022 Cumulative %of notional outstanding
+Source: Bloomberg, JPMAM. December 27, 2022. Source: GS. November 10, 2022.
+8
+
+--- PAGE 11 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+One concern as we head into a possible recession: the minimal repricing of leveraged loans after a decade of
+declining investor protections and rising leverage. I first wrote about this in July 2019. Areas of deterioration
+include a laundry list of measures designed to prevent issuers and their counsel5 from diminishing lender rights
+and protections (see box). Loan investors have surrendered at a record pace, a sacrifice I would hold the Fed
+partially accountable as financial repression caused people to lose their investment bearings. Many of the same
+concerns relate to the private credit market, which at $1.2 trillion is the same size as US high yield.
+5
+4
+3
+2
+1
+0
+5 One reason for declining protections: on some transactions, financial sponsors instruct banks arranging their
+syndicated leveraged loans as to which law firm the bank should use as its own counsel, a practice known as
+“sponsor-designated counsel”. You get what you pay for.
+9
+llarevO erocs laicnaniF stnanevoc :noitanidrobuS larutcurts
+&
+sneil
+detcirtseR stnemyap tbeD ecnerrucni yksiR stnemtsevni & selas
+tessA
+yrotadnam syaperp &
+gnitoV
+stnemngissa
+Lender surrender. Loan investors relaxed criteria regarding leverage and interest coverage maintenance tests, most-
+favored-nation provisions, mandatory prepayments from asset sales, exceptions to negative covenant restrictions,
+restricted payments clauses, definition and scope of allowable EBITDA adjustments, leakage of assets from the collateral
+pool, caps on investments in or transfers to unrestricted subsidiaries and affiliates, the ability to add senior pari-passu
+or priority debt, lien dilution by non-guarantor subsidiaries, etc. EBITDA adjustments refer to the practice of companies
+adding back non-recurring expenses and assumed merger synergies/cost savings to earnings, thereby enhancing
+coverage ratios. According to S&P, the use of EBITDA add-backs increased from 10% of all deals to ~30% by 2019. In
+terms of magnitude, S&P reports that such add-backs range from 10%-15% of unadjusted EBITDA. However, according
+to Moody’s, some deals allow add-backs up to 20%-30% of unadjusted EBITDA, and some deals have no caps at all.
+Loan covenant quality scores: 2007 vs 2019-2020
+5= weakest covenant quality
+2007 2019-20
+Source: Moody's. 2020.
+Leveragedloan issuance by debt-to-EBITDA ratio Risky credit not pricing in recession
+Percent Percent Index
+100% > 7x 20% Leveraged loan price index 105
+90%
+18% 100
+80% 6x-6.9x
+16% 95
+70%
+14% 90
+60%
+5x -5.9x 12% 85
+50% US high yield spread
+10% 80
+40%
+8% 75
+30% 4x -4.9x
+6% 70
+20% Highercredit quality
+4% 65
+10% < 4x
+2% 60
+0%
+1988 1992 1996 2000 2004 2008 2012 2016 2020
+2008 2010 2012 2014 2016 2018 2020 2022
+Source: DB Research, IMF. November 17, 2022. Source: Bloomberg, JPMAM. December 27, 2022.
+
+--- PAGE 12 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Topic #2: Tracking the Fed, and where inflation goes from here
+I expect inflation pressures to subside in 2023 and allow the Fed to pause at 5% to see where things go from
+there, and expect the 10 year US Treasury to remain below 4%. Inflation expectations derived from 10 year TIPS
+markets are back down at 2.25% from their 3% peak, so the Fed should be able to claim victory on that front
+after the fastest tightening cycle on record. If inflation cools as much as markets expect, it would be quite
+unusual: as shown in the second chart, the average developed market inflation spike takes longer to recede.
+The challenge for the Fed is more related to wages than prices. By some measures, the US has been facing the
+tightest labor market on record: the highest job shortages in the post-war era, the lowest “job fill” rate, the
+largest premium for job switchers vs job remainers, etc. Wage growth is beginning to roll over based on
+measures we look at6. So far, the largest layoffs have been in tech and homebuilding; layoffs ex-tech and
+homebuilding are still at the lowest level in 20 years [according to Challenger data].
+Fed tightening cycles, 1958-2022 Developed market inflation episodessince 1970
+Basis points, change since start of tightening cycle Percent,y/y inflation change
+800 16%
+Historic median
+700 14% Current US cycle Historic 3rd quartile
+600 12% Current Eurozone cycle
+500 2022
+10%
+400
+8%
+300
+200 6%
+100 4%
+Historic 1st
+0 2% quartile
+-100
+0%
+-200 -60 -40 -20 0 20 40 60
+-36 -30 -24 -18 -12 -6 0 6 12 18 24 30 36 Months since inflation rose above 8%
+Months since first Fed tightening action Source: Jim Reid, Deutsche Bank, Bloomberg, JPMAM. November 2022.
+Source: Bloomberg, Factset, Fed, JPMAM. December 2022. Dotted lines indicate Bloomberg consensus.
+Largest worker shortage inthe post-war era Wage growth measures
+Job openings plus employment as % of labor force Percent Index
+5% 7% 70
+Atlanta Fed Tracker (y/y change, 3 month avg, lhs)
+More jobs than workers 6% Employment Cost Index (q/q, ann., lhs) 60
+Monthly wage survey average (rhs)
+0% 5% 50
+4% 40
+-5% 3% 30
+2% 20
+-10% 1% 10
+0% 0
+-15% -1% -10
+1951 1961 1971 1981 1991 2001 2011 2021 2008 2010 2012 2014 2016 2018 2020 2022
+Source: BLS, JPMAM. October 2022. Source: Bloomberg, BLS, NFIB, regional Federal Reserves. November 2022.
+6 You may be used to seeing charts on Average Hourly Earnings. Since COVID, we have been monitoring other
+wage measures since AHE can be heavily impacted and distorted by changes in the composition of the labor
+force (i.e., when a disproportionate number of low wage workers are furloughed).
+10
+
+--- PAGE 13 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+As we’ve discussed before, the labor shortage is a consequence of COVID, above-average rates of retirement
+and a slowdown in immigration. Labor force participation rates are actually back to pre-COVID levels for people
+under the age of 55. It’s mostly the 60+ cohort that hasn’t come back to work, and there are few signs that they
+are planning to return. On immigration: while there was an increase in visa issuance in late 2022, the US
+economy is still affected by the trough in immigration that occurred during COVID.
+The goods inflation picture has improved dramatically: supply chain pressures in warehousing and transport
+have cooled, and used car prices have further to fall. After surging to 15% y/y increases during COVID, US
+durable goods inflation is now roughly 0% with the potential for deflation in early 2023. US new car inventories
+reached 1.6 mm units in December 2022 according to Cox Automotive, up ~80% from 0.9 mm units in September
+2021 but still well below the 2019 average of ~3.7 mm.
+We also expect the household demand impact on inflation to slow given further depletion of US excess savings,
+which peaked at ~$2.1 trillion in the middle of 2021. These savings have been drawn down to around $1.1
+trillion, and should be fully depleted by mid-year7.
+Labor force participation rate Retirement rate for workers 55-74 years old
+Percent Percent %, 55-74 retired population as a share of population
+41.0% 83.5% 40%
+40.5% Over 54 83.0% 39%
+82.5%
+40.0% 38%
+82.0%
+37%
+39.5% 81.5%
+81.0% 36%
+39.0% 25-54
+80.5%
+35%
+38.5%
+80.0%
+34%
+38.0% 79.5% 2010 2012 2014 2016 2018 2020 2022
+2010 2012 2014 2016 2018 2020 2022 Source: Schwartz Center. November2022. Dotted line indicates pre-pandemic
+Source: BLS, JPMAM. November 2022. (April 2020) trend.
+US Immigrant Visaissuance Supply chains cooling, used carprices falling
+Index (100 = Dec 2016) %, 6-mo change ann. Index (50+ = slower deliveries)
+125 70% 85
+Used vehicle value (lhs)
+60% 80
+Supplier delivery times (rhs)
+100 50% 75
+40% 70
+75
+30% 65
+20% 60
+50
+10% 55
+25 0% 50
+-10% 45
+0 -20% 40
+2000 2004 2008 2012 2016 2020 2000 2004 2008 2012 2016 2020
+Source: US Dept of State, CATO, JPMAM. October 2022. Source: Bloomberg, Manheim, JPMAM. November 2022.
+7 See “Pandemic savings cushion looks less cushy”, Dan Silver, JP Morgan North America Economic Research,
+October 7, 2022 and “Excess savings during the COVID pandemic”, Federal Reserve Notes, October 21, 2022
+11
+
+--- PAGE 14 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+The elephant in the room on inflation in the short term is housing, which represents the largest component of core
+inflation. Housing costs in the CPI data are lagged: home price and rental increases of the last couple of years are
+showing up now in the CPI data. However, current measures such as apartment asking rents are slowing significantly.
+This makes sense given the sharp rise in mortgage rates and the largest percentage increase in multifamily units
+coming online since the 1970’s. In other words, the collapse in housing (whose speed now rivals the housing decline
+during the double dip recession of the 1980’s) should dampen inflation substantially in 2023.
+Bottom line: inflation should cool enough for the Fed to pause at 5%. Remember, it’s not just the policy rate that’s
+changing; the Fed’s balance sheet is shrinking as well. The SF Fed computes a “proxy rate” that takes into account
+the impact of QE unwinding and related market impacts. This proxy rate is now higher than the Funds rate by the
+highest margin on record (fifth chart), another reason why we believe that inflation will slow meaningfully in 2023.
+US new rents Multifamily units under construction relativeto rentalstock
+Percent, annualized Percent, annualized Percent
+10% CPI rent of primary res., q/q (lhs) 40% 4.0%
+9% Apt. List asking rents, q/q (rhs) 35%
+3.5%
+8% RealPage asking rents, m/m (rhs) 30%
+25% 3.0%
+7%
+20%
+6% 2.5%
+15%
+5% 2.0%
+10%
+4%
+5% 1.5%
+3%
+0%
+1.0%
+2% -5%
+1% -10% 0.5%
+0% -15% 0.0%
+2018 2019 2020 2021 2022 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+Source: Apartment List, RealPage, Bloomberg, JPMAM. November 2022. Source: Census Bureau, JPMAM. Q3 2022.
+Annualmortgage cost as a percentage of household Housing activity decline mirrors GFC and Double Dip
+income, Percent recession so far, Existing home sales, Index = 100
+55% 130
+50% 120
+45%
+45% 110 COVID
+40% Dotcom
+100
+35%
+90 S&L
+Stagflation
+30%
+80
+GFC
+25% Current
+70
+20% Double
+60 Dip
+15% 0 2 4 6 8 10 12 14 16
+1948 1958 1968 1978 1988 1998 2008 2018 Months
+Source: Census, Shiller, Freddie Mac, Bloomberg, JPMAM. November 2022. Source: National Association of Realtors, JPMAM. 2022.
+Federalfunds rate vs proxy funds rate US consumer price inflation measures
+Percent, annualized Percent, 3month annualized change
+7% 9%
+Cleveland Fed median CPI
+6% SF Fed proxy funds rate 8% Atlanta Fed sticky CPI
+5% Federal funds rate 7% Cleveland Fed trimmed mean CPI
+4% 6%
+3% 5%
+2% 4%
+1% 3%
+0% 2%
+-1% 1%
+-2% 0%
+2000 2003 2006 2009 2012 2015 2018 2021 1985 1990 1995 2000 2005 2010 2015 2020
+Source: SF Fed, FRED. November 2022. Source: Bloomberg, JPMAM. November 2022.
+12
+
+--- PAGE 15 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+The longer-term elephant in the room: the impact of the energy transition on inflation. We’ll go through the
+details in our 2023 energy paper in May, but for now consider this:
+ As wind and solar penetration rises, a lot of capital will still need to be spent building and maintaining backup
+thermal power plants and utility-scale energy storage. The first chart shows that 1 MW of additional wind
+and solar capacity results in the decommissioning of just 0.1 to 0.3 MW of natural gas
+ A lot of capital will also need to be spent on the transmission grid since wind and solar capacity is generally
+located further away from demand centers (second chart)
+ It will be expensive to replicate the many renewable supply chains that China now dominates (third chart)
+ Electric vehicles are more semiconductor-intensive than internal combustion engine cars, and the reshoring
+of semiconductor supply chains may increase chip component prices by 50% or more (fourth chart)
+Bottom line: the energy8, CHIPs and infrastructure bills are all part of a new US industrial policy, which on the
+margin will increase inflation and put upward pressure on real and nominal interest rates in the long run.
+8 On that nuclear fusion experiment which generated more energy than it consumed: technically speaking it did, with 2 MJ
+of energy in, and 3 MJ of energy out. But it took 300 MJ of energy to power the lasers used to produce the 2 MJ of energy
+inputs. Another “fine print” caveat that clarifies how far away we are from commercialized nuclear fusion. The experiment
+also required equipment housed in a building that’s the size of three football fields, and generated enough energy to boil
+a tea kettle. Energy Secretary Granholm stated a goal of commercial fusion reactors in the next decade; yet another
+unrealistic energy target from the Biden administration.
+13
+)YN(
+OSIYN
+)laC(
+OSIAC
+)xeT(
+TOCRE
+)natlA
+diM(
+MJP
+)tsaE
+S(
+OCOS
+)tsewdiM(
+PPS
+)lgnE
+weN(
+ENSI
+reppU(
+OSIM
+)tsewdiM
+How much natural gas capacity can be reduced per MW of
+new wind and solar power?
+%, computed for 2021, assuming new wind and solar = 10% of demand
+100%
+Due to wind/solar intermittency,backup thermal power
+90%
+and/or storage is needed in high renewable systems. The
+80% figures below show how much nat gas capacity can be
+70% eliminated when adding new wind/solar based on existing
+generation resources.
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Source: EIA data, JPMAM computations. 2022.
+dniW
+lamrehtoeG
+ordyH
+laoc
+suonimutibbuS
+raloS
+laoc
+suonimutiB sag
+larutaN raelcuN
+Distance required for power generation facilities to reach 2
+million people, Kilometers, MW-weighted average
+160
+140
+120
+100
+80
+60
+40 20
+0
+Source: EIA, Census Bureau, JPMAM computations. 2022.
+Renewable supply chains go through China, for now Semiconductor content by power train
+Solar module shipments US$ pervehicle
+Solar cell prod. $900
+Solar module prod.
+Solar polysilicon prod. $800 Other EV uses
+Solar wafers prod. Power train
+Wind turbine order book $700
+Non-power train
+Wind raw materials
+$600
+LiOn battery manuf.
+EV mineral processing $500
+EV cathodes/anodes
+Copper production $400
+Copper refining
+Rare earth production $300
+Graphite production
+$200
+Lithium production
+Manganese production China US EU $100
+Cobalt production
+Strontium production $0
+Internal Combustion Engine PHEV / BEV
+0% 20% 40% 60% 80% 100%
+Share in total production Source: SIA, Infineon. 2021. Note: power train includes voltage regulators and
+Source: IEA, BNEF, S&P, USGS, EC, Benchmark Mineral Intelligence, 2021. integrated circuits; "other" includes sensors, motor control units, and memory.
+
+--- PAGE 16 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+As for Europe, energy inflation dynamics are a bit different. Europe is paying the price for its pre-war energy
+reliance on Russia, and for a pricing mechanism in which wind, solar, hydro and nuclear power producers are
+paid the same price for electricity as power producers relying on natural gas. The problem: fossil fuel power
+producers set marginal prices most of the time in Europe (see table), and when natural gas input prices soar,
+that marginal price for electricity gets paid to all power producers. Europe is trying to sort this out with
+household subsidies and caps on prices paid to non-gas power producers that could offset around 60% of the
+price shock. Electricity price caps per MWh on solar/wind/hydro/etc: UK €245, Germany €150, France €100,
+Italy & Spain €67, compared to uncapped December 2022 prices that have ranged from €100 - €350 per MWh.
+More on inflation: Germany just completed its first of five LNG import regasification facilities, and the combined
+cost estimate has tripled from the original budget to around $10 billion. On top of that, France’s nuclear power
+industry has been operating at ~50% of capacity. If this continues through the winter, additional gas and
+electricity price strains may appear in France and surrounding countries reliant on its nuclear power exports.
+As for the price spikes in California shown in the bottom charts, what do you expect from a state that shut down
+PG&E natural gas storage, shut down nuclear power, is experiencing urban outmigration to rural and suburban
+areas with greater per capita energy demand, is experiencing pipeline maintenance delays and will be facing
+greater competition for natural gas in the future due to Canadian and Mexican exports?
+Euro Area energy inflation How marginal electricity prices are set in Europe
+Percent, y/y change % of all hours
+50% Country Fossil fuel Non-fossil Imports
+40% Germany 91% 7% 2%
+Denmark 25% 13% 62%
+30%
+Spain 89% 6% 5%
+20% France 7% 93% 0%
+Ireland 61% 1% 38%
+10%
+Italy 86% 11% 3%
+0%
+Greece 77% 0% 23%
+-10% Portugal 87% 13% 0%
+UK 84% 1% 15%
+-20%
+1997 2002 2007 2012 2017 2022 Source: "Energy Transitions in Europe - Role of Natural Gas in Electricity
+Source: Bloomberg, JPMAM. November 2022. Prices", Zakeri et al. July 23, 2022.
+The US-Europe natural gas gap The US-Europe electricitygap
+Wholesale natural gas price, US$ per MMBTU Wholesaleelectricity price, US$/MWh, 7 day average
+$90 $500
+$80 $450
+$400
+$70
+$350
+$60
+Germany, Spain
+$300
+$50 & France avg
+$250
+$40 Calif., $38 $200
+$30 Europe $150
+$20 (TTF), $26 $100 US: Calif.
+$10 US Henry $50
+US: PJM
+Hub, $5
+$0 $0
+Jan-21 May-21 Sep-21 Jan-22 May-22 Sep-22 Jan-23 Jan-21 May-21 Sep-21 Jan-22 May-22 Sep-22 Jan-23
+Source: Bloomberg, JPMAM. Dec 27, 2022. Dots represent latest daily price. Source: Bloomberg, JPMAM. Dec 27, 2022.
+14
+
+--- PAGE 17 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Topic #3: Tracking the gradual decline of globalization
+Globalization isn’t collapsing, although it has receded from its peak. Globalization includes trade, foreign direct
+investment and cross-border portfolio flows. Trade and FDI rebounded after COVID, and within trade, services
+have room to recover with a resumption of global travel. Furthermore, part of the traded goods decline reflects
+declining commodity prices from 2011 to 2020 rather than declining trade volumes; only 40% of the decline in
+traded goods values since peak levels might be the result of reshoring international supply chains9.
+Globalexports of goods and services as a Global foreign direct investment flows as a Globalportfolio equity flows as a percent of
+percent of world GDP, Percent, FY 2021 percent of world GDP, Percent, Q1 2022 world GDP, Percent, FY 2021
+25% 6% 2.0%
+20% 5% 1.5%
+Goods
+4%
+15% 1.0%
+3%
+10% 0.5%
+2%
+5% Services 0.0%
+1%
+0% 0% -0.5%
+1970 1980 1990 2000 2010 2020 1970 1980 1990 2000 2010 2020 1970 1980 1990 2000 2010 2020
+Source: World Bank. 2021. Source: IMF, World Bank, OECD. Q1 2022. Source: IMF, World Bank. 2021.
+What is collapsing: the US and European conceit of “Change through Trade” or “Constructive Engagement”.
+On page 19, we show Europe’s financial and energy embargo on Russia now that its “Ostpolitik” approach has
+failed. Below, we show China’s declining share of US imports, the collapse in new OECD direct investments into
+China, the increase in CFIUS investigations (Congressional oversight of foreign direct investment in the US), and
+the decline in portfolio flows into China. In October, we wrote in detail about US restrictions placed on artificial
+intelligence chip, equipment and component exports to certain Chinese entities. In late December, the US
+increased the number of Chinese companies on this restricted list to 500, including China’s flagship flash
+memory producer. Some of these entities are also subject to the US Foreign Direct Product Rule, which means
+that the US will try and apply its export restrictions to non-US companies purchasing US semiconductors or IP.
+In AmCham’s 2022 China survey, US companies now cite rising US-China tensions as their biggest problem. Next
+up: restrictions on US FDI into China10, to mirror restrictions on inbound FDI from China.
+Trade war impact on US import counterparties OECD retreating from China
+Share of US imports, 6 month average Greenfield capital spending, Index (100 = Jan 2012)
+OECD
+28% 220
+investments
+Europe 200 into EU
+24%
+180
+160 OECD
+20% China
+investments
+140
+into US
+16% 120
+Mexico
+100
+12% Canada 80
+8% Korea, Vietnam&Taiwan 60 OECD
+investments
+Japan 40 into China
+4% 20
+2015 2016 2017 2018 2019 2020 2021 2022 2012 2014 2016 2018 2020 2022
+Source: US Census Bureau. October 2022. Source: fDiMarkets. 2021.
+9 Richard Baldwin, University of Oxford, “Peak Globalization Myths, Part 2”, September 2022
+10 In November 2022, US Secretary of Commerce Raimondo mentioned the need to mitigate risks to US national
+security from outbound US investment in critical technology. As an example, Raimondo cited the prohibition
+on companies receiving CHIPs funding from investing in advanced technology facilities in China for ten years.
+15
+
+--- PAGE 18 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+From Jake Sullivan, US National Security Advisor
+“The basic mistake of engagement was to assume that it could bring about fundamental changes to China’s political
+system, economy, and foreign policy. Washington risks making a similar mistake today, by assuming that competition
+can succeed in transforming China where engagement failed.” [Foreign Affairs Magazine, Oct 2019]
+“China is the only competitor with both the intent to reshape the international order and the growing capacity to do
+it…This is a decisive decade for shaping the terms of competition, especially with the PRC”. On foundational
+technology, “the fence has to be high, because our strategic competitors should not be able to exploit American and
+allied technologies to undermine American and allied security.” [White House National Security Briefing, Oct 2022]
+Geopolitics and changing domestic policies are not abstract concepts for investors. Note in the first chart how
+semiconductor stocks have been negatively impacted by US export control policies. The big picture: supply
+chains will no longer be optimized solely by cost. A 2022 EBRD Transition Report survey found that 75% of all
+firms have taken steps to make supply chains more resilient, either by increasing inventories from just-in-time
+to just-in-case, and by diversifying suppliers. On the margin, this increases costs and reduces profits.
+One interesting aspect of the US-China relationship: it’s not as one-sided as it seems. Over the last decade,
+US companies made large investments in Chinese subsidiaries. As of 2020, the US trade deficit with China
+disappeared once sales of in-country subsidiaries were included. In other words, US companies were doing
+almost the same amount of business in China as Chinese companies were doing in the US, but through local
+subsidiary sales rather than exports. In addition to exports of rare earth elements, China has leverage regarding
+its domestic policies that affect large and profitable US multinational firms operating there.
+Global investors impacted by changing export policies Deal noticesreceived by the Committee on Foreign
+Percent, price change since September 2021 Investment in the US, Number of notices
+50% NVIDIA 300
+40% Advanced Micro Devices
+PHL Semiconductor Index 250
+30%
+FS China Semiconductor Index
+20%
+200
+10%
+0% 150
+-10%
+100
+-20%
+-30% 50
+-40%
+0
+-50%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+Sep-2021 Dec-2021 Mar-2022 Jun-2022 Sep-2022 Dec-2022
+Source: Bloomberg, JPMAM. December 27, 2022. Source: Treasury Department. 2021.
+Foreign portfolio investment in Chinese stocks and bonds The US does a lot of business in China, but through its in-
+RMB, trillions country subsidiaries rather than via exports, US$, billions
+8 $0
+7 -$50
+-$100
+6 US-China trade balance plus
+Stocks -$150
+in-country sales of subsidiaries
+5
+-$200
+4 -$250
+-$300
+3
+-$350 US-China trade
+2 Bonds -$400 balance as reported
+1 -$450
+-$500
+0
+'03'04'05'06'07'08'09'10'11'12'13'14'15'16'17'18'19'20'21
+2013 2014 2015 2016 2017 2018 2019 2020 2021
+Source: People'sBank of China. September 2022. Source: Deutsche Bank, Census, JPMAM. 2021.
+16
+
+--- PAGE 19 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Semiconductor stickiness: onshoring will take a very long time. Try as they might, both the US and China face
+separate challenges on the road to semiconductor self-sufficiency. The next two pages explain why, and are a
+proxy for the slow pace of industrial reshoring even when incentives and subsidies are provided. Bottom line:
+it’s not that easy to unwind 30 years of specialization in complex industrial manufacturing.
+Semiconductor stickiness, Part 1: the US and the CHIPs bill
+ When fully deployed, the $50-$60 billion in the US CHIPs bill would only bring the US to ~15% semiconductor
+self-sufficiency as per an analysis from BCG
+ The Arizona-based plant that TSMC expects to open in 2024 to produce 4 nanometer chips may already be
+2-4 years behind leading-edge technology that TSMC deploys in Taiwan. The first iPhone to substantially
+rely on US-made chips could be the iPhone 1811
+ TSMC has cited high operating costs, lack of trained personnel and construction snags in its efforts to
+bring the Arizona plant online12. TSMC mentioned that the same plant would be less capital intensive to
+build in Taiwan, and that the all-in cost of its US chip production could be 50% higher than in Taiwan. TSMC
+also had to ship clean room and chip-making equipment from Taiwan since American suppliers cost more
+or aren’t available. On personnel, TSMC sends US engineers to Taiwan for 18 months of required retraining
+ TSMC’s US-based foundries are likely to require real-time supply and operational connections to Taiwan; if
+so, they might not really represent a milestone in US semiconductor independence. Similarly, these US-
+based foundries might not be designed to produce the multitude of chips that the US needs, and might
+focus more narrowly on production for Apple, Nvidia and AMD
+ From a geopolitical perspective, one could speculate that TSMC agreed to produce chips at lower margins
+and at lower efficiencies in the US in order to boost US support for Taiwan itself
+Semiconductormanufacturing capacity Semiconductor bill spending and estimated amounts
+% of global capacity required for US self-sufficiency,US$, billions
+45%
+Taiwan $600
+40% South Korea
+China $500
+35%
+Japan
+30% US $400
+Europe
+25%
+$300
+20%
+15% $200
+10% $100
+5%
+$0
+0% CHIPs bill Estimated amount needed for US
+1990 1995 2000 2005 2010 2015 2020 semiconductor self-sufficiency
+Source: SIA, Bloomberg. February 2021. Source: BCG, JPMAM. April2021.
+11 “TSMC in Arizona, Arizona Challenges, Realities and Motivations”, Stratechery Research, Dec 7, 2022
+12 “TSMC’s Arizona Chip Plant, Awaiting Biden Visit, Faces Birthing Pains”, WSJ, Dec 5, 2022
+17
+
+--- PAGE 20 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Semiconductor stickiness, Part 2: China, Taiwan and Faberge eggs
+Only 10% of Chinese semiconductor demand is met via Chinese domestic production. The other 90% is met
+through imports and foreign firms producing chips in China. As of 2021, Taiwan accounted for a 70% share of
+Chinese chip consumption: TSMC produces 10% of China’s chips in its factories in Nanjing and Shanghai, and
+exports the remaining 60% from Taiwan. There may be no example anywhere in the world of one country so
+reliant on another for a specific high-value import; China’s 70% reliance on Taiwan dwarfs Europe’s pre-war
+reliance on Russian energy. Most Chinese foundries are working on 14-28 nanometer chips while the global
+leaders like TSMC are already producing at 5-7 nanometers.
+Over the last decade, China’s National Integrated Circuit Investment Fund supported national champions
+through direct stakes and commingled investment funds. There are successes, such as SMIC (7 nm chips), YMTC
+(competitor to Samsung), San’an Optoelectronics (device manufacturer), AMEC (fabrication equipment) and
+JCET (assembly, testing & packaging). However, others filed for bankruptcy (Tsinghua, Wuhan Hongxin, Quanxin
+Circuits), leading to a series of investigations and arrests. As things stand now, China has fallen short of its
+domestic semiconductor production goals.
+Regional reliance for critical goods
+Percent
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Chinese semiconductor Pre-war European reliance on
+consumption sourced from Taiwan Russian energy
+Source: Stimson Center, BP Statistical Review of World Energy. 2022.
+Bottom line for the US and China: semiconductors are among the most complex industrial products on earth13
+The most advanced and profitable chips of 10, 7, 5, and 3 nanometers are difficult and costly to fabricate and
+can only be made by machines designed and built by ASML (Netherlands) using extreme ultraviolet photo-
+lithography. Because of their complexity, ASML only produces 45-55 such machines per year. Advanced chip
+foundries require clean rooms that are 10,000x cleaner than a hospital surgical room. The chip etching process,
+parts of which are done in a pure nitrogen environment, can take weeks operating 24 hours a day and involve
+700 separate steps, many of them repeated. Completing all necessary steps in the value chain may involve
+multiple air flights back and forth over thousands of miles to sites with specialized capabilities. These foundries
+require exotic chemicals, gasses, rare metals, materials and components from thousands of companies and
+dozens of countries. In other words, advanced semiconductors are the Faberge eggs of industrial complexity.
+13 “Semiconductors and Taiwan’s Silicon Shield”, Dr. Richard Cronin, Stimson Center, August 2022
+18
+005,1
+002,1
+000,1
+008
+006
+005
+053 003 052 081 031
+09 56 54 04 82 02 61 01
+7 5
+TSMC semiconductorcapabilities
+Nanometers
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+0
+1987 1992 1997 2002 2007 2012 2017 2022
+Source: TSMC. 2022.
+
+--- PAGE 21 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+US and China spheres of influence and the Western financial/energy embargo on Russia
+UK researchers aggregated public opinion surveys across 137 countries regarding views of China/Russia and the
+US, and used this data to illustrate spheres of influence. The lines connect China and the US with the countries
+whose populations are much more aligned with it than the other. While some countries straddle the middle,
+they are migrating away from the diameter: the researchers found an increasingly inverse relationship between
+positive perceptions of the US and of China/Russia.
+This chart might explain the speed with which Chinese banks replaced falling bank lending from the West after
+Russia’s invasion of Crimea in 2014, and the more recent rise in Chinese purchases of Russian energy (see bottom
+two charts). These are components of the “no-limits” partnership announced by Russia and China just before
+the invasion of Ukraine.
+100%
+Russia Turkmen
+Uzbek
+90% Serbia
+CHIN La A os B P el a a kis M B a a u ng EswCub B a ots Timor
+80% Brunei Kyr Ma A li lger C N o ig B te e u r IA rk rm G E ui th Ben CaboV
+70% K M az a a u k rit S M a o u n d t i Cam Eg e y A G n M a g o m Sz L M e T a o o l n g a e w M U L g o e a r s o Libe 60% Indonesia Malay Con B g B G o o u l a i l v b g Sud Bo TS s aenn N Z T a i h m m ai S G a h l In a di Ni A g V z e i e e ria
+50% Tunis I i r a aq Leb Slova C J a o m rd bN M ic e P x a i r c P H a o n n Dom Ken Iran Latv Uru Phi Mold
+Sing Peru Colom
+40% Lib G ya reece SA V fr ene U z AE Geor
+Palestine Turkey Arg Chl Rom Isr
+Cze Lith Alb
+30% New Zeal Hung Braz
+Esto Fin
+Switz
+ItaFra Tai
+20% Ge A r us Ir N e o A r u C st S a r n p a a P N o e r t t he U r K SKor Kos Pol
+10% Denm Swed Jpn USA
+0%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+19
+)degareva(
+aissuR
+dna anihC
+fo
+weiV
+evitisoP
+The structure of global public allegiances
+Based on nationally-representative public opinion surveys
+Positive view of the United States
+Source: From “A World Divided: Russia, China and the West.” Cambridge, United Kingdom: Centre for the Future of Democracy,
+October 2022, Roberto Foa et al. Lines plotted for all countries with more than a 20% relative public preference.
+Cross-bordersyndicated loans to Russia Chinese vsEuropean purchases of Russian energy
+US$, billions US$, billions Million tonnes of oil equivalent / day
+$52
+$48 Russia $9 0.9
+$44 invades $8 0.8
+Crimea
+$40 China 0.7
+$36 Other $7
+Germany European purchases of 0.6
+$32 $6
+$28 France Russian energy 0.5
+Italy $5
+$24 Great Britain 0.4
+$20 US $4
+$16 Japan 0.3
+$3
+$12 Chinese purchases 0.2
+$8 $2 of Russian energy 0.1
+$4
+$0 $1 0.0
+2010 2012 2014 2016 2018 2020 2022 2019 2020 2021 2022
+Source: BIS. Q1 2022. Source: CREA, EIA, GACC, Bloomberg, JPMAM. November 2022.
+
+--- PAGE 22 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Topic #4: Tracking the performance of active managers
+Financial repression by Central Banks began after the 2009 recession and led to collapsing risk premia and falling
+relative valuation spreads in equities and risky credit markets. This was particularly true in Europe where the
+ECB bought bonds on the edge of junk (split-rated), which narrowed credit spreads between good companies
+and bad, and where liquidity in all forms kept insolvent companies alive. By 2018, the BIS had already found
+that “zombie” companies in the developed world had risen to 12% of market cap from just 1% in 1990. This
+number likely rose further by the beginning of 2021.
+It’s therefore no surprise that the average equity manager and hedge fund manager struggled to outperform
+during this decade of financial repression. The charts below illustrate this trend: the blue lines in each chart
+show the performance of large cap core equity managers and hedge fund managers compared to an S&P 500
+benchmark. When the blue lines are declining, active managers are underperforming. On the left, we show
+performance vs the real Fed Funds rate, and on the right vs inflation. If we are in fact heading back to a world
+of positive real interest rates, value-oriented portfolio managers may be facing more positive stock-picking and
+bond-picking conditions than they have seen in some time.
+Active equity mgr performance vs real policy rates Active equity mgr performance vs inflation
+Index (100 = Jan 1990) %, y/y change, 5 year avg Index (100 = Jan 1990) %, y/y change, 5 year avg
+105 4.0% 105 4.5%
+103 103
+Average US large cap core 3.0% Average US large cap core 4.0%
+101 101
+manager vs S&P 500 manager vs S&P 500
+99 2.0% 99 3.5%
+97 97
+1.0% 3.0%
+95 95
+0.0% 2.5%
+93 93
+91 -1.0% 91 2.0%
+89 89
+Fed funds rate less core CPI -2.0% Consumer price inflation 1.5%
+87 87
+85 -3.0% 85 1.0%
+1990 1995 2000 2005 2010 2015 2020 1990 1995 2000 2005 2010 2015 2020
+Source: Bloomberg, Lipper, JPMAM. October 2022. Note: US equity large cap Source: Bloomberg, Lipper, JPMAM. October 2022. Note: US equity large cap
+core is an equal weighted average. core is an equal weighted average.
+Hedge fund mgr performance vs real policy rates Hedge fund mgr performance vs inflation
+Index (100 = Dec 1989) %, y/y change, 5 year avg Index (100 = Dec 1989) %, y/y change, 5 year avg
+300 4% 300 4.5%
+HFRI Equity Hedge HFRI Equity Hedge
+Funds vs S&P 500 3% Funds vs S&P 500 4.0%
+250 250
+2% 3.5%
+200 200
+1% 3.0%
+0% 2.5%
+150 150
+-1% 2.0%
+100 100
+Fed funds rate less core CPI -2% Consumer price inflation 1.5%
+50 -3% 50 1.0%
+1990 1995 2000 2005 2010 2015 2020 1990 1995 2000 2005 2010 2015 2020
+Source: Bloomberg, JPMAM. October 2022. Source: Bloomberg, JPMAM. October 2022.
+20
+
+--- PAGE 23 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Topic #5: Tracking the regulatory wave coming to Fintech/crypto, and JP Morgan’s crypto footprint
+There’s a regulatory wave coming to Fintech, which has given back all COVID-era gains vs traditional banks. In
+November 2022, the US Treasury released a 128-page report calling for greater oversight and enforcement of
+issues related to Fintech regulatory arbitrage, data privacy, risk controls, pricing transparency, mix of commerce
+& banking, fraud and predatory pricing. In addition, the OCC will establish a Fintech oversight unit early in 2023.
+Fintech vs traditional bank performance
+Index (100 = Jan 2019)
+240 A renewed focus on Fintech risks and oversight
+220 “Assessing the Impact of New Entrant Non-Bank Firms
+200 Solactive on Competition in Consumer Finance Markets”,
+Fintech Index
+180 US Department of the Treasury Report to the White
+160 House Competition Council, November 2022:
+140 “While new entrant non-bank firms appear to be
+120 contributing to competitive pressures, they are
+100 KBW Bank generally not subject to the same oversight for safety
+80 Index and soundness or consumer protection as insured
+60 depository institutions, which raises various public
+2019 2020 2021 2022
+policy considerations” [Executive Summary]
+Source: Bloomberg, JPMAM. December 27, 2022.
+As for crypto, our “Maltese Falcoin” paper from February 2022 identified the risks involved: parallels between
+crypto and hydrogen, collateral and hypothecation risks to investors holding crypto on unregulated exchanges,
+the mudding of crypto and blockchain value propositions which usually have nothing to do with each other, the
+unsustainability of DeFi smart contracts which are almost entirely contingent on crypto prices, etc.
+The crypto unraveling we expected is leading to a regulatory wave as well. The SEC press release on the FTX
+CEO indictment included an addition from the SEC Chair: a “clarion call to all crypto platforms” to come into
+compliance with US laws, to prepare for greater disclosure and regulatory examinations, and a warning that the
+SEC’s Enforcement Division is ready to take action. The SEC Enforcement Director reiterated that the “runway
+is getting shorter” for exchanges to comply with US securities laws. The crypto winter is about to get colder still.
+HydrogenEconomy Index vs cryptocurrency market cap Total value locked in DeFivs Ethereum prices
+Index (100 = Jan 2019) US$, trillions US$, billions US$
+450 $3.0 $200 $5,000
+Maltese Falcoin Total value locked
+Solactive Hydrogen
+400 publication $180 in DeFi (lhs) $4,500
+Economy Index $2.5 $160 Ethereum price $4,000
+350 (rhs)
+$140 $3,500
+$2.0
+300
+$120 $3,000
+250 $1.5 $100 $2,500
+200 $80 $2,000
+$1.0
+$60 $1,500
+150
+Cryptomarket $0.5 $40 Maltese Falcoin $1,000
+100 capitalization $20 publication $500
+50 $0.0 $0 $0
+2019 2020 2021 2022 2023 2020 2021 2022 2023
+Source: Bloomberg, TradingView, JPMAM. December 27, 2022. Source: DeFiLlama, Bloomberg, JPMAM. December 27, 2022.
+What about JP Morgan? A client asked me about JP Morgan’s involvement in crypto, alleging that despite our
+CEO’s public comments (Jamie described crypto as pet rocks in an interview last month), that JP Morgan “has
+made major crypto investments, which is contradictory”. I sent him the response on the following page.
+21
+
+--- PAGE 24 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+On blockchain vs crypto. There are two nodes of the digital world when it comes to finance: (a) blockchain
+technology designed to try and improve efficiency and reduce execution costs in the trading, processing and
+custody of existing securities, and (b) “crypto”, which refers to owning, trading, investing and lending in various
+speculative “tokens”. JP Morgan has invested a little in the former, and almost none in the latter.
+Blockchain
+It can take days to settle certain security, currency and loan transactions due to paperwork and counterparty
+verification; some lending functions can only be settled at close of day. By digitizing security and counterparty
+info on a digital ledger, JP Morgan can now settle certain transactions intraday. This can lead to new processing
+capabilities, lower execution costs and less counterparty risk. In these narrow use cases, the blockchain simply
+results in an efficiency gain for the financial institutions using it. A critical distinction between the blockchain as
+used by JP Morgan and crypto: the former involves a closed, permissioned network with no speculation,
+verification rewards or risk related to token values (a $ is always a $, whether digitized or not). And let’s be
+clear: there are many applications where using a blockchain doesn’t save any time or money at all 14,15,16.
+Crypto trading, investing, lending and speculation
+The premise of crypto tokens is either as a store of value (digital gold), a means of exchange (digital alternative
+to the US$), or as an “investment” whose token value is based upon how many people use that public blockchain
+to transact or invest. A large bank/broker could get involved in the crypto world in four ways I can think of:
+1. by investing in tokens for its own account
+2. by building a large crypto sales, trading and research function which caters to institutions and individuals
+looking to invest either on a short-term or long-term basis
+3. by taking crypto-denominated deposits and then lending them out to earn crypto-denominated income,
+part of which it would pay in crypto form to depositors
+4. by laying the groundwork with its retailer clients for their customers to pay for goods and services with
+crypto as a means of exchange
+JP Morgan has done very little of these four things. Our asset and wealth management business has over $3
+trillion in assets under supervision, and we have historically allowed no more than a handful of clients to trade
+crypto funds for their own accounts at their own risk if they choose to do so. JP Morgan’s Commercial Bank
+allows a few crypto companies to maintain fiat cash balances with it so that these companies can pay vendors
+and employees; each one is of course subject to full KYC/AML inspection.
+That’s about it, other than an “Alternative Investments Outlook” report from JP Morgan’s Investment Bank
+in May 2022. The authors put a $38k fair value price target on Bitcoin and cited crypto assets as their preferred
+alternative asset over private equity, private debt, hedge funds and real estate. Their stated rationale: resilient
+venture capital funding for crypto after the Terra-Luna collapse, a bitcoin-to-gold volatility model, favorable
+technical conditions and the alleged emergence of crypto as an institutional asset class.
+14 Australia’s primary securities exchange announced in Nov 2022 that it will write off $250 mm after a failed
+7-year effort to replace its system with blockchain technology. It also may have to reimburse firms that spent
+$100 mm on blockchain upgrades. Accenture identified multiple problems with the project including uncertain
+timelines, communication issues with vendor Digital Asset and excessive complexity.
+15 A Google engineer examined 34 actual blockchain projects. His conclusion was grim: “Looking into all 34, I
+found that 13 are already dead (including one killed by the SEC), 6 are only useful within the crypto & NFT
+ecosystems and not in the real world and 14 use blockchain in a way where removing it would not impact
+functionality at all, or make the product better. The remaining project is Chainalysis, which has real-world
+impact by helping law enforcement de-anonymize blockchain users”.
+16 In “Case for Blockchain in Financial Services Dented by Failures” on December 30, the Financial Times cited
+terminated blockchain projects in insurance (premium and claims settlement: 15 insurance companies), banking
+(trade finance: HSBC, UBS, DB) and shipping (supply chains: Maersk and IBM).
+22
+
+--- PAGE 25 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Topic #6: Tracking global fixed income for yield oriented investors
+Given our outlook, the fixed income options below look interesting at the beginning of 2023. Some include
+categories whose spreads have widened but are nowhere near 2009 levels. For reasons I’ve written about
+before and reiterate on page 3, I don’t think that financial sector solvency and systemic risks are comparable to
+2009 even if growth slows more than we expect. While we see value in some fixed income markets, as we
+examined last year17, market depth and liquidity are close to the lowest levels on record. As a result, we could
+see “flash crash” fixed income volatility in 2023, particularly as the Fed shrinks its balance sheet or if there’s a
+replay of the disruptive 1995 & 2011 “GOP House / Democratic President” debt limit negotiations. Congress
+appears to have until the fall to raise the debt limit based on budget deficit and tax revenue projections.
+US Municipal yields Sovereign bond 10 yr yields 30 year mortgage -10 year Treasury
+Yield, percent Local currency yield, percent Basis points
+8% 6% 350
+Long duration munis Europe China
+7% Municipals 1-17 5% 300
+6% 4%
+5% 250
+3%
+4%
+2% 200
+3%
+1%
+2%
+150
+1% 0%
+0% -1% 100
+2000 2005 2010 2015 2020 2000 2005 2010 2015 2020 2005 2010 2015 2020
+Source: Bloomberg, JPMAM. December 27, 2022. Source: Bloomberg, JPMAM. December 27, 2022. Source: Bloomberg, JPMAM. December 27, 2022.
+AAA asset backed securities spreads Sovereign bond 10 yr yields Floating rate instruments (USD)
+Basis points, spread versus Treasury Local currency yield, percent Yield, percent
+650 13% 10%
+600 Commercial RE South Africa US Inv grade
+12% 9%
+550 Auto Mexico Corp FRNs
+500 11% 8%
+450 Credit cards 10% 7% AA Bank CP
+400
+6%
+350 9%
+300 8% 5%
+250 4%
+7%
+200 3%
+150 6%
+2%
+100
+5%
+50 1%
+0 4% 0%
+'98'00'02'04'06'08'10'12'14'16'18'20'22 2006 2011 2016 2021 2000 2005 2010 2015 2020
+Source: Bloomberg, JPMAM. December 27, 2022. Source: Bloomberg, JPMAM. December 28, 2022. Source: Bloomberg, JPMAM. December 26, 2022.
+Preferred option adjusted spread Preferred yields
+P0P1 index, basis points vs UST Yield to worst, percent
+1,600 10% European Contingent Capital securities
+Europe Contingent Capital
+1,400 US Investment 9% US HY Preferred typically trade at higher yields than US
+1,200 grade preferred 8% US HG Preferred preferred stocks. This reflects a lower
+stock credit rating of the CoCo market as a
+1,000 7%
+whole relative to US bank preferred
+800 6%
+stock, and explicit writedown and
+600 5% payment triggers in Contingent Capital
+400 4% prospectuses linked to capital ratios.
+200 3% The European Contingent Capital series
+shown in the chart also contains 10%-
+0 2%
+2000 2005 2010 2015 2020 2010 2015 2020 15% in EM bank securities.
+Source: Bloomberg, JPMAM. December 27, 2022. Source: Bloomberg, JPMAM. December 27, 2022.
+17 “No Free Lunch: the liquidity tradeoffs resulting from increased capital adequacy and deposit coverage”,
+Eye on the Market, June 2022
+23
+
+--- PAGE 26 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+These fixed income categories do not look interesting, since their spreads/yields are too tight relative to our
+economic outlook, and/or there’s not enough spread or yield to justify the risk. I don’t think there’s a big
+problem laying in wait for investors in high grade corporate bonds; I just don’t think 150 bps is really good value.
+I explain more about our concerns on the leveraged loan market at the end of Topic #1 on page 9.
+US investment grade corp spreads Emerging markets dollar bonds US high yield bond spreads
+JULI index spread vs UST, basis points Spread vs US Treasuries, basis points JPDFHYI index spread vs UST, basis points
+600 1,000 1,400
+550 900
+500 1,200
+800
+450
+1,000
+400 700
+350 600 800
+300 500
+250 600
+400
+200
+150 300 400
+HY energy
+100 200 200
+50 100 1995 2000 2005 2010 2015 2020
+2000 2005 2010 2015 2020 2002 2007 2012 2017 2022 Source: Bloomberg, J.P. Morgan HY Team.
+Source: Bloomberg, JPMAM. December 27, 2022. Source: Bloomberg, JPMAM. December 27, 2022. December 27, 2022.
+US leveraged loan prices Pan European high yield
+SPBDALB index Yield, percent
+105 20%
+100 18%
+95 16%
+90 14%
+12%
+85
+10%
+80
+8%
+75
+6%
+70 4%
+65 2%
+60 0%
+2000 2005 2010 2015 2020 2000 2005 2010 2015 2020
+Source: S&P/LSTA, Bloomberg. Dec 27, 2022. Source: Bloomberg, JPMAM. December 23, 2022.
+The jury is out on Brazil. Our Emerging Markets Debt portfolio management team is waiting to see the full
+impact of the new Lula administration’s fiscal framework before adding to Brazil local bonds. Catalysts include
+tax reform and the plans for some large state-owned enterprises. Until there is more clarity on this front they
+are being very tactical on Brazil (i.e., not adding to long-term positions), even though Brazil now offers one of
+the largest risk premiums among EM local bonds.
+Sovereign bond 10 yr yields
+Local currency yield, percent
+17%
+15% Brazil
+13%
+11%
+9%
+7%
+5% Cautious untilwe see Lula
+spending plans; possible upgrade
+3%
+2006 2011 2016 2021
+Source: Bloomberg, JPMAM. December 27, 2022.
+24
+
+--- PAGE 27 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Topic #7: Just the Vax and nothing but the Vax
+Over the last three years, I did a lot of work on COVID. I never wrote anything to clients on the costs and benefits of
+lockdowns, testing, social distancing, school opening policy, mask rules, employee spacing standards or government
+vaccination requirements. Evaluating these kinds of policies requires assessments of their broader impacts on
+employment, small business creation, birth rates, household formation, medical treatment for non-COVID diseases
+and mental health. They also take time and require the benefit of hindsight.
+I do however have a view on the continued efficacy of mRNA vaccines, particularly for older people:
+ The CDC released data for Sep-Nov 2022 on efficacy of the new bivalent mRNA vaccines. For immunocompetent
+people over 65, mRNA vaccine efficacy ranges from 73%-84% with respect to the risk of hospitalization, and
+when measured against no vaccination or just the original monovalent shot. The lower end of the range refers
+to people with no vaccination or the monovalent shot more than a year ago, and the higher end refers to people
+with a monovalent shot within the last 2-5 months. This period of time covers variants BA.5, BQ.1 and BQ.11.
+ Next step: assessments of how bivalent boosters perform vs the XBB variant, which is now outcompeting
+other variants in the Northeast US; see chart below. XBB is the first “recombinant” variant (joining of two
+genetically distinct variants rather than the result of individual mutations). Recombinant strains have greater
+potential resistance to vaccine or acquired immunity; early indications suggest this is the case with XBB
+ According to the CDC, COVID mortality per 100,000 people was ~14x higher for unvaccinated people compared
+to fully vaccinated people from April to September of 2022
+ However: while 94% of those over 65 in the US completed the original vaccination series, only 36% of those over
+65 have received the updated bivalent booster vaccine. That may explain why seniors now comprise the
+greatest share of hospitalizations since the pandemic began18
+ Despite the continued efficacy of mRNA vaccines, Florida’s governor is now reportedly recommending that
+vaccine manufacturers be investigated for fraud/conspiracy and held accountable for false statements19.
+Undermining the confidence in mRNA vaccines seems like an odd position to take as the governor of the state
+with the second oldest population in the US (behind Maine)
+ One in ten Americans reportedly believe that the 1969 moon landing was faked. So, I would not be surprised to
+learn that a large number of people simply do not believe or trust CDC data. But I do, and have vaccinated
+accordingly. I also believe the moon landing was real since I watched it live on TV when I was 7
+That’s the end of the 2023 Eye on the Market Outlook. I hope to see many of you in person this year.
+TheXBB variant
+Reproductive rate
+2.0
+XBB.1.5
+1.8
+BA.5
+1.6
+BA.4 BA.2.12.1
+1.4
+BQ.1
+1.2
+XBB
+BA.2
+1.0
+0 10 20 30 40 50 60 70 80 90
+Days
+Source:Trevor Bedford (FHCC/BBI) and JP Weiland.December 2022.
+Edwin “Buzz” Aldrin Jr. photographed by Neil Armstrong
+on the actual moon, July 1969
+18 “A quick update on the bivalent boosters”, Eric Topol (Scripps Research), December 16, 2022
+19 “DeSantis reverses himself on coronavirus vaccines”, Washington Post, December 17, 2022
+25
+
+--- PAGE 28 ---
+2023 EYE O N THE MARKET OUTLOOK • MI CHAEL CEMBALEST • J.P . MORGAN January 1, 2 023
+The End of the Affair
+It was nice while it lasted. Thetatteredposters onthe cover show the remnantsof someequitymarket catalysts
+over much of the last decade, and in particular 2020-2021: profitless innovation,the Fed’s quantitative easing,
+the discredited notionof “geopolitical change through trade”,the cocktail napkin appeal of Modern Monetary
+Theoryandmassivefiscal stimulus,unsustainablenegative real interest rates and“TINA” (there is no alternative
+to equities), the dream sequence of a rapid transition to renewable energy, the Potemkin village of many
+metaverse/fintech narrativesand thepseudo-libertarian gibberish of unregulatedcrypto.
+The largestcombined monetary andfiscalexperiment in history is ending now, and arecession is comingtothe
+US and Europe basedon leading indicatorswe follow. But: avoid the trapof becomingmore bearishthe lower
+the market gets, and be prepared to take advantage of selloffs when/if they occur. As shown below, in the
+history of US recessions (with the exception of the dot-com collapse of 2001), equity markets bottomed well
+before the bottom in GDP,payrolls, S&P500 earnings andhousing startsandthe peakinhousehold/corporate
+delinquencies. The ISM survey has been themost reliable coincident indicator ofa bottom inequities, which is
+why we pay so much attention to it. If history is any guide, theequitybottom would also coincide with theend
+of Fed hikes and the onset of the actual recession. I expect equitymarkets to bottom sometime in the first half
+ofnext year, andfor the October 2022lows tohold.
+Our outlookbeginswitha discussionofasset prices,someof which alreadyprice inrecession. Thesections that
+followexamineUSinflation dynamicswhichwe believe will cool enough for the Fedto pause rate hikesat 5%
+in the spring; the gradual decline in globalization and implications for investors; how the end of negativereal
+rates may usher in a period of improved stock picking by value-oriented managers; how a regulatory wave is
+coming to the Fintech/crypto world;where we see value in global fixed incomemarkets now that Central Bank
+financial repression isending; and some closing comments onmRNA vaccines and the 1969moon landing.
+Michael Cembalest
+JPMorganAsset Management
+130
+120
+110
+100
+90
+80
+70
+60
+50
+INVESTMENT PRODUCTS ARE:●NOTFDIC INSURED ●NOTA DEPOSITOR OTHER OBLIGATION OF,
+OR GUARANTEED BY,JPMORGAN CHASEBANK,N.A.OR ANY OFITSAFFILIATES ●SUBJECTTO 1
+INVESTMENT RISKS,INCLUDINGPOSSIBLELOSSOFTHEPRINCIPALAMOUNTINVESTED
+7591/6 7591/11 8591/4 8591/9 9591/2 9591/7 9591/21 3791/9 4791/2 4791/7 4791/21 5791/5 5791/01 6791/3 6791/8 1891/2 1891/7 1891/21 2891/5 2891/01 3891/3 3891/8 0991/2 0991/7 0991/21 1991/5 1991/01 2991/3 0002/3 0002/8 1002/1 1002/6 1002/11 2002/4 2002/9 3002/2 3002/7 3002/21 7002/5 7002/01 8002/3 8002/8 9002/1 9002/6 9002/11 0102/4 0102/9 1102/2 0202/1 0202/6 0202/11
+MICHAEL CEMBALEST is the Chairman of Market and Investment Strategy for
+J.P. Morgan Asset & Wealth Management, a global leader in investment management
+and private banking with $3.8 trillion of client assets under management worldwide (as
+of September 30, 2022). He is responsible for leading the strategic market and investment
+insights across the firm’s Institutional, Funds and Private Banking businesses.
+Mr. Cembalest is also a member of the J.P. Morgan Asset & Wealth Management
+Investment Committee and previously served on the Investment Committee for the
+J.P. Morgan Retirement Plan for the firm’s more than 256,000 employees.
+Mr. Cembalest was most recently Chief Investment Officer for the firm’s Global Private
+Bank, a role he held for eight years. He was previously head of a fixed income division
+of Investment Management, with responsibility for high grade, high yield, emerging
+markets and municipal bonds.
+Before joining Asset Management, Mr. Cembalest served as Head Strategist for
+Emerging Markets Fixed Income at J.P. Morgan Securities. Mr. Cembalest joined
+J.P. Morgan in 1987 as a member of the firm’s Corporate Finance division.
+Mr. Cembalest earned an M.A. from the Columbia School of International and Public
+Affairs in 1986 and a B.A. from Tufts University in 1984.
+Watch the ISM surveyforsigns ofa market bottomin recessions
+S&P 500 indexed at 100 at start of each period, dots showwhen each indicator bottomed
+S&P500 index ISM GDP Payrolls S&P Earnings Housing starts RE delinquencies
+ISM,
+payrolls &
+housing
+starts
+Eisenhower Stagflation Double dip recession S&L recession DotCom collapse GFC COVID
+Source:BEA, Census,NAR, Shiller, Bloomberg, S&P DowJones,JPMAM. 2022.
+
+--- PAGE 29 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+IMPORTANT INFORMATION
+This report uses rigorous security protocols for selected data sourced from Chase credit and debit card transactions to ensure all information is kept confidential
+and secure. All selected data is highly aggregated and all unique identifiable information, including names, account numbers, addresses, dates of birth, and Social
+Security Numbers, is removed from the data before the report’s author receives it. The data in this report is not representative of Chase’s overall credit and debit
+cardholder population.
+The views, opinions and estimates expressed herein constitute Michael Cembalest’s judgment based on current market conditions and are subject to change
+without notice. Information herein may differ from those expressed by other areas of J.P. Morgan. This information in no way constitutes J.P. Morgan Research
+and should not be treated as such.
+The views contained herein are not to be taken as advice or a recommendation to buy or sell any investment in any jurisdiction, nor is it a commitment from J.P.
+Morgan or any of its subsidiaries to participate in any of the transactions mentioned herein. Any forecasts, figures, opinions or investment techniques and
+strategies set out are for information purposes only, based on certain assumptions and current market conditions and are subject to change without prior notice.
+All information presented herein is considered to be accurate at the time of production. This material does not contain sufficient information to support an
+investment decision and it should not be relied upon by you in evaluating the merits of investing in any securities or products. In addition, users should make an
+independent assessment of the legal, regulatory, tax, credit and accounting implications and determine, together with their own professional advisers, if any
+investment mentioned herein is believed to be suitable to their personal goals. Investors should ensure that they obtain all available relevant information before
+making any investment. It should be noted that investment involves risks, the value of investments and the income from them may fluctuate in accordance with
+market conditions and taxation agreements and investors may not get back the full amount invested. Both past performance and yields are not reliable indicators
+of current and future results.
+Non-affiliated entities mentioned are for informational purposes only and should not be construed as an endorsement or sponsorship of J.P. Morgan Chase & Co.
+or its affiliates.
+For J.P. Morgan Asset Management Clients:
+J.P. Morgan Asset Management is the brand for the asset management business of JPMorgan Chase & Co. and its affiliates worldwide.
+To the extent permitted by applicable law, we may record telephone calls and monitor electronic communications to comply with our legal and regulatory
+obligations and internal policies. Personal data will be collected, stored and processed by J.P. Morgan Asset Management in accordance with our privacy policies
+at https://am.jpmorgan.com/global/privacy.
+ACCESSIBILITY
+For U.S. only: If you are a person with a disability and need additional support in viewing the material, please call us at 1-800-343-1113 for assistance.
+This communication is issued by the following entities:
+In the United States, by J.P. Morgan Investment Management Inc. or J.P. Morgan Alternative Asset Management, Inc., both regulated by the Securities and
+Exchange Commission; in Latin America, for intended recipients’ use only, by local J.P. Morgan entities, as the case may be.; in Canada, for institutional clients’
+use only, by JPMorgan Asset Management (Canada) Inc., which is a registered Portfolio Manager and Exempt Market Dealer in all Canadian provinces and
+territories except the Yukon and is also registered as an Investment Fund Manager in British Columbia, Ontario, Quebec and Newfoundland and Labrador. In the
+United Kingdom, by JPMorgan Asset Management (UK) Limited, which is authorized and regulated by the Financial Conduct Authority; in other European
+jurisdictions, by JPMorgan Asset Management (Europe) S.à r.l. In Asia Pacific (“APAC”), by the following issuing entities and in the respective jurisdictions in which
+they are primarily regulated: JPMorgan Asset Management (Asia Pacific) Limited, or JPMorgan Funds (Asia) Limited, or JPMorgan Asset Management Real Assets
+(Asia) Limited, each of which is regulated by the Securities and Futures Commission of Hong Kong; JPMorgan Asset Management (Singapore) Limited (Co. Reg. No.
+197601586K), which this advertisement or publication has not been reviewed by the Monetary Authority of Singapore; JPMorgan Asset Management (Taiwan)
+Limited; JPMorgan Asset Management (Japan) Limited, which is a member of the Investment Trusts Association, Japan, the Japan Investment Advisers Association,
+Type II Financial Instruments Firms Association and the Japan Securities Dealers Association and is regulated by the Financial Services Agency (registration number
+“Kanto Local Finance Bureau (Financial Instruments Firm) No. 330”); in Australia, to wholesale clients only as defined in section 761A and 761G of the Corporations
+Act 2001 (Commonwealth), by JPMorgan Asset Management (Australia) Limited (ABN 55143832080) (AFSL 376919). For all other markets in APAC, to intended
+recipients only.
+For J.P. Morgan Private Bank Clients:
+ACCESSIBILITY
+J.P. Morgan is committed to making our products and services accessible to meet the financial services needs of all our clients. Please direct any accessibility
+issues to the Private Bank Client Service Center at 1-866-265-1727.
+LEGAL ENTITY, BRAND & REGULATORY INFORMATION
+In the United States, bank deposit accounts and related services, such as checking, savings and bank lending, are offered by JPMorgan Chase Bank, N.A. Member
+FDIC.
+JPMorgan Chase Bank, N.A. and its affiliates (collectively “JPMCB”) offer investment products, which may include bank-managed investment accounts and
+custody, as part of its trust and fiduciary services. Other investment products and services, such as brokerage and advisory accounts, are offered through J.P.
+Morgan Securities LLC (“JPMS”), a member of FINRA and SIPC. Annuities are made available through Chase Insurance Agency, Inc. (CIA), a licensed insurance
+agency, doing business as Chase Insurance Agency Services, Inc. in Florida. JPMCB, JPMS and CIA are affiliated companies under the common control of JPM.
+Products not available in all states.
+In Germany, this material is issued by J.P. Morgan SE, with its registered office at Taunustor 1 (TaunusTurm), 60310 Frankfurt am Main, Germany, authorized by
+the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the
+European Central Bank (ECB). In Luxembourg, this material is issued by J.P. Morgan SE – Luxembourg Branch, with registered office at European Bank and
+Business Centre, 6 route de Treves, L-2633, Senningerberg, Luxembourg, authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly
+supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB); J.P. Morgan SE – Luxembourg Branch is also
+supervised by the Commission de Surveillance du Secteur Financier (CSSF); registered under R.C.S Luxembourg B255938. In the United Kingdom, this material is
+issued by J.P. Morgan SE – London Branch, registered office at 25 Bank Street, Canary Wharf, London E14 5JP, authorized by the Bundesanstalt für
+Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank
+(ECB); J.P. Morgan SE – London Branch is also supervised by the Financial Conduct Authority and Prudential Regulation Authority. In Spain, this material is
+distributed by J.P. Morgan SE, Sucursal en España, with registered office at Paseo de la Castellana, 31, 28046 Madrid, Spain, authorized by the Bundesanstalt für
+26
+
+--- PAGE 30 ---
+2023 EYE ON THE MARKET OUTLOOK • MICHAEL CEMBALEST • J.P. MORGAN January 1, 2023
+Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank
+(ECB); J.P. Morgan SE, Sucursal en España is also supervised by the Spanish Securities Market Commission (CNMV); registered with Bank of Spain as a branch of
+J.P. Morgan SE under code 1567. In Italy, this material is distributed by J.P. Morgan SE – Milan Branch, with its registered office at Via Cordusio, n.3, Milan 20123,
+Italy, authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche
+Bundesbank) and the European Central Bank (ECB); J.P. Morgan SE – Milan Branch is also supervised by Bank of Italy and the Commissione Nazionale per le Società
+e la Borsa (CONSOB); registered with Bank of Italy as a branch of J.P. Morgan SE under code 8076; Milan Chamber of Commerce Registered Number: REA MI
+2536325. In the Netherlands, this material is distributed by J.P. Morgan SE – Amsterdam Branch, with registered office at World Trade Centre, Tower B,
+Strawinskylaan 1135, 1077 XX, Amsterdam, The Netherlands, authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by
+the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB); J.P. Morgan SE – Amsterdam Branch is also supervised by De
+Nederlandsche Bank (DNB) and the Autoriteit Financiële Markten (AFM) in the Netherlands. Registered with the Kamer van Koophandel as a branch of J.P. Morgan
+SE under registration number 72610220. In Denmark, this material is distributed by J.P. Morgan SE – Copenhagen Branch, filial af J.P. Morgan SE, Tyskland, with
+registered office at Kalvebod Brygge 39-41, 1560 København V, Denmark, authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly
+supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB); J.P. Morgan SE – Copenhagen Branch, filial af
+J.P. Morgan SE, Tyskland is also supervised by Finanstilsynet (Danish FSA) and is registered with Finanstilsynet as a branch of J.P. Morgan SE under code
+29010. In Sweden, this material is distributed by J.P. Morgan SE – Stockholm Bankfilial, with registered office at Hamngatan 15, Stockholm, 11147, Sweden,
+authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank)
+and the European Central Bank (ECB); J.P. Morgan SE – Stockholm Bankfilial is also supervised by Finansinspektionen (Swedish FSA); registered with
+Finansinspektionen as a branch of J.P. Morgan SE. In France, this material is distributed by JPMCB, Paris branch, which is regulated by the French banking
+authorities Autorité de Contrôle Prudentiel et de Résolution and Autorité des Marchés Financiers. In Switzerland, this material is distributed by J.P. Morgan
+(Suisse) SA, with registered address at rue de la Confédération, 8, 1211, Geneva, Switzerland, which is authorised and supervised by the Swiss Financial Market
+Supervisory Authority (FINMA), as a bank and a securities dealer in Switzerland. Please consult the following link to obtain information regarding J.P. Morgan’s
+EMEA data protection policy: https://www.jpmorgan.com/privacy.
+In Hong Kong, this material is distributed by JPMCB, Hong Kong branch. JPMCB, Hong Kong branch is regulated by the Hong Kong Monetary Authority and the
+Securities and Futures Commission of Hong Kong. In Hong Kong, we will cease to use your personal data for our marketing purposes without charge if you so
+request. In Singapore, this material is distributed by JPMCB, Singapore branch. JPMCB, Singapore branch is regulated by the Monetary Authority of Singapore.
+Dealing and advisory services and discretionary investment management services are provided to you by JPMCB, Hong Kong/Singapore branch (as notified to
+you). Banking and custody services are provided to you by JPMCB Singapore Branch. The contents of this document have not been reviewed by any regulatory
+authority in Hong Kong, Singapore or any other jurisdictions. You are advised to exercise caution in relation to this document. If you are in any doubt about any
+of the contents of this document, you should obtain independent professional advice. For materials which constitute product advertisement under the Securities
+and Futures Act and the Financial Advisers Act, this advertisement has not been reviewed by the Monetary Authority of Singapore. JPMorgan Chase Bank, N.A. is
+a national banking association chartered under the laws of the United States, and as a body corporate, its shareholder’s liability is limited.
+With respect to countries in Latin America, the distribution of this material may be restricted in certain jurisdictions. We may offer and/or sell to you securities or
+other financial instruments which may not be registered under, and are not the subject of a public offering under, the securities or other financial regulatory laws
+of your home country. Such securities or instruments are offered and/or sold to you on a private basis only. Any communication by us to you regarding such
+securities or instruments, including without limitation the delivery of a prospectus, term sheet or other offering document, is not intended by us as an offer to
+sell or a solicitation of an offer to buy any securities or instruments in any jurisdiction in which such an offer or a solicitation is unlawful. Furthermore, such
+securities or instruments may be subject to certain regulatory and/or contractual restrictions on subsequent transfer by you, and you are solely responsible for
+ascertaining and complying with such restrictions. To the extent this content makes reference to a fund, the Fund may not be publicly offered in any Latin American
+country, without previous registration of such fund’s securities in compliance with the laws of the corresponding jurisdiction. Public offering of any security,
+including the shares of the Fund, without previous registration at Brazilian Securities and Exchange Commission— CVM is completely prohibited. Some products
+or services contained in the materials might not be currently provided by the Brazilian and Mexican platforms.
+JPMorgan Chase Bank, N.A. (JPMCBNA) (ABN 43 074 112 011/AFS Licence No: 238367) is regulated by the Australian Securities and Investment Commission and
+the Australian Prudential Regulation
+Authority. Material provided by JPMCBNA in Australia is to “wholesale clients” only. For the purposes of this paragraph the term “wholesale client” has the
+meaning given in section 761G of the Corporations Act 2001 (Cth). Please inform us if you are not a Wholesale Client now or if you cease to be a Wholesale Client
+at any time in the future.
+JPMorgan Chase Bank, N.A. (JPMCBNA) (ABN 43 074 112 011/AFS Licence No: 238367) is regulated by the Australian Securities and Investment
+Commission and the Australian Prudential Regulation Authority. Material provided by JPMCBNA in Australia is to “wholesale clients” only. For the
+purposes of this paragraph the term “wholesale client” has the meaning given in section 761G of the Corporations Act 2001 (Cth). Please inform us if
+you are not a Wholesale Client now or if you cease to be a Wholesale Client at any time in the future.
+JPMS is a registered foreign company (overseas) (ARBN 109293610) incorporated in Delaware, U.S.A. Under Australian financial services licensing
+requirements, carrying on a financial services business in Australia requires a financial service provider, such as J.P. Morgan Securities LLC (JPMS), to
+hold an Australian Financial Services Licence (AFSL), unless an exemption applies. JPMS is exempt from the requirement to hold an AFSL under the
+Corporations Act 2001 (Cth) (Act) in respect of financial services it provides to you, and is regulated by the SEC, FINRA and CFTC under U.S. laws,
+which differ from Australian laws. Material provided by JPMS in Australia is to “wholesale clients” only. The information provided in this material is not
+intended to be, and must not be, distributed or passed on, directly or indirectly, to any other class of persons in Australia. For the purposes of this
+paragraph the term “wholesale client” has the meaning given in section 761G of the Act. Please inform us immediately if you are not a Wholesale Client
+now or if you cease to be a Wholesale Client at any time in the future.
+This material has not been prepared specifically for Australian investors. It:
+• May contain references to dollar amounts which are not Australian dollars;
+• May contain financial information which is not prepared in accordance with Australian law or practices;
+• May not address risks associated with investment in foreign currency denominated investments; and
+• Does not address Australian tax issues.
+© 2023 JPMorgan Chase & Co. All rights reserved.
+27
+
+--- PAGE 31 ---
+[No extractable text]

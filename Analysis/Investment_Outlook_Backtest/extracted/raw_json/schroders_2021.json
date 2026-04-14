@@ -1,0 +1,18 @@
+{
+  "company": "Schroders",
+  "report_year": "2021",
+  "publication_date": "2021-01-12",
+  "forecast_period": "2021",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings impact from tax hike to 28%",
+      "horizon": "2021",
+      "forecast_value": "-10%",
+      "source_quote": "We could see the corporate tax rate rise to 28%, reducing S&P earnings by some 10%",
+      "not_scoreable": true,
+      "reason": "Conditional prediction - corporate tax rate did NOT rise to 28%, so the premise was never triggered"
+    }
+  ]
+}

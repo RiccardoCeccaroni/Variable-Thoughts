@@ -1,0 +1,193 @@
+SOURCE: jpmorgan_am/jpmorgan_am_2020.pdf
+PAGES: 5
+
+--- PAGE 1 ---
+Investment Outlook 2020
+J.P. Morgan Asset Management | November 26, 2019
+IN BRIEF
+(cid:127) The U.S. economy has returned to slower growth, but should avoid recession in 2020.
+(cid:127) Overseas economies should see modest improvement as trade tensions ease.
+(cid:127) The Fed may leave rates unchanged in 2020, but other central banks are still in easing mode.
+(cid:127) Modest U.S. equity gains should be built on somewhat higher earnings rather than multiple
+expansion.
+(cid:127) International equities should outperform in the long run, but will be challenged for as long as trade
+tensions persist.
+(cid:127) Market volatility could be higher in an election year. Investors will need to be well diversified and
+should avoid letting how they feel about politics govern how they think about investing.
+INTRODUCTION
+American football is, in its essence, a simple game. One side tries to maneuver the football down the field
+into the opponent's end zone and the opponent tries to stop them from doing so. However, the strategy
+employed differs depending on where you are in the game. Early on, aggression is the keyword on both
+sides of the ball, as each team is willing to take risks to put points on the board. But later on, particularly
+when one team has racked up a lead, the tactics change. The leading team will run more and throw less
+on offense. On defense, instead of trying to sack the quarterback, you double-team the wide receivers and
+are willing to give up short yardage to avoid a long play against you.
+How you should play the game depends upon where you are in the game.
+Investors thinking about 2020 and beyond face similar strategic issues. Those who have participated in an
+almost 11-year bull market in stocks and a more than 38-year bull market in bonds have racked up
+substantial gains. However, starting from this point, considering both the current position of the U.S.
+economy and current valuations, returns should be lower and some more defensive strategies may need
+to be employed.
+Having said this, we expect both the U.S. economy and the global economy to grow in 2020, with
+decelerating growth in the U.S. and faster growth overseas. With inflation and interest rates still very low,
+there should be potential for gains in equities in both the U.S. and from overseas. Fixed income returns will
+be modest regardless of whether the next year brings small increases or decreases in long-term interest
+rates. Meanwhile, investors will need to adhere to fundamental investing principles both to control risk in a
+potentially more volatile environment and to take advantage of opportunities in recently less favored areas
+such as emerging market (EM) equities.
+U.S. ECONOMY: STEADY GROWTH FOLLOWING A SOFT LANDING
+In 2020, the U.S. economic expansion should enter its 12th year, having successfully downshifted from 3%
+growth to 2% growth without falling into recession. The remarkable longevity of the expansion and a
+continuation of low inflation and unemployment are all significant positives. However, from an investment
+perspective, the outlook is far from ideal. Slow economic growth and rising wages will put pressure on
+
+--- PAGE 2 ---
+margins while steady inflation should preclude a significant bond market rally. In addition, long-term
+returns will be challenged by the implications of a growing budget deficit and political risks of greater
+protectionism or higher taxation will continue to give investors plenty to worry about.
+[Exhibit 1: Length of expansions and recessions in months. The current expansion started July 2009 and has
+lasted 125 months, making it the longest on record. Average expansion: 48 months; average recession: 15
+months. Source: NBER, J.P. Morgan Asset Management.]
+The strongest part of the U.S. economy should continue to be consumer spending. Even as the lift from
+the 2017 tax cuts fades, household spending will be supported by good gains in wages. Over the course of
+2020, we expect real disposable income to climb by roughly 2.0%, as wages continue to outpace inflation
+and payrolls gradually expand. Investment spending, however, will remain sluggish as businesses deal
+with uncertainty from ongoing trade tensions and a slow-growing global economy. In addition, inventories
+should grow more slowly, dragging on GDP growth, while trade and government spending should have
+more neutral effects.
+On balance, we believe the U.S. economy will avoid recession in 2020. The greatest risk of a downturn
+centers around the possibility that businesses might collectively freeze or reduce hiring, given trade
+uncertainty and a slow-growth outlook. However, this is probably not quite enough to cause a recession
+and the historically most potent recession triggers appear less dangerous at this time.
+First, long-term interest rates are unusually low for this late in an expansion. This means that neither
+businesses nor consumers are getting boxed out of big-ticket spending decisions because of high
+financing costs. Second, the most cyclical sectors of the economy are subdued with no boom in housing,
+autos or capital spending. This reduces the risk of a boom-bust cycle pushing the economy into recession.
+That being said, slow economic growth should translate into slow employment growth, with monthly job
+gains of roughly 130,000 in 2020 compared to 170,000 in 2019 and over 220,000 in 2018. Very low labor
+force growth implies that even this reduced pace of job growth should be consistent with a gradual
+tightening of the labor market, with the unemployment rate falling to 3.3% in Q4 2020 from 3.5% a year
+earlier. Despite this, wage growth will likely remain steady at between 3.0% and 3.5% year-over-year.
+[Exhibit 2: Unemployment rate and year-over-year growth in average hourly earnings. 50-year averages:
+unemployment 6.2%, wage growth 4.0%. Source: BLS, J.P. Morgan Asset Management.]
+All of this should result in low and steady inflation, with the core consumption deflator gradually moving up
+to a 2.0% year-over-year gain from its recent pace of 1.7%. Profits should also grow at only a
+low-single-digit pace from a very elevated level. Finally, Washington will both impact and be impacted by
+the economy in 2020. Despite signs of de-escalation in the trade war, the threat of tariff hikes will likely
+remain through 2020, reducing exports, imports and investment spending. Much of the year will be spent
+handicapping the November election. A divided government is the most likely outcome. Fiscal 2020 will
+see the budget deficit exceed $1 trillion for the first time since 2012.
+INTERNATIONAL ECONOMY: SOME IMPROVEMENT LIKELY AS TRADE
+TENSIONS EASE
+International economies have been under pressure for almost two years, thanks largely to the impact of
+trade uncertainty on export volumes and capital spending. Manufacturing has felt the brunt of these
+effects, while services have held up much better alongside resilient labor markets. In response to the
+downshift in growth, many international central banks eased policy throughout 2019. The combination of
+broad monetary easing and the expectation that the trade war will not escalate further should permit global
+growth to stabilize and even shift slightly higher toward trend in 2020.
+
+--- PAGE 3 ---
+[Exhibit 3: Manufacturing PMI output index showing early signs of stabilization in global manufacturing, but no
+2017-style reacceleration expected. Source: Markit.]
+Regardless, slow growth prospects should pressure DM central banks to continue to ease policy despite
+already holding benchmark rates in negative territory. In emerging markets, the most important issue
+remains the evolution of trade policy: no further trade shocks should permit EM Asian economies to
+stabilize. While China's economic growth may dip below 6% due to cyclical and structural factors,
+monetary and fiscal easing over the past 18 months should allow it to stabilize just below that pace.
+Growth will be anchored by the consumer; the rise of China's middle class should continue to fuel demand
+for consumer goods and services. Both Brazil and Mexico should see a significant pickup in growth
+compared to 2019.
+[Exhibit 4: Inflation should remain low in both DM and EM countries. Source: ECB and national statistics
+agencies.]
+FIXED INCOME: LOW-YIELD INVESTING IN A HIGH-RISK WORLD
+After a challenging 2018, fixed income investors caught a break in 2019: global central banks eased
+monetary policy, the U.S. 10-year Treasury yield fell from 2.7% to 1.8%, and the U.S. Barclays Aggregate
+returned 8.3% year-to-date, on track for its best year since 2002.
+Central banks around the world re-entered easing mode in 2019, with the top-10 DM central banks cutting
+rates eight times collectively after two years of broad-based policy tightening. This U-turn is exemplified by
+the ECB restarting asset purchases after halting them in January 2019.
+[Exhibit 5: Number of rate changes by top-10 DM central banks, showing the shift from hikes to cuts. Source:
+Bloomberg.]
+In the U.S., the path forward for monetary policy is less clear. With sluggish global growth and global
+central banks in easing mode, the Fed will likely stay on pause until international economies stabilize. The
+Fed's determination to ignore political pressure provides a further rationale for no policy change in an
+election year.
+Around the world, loose monetary policy and sluggish growth could further inflate the negative-yielding
+bond bubble, which increased $3.7 trillion in 2019 to $12 trillion. At 2.30%, the 30-year U.S. Treasury yield
+is higher than all other DM government debt. U.S. Treasury debt will continue to look like the best house in
+a bad neighborhood. This stance favors longer duration fixed income.
+[Exhibit 6: Stock of negative-yielding debt, USD trillions. Source: Bloomberg.]
+As the hunt for yield continues, higher-yielding asset classes including USD-denominated EM debt and
+global high yield may look attractive. However, investors should focus on quality and diversification: U.S.
+Treasuries, municipal debt and mortgage-backed securities continue to offer some yield and downside
+protection. At this stage in the economic cycle, a continued focus on quality and downside protection
+seems an appropriate stance.
+U.S. EQUITIES: LATE-CYCLE DEFENSE
+On the surface, 2019 has been a solid year for the U.S. equity market, with the S&P; 500 up over 25%
+through mid-November. Beneath the surface, however, fundamentals are showing signs of deterioration —
+earnings growth has slowed, profit margins are under pressure and the pace of buybacks has come off the
+boil. As we look ahead to 2020, we foresee modest profit growth and a stock market that grinds higher, but
+
+--- PAGE 4 ---
+downside risks are building.
+The S&P; 500's forward P/E ratio currently sits at around 17.5x, near the higher end of its recent range.
+With markets already pricing in material progress on trade, it is difficult to see how significant multiple
+expansion can continue. Earnings look set to be the main driver of returns next year.
+[Exhibit 7: S&P; 500 forward P/E ratio. Source: FactSet, S&P;, J.P. Morgan Asset Management.]
+Consensus estimates are for 9% earnings growth in 2020, driven by an assumption that profit margins will
+expand north of 12%. But given low unemployment, modest wage growth and moderate revenue growth, it
+is difficult to see how this might materialize. Our top-down earnings model projects profit growth of around
+1% next year under the assumption that profit margins fall to 10.6% by end-2020. If margins hover around
+11%, our forecast improves to 2.5%. Regardless, these numbers are well below consensus and risks are
+tilted to the downside.
+[Exhibit 8: S&P; 500 year-over-year operating EPS growth broken into revenue, margin and share count
+contributions. Source: Compustat, FactSet.]
+Volatility tends to be higher in election years. We continue to focus on quality and total yield (dividends +
+buybacks). This leads us to sectors such as technology, financials and energy, with more value-oriented
+sectors commanding a valuation advantage. Defensive bond proxies look expensive. We balance
+cyclicality and yield.
+INTERNATIONAL EQUITIES: LESS OF A HEADWIND, BUT STILL A BUMPY
+RIDE
+For U.S. investors, a view on international equities depends on three variables: the dollar, earnings growth
+and multiples. Slower U.S. economic growth combined with more stable global growth should allow the
+dollar to stabilize if not fall in 2020. If this transpires, U.S.-based investors will avoid the currency headwind
+that has eaten into international returns in six of the last seven years.
+Greater global economic stability should bolster international earnings expectations. Multiples may expand
+a bit further if the trade war truce continues. All told, international equities should move higher in 2020, but
+with the ongoing risk of occasional policy flare-ups, the road will likely remain bumpy.
+[Exhibit 9: 2020 contribution of all sources of returns to international total returns, USD. Source: FactSet, MSCI.]
+[Exhibit 10: Global earnings expectations are slowly stabilizing. EPS, local currency, next 12 months. Source:
+FactSet, MSCI.]
+With developed international equity markets skewed more heavily toward cyclical sectors — financials,
+energy, industrials and consumer discretionary — and away from technology, short-term performance is
+closely linked to sentiment. International markets are somewhat inefficient relative to the U.S., giving active
+managers potential to add alpha.
+For EM equities, investor confidence is crucial in the short term as it leads to big swings in the multiple and
+in EM currencies versus the dollar. Opportunities remain centered on the emerging middle class theme.
+Many U.S. investors remain extremely underweight EM equities — a key reason to consider adding to this
+asset class as a way of boosting long-term returns.
+
+--- PAGE 5 ---
+INVESTING PRINCIPLES: UNCERTAIN TIMES ARE EXACTLY WHEN
+INVESTORS SHOULD STICK TO THE PLAN
+With 2020 poised to be a volatile year dominated by political and geopolitical risk, it is more important than
+ever for investors to adhere to tried and true investing principles. With the risk of a pullback, bear market
+and/or recession rising with every passing year, the need to stick to the plan becomes more evident.
+While it feels natural to react to the news cycle and market volatility, the point of any financial plan is for
+moments like this. Even with the bull market entering its 12th year, we still believe equities are the return
+powerhouses within portfolios. Consider sectors that earn a healthy portion of their return from shareholder
+yield — technology, financials and energy. Given U.S. outperformance through most of the bull market,
+investors should get back up to plan on international equity allocations.
+[Exhibit 11: Consumer confidence by political affiliation. Percentage of Republicans and Democrats rating
+national economic conditions as excellent or good. Source: Pew Research Center.]
+A key point for investing in 2020 involves U.S. politics: do not let politics impact investment decisions.
+Political affiliation affects views on the economy, which feeds into over- or under-allocation to risk assets.
+Timing the market around elections requires deciding both when to exit and when to re-enter — and
+missing even a handful of the best days can devastate returns.
+[Exhibit 12: Returns of the S&P; 500. $100,000 invested Jan 4, 1999 to Dec 31, 2018. Fully invested: 5.62%
+annualized. Missing the 10 best days: 2.01%. Missing the 20 best days: -0.33%. Missing the 60 best days:
+-7.41%. Source: Morningstar Direct.]
+Within fixed income, we are adding duration and higher-quality positions within credit. High-quality duration
+provides the tried and true diversifier in a downturn. Being diversified within fixed income and across the
+broader portfolio makes sense. Having a well-thought-out plan and sticking to it through a diversified
+portfolio can prevent behavioral biases from taking hold and hurting returns.

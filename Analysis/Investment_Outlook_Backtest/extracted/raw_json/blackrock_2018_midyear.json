@@ -1,0 +1,25 @@
+{
+  "company": "BlackRock",
+  "report_year": "2018_midyear",
+  "publication_date": "2018-07",
+  "forecast_period": "H2 2018 to mid-2019",
+  "predictions": [
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB deposit facility rate",
+      "horizon": "through mid-2019",
+      "forecast_value": "no rate rise until after mid-2019",
+      "source_quote": "The central bank is set to wind down its bond buying this year but hold off on rate rises until after mid-2019."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core PCE inflation",
+      "horizon": "H2 2018",
+      "forecast_value": "near the Fed's 2% target",
+      "source_quote": "Inflation looks poised to rise near the Fed's target in the US but remain far below target in other developed economies."
+    }
+  ],
+  "excluded_vague_count": 22
+}

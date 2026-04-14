@@ -1,0 +1,40 @@
+{
+  "company": "PIMCO",
+  "report_year": "2024",
+  "publication_date": "2024-01",
+  "forecast_period": "2024",
+  "predictions": [
+    {
+      "category": "inflation",
+      "region": "DM",
+      "variable": "DM headline and core inflation (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "2% to 3%",
+      "source_quote": "We expect this disinflation to continue in 2024, with headline and core measures dipping into the 2%–3% range year-over-year across DM"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "DM",
+      "variable": "DM central bank first rate cut timing",
+      "horizon": "2024",
+      "forecast_value": "closer to middle of 2024",
+      "source_quote": "we expect DM central banks to start rate cuts closer to the middle of 2024 (potentially a bit earlier for the Fed)"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Japan",
+      "variable": "Bank of Japan rate hike",
+      "horizon": "2024",
+      "forecast_value": "modest rate hikes",
+      "source_quote": "with the exclusion of the Bank of Japan, which we think will continue with its plans for modest rate hikes this year"
+    },
+    {
+      "category": "growth",
+      "region": "DM",
+      "variable": "DM economic outlook",
+      "horizon": "2024",
+      "forecast_value": "stagnation or mild contraction",
+      "source_quote": "we anticipate a downshift toward stagnation or mild contraction in 2024"
+    }
+  ]
+}

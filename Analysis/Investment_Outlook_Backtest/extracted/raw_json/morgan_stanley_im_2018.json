@@ -1,0 +1,49 @@
+{
+  "company": "Morgan Stanley Investment Management",
+  "report_year": "2018",
+  "publication_date": "2018-03-19",
+  "forecast_period": "2018-2019",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 Index level",
+      "horizon": "early 2019",
+      "forecast_value": "~3114 (applying 18x multiple to 2019 consensus EPS estimates)",
+      "source_quote": "if investors assign an 18 multiple on 2019 consensus earnings estimates, the target for the index would be 3114 in early 2019."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "10-year U.S. Treasury yield",
+      "horizon": "2018-2019",
+      "forecast_value": "3.80% fair value, potentially 4%+ with inflation uptick",
+      "source_quote": "this implies a \"fair value\" yield of 3.80% for the 10-year vs. the current 2.84%."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings per share growth",
+      "horizon": "2018",
+      "forecast_value": "17% year-over-year",
+      "source_quote": "analysts expect earnings to grow by 17% in 2018 and another 10% in 2019"
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings per share growth",
+      "horizon": "2019",
+      "forecast_value": "10% year-over-year",
+      "source_quote": "analysts expect earnings to grow by 17% in 2018 and another 10% in 2019"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate direction",
+      "horizon": "2018",
+      "forecast_value": "continued increases at roughly same pace as 2017 (three hikes)",
+      "source_quote": "These increases in the fed funds rate are expected to continue in 2018 at roughly the same pace"
+    }
+  ],
+  "excluded_vague_count": 12
+}

@@ -1,0 +1,49 @@
+{
+  "company": "BlackRock",
+  "report_year": "2024",
+  "publication_date": "2023-12",
+  "forecast_period": "2024 (6-12 months from December 2023)",
+  "predictions": [
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US CPI / Core PCE inflation",
+      "horizon": "2024 and structural (new regime)",
+      "forecast_value": "closer to 3% than the 2% policy target",
+      "source_quote": "We see inflation staying closer to 3% in the new regime than policy targets."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal Reserve policy rate",
+      "horizon": "2024",
+      "forecast_value": "policy rates higher for longer than markets expect; settle well above pre-pandemic norms",
+      "source_quote": "We think policy rates are poised to settle well above pre-pandemic norms."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "6-12 months from December 2023",
+      "forecast_value": "approximately equal odds of moving in either direction; neutral stance",
+      "source_quote": "We now see about equal odds that long-term yields swing in either direction."
+    },
+    {
+      "category": "equities",
+      "region": "Japan",
+      "variable": "TOPIX / Nikkei equity returns",
+      "horizon": "6-12 months from December 2023",
+      "forecast_value": "outperform (overweight; strongest DM equity view)",
+      "source_quote": "We see stronger growth helping earnings top expectations. Stock buybacks and other shareholder-friendly actions are positives."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Japan",
+      "variable": "Bank of Japan policy rate / yield curve control",
+      "horizon": "2024",
+      "forecast_value": "BOJ will wind down ultra-loose policy, upside risks to yields",
+      "source_quote": "We see upside risks to yields from the Bank of Japan winding down its ultra-loose policy."
+    }
+  ],
+  "excluded_vague_count": 20
+}

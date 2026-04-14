@@ -1,0 +1,111 @@
+We Believe
+Peak fiscal policy support, and therefore peak real GDP growth, was likely realized in 2021, and the global economy now appears to be rapidly progressing toward late-cycle dynamics. Monetary policy in most regions has shifted course toward normalization.
+Frictions in both goods and labor markets have spurred inflation. Our base case has global inflation peaking by the first quarter and then moderating closer to central bank targets by the end of 2022, and we are closely monitoring upside risks to that view.
+Risk premiums and yields don't reflect potential downside scenarios, in our view, which warrants caution and a rigorous approach to portfolio construction.
+We generally favor a duration underweight relative to the benchmark, and look to position portfolios for a steeper yield curve. Given the likelihood for higher volatility, we anticipate active duration management to potentially be a more significant source of alpha than in the past.
+We seek credit exposure from diversified sources, including non-agency U.S. mortgages, select COVID-19 recovery themes, and single-name opportunities. We have a constructive view on global equities, but are preparing for late-cycle dynamics, with greater focus on security selection.
+Economic Outlook
+Uncertainty has become an ongoing theme in markets, economies, and communities everywhere, and in this environment, PIMCO investment professionals gathered – virtually, once again – for our recent Cyclical Forum. We debated key trends across global economies, policies, and investment sectors, in discussions that ultimately inform our outlook for the coming year along with high-level portfolio strategy.
+
+Economic outlook: More volatility, more uncertainty
+Over the secular horizon, we expect a more uncertain and volatile macro environment with economic cycles becoming shorter in duration, larger in amplitude, and more divergent across countries (for details, see PIMCO's Secular Outlook, "Age of Transformation"). These secular themes appear to be playing out over the cyclical horizon as well: Much of the global economy has transitioned quickly from an early cycle recovery to a mid-cycle expansion, necessitating a faster policy shift from the extraordinarily easy conditions that prevailed in 2020 and 2021, in our view.
+
+Further complicating matters, the speed of the recovery coupled with the volatile path of the virus have also contributed to more significant frictions in both goods and labor markets that have elevated inflation. The timing and extent to which these issues resolve and inflation moderates is highly uncertain, raising the risk of an unwanted jump in longer-term inflation expectations – an outcome that we expect central banks will want to avoid or mitigate. Overall, we believe this more uncertain, more volatile macroeconomic environment is evidence that the last several decades of subpar growth and below-target inflation are firmly behind us, and what lies ahead are more volatile and uncertain paths that vary across regions and sectors.
+
+The road to recovery is paved with stones
+Since we last shared our Cyclical Outlook in June ("Inflation Inflection"), the robust global recovery has continued, although unevenly across regions and sectors. Overall, government policies to support demand amid one of the largest economic contractions in modern history produced one of the fastest recoveries. Developed market output fully recovered to its pre-pandemic peak in the third quarter of 2021, and at a 5% (annual average) projected 2021 growth rate, was on track to expand at the fastest pace in over three decades. (Growth and output data are according to Haver Analytics.)
+
+Nevertheless, with the largest economic effects of the pandemic likely in the rearview mirror, peak policy support, and therefore peak real GDP growth, was also likely realized in 2021. In the U.S., Canada, and the U.K., employment and wage subsidy programs implemented during the pandemic to support household incomes and consumer spending expired in the third quarter after becoming less generous throughout the year, while similar programs across European countries expired at year-end.
+
+In China, the tighter credit conditions that have persisted until very recently and the regulatory policies implemented as a result of the government's common prosperity initiative have slowed growth.
+
+Monetary policy in most regions has also shifted course from the ultra-accommodative stance necessitated by the pandemic to a path toward normalization. The Bank of England (BOE) and Bank of Canada (BOC) have fully wound down their government bond purchase programs, while the U.S. Federal Reserve is now likely to do so by March 2022. Furthermore, the BOE raised its policy rate in December 2021, and many other developed market central banks, with the exception of the European Central Bank (ECB) and Bank of Japan (BOJ), have signaled impending rate hikes.
+
+Three things to watch in 2022: the course of COVID-19, inflation, and central bank action
+Still, while the global growth outcomes observed over the last six months have been more or less in line with the outlook that we laid out in June, three important developments have caused us to revise various aspects of our 2022 outlook:
+
+First, the delta variant of COVID-19 left a larger-than-expected, albeit still likely temporary, mark on both developed and emerging market economies. Although higher vaccination levels seemed to have helped limit new global cases, more severe outbreaks in emerging markets (EM) disrupted production, lengthened delivery lead times, and hindered global supply chains. For example, production disruptions in Malaysia and China had a notable impact on finished goods inventories in the motor vehicle, home goods, and construction industries. Across major markets, the delta variant outbreak also delayed the services recovery, and stalled the expected substitution away from goods spending and back toward services (after the pandemic fueled elevated consumer demand for durable goods, in particular).
+
+Second, inflation turned out to be more persistent and broader-based across regions. Robust global goods demand, amid fresh production disruptions and tighter environmental regulations, contributed to price increases across various consumer retail categories, including energy. Meanwhile, strong housing price appreciation either directly (though higher replacement costs) or indirectly (through the knock-on effects to rents) lifted core services inflation in most regions.
+
+Third, many central banks reacted to these developments either by bringing forward plans to tighten monetary policy, in the case of most developed market (DM) central banks as mentioned above, or hiking more aggressively in the case of various EM countries, including Brazil.
+
+2022 outlook: The 'Goldilocks' scenario
+Due to the combination of these factors, we are lowering our 2022 real GDP forecasts across regions. We now expect DM GDP growth to decelerate from a 5.0% annual average pace in 2021 to 4.0% in 2022 (versus 4.3% previously). Rolling global outbreaks of the delta variant in the second half of 2021 constrained output across various economies and will likely weigh on the projected annual average growth rates for 2022. However, the output effects appeared largely temporary. Indeed, high frequency indicators suggest that growth reaccelerated in the fourth quarter in the U.S. and Japan – and in China, after a temporary setback, in the third quarter. Europe, which suffered the economic effects of another outbreak in the fourth quarter, is expected to reaccelerate in early 2022.
+
+We are also raising our inflation forecasts across regions. We still expect DM inflation to eventually moderate back toward the respective central bank targets by the end of 2022, but only after peaking at 5.1% in 4Q 2021. In the U.S., core CPI (Consumer Price Index) inflation is likely to peak around 6.0% year-over-year in 1Q 2022 before moderating back to 2.5-3.0% by year-end. Fiscal stimulus boosted inflation to varying degrees across regions; however, tightening product market supply constraints coupled with a relative price adjustment between goods and services are also seemingly having an impact. Nevertheless, we continue to expect all of these factors to fade as economies continue to recover from the pandemic and the large fiscal outlays of 2020 and 2021 aren't repeated.
+
+Finally, as a result of the magnitude and the persistence of the recent inflation overshoot, we also now expect an earlier start of DM central bank rate hiking cycles and raised our expectations for the likely level of terminal rates in many EM economies.
+
+In DM, rate hikes are still expected to be gradual by historical standards, but we believe elevated inflation coupled with the swift recovery in labor markets has sharpened central banks' focus on returning policy to neutral. There is a good deal of uncertainty around what level of the policy rate is consistent with neutral; however, in our Secular Outlook, "Age of Transformation" (October 2021), we argued that central bank terminal rates are likely to be lower this cycle relative to the last as a result of generally higher debt levels and central bank efforts to reduce their balance sheets. As a result, central banks can still be relatively gradual in their pursuit of normal policy, in our view.
+
+In DM economies, following the BOE rate hike in December, we expect the BOC will be next to hike rates in the first quarter of 2022. The Federal Reserve is now likely to wind down its asset purchases by March, start hiking rates soon after, and begin to wind down its balance sheet in 2H2022. The Reserve Bank of Australia (RBA) is also likely to hike rates in 2022, generally following the path of the Fed.
+
+Turning to EM, we expect most central banks to continue hiking in 2022 after having already materially tightened policy to ward off inflationary pressures in 2021. Still, while inflation is likely to moderate in 2022 across EM, it's unlikely to reach central bank targets over the cyclical horizon, in our view.
+
+Risks to the outlook have grown more acute
+Overall, these adjustments don't change the broad contours of our 2022 outlook: above-trend (albeit slowing) growth and moderating inflation prompting a still gradual tightening in DM monetary conditions. Nevertheless, we see three important risks to our base case, which create a generally more uncertain environment for investors:
+
+Risk scenario #1: Inflation remains persistently elevated. Maybe 1) supply constraints don't ease (or become worse due to additional COVID outbreaks), 2) the recently strong productivity growth trends (at least in the U.S.) sputter out, or 3) the incremental labor supply gains resulting from a recovery in prime-age participation and/or immigration don't materialize. Or alternatively, it's possible that inflation expectations rise as a result of the already elevated inflation prints, prompting stronger wage bargaining, which itself feeds into more persistent inflation.
+
+Risk scenario #2: Variants drive surges in COVID, which restrict activity. The recent surge in COVID-19 cases related to the more contagious omicron variant is a clear reminder of the uncertainty sounding the path of the virus, and therefore the risks to our baseline outlook. For now we expect the recent spike in cases to only temporarily moderate developed market growth rates in 1Q, followed by a solid reacceleration in 2Q and beyond. Nevertheless, we are mindful that waves of new infections could further strain resources and fuel behavioral shifts in consumers and businesses that reduce activity and spur more inflationary pressures.
+
+Risk scenario #3: Financial conditions tighten more abruptly than expected. After a period of very easy monetary policy, a more dramatic shift in financial conditions could ensue. So far, we believe DM central banks have done a good job of preparing markets for earlier tightening, but markets are still priced for a relatively gradual path to historically low terminal rates. Over the next several months – a period when U.S. inflation is likely to remain elevated before moderating later in 2022 – financial conditions in the U.S. in particular could tighten more abruptly as markets price in the risk of a more aggressive Fed tightening cycle.
+
+Investment implications of a fast-moving cycle
+You can see from our economic outlook that multiple issues have the potential to influence the investment outlook, in particular the speed, depth, and evolution of the nascent efforts by central banks to reduce their extraordinary monetary accommodation.
+
+We plan to focus on the volatility that can result from the rapid pace at which the economic cycle is moving toward late-cycle dynamics, a time when, like today, inflation tends to quicken and may prompt a tightening in monetary policy, unnerving many investors.
+
+Markets nonetheless appear priced for a blue sky scenario where central banks achieve the elusive soft landing without any meaningful amount of rate hikes. Yet, history reminds us that sometimes "stuff happens" when monetary policy pivots.
+
+Risk premiums and yields don't reflect potential downside scenarios, in our view, which warrants caution and a rigorous approach to portfolio construction.
+
+On upcoming inflation data, we believe it is important to avoid overemphasizing the potentially concerning spate of inflation data that is expected in early 2022. More generally, we plan to avoid major investment decisions that rely upon a short-term macro view and watch for potential overreactions by policymakers and investors to short-term information.
+
+Despite our caution, we generally favor constructing portfolios that we believe offer positive carry relative to their benchmarks, incorporating spreads with an attractive risk-return profile. We are sanguine, after all, on the macro outlook, with economic growth expected to bolster cash flows, which may benefit investors.
+
+Yet, to seek to capture those cash flows, which can move around, diminish, or disappear depending on the macroeconomic and financial situation, requires a rigorous approach to portfolio construction. For example, we generally favor reducing our reliance on beta (broad market performance) positioning, increasing our use of the global opportunity set, subjecting our portfolios to scenario analyses that gauge potential performance, and increasing the liquidity and flexibility of our portfolios to pursue opportunities as they arrive (by leaving room in our risk budgets to do so).
+
+Duration and yield curve
+Duration levels: We generally intend to be underweight duration, largely on the basis of the dearth of risk premium that is embedded across the term structure. Given the likelihood for higher volatility, we anticipate active duration management to potentially be a more significant source of alpha than in the past. We continue to believe that duration can act as a diversifier to balance the more risky components of an investment portfolio, yet we monitor potential shifts in correlations.
+
+As we note in our Secular Outlook, though a number of transformations may affect the global economy, we expect central banks to keep their policy rates low for years. Market participants appear to concur, and this is acting as a limiting force across the term structure of interest rates.
+
+We generally expect to tilt portfolios having relatively high credit or equity exposure closer toward neutral on duration, with curve positioning run similarly.
+
+Yield curve positioning: We lean toward positioning for a steeper yield curve, though slightly less than usual, given some evidence of weakening in the structural influences that have underpinned the steepener for decades and in light of the recent repricing of short-term rates for forthcoming rate hikes.
+
+Given our secular outlook on central bank rates, we do not envision fixed income yields that meaningfully exceed the current level of forward rates, keeping them confined to a relatively tight range. Moreover, we do not expect market participants to build a significant amount of term premia into longer maturities, voiding those maturities of two of the biggest historical influences on yields.
+
+Our macroeconomic outlook also supports our view on curve positioning, with a moderation in inflation expected to limit future rate hikes. This view is somewhat circumspect, however, given the wide range of potential outcomes, warranting modest positioning for curve exposure and utilizing our risk budgets in other areas of investing.
+
+Credit
+Given our view of continued economic growth and the degree to which markets are prepared for the hawkish pivot effectuated by the world's central banks, we generally are overweight credit, with some caveats. We seek to gain our credit exposure from diversified sources, with cash corporates making up a smaller portion of that exposure given the narrow scope for further contraction in credit spreads.
+
+We nonetheless expect that single-name selection is likely to remain a driver of returns in credit markets, including investments in BBB rated names, a segment that we prefer versus A rated names. We are investing in select recovery themes (hotels, aerospace, and tourism), though modestly, as well as financial companies, and in sectors that we believe stand to benefit from the major transformations we have identified.
+
+On agency MBS, we generally are underweight, reflecting what we see as rich valuations and the potential for an overreaction to the Fed's reduction in and ending of its monthly bond-buying program, which (prior to tapering) included $40 billion of agency MBS.
+
+Inflation-linked securities
+We view inflation-linked securities both as diversifiers against inflation risks and as proxies for obtaining a modest amount of credit beta. We expect to keep global positioning for linkers close to flat, net of select relative value opportunities identified by our specialists. An eventual end to the Fed's bond-buying program will remove a major sponsor of the market for U.S. Treasury Inflation-Protected Securities (TIPS).
+
+Currencies and emerging markets
+We see competing influences tugging at the major exchange rates. We therefore expect to be close to neutral on the U.S. dollar, which could benefit from the Fed's hawkish pivot, yet be harmed by longer-term dynamics such as the large U.S. current account deficit and dependency on foreign money to finance deficits.
+
+On emerging market (EM) local and external debt, we are mindful of a number of risks of investing in the volatile asset class, especially amid tighter monetary policy in the U.S. We are nonetheless intrigued by a number of factors that give EM appeal in the context of a diversified portfolio and our preference for a reduced footprint in cash corporate credit instruments.
+
+EM valuations screen as historically cheap. Still, much depends on the Fed's ability to tame inflation and China's ability to reactivate economic activity.
+
+Equities
+PIMCO has a constructive view on global equities given the slowing yet positive earnings backdrop. That said, we are preparing for late-cycle dynamics, placing greater attention on security selection. We expect large cap and high quality companies stand to outperform late in the business cycle, consistent with historical patterns. Companies with pricing power also stand to gain, in our view. Inflation trends are expected to adversely affect the earnings multiples for share prices, with a decline of a few percentage points likely in the base case.
+
+Commodities
+The outlook for commodities markets is nuanced. We are relatively constructive on energy prices, yet we expect the price of crude oil to be constrained by increased energy output in the U.S., albeit more slowly than in past cycles given more disciplined capital deployment. Natural gas prices are supported by strong exports, though increased U.S. output has us more cautious on the outlook for 2022. Gold prices have meaningfully underperformed relative to real yields in our models, bringing prices close to their lowest in 15 years, though through a short-term lens gold screens only modestly cheap.
+
+Emerging markets: Slowing momentum, idiosyncratic factors
+The macro outlook for EM in 2022 is mixed, with growth slowing as the recovery matures and with inflation above target – and still rising. We forecast GDP-weighted growth across four of the major EM countries – Brazil, Russia, India, and Mexico (BRIM) – to slow to 4.1% year-over-year (y/y) in 2022 from 7.5% y/y in 2021. Economic activity could reach pre-pandemic levels by the first half of 2022.
+
+Inflation remains a key factor for the EM cyclical outlook, with both headline and core data well above target. While there are some signs of a moderation ahead given recent production trends and slowing growth momentum, we forecast 2022 BRIM headline inflation at 6.2% y/y, unchanged overall from 6.2% y/y 2021, with risks to the upside.
+
+EM monetary policy may tighten over the next few quarters, particularly in emerging Europe and Latin America. Alongside this, we expect the EM fiscal impulse will also be largely contractionary in 2022 as COVID-related support is withdrawn and the large fiscal deficits of 2020 and 2021 are reined in to help stabilize debt ratios.

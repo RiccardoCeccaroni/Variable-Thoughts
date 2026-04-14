@@ -1,0 +1,81 @@
+{
+  "company": "Vanguard",
+  "report_year": "2018",
+  "publication_date": "2017-12",
+  "forecast_period": "2018 calendar year",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2018 calendar year",
+      "forecast_value": "~2.5%",
+      "source_quote": "Our base case is for growth of around 2.5% in 2018, toward the high end of the range of 1.5%–2.5% experienced over the last three years."
+    },
+    {
+      "category": "growth",
+      "region": "Euro area",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2018 calendar year",
+      "forecast_value": "close to 2%",
+      "source_quote": "The euro area is expected to perform strongly again in 2018, with GDP growth of close to 2%."
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2018 calendar year",
+      "forecast_value": "6.0%–6.5%",
+      "source_quote": "the Chinese economy is expected to grow by around 6%–6.5% next year"
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2018 calendar year",
+      "forecast_value": "1.5%–2.5%",
+      "source_quote": "Our base case is for growth in the 1.5%–2.5% range."
+    },
+    {
+      "category": "growth",
+      "region": "EM",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2018 calendar year",
+      "forecast_value": "4.9%",
+      "source_quote": "Growth in emerging markets in aggregate is expected to be 4.9% in 2018, in line with a lower structural trend post-GFC."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "U-3 unemployment rate",
+      "horizon": "2018 calendar year",
+      "forecast_value": "below 4%",
+      "source_quote": "an already tight labor market will grow tighter, driving the unemployment rate well below 4%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate",
+      "horizon": "end of 2018",
+      "forecast_value": "at least 2%",
+      "source_quote": "the Federal Reserve is increasingly likely to raise rates to 2% by the end of 2018, a more rapid pace than anticipated by the bond market."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "10-year U.S. Treasury yield (fair value)",
+      "horizon": "2018",
+      "forecast_value": "~2.5%",
+      "source_quote": "our fair-value estimate for the benchmark 10-year U.S. Treasury yield remains centered near 2.5% in 2018"
+    },
+    {
+      "category": "inflation",
+      "region": "Japan",
+      "variable": "Core CPI (year-over-year)",
+      "horizon": "2018 calendar year",
+      "forecast_value": "gradually toward 1%",
+      "source_quote": "core inflation is likely to pick up gradually toward 1% in 2018."
+    }
+  ],
+  "excluded_vague_count": 18
+}

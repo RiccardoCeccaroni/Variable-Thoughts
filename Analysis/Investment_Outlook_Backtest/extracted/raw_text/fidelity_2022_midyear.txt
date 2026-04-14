@@ -1,0 +1,911 @@
+SOURCE: fidelity/fidelity_2022_midyear.pdf
+PAGES: 24
+
+--- PAGE 1 ---
+INVESTMENT OUTLOOK
+Fidelity Personal Investing’s market and investment view
+In this issue:
+April
+■ Living with inflation 2022
+■ The importance
+of diversification
+■ All eyes on the Fed
+ISAs Pensions Funds Shares Advice
+
+--- PAGE 2 ---
+Contents
+Outlook at a glance 3
+Looking back at the first quarter of 2022 4
+Asset classes
+Shares 9
+Bonds 10
+Property 11
+Commodities 12
+World stock markets
+United States 13
+United Kingdom 14
+Europe 15
+Asia and emerging markets 16
+Japan 17
+In summary
+Meet the team 19
+Select 50 20
+Make smarter investing decisions 23
+Important information – Please be aware that past performance is not a reliable indicator
+of future returns. The value of investments and the income from them can go down as well as
+up, so you may not get back what you invest. When investing in overseas markets, changes
+in currency exchange rates may affect the value of your investment. Investments in small and
+emerging markets can be more volatile than those in other overseas markets. Reference
+to specific securities or funds should not be construed as a recommendation to buy or sell
+these securities or funds and is included for the purposes of illustration only. Investors should
+also note that the views expressed may no longer be current and may have already been
+acted upon by Fidelity. This information is not a personal recommendation for any particular
+investment. If you are unsure about the suitability of an investment you should speak to one of
+Fidelity’s advisers or an authorised financial adviser of your choice.
+2 Investment Outlook – Q2 2022
+
+--- PAGE 3 ---
+Outlook at a glance
+Current view: Positive Neutral Negative
+3 month change (since the previous Investment Outlook): p Upgrade u Unchanged q Downgrade
+Asset Current 3 month
+classes view change At a glance
+There may be no alternative to shares but rising interest rates, persistent
+Shares q inflation, slowing growth and ongoing Covid concerns are a headwind.
+The conventional wisdom says avoid bonds in inflationary times. But
+Bonds p there is a price for everything and yields now better reflect the risks.
+Property u Much depends on what kind of inflation we end up with. Property can
+hedge rising prices but stagflation is bad news for real estate.
+Arguments can be made either way for energy prices. Gold continues to
+Commodities q look like a port in the storm. Soft commodities are too unpredictable.
+Cash u Cash is always useful in volatile markets and the opportunity cost of
+keeping money on the side-lines will fall as interest rates rise.
+Current 3 month
+Regions view change At a glance
+The US is big and self-sufficient, a safe haven from the challenges
+US p elsewhere in the world. That justifies Wall Street’s higher valuations.
+UK u A rare moment in the sun for the energy and commodity heavy UK market.
+Valuations and income are added bonuses for our home market.
+A good case could be made for Europe before war arrived. For now,
+Europe q the risk of recession and inflation argues for caution.
+Asia Pacific China has faced a cocktail of concerns in the past two years but there
+ex‑Japan p are signs that it could be turning the corner. A contrarian call.
+Japan was looking good until Covid revisited and war in Ukraine
+Japan q exposed its vulnerability to rising import costs. Cheap but is that enough?
+Investment Outlook – Q2 2022 3
+
+--- PAGE 4 ---
+Q1
+Looking back at the
+first quarter of 2022
+The first three months of 2022 were in some While policy and politics have cast a long
+ways what we might have expected at the shadow over the first quarter, so too has
+start of the year. The Federal Reserve’s the pandemic. Here in the UK, we have
+pivot towards monetary tightening had learned to live with an endemic virus. Not so
+been well flagged. We knew that the best in the rest of the world, notably in China
+of the post-pandemic market rally lay where a zero-Covid strategy is being tested
+behind us as recovery shifted towards more by economically damaging lockdowns,
+sustainable growth. including in the country’s most important
+financial and commercial hub, Shanghai.
+What has taken us unawares has been the
+speed with which inflation has come to All three issues are inextricably intertwined.
+dominate the investment narrative. Prices are Economic sanctions and creaking supply
+rising at their fastest pace in 40 years and, chains feed through into rising prices, which
+for younger investors at least, this represents in turn leads to policy actions that might
+a novel environment. We are having to have seemed implausible only three months
+rethink how we allocate our investment ago. Interest rates could rise faster and
+assets in this new landscape. further than we expected and stay there for
+longer than we hoped.
+The return of inflation is in part a
+consequence of the quarter’s biggest shock, All of this has naturally been reflected in the
+war in Europe. The invasion of Ukraine by performance of the different asset classes
+Russia has changed the geo-political picture, and regional stock markets that we track.
+perhaps irreversibly. The revival of a Cold As the chart shows, only one asset has
+War stand-off between nuclear-armed really enjoyed a good three months. The oil
+adversaries, one of which happens to be price has continued to rise, spiking as high
+a key supplier of energy to the other, has as $140 a barrel when it became clear
+uncertain consequences. that energy would be weaponised by an
+unexpectedly united NATO alliance.
+4 Investment Outlook – Q2 2022
+
+--- PAGE 5 ---
+250
+200
+150
+100
+50
+0
+2017 2018 2019 2020 2021 2022
+S&P 500 FTSE 100 MSCI Europe Japan Nikkei 225
+MSCI Emerging Markets Gold US 10yr Treasuries China CSI 300
+Oil Copper Real Estate
+Source: Refinitiv, total returns in local currency, 31.3.17 to 31.3.22
+Past performance is not a reliable indicator of future returns. When investing in
+overseas markets, changes in currency exchange rates may affect the value of your
+investment. Investments in emerging markets can be more volatile than other more
+developed markets. There is a risk that the issuers of bonds may not be able to repay
+the money they have borrowed or make interest payments.
+For full 5 year figures, see overleaf.
+The performance of oil flattens the rest of has a decent weighting towards defensive
+the chart but it is clear that most investments areas like pharmaceuticals.
+have endured a difficult first quarter.
+Gold has had a decent run, living up to its
+The ones keeping their heads above water
+reputation as a safe haven during times
+have done so largely because of their
+of uncertainty and when inflation is rising.
+exposure to rising energy costs. The UK stock
+Industrial metals like copper also continue
+market has outperformed other regional
+to benefit from a mismatch between strong
+equity markets. It is more exposed than most
+demand and years of inadequate supply.
+to oil and gas and other commodities and
+Investment Outlook – Q2 2022 5
+
+--- PAGE 6 ---
+One of the most challenging aspects of the multiples have been offset by continuing
+past three months has been the increasing growth in earnings, but shares have been
+correlation between the performance of swimming against the tide.
+shares and bonds. For many years, the two
+This has been most obvious in China
+have tended to behave differently from each
+where an ongoing property crisis, unhelpful
+other, offering a smoother ride to investors
+regulatory policy in key sectors such as
+who wisely balanced their portfolios
+technology, and the unresolved Covid
+between them. That’s no longer true.
+situation have conspired to put the country
+Unfortunately, inflation is bad for both shares at the back of the pack once again.
+and bonds and fixed income investors have
+It’s been a tough three months for investors,
+suffered their worst month in many years
+but it is important to put the first quarter
+even as shares have fallen. Rising interest
+in context. The previous seven quarters
+rates and high inflation make for a terrible
+since the market plunged at the start of
+backdrop for bond investors.
+the pandemic were more rewarding than
+The turn in the interest rate cycle has been any of us would have predicted two years
+particularly difficult for the US stock market, ago. Markets do not move in a straight line
+dominated as it is by growth shares which and volatility is part of the price we pay
+thrive on cheap money. Lower valuation for performance.
+6 Investment Outlook – Q2 2022
+
+--- PAGE 7 ---
+(as at 31 Mar) 2017-18 2018-19 2019-20 2020-21 2021-22
+S&P 500 14.0 9.5 -7.0 56.4 15.7
+FTSE 100 0.2 7.7 -18.4 21.9 16.1
+MSCI Europe 15.1 -3.1 -15.0 45.7 4.1
+Japan Nikkei 225 15.7 0.9 -8.8 56.7 -2.8
+MSCI Emerging Markets 25.4 -7.1 -17.4 58.9 -11.1
+Gold 5.2 -2.8 22.2 4.4 13.1
+US 10yr Treasuries -1.1 5.5 21.5 -8.1 -2.8
+China CSI 300 14.8 1.3 -2.9 39.6 -15.0
+Oil 31.0 -2.2 -67.0 181.1 69.2
+Copper 14.8 -2.9 -23.9 77.9 18.0
+S&P Global Real Estate -0.3 13.9 -23.4 36.1 19.0
+Source: Refinitiv, total returns in local currency as at 31.3.22
+Past performance is not a reliable indicator of future returns. Overseas investments
+will be affected by movements in currency exchange rates. Investments in emerging
+markets can be more volatile than other more developed markets. There is a risk
+that the issuers of bonds may not be able to repay the money they have borrowed
+or make interest payments. When interest rates rise, bonds may fall in value. Rising
+interest rates may cause the value of your investment to fall.
+Acknowledgements – The views in this report are derived from a variety of sources
+within and outside Fidelity International. They are based on the house view of the
+Fidelity investment team and other sources. However, the report is written for a UK
+personal investing audience and the ideas are explicitly linked to the Select 50 list
+of our preferred funds. We consider this the best way for our investors to implement
+the ideas discussed in this Outlook. We would like to thank, in particular: Wen-Wen
+Lindroth, Andrea Ianelli, Jeremy Osborne, Gary Monaghan, Leigh Himsworth, Jeremy
+Podger, Ayesha Akbar and Natalie Briggs.
+Investment Outlook – Q2 2022 7
+
+--- PAGE 8 ---
+Asset classes and
+world stock markets
+While this quarterly Investment Outlook aims to keep investors abreast of developments
+in a range of different asset classes and geographical areas, the events of the past few
+years have shown how difficult it can be to predict how these will perform in any given
+circumstances. This is particularly relevant today as the investment landscape changes due
+to rising inflation and a reversal of the accommodative monetary policy that has prevailed
+since the financial crisis. Investors are having to relearn investment lessons from previous
+eras. In this evolving environment, the importance of diversification cannot be overstated.
+For a video update on each asset class and region, scan the QR code on each article or
+visit fidelity.co.uk/investmentoutlook. Before you invest in a fund, please ensure you have
+read Doing Business with Fidelity and the Key Information Document (KID).
+The risk-return spectrum
+Lower risk – lower potential return Higher potential return – Higher risk
+Cash funds Bond funds Alternatives Equity funds Individual equities
+Managing investment risk is about balancing the chance of loss with the potential for returns
+over time. A higher level of investment risk – usually found in individual equities – often
+means that the potential for growth is greater, but there’s also a greater possibility that
+the value of your investments might fall. At the other end of the spectrum, cash carries little
+or no investment risk other than the possibility that inflation will eat into the value of your
+savings. Bonds, especially those issued by governments, can be lower in investment risk,
+but they’re also likely to deliver lower potential returns. Inflation can also be very damaging
+to the value of bonds over time due to their fixed income and fixed return of capital at
+maturity. This image shows the level of risk associated with the potential returns of a range
+of asset classes. A good way of ensuring your investments have a suitable level of risk is to
+diversify your portfolio across this risk-return spectrum.
+8 Investment Outlook – Q2 2022
+
+--- PAGE 9 ---
+Shares
+Current view Neutral full-scale assault on inflation. Expectations for
+3 month change q Downgrade the pace and extent of interest rate rises this
+year and next have accelerated since the start
+Shares have not performed well over the past of the year. The risk is that rates go higher than
+three months. But what is perhaps surprising is expected and stay there for longer.
+that they have not performed worse. The list of
+The third risk for stock markets is the ongoing
+things for investors to worry about is long and
+Covid situation in China where Beijing is
+the resilience of equities in the face of the war
+sticking to its zero-tolerance policy, even
+in Ukraine, tightening monetary policy and
+to the extent of shutting down its principal
+continuing Covid fears is remarkable.
+financial and commercial hub, Shanghai.
+In particular, the V-shaped recovery in stock
+The positive case for shares has a few
+markets from the initial shock of Russia’s
+components. First, there is an element
+invasion of Ukraine has been surprising.
+of TINA (there is no alternative) at work.
+The worst conflict in Europe in nearly 80
+Although the income attraction of bonds
+years would be bad enough in itself. But the
+is improving, dividend yields are still
+economic ramifications of this particular war,
+competitive and have the potential to grow
+thanks to the region’s dependence on Russia
+in an inflationary environment. Second,
+for energy and many other commodities,
+earnings growth is still reasonable, even if
+make the rally to pre-war levels a puzzle.
+forecasts may well come under pressure as
+The war looks certain to reduce growth and costs increase and consumer confidence
+increase an already worrying level of inflation. wanes. Third, a great deal of the necessary
+Recession in the region is possible. At the very valuation reduction has already taken place.
+least we face a return of stagflation. This is Especially outside the US, markets are
+not a good environment for stock markets, relatively cheap measured against earnings.
+although clearly the further away you move
+Shares are a better hedge against inflation
+from the region the less its impact will be.
+than bonds, but the onus is on investors to
+The other key story for equity investors, which seek out companies with pricing power,
+pre-dated the war, and would have made balance sheet strength and exposure to
+things challenging anyway, is what we are real assets.
+calling the ‘return of Volckerism’, the Fed’s
+For a brief video update on shares, scan the QR code
+or visit fidelity.co.uk/investmentoutlook
+Investment Outlook – Q2 2022 9
+
+--- PAGE 10 ---
+Bonds
+Current view Neutral trajectory is likely to look far too ambitious.
+3 month change Upgrade Investors may not need to be concerned
+about bond yields rising much further. If their
+If I had been writing this Outlook a month capital is safe and they are collecting a 2.5%
+ago, I would have stuck to my long-standing yield in the meantime, then the case for bonds
+line that bonds should be avoided in an is much stronger.
+environment of high inflation and rising interest
+When it comes to corporate bonds, the
+rates. Inflation eats into the purchasing power
+picture is more complicated. Part of the
+of both your income and capital return at
+calculation with investment grade and high
+maturity. You need a high yield to compensate
+yield bonds is the health of the economy
+for that and moving from a low to a high yield
+and the likelihood of defaults by companies.
+requires a painful reduction in price.
+The same argument that’s a positive for
+Today, I’m less militant in my anti-bond position government bonds can be a negative for
+because a great deal of the necessary price corporates if investors demand a higher yield
+move may have taken place. In the past to compensate them for economic risks.
+month, the yield on the 10-year Treasury bond
+There is, however, quite a strong case for
+has moved from about 1.7% to nearly 2.5%.
+international diversification. Year to date,
+Shorter-dated bonds have moved even the only government bonds which have
+faster – which makes sense because delivered a positive return are Chinese.
+they are more influenced by interest rate They have also been a strong performer
+expectations. The 2-year bond’s yield is up over one and three years. And the income
+by nearly a full percentage point to around paid is higher than on US, European and
+2.3%. The difference between the 2 and the Japanese government bonds too.
+10-year yields is now negligible, resulting
+Important information: There is a risk that
+in a so-called flat yield curve, which has
+the issuers of bonds may not be able to repay
+always been a signal of tough economic
+the money they have borrowed or make
+times ahead.
+interest payments. When interest rates rise,
+And that is why it is now possible to make a bonds may fall in value. Rising interest rates
+better case for holding bonds than for quite may cause the value of your investment to fall.
+some time. If we are heading towards a
+recession, then the Fed’s current interest rate
+For a brief video update on bonds scan the QR code
+or visit fidelity.co.uk/investmentoutlook
+10 Investment Outlook – Q2 2022
+
+--- PAGE 11 ---
+Property
+Current view Neutral impact on direct office and shop demand
+3 month change Unchanged but also the viability of ancillary businesses
+like restaurants.
+In an inflationary environment, real assets
+One of the great opportunities in real estate
+can help an investor keep up with rising
+is investing in so-called alternative sectors,
+prices. And there is no more real asset than
+things like healthcare facilities and data
+a building. The hint is in the name – real
+centres. Sustainability is another key focus
+estate. One of the reasons that property has
+for property investors. Real estate is a key
+provided a safe haven in such periods is that
+battleground in the fight against climate
+index linked leases are expressly designed
+change. There is a chronic shortage of
+to protect a landlord. Long, inflation-adjusted
+genuinely green buildings, an opportunity as
+rental agreements are less common than
+well as a risk for the industry.
+they were, but they are still the norm.
+Then, there is the question of how much to
+There is a problem, however. Not all inflation
+pay for the income stream from a property.
+is the same. When prices rise because an
+Quality of income matters (good tenants)
+economy is booming, real estate benefits.
+as well as its duration and growth potential.
+Demand for space rises and with it the price
+Some of the biggest risks in the sector
+that a landlord can demand from potential
+include the mispricing of tenant quality and
+tenants. When inflation is coupled with
+over-optimistic rental growth assumptions,
+sluggish growth, however, or indeed is the
+particularly in the logistics sector. Rental
+cause of the stagnation, it’s a different matter
+growth is closely correlated with GDP growth,
+altogether. Stagflation is bad for real estate.
+so the growing risk of recession is a concern.
+So, inflation, and its causes, is one concern
+Coping with inflation, changing use patterns
+for property investors. Others include the
+and the drive to net zero make property
+still unresolved disruption to patterns of
+investment an increasingly complex matter.
+occupation and consumption caused by the
+Exposure can be made through a diversified
+Covid pandemic. We still do not quite know
+fund such as the Select 50’s iShares Global
+the extent to which people will go back to
+Property Securities Equity Index Fund.
+the old working ways. Although the City is
+busy Tuesday to Thursday, it is less so at
+either end of the week. That has a huge
+For a brief video update on property scan the QR code
+or visit fidelity.co.uk/investmentoutlook
+Investment Outlook – Q2 2022 11
+
+--- PAGE 12 ---
+Commodities
+Current view Neutral is weaker than the bulls claim, that Shale
+3 month change q Downgrade will be quicker to switch back on and that
+under-exploited sources of oil such as
+Russia is a major player when it comes to Venezuela and Iran could fill the gap too.
+a wide range of commodities. Top of the It believes oil could be back in the $60 range
+list, of course, are oil and gas but it is also by the end of the year.
+a significant exporter of both metals and
+So, this may not be the moment to chase
+agricultural commodities. The principal
+returns. Some exposure via producers (which
+economic impact of the war in Ukraine
+will be breaking even at a significantly lower
+is, therefore, being felt via rising natural
+oil price than today’s level above $100 a
+resources prices.
+barrel) makes sense.
+What is unclear is the extent to which price
+Investing via the miners rather than the
+rises will be a flash in the pan, painful in the
+commodity itself also looks like the best
+short term but having little long-term impact.
+approach when it comes to gold. If you
+Obviously, the length of the conflict and the
+believe that the gold price will rise further
+speed with which more normal relations can
+from here then miners, with relatively fixed
+be restored in its aftermath will be key.
+costs, will benefit proportionately more.
+Obviously, no-one knows the answers to We continue to believe that a diversified fund
+those questions, which explains the wide such as the Ninety One Global Gold Fund
+range of forecast outcomes, particularly with (one of our fund recommendations this year)
+regard to the oil price. Parallels with the will do well.
+1970s oil shocks may or may not be relevant
+A picks and shovels approach to rising food
+but are sobering. The oil price quadrupled
+prices has merit too. The prices of agricultural
+following the Yom Kippur war in 1973 and
+commodities are volatile, determined by a
+trebled again after the Iranian revolution
+range of unpredictable factors including the
+in 1979. On that basis, forecasts of $200 a
+weather. Better to invest in companies that
+barrel of oil do not look fanciful.
+will benefit from rising demand for food such
+However, there are plenty of voices, such as fertiliser and water-related businesses.
+as leading oil price bear Citi, arguing the
+opposite case. Citi believes that demand
+For a brief video update on commodities, scan the
+QR code or visit fidelity.co.uk/investmentoutlook
+12 Investment Outlook – Q2 2022
+
+--- PAGE 13 ---
+United States
+Current view Positive The case for US equities is strong. As long as
+3 month change Upgrade inflation is not allowed to spiral out of control,
+the evidence is that company revenues
+The US is relatively insulated from the effects rise in line with prices and that, far from
+of the war in Ukraine. Obviously rising food squeezing margins, inflation can actually
+and energy costs will affect consumers boost profitability due to pricing power and
+in America just as they do elsewhere, operating leverage. Strength in energy profits
+but both represent a lower proportion can anyway offset falls elsewhere.
+of US household budgets, so the overall
+What about valuations? The US is more
+impact is lower.
+expensive than most other markets but
+The US is also a net exporter of energy using today’s cost of capital to calculate a
+and it only imported just over 3% of its oil fair valuation for the market suggests that
+needs from Russia last year. The decision US shares are actually better value than at
+to ban Russian energy imports was not a previous moments when the headline Price/
+difficult one. The US also has a small surplus Earnings (P/E) ratio of S&P 500 was apparently
+in agricultural trade. And, with the largest similar. US companies are also better cash
+defence industry in the world, it will be a generators than they used to be (due to the
+net beneficiary of higher defence spending different sector composition of the market
+in any new Cold War. Non-farm payroll today) which might argue for higher valuations.
+employment continues to rise and wage
+America really is a lucky country. Geography
+increases are strong.
+and its natural resource abundance have
+Put all this together and it is clear why the always protected it and continue to do so.
+Fed is more concerned about inflation than The Fed’s dual mandate, targeting both
+growth and will most likely not be swayed growth and inflation mean it is always
+from its planned tightening programme likely to err on the side of stimulating the
+throughout the rest of the year. The only economy. In that environment, shares are
+question mark is over how far rates rise and likely to offer investors the best protection.
+how long they stay there. Tighter monetary policy creates a headwind,
+but the US still looks relatively attractive.
+For a brief video update on the United States, scan the
+QR code or visit fidelity.co.uk/investmentoutlook
+Investment Outlook – Q2 2022 13
+
+--- PAGE 14 ---
+United Kingdom
+Current view Positive fund manager dealing with inflation. The key
+3 month change Unchanged questions you should be asking of your UK
+investments include the following:
+It’s not often that we can say that the UK
+Are there stores of value in the fund, for
+stock market has been a port in the storm.
+example housebuilders which have built up
+Over the past three months, however, our
+land banks ahead of the recent inflationary
+domestic market has outperformed all its
+surge? Does the portfolio have pricing power,
+main rivals thanks to its exposure to the few
+for example via supermarkets holding the whip
+sectors that have benefited from the new
+hand over smaller suppliers? How protected
+inflationary environment, principally oil and
+are the investments against rising input costs,
+gas and commodities. In fact, of the regional
+for example through holdings in companies
+markets that we track, the UK is the only one
+which add value through intellectual property
+to have kept its head above water in the first
+such as media or technology stocks? Are there
+quarter of the year.
+debts with fixed interest payments that will be
+We know that the UK stock market’s inflated away? Is the return on capital high?
+performance is only loosely correlated with Does this company operate in a niche area?
+that of the UK economy. Only around a
+At the moment, recession is not the base
+quarter of the revenues of Britain’s leading
+case, but the recent Spring Statement pointed
+companies come from the home market
+to a sharp drop in growth and a sharp rise in
+and only half of those listed in the FTSE 250.
+inflation. Stagflation is a difficult environment
+So, what is happening to the oil price is at
+in which to invest. It requires a different
+least as important as whether or not there
+mindset, more akin to that which protected
+will be growth or a recession in the UK this
+investors in the 1970s: more real assets,
+year or next. The two questions are of course
+commodities, gold. But if stagflation is what
+linked because, if the economy does go
+we face, the UK, on just 14 times earnings
+backwards, it will be in large part due to the
+and with a dividend yield of around 4%, will
+cost of living squeeze that’s a consequence
+continue to represent a safe haven compared
+of soaring energy prices.
+to more growth-oriented markets like the US.
+For an investor in the UK market, two key As it has in the past three months, home bias
+questions arise. To what extent is your fund may continue to look sensible.
+exposed to the UK economy and how is your
+For a brief video update on the United Kingdom, scan the
+QR code or visit fidelity.co.uk/investmentoutlook
+14 Investment Outlook – Q2 2022
+
+--- PAGE 15 ---
+Europe
+Current view Neutral European Central Bank now looks very likely
+3 month change q Downgrade to become even more dovish in its approach.
+In combination with any further fiscal support
+The war in Ukraine affects European for affected industries, this could position
+investment markets for the obvious reason Europe attractively versus other regions.
+of proximity but also because of the high
+Prior to the war in Ukraine, a strong case
+dependence of the region on Russian energy.
+for investing in Europe could be made.
+Russia accounts for 40% of Europe’s gas
+The region offers investors better diversified
+needs and the region is clearly vulnerable to
+revenues than most markets. As in the UK,
+both price and supply shocks.
+around three quarters of sales are made
+The biggest risk is that Russia actually outside the domestic market. The region is
+disrupts supplies to Europe, which would also home to high quality companies that are
+have significant knock-on impacts on a leaders in the industries of the future.
+wide range of industries for which gas is a
+In recent years, sectors with strong structural
+key input. Even if it does not (and with gas
+growth drivers such as pharmaceuticals,
+revenues amounting to perhaps €1bn a day
+consumer discretionary, industrials and
+there is good reason for it not to) then rising
+technology have grown from a 30% share of
+prices will exacerbate an already difficult
+the market to around 50%. Companies with low
+inflation situation and increase the risk of a
+volatility, strong balance sheets and attractive
+stagflationary growth shock.
+dividend streams position the region well.
+Recession now looks like a base case for
+Whether or not to invest in Europe might
+the region within the next year as rising fuel,
+seem to hinge on how the situation in Ukraine
+food and energy bills weigh on household
+evolves but it’s worth remembering that
+incomes. Clearly the longer the conflict
+markets are quick to price in the range of likely
+continues the greater will be the impact on
+outcomes. The significant underperformance of
+sentiment and risk appetite.
+European equities year to date means that the
+The role of the ECB has been further valuation case for the region, strong before the
+complicated by the war in Ukraine. war, is now even more supportive. The moment
+Already far behind the US and UK in terms to reduce exposure to Europe has passed.
+of the pivot to tighter monetary policy, the
+For a brief video update on Europe, scan the QR code
+or visit fidelity.co.uk/investmentoutlook
+Investment Outlook – Q2 2022 15
+
+--- PAGE 16 ---
+Asia and emerging markets
+Current view Positive of Chinese companies listed in America to
+3 month change Upgrade stringent US accounting rules. Although many
+of the affected companies have dual listings
+There is really only one story in this region in New York and Hong Kong, the spat has
+at the moment and it is China. The last two affected sentiment.
+years have been very disappointing for
+A fourth positive surrounds China’s hardline
+investors in the country and the year to date
+approach to Covid, although the lockdown of
+has continued the underperformance.
+Shanghai suggests Beijing is not willing just
+The list of issues is long but a recent yet to abandon its zero-Covid policy. Learning
+intervention by vice premier Liu He suggests to live with the virus would be a major plus for
+that on several fronts there is cause for supply chains and trade the world over.
+optimism. The first glimmer of hope came
+A big unknown remains China’s attitude to
+from Liu’s clear suggestion that China is once
+Russia’s war in Ukraine. This matters because
+again prepared to stimulate the Chinese
+China is significantly more integrated with
+economy. Perhaps not in the powerful way it
+the global economy than Russia, with
+did in the wake of the financial crisis but more
+six times the contribution to global GDP.
+so than during the pandemic. We can expect
+Economic sanctions on Russia have been
+rate cuts, reduced reserve requirements for
+damaging. Similar measures aimed at China
+banks and more fiscal stimulus.
+would be worse.
+The second cause for optimism is an
+There is clearly lots still to worry about when
+apparent retreat from the regulatory squeeze
+it comes to investing in China but if you can
+that has accompanied China’s ‘common
+look through the headlines and the poor
+prosperity’ programme – a set of measures
+sentiment, it is possible to see a country that
+designed to promote social equality. China’s
+is easing policy rather than tightening, that
+approach from here is expected to be more
+is rowing back on damaging regulation, is
+transparent and predictable.
+growing its earnings and is cheap against its
+Thirdly, there is evidence that both China own history and versus other markets.
+and the US are looking for ways to resolve
+a long running dispute over the adherence
+For a brief video update on Asia and emerging markets, scan
+the QR code or visit fidelity.co.uk/investmentoutlook
+16 Investment Outlook – Q2 2022
+
+--- PAGE 17 ---
+Japan
+Current view Neutral higher costs. This represents a big margin
+3 month change q Downgrade squeeze for the corporate sector.
+The overall inflation figures in Japan are
+Towards the end of 2021, things were looking
+skewed by a government imposed cut in
+up for Japan. The end of Covid restrictions
+telecommunications prices. Look through this
+in October coincided with an economic
+and there is evidence of double-digit price
+and earnings recovery. The relatively
+increases for gas, electricity, fuel and food.
+undemanding valuation of the Japanese
+The recent fall in the value of the yen will
+market looked at odds with this improving
+make imports even costlier. This is having
+fundamental backdrop. Then came Omicron
+an impact on consumption, which was
+and then Ukraine. Obviously neither of
+anyway tepid as a consequence of Japan’s
+these are unique to Japan but the country
+ageing demographics.
+is unusually exposed to their consequences,
+slowing global trade and rising inflation.
+It is a very difficult environment for investors
+in Japan, especially for fund managers
+The Covid situation hit the country hard in
+focused on growth sectors which have
+December and January. The latest wave
+underperformed value to a massive extent.
+of infections was significantly more serious
+Selling by foreign investors has been
+than earlier ones and led to a quasi state
+consistent and the valuation gap between
+of emergency being announced in most
+Japan and the US has widened even further.
+prefectures, which is only now starting to be
+Japanese shares are extremely cheap by
+lifted alongside relaxed travel restrictions.
+historical comparison, even more so than in
+There are still no plans to allow overseas
+Europe, which obviously is much closer to the
+tourists into the country, however.
+epicentre of the current geo-political crisis.
+The secondary impact of the war in Ukraine
+We recommended the Baillie Gifford
+has been particularly painful for Japan.
+Japanese Fund at the end of last year
+The country is dependent on energy imports,
+on recovery and valuation grounds. This
+with only 12% self-sufficiency, and it imports
+is a good fund and will benefit from any
+around two thirds of its food. It is therefore
+improvement in the investing landscape in
+vulnerable to commodity price spikes.
+Japan. It has not been a good start to the
+The country’s deflationary mindset also
+year, but this is not the time to jump ship.
+makes it difficult for companies to pass on
+For a brief video update on Japan, scan the QR code
+or visit fidelity.co.uk/investmentoutlook
+Investment Outlook – Q2 2022 17
+
+--- PAGE 18 ---
+In summary
+Investors may well consider themselves fortunate to have reached the end of the first quarter
+of 2022 with their portfolios as intact as they are. Three horsemen of the Apocalypse – War,
+Pestilence and the Death of central bank stimulus – have knocked on our door since the last
+Outlook. In the circumstances, the markets have held up with remarkable fortitude.
+Looking back at our comments three months ago, we expected inflation, interest rates,
+earnings and valuations to be investors’ principal concerns in 2022. All of these matter still
+but geo-politics and Covid have both re-appeared on our radars too. The outlook is more
+complicated than it seemed at the beginning of the year.
+In this environment, a well-diversified portfolio will serve investors well. Shares and
+commodities are usually the best place to be in an inflationary period. But bonds could be
+a good diversifier again and some property, gold and cash would not go amiss either.
+18 Investment Outlook – Q2 2022
+
+--- PAGE 19 ---
+The Personal Finance and
+Markets Content team
+Maike Currie Emma‑Lou Montgomery
+‘As well as heading up the ‘After some 20 years as
+team, I appear on the BBC, a financial journalist,
+Sky News and ITV to talk I’m still passionate about
+about investing and have showing how easy it is to
+a column in the FT. My favourite subject make more of your money, from investing
+is investing for income, which I’ve written to the day-to-day stuff. My spare time is
+a book on.’ family time.’
+Tom Stevenson Ed Monk
+‘I’ve been writing about ‘I joined Fidelity in 2016
+investing for 30 years. after a career in finance
+I provide investment insights, journalism. I believe investing
+market commentary and should be simple and I
+have a weekly column in the Telegraph. always try to bring my own experience
+In my downtime, I love to hit the road on to what I write – including the mistakes
+my new Triumph.’ I’ve made.’
+Jonathan Wright Becks Nunn
+‘I’ve been at Fidelity for over ‘I love creating customer-
+20 years. I love creating focused copy that connects
+content that brings the world on a really human level.
+of investing to life. I make If I’m not writing about
+sure that every image and line works as investing, you’ll find me spending time with
+hard as it can before publishing it.’ my kids or writing stories for children.’
+Find out more about the team at fidelity.co.uk/meet‑the‑team
+Investment Outlook – Q2 2022 19
+
+--- PAGE 20 ---
+The Select 50: Our experts’ favourite funds
+The funds on the Select 50 are hand picked from the range available on our fund
+supermarket. For more information on how these funds are selected visit fidelity.co.uk/select.
+The Select 50 is not advice or a personal recommendation to buy funds. Equally, if a fund
+you own is not on the Select 50 (or was on the previous Select List and isn’t on the Select
+50), we’re not recommending you sell it. You must ensure that any fund you choose to invest
+in is suitable for your own personal circumstances.
+Please be aware that past performance is not a reliable indicator of what might
+happen in the future. The value of investments and the income from them can go down
+as well as up, so you may not get back what you invest. For funds that invest in overseas
+markets, the returns may increase or decrease as a result of currency fluctuations.
+Investments in small and emerging markets can be more volatile than other more
+developed markets. For funds launched less than five years ago full five-year performance
+figures are not available.
+Standardised performance data (%) over the past five years
+% Morningstar
+(as at 31 March) 2017-18 2018-19 2019-20 2020-21 2021-22 Fund Rating
+Bonds
+ASI Global Inflation-linked Bond 1.1 2.2 3.8 4.6 3.7 JJJ
+Colchester Global Bond - - - -2.6 -2.9 -
+Fidelity MoneyBuilder Income 1.6 3.0 1.3 8.2 -4.2 JJJ
+Fidelity Strategic Bond† 1.7 2.4 0.5 11.0 -4.9 JJJ
+Invesco High Yield 8.2 0.6 -10.7 25.7 3.1 JJJJJ
+iShares UK Gilts All Stocks Index 0.2 3.8 10.3 -5.7 -5.4 JJJJ
+JPM Global High Yield Bond 2.5 4.2 -8.2 22.3 0.1 -
+M&G Corporate Bond 2.2 2.9 -0.5 10.9 -4.6 JJJJ
+PIMCO GIS Global Bond 2.2 2.3 2.7 5.6 -4.1 JJJJJ
+† The investment policy of Fidelity Strategic Bond Fund means it can be more than 35% invested in government and
+public securities. These can be issued or guaranteed by other countries and governments. For a full list please refer
+to the fund’s prospectus.
+20 Investment Outlook – Q2 2022
+
+--- PAGE 21 ---
+% Morningstar
+(as at 31 March) 2017-18 2018-19 2019-20 2020-21 2021-22 Fund Rating
+Alternatives
+Aviva Investors Multi-Strategy Target Return -0.7 -1.2 1.1 7.0 4.3 JJJ
+Foresight UK Infrastructure Income - 19.7 -1.1 10.8 10.2 JJJ
+iShares Global Property Securities Equity Index -7.8 21.9 -19.2 22.2 20.4 JJJ
+Ninety One Global Gold -9.8 11.8 13.6 18.4 29.0 JJJJ
+North America
+Brown Advisory US Sustainable Growth - - - 42.6 18.0 -
+JPM US Equity Income -3.5 17.3 -7.2 33.3 20.4 JJJJ
+JPM US Select -2.0 17.2 3.3 41.4 23.8 JJJJJ
+Majedie US Equity -1.1 15.9 -3.3 50.7 10.9 JJJ
+Schroder US Mid Cap -5.2 11.6 -14.8 55.2 7.5 JJJ
+Europe
+Barings Europe Select 10.5 -0.2 -9.9 46.1 -4.5 JJJ
+BlackRock Continental European 7.7 5.6 3.6 47.2 12.5 JJJJJ
+Comgest Growth Europe ex UK 4.3 14.6 5.3 28.7 11.1 JJJJJ
+Fidelity Funds – European Growth 0.2 7.5 15.5 26.8 2.1 JJ
+JOHCM European Select Values -0.5 -1.4 -24.5 46.1 -7.9 JJJ
+Robeco QI European Conservative Equities 3.7 4.6 -7.0 17.0 10.2 JJJ
+UK
+Artemis UK Select 8.5 -4.2 -20.1 72.8 2.1 JJJ
+Fidelity Special Situations 4.4 1.2 -27.8 46.7 8.7 JJJ
+Fidelity UK Select -0.3 10.8 -17.2 31.9 10.7 JJJJJ
+Franklin UK Equity Income 1.4 7.5 -18.1 26.3 14.6 JJJJJ
+JOHCM UK Dynamic 4.4 2.1 -27.0 40.8 11.6 JJJ
+JOHCM UK Equity Income 7.3 -0.9 -29.5 50.1 11.4 JJJ
+Lazard UK Omega 3.6 -0.4 -22.6 38.3 8.2 JJ
+Liontrust UK Equity -3.1 2.9 -21.3 33.3 5.6 JJJ
+Liontrust UK Growth 2.6 7.2 -14.0 22.6 13.2 JJJJ
+Threadneedle UK Mid 250 9.2 -3.8 -18.1 53.3 -7.6 JJJ
+The Select 50 is liable to be changed between publication dates for the Investment
+Outlook. For the most up‑to‑date list please visit www.fidelity.co.uk/select50
+Investment Outlook – Q2 2022 21
+
+--- PAGE 22 ---
+% Morningstar
+(as at 31 March) 2017-18 2018-19 2019-20 2020-21 2021-22 Fund Rating
+Asia and Emerging Markets
+Fidelity Funds – Asian Smaller Companies -0.2 5.7 -27.4 58.2 5.6 JJJJ
+Fidelity Sustainable Asia Equity 13.6 4.5 -7.8 52.8 -12.4 JJJJJ
+JPM Asia Growth 19.3 7.0 -1.3 52.8 -16.2 JJJJJ
+Stewart Investors Asia Pacific Leaders 0.3 10.3 -9.3 40.7 4.0 JJJJ
+Japan
+Baillie Gifford Japanese 15.4 -1.1 -8.7 43.5 -8.5 JJJJ
+Lindsell Train Japanese Equity 20.7 0.5 4.5 -0.5 -16.5 JJJ
+Man GLG Japan CoreAlpha 1.8 -2.0 -19.2 29.2 8.7 JJ
+Global
+BNY Mellon Long-Term Global Equity 2.9 20.1 -0.6 28.2 13.0 JJJ
+Fidelity Global Dividend -4.5 15.3 1.5 21.4 8.1 JJJJJ
+Fidelity Global Special Situations 4.5 6.3 -4.3 45.7 8.0 JJJJ
+Invesco Global Equity Income 2.4 3.8 -15.8 40.9 12.2 JJJ
+Rathbone Global Opportunities 11.7 13.9 3.6 39.5 9.0 JJJJJ
+Before you invest, please ensure you have read Doing Business with Fidelity and the Key
+Investor Information Document (KIID) or Fund Specific Information Document (FSI), relevant
+to your chosen fund(s). These documents give you all the information you need to know
+about Fidelity, including details of the objective, investment policy, risks, charges and past
+performance associated with the fund(s). Instructions on how to access these documents
+can be found at fidelity.co.uk/importantinformation. If you do not have a computer or
+access to the internet please call Fidelity on 0800 41 41 61 to request a printed copy of the
+documents. The Full Prospectus is also available on request from Fidelity.
+Source: Morningstar from 31.3.17 to 31.3.22. Basis: bid to bid with income reinvested in GBP. Excludes initial charge. The
+fund’s primary share class according to the IA is shown. For the latest yields please call 0800 41 41 61 or visit fidelity.co.uk
+22 Investment Outlook – Q2 2022
+
+--- PAGE 23 ---
+Want to make
+even smarter
+investing decisions?
+If you've enjoyed our fresh take on the
+outlook for markets, why not sign up for
+our free email newsletters? You can opt
+for daily bite-sized updates or a weekly
+round-up that'll get you up to speed in
+under 15 minutes. You can even sign up
+for both, as so many of our subscribers
+do. Packed full of the personal finance
+and investment topics that matter to
+you, you'll soon be making even smarter
+investing decisions.
+Daily
+Every weekday, we’ll email you with the
+latest news, views and insights from our
+experts.
+Weekly
+Every Saturday, you'll receive opinions and
+analysis from our team, as well as from
+Citywire's independent experts.
+Sign up today:
+fidelity.co.uk/
+newsletters
+Investment Outlook – Q2 2022 23
+
+--- PAGE 24 ---
+Trust us to
+go further:
+■ Over 390 investment professionals
+around the world
+■ Fidelity looks after 1.5m UK investors
+■ Detailed investment approach
+including direct company interviews
+For more
+Source: Fidelity as at 31.12.21
+information
+please call
+0800 41 41 61
+or visit fidelity.co.uk
+Issued by Financial Administration Services Limited, authorised
+and regulated by the Financial Conduct Authority. Fidelity,
+Fidelity International, the Fidelity International logo and F
+symbol are trademarks of FIL Limited. PSSO0839/0922
+PI-GEN-76

@@ -1,0 +1,41 @@
+{
+  "company": "JP Morgan Asset Management",
+  "report_year": "2021",
+  "publication_date": "2020-12",
+  "forecast_period": "2021",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "Developed economies",
+      "variable": "GDP activity trajectory",
+      "horizon": "H1 vs H2 2021",
+      "forecast_value": "Depressed in Q1 (potentially Q2), robust recovery in H2",
+      "source_quote": "Our expectation, therefore, is that activity in developed economies will remain depressed in the first quarter of the year, and potentially the second. However, from the second half we could see a meaningful bounce in activity, once the vaccines are rolled out."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "2021",
+      "forecast_value": "Below 1.5%",
+      "source_quote": "US 10yr Treasury yield to trade <1.5%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB policy rate",
+      "horizon": "Through 2021",
+      "forecast_value": "Negative interest rates and ongoing asset purchases continue",
+      "source_quote": "Structural inflation challenges in Europe and Japan suggest negative interest rates and ongoing asset purchases are likely to continue through 2021 at least."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Japan",
+      "variable": "BOJ policy rate",
+      "horizon": "Through 2021",
+      "forecast_value": "Negative interest rates and ongoing asset purchases continue",
+      "source_quote": "Structural inflation challenges in Europe and Japan suggest negative interest rates and ongoing asset purchases are likely to continue through 2021 at least."
+    }
+  ],
+  "excluded_vague_count": 14
+}

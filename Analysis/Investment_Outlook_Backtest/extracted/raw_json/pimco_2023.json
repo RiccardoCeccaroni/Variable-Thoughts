@@ -1,0 +1,56 @@
+{
+  "company": "PIMCO",
+  "report_year": "2023",
+  "publication_date": "2022-12",
+  "forecast_period": "2023",
+  "predictions": [
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield range",
+      "horizon": "2023",
+      "forecast_value": "3.25% to 4.25%",
+      "source_quote": "We expect a yield range of about 3.25% to 4.25% for the 10-year U.S. Treasury"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate peak",
+      "horizon": "2023",
+      "forecast_value": "~5%",
+      "source_quote": "We think the U.S. Federal Reserve (Fed) may need to reach a roughly 5% nominal federal funds rate"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB deposit rate peak",
+      "horizon": "2023",
+      "forecast_value": "~3%",
+      "source_quote": "We think a 3% rate, or slightly higher, where the ECB pauses is a reasonable estimate"
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "US unemployment rate",
+      "horizon": "2023",
+      "forecast_value": "~5%",
+      "source_quote": "U.S. unemployment may have to increase to around 5%, from 3.5% in December"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US headline CPI inflation (YoY%)",
+      "horizon": "2023",
+      "forecast_value": "~4%",
+      "source_quote": "U.S. headline consumer price index (CPI) inflation could fall from about 8% to 4% (annualized) relatively quickly"
+    },
+    {
+      "category": "growth",
+      "region": "DM",
+      "variable": "DM recession expectation",
+      "horizon": "2023",
+      "forecast_value": "modest recession across developed markets",
+      "source_quote": "We expect a modest recession in 2023 across developed markets"
+    }
+  ]
+}

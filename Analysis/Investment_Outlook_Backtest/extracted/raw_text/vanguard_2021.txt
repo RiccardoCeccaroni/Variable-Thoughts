@@ -1,0 +1,2721 @@
+SOURCE: vanguard/vanguard_2021.pdf
+PAGES: 50
+
+--- PAGE 1 ---
+Vanguard economic and
+market outlook for 2021:
+Approaching the dawn
+Vanguard Research December 2020
+■ While the global economy continues to recover as we head into 2021, the battle between
+the virus and humanity’s efforts to stanch it continues. Our outlook for the global economy
+hinges critically on health outcomes. The recovery’s path is likely to prove uneven and
+varied across industries and countries, even with an effective vaccine in sight.
+■ In China, we see the robust recovery extending in 2021 with growth of 9%. Elsewhere,
+we expect growth of 5% in the U.S. and 5% in the euro area, with those economies
+making meaningful progress toward full employment levels in 2021. In emerging markets,
+we expect a more uneven and challenging recovery, with growth of 6%.
+■ When we peek beyond the long shadow of COVID-19, we see the pandemic irreversibly
+accelerating trends such as work automation and digitization of economies. However, other
+more profound setbacks brought about by the lockdowns and recession will ultimately prove
+temporary. Assuming a reasonable path for health outcomes, the scarring effect of
+permanent job losses is likely to be limited.
+■ Our fair-value stock projections continue to reveal a global equity market that is neither
+grossly overvalued nor likely to produce outsized returns going forward. This suggests,
+however, that there may be opportunities to invest broadly around the world and across
+the value spectrum. Given a lower-for-longer rate outlook, we find it hard to see a material
+uptick in fixed income returns in the foreseeable future.
+
+--- PAGE 2 ---
+Lead authors Vanguard Investment
+Strategy Group
+Vanguard Global Economics and
+Capital Markets Outlook Team
+Joseph Davis, Ph.D.,
+Global Chief Economist
+Joseph Davis, Ph.D. Roger A. Peter Westaway, Ph.D.
+Americas
+Global Chief Economist Aliaga-Díaz, Ph.D. Chief Economist, Europe
+Chief Economist, Americas
+Roger A. Aliaga-Díaz, Ph.D.,
+Chief Economist, Americas
+Kevin DiCiurcio, CFA
+Kelly Farley
+Joshua M. Hirt, CFA
+Ian Kresnak, CFA
+Jonathan Lemco, Ph.D.
+Qian Wang, Ph.D. Andrew J. Kevin DiCiurcio, CFA Olga Lepigina
+Chief Economist, Patterson, CFA Senior Investment
+Vytautas Maciulis, CFA
+Asia-Pacific Senior Economist Strategist
+Andrew J. Patterson, CFA
+Asawari Sathe, M.Sc.
+Maximilian Wieland
+Daniel Wu, Ph.D.
+Europe
+Alexis Gray, M.Sc. Jonathan Lemco, Ph.D. Joshua M. Hirt, CFA Peter Westaway, Ph.D.,
+Senior Economist Senior Investment Senior Economist Chief Economist, Europe
+Strategist
+Edoardo Cilla, M.Sc.
+Alexis Gray, M.Sc.
+Editorial note
+Shaan Raithatha, CFA
+This publication is an update of Vanguard’s annual economic and market
+outlook for 2021 for key economies around the globe. Aided by Vanguard Roxane Spitznagel, M.Sc.
+Capital Markets Model® simulations and other research, we also
+forecast future performance for a broad array of fixed income and equity
+Asia-Pacific
+asset classes.
+Qian Wang, Ph.D.,
+Chief Economist, Asia-Pacific
+Acknowledgments
+Alex Qu
+We thank Corporate Communications, Strategic Communications, and the
+Adam J. Schickling, CFA
+Global Economics and Capital Markets Outlook teams for their significant
+contributions to this piece. Further, we would like to acknowledge the work Beatrice Yeo, CFA
+of Vanguard’s broader Investment Strategy Group, without whose tireless
+research efforts this piece would not be possible.
+2
+
+--- PAGE 3 ---
+Contents
+Global outlook summary 4
+.................................................................................................................................................................................................
+I. Global economic perspectives 6
+........................................................................................................................................................................
+Global economic outlook: Approaching the dawn ........................................................................................................................................................6
+United States: Improvement ahead ............................................................................................................................................................................................15
+Euro area: Pandemic accelerates fiscal integration .....................................................................................................................................................19
+United Kingdom: Brexit risks continue to weigh on outlook ............................................................................................................................22
+China: First in, first out, and first to normalize .................................................................................................................................................................24
+Japan: A new leader faces familiar challenges ...............................................................................................................................................................27
+Emerging markets: Health care challenges but economic opportunities globally ......................................................................29
+II. Global capital markets outlook 35
+..................................................................................................................................................................
+Global equity markets: A wild ride back to where we started ......................................................................................................................35
+Global fixed income markets: A gradually evolving curve ..................................................................................................................................40
+Portfolio implications: Low return environment persists, but marginal equity risk is better compensated ....42
+III. Appendix 48
+............................................................................................................................................................................................................................................
+About the Vanguard Capital Markets Model ....................................................................................................................................................................48
+Index simulations ...........................................................................................................................................................................................................................................49
+Notes on asset-return distributions
+The asset-return distributions shown here represent Vanguard’s view on the potential range of risk premiums that may
+occur over the next ten years; such long-term projections are not intended to be extrapolated into a short-term view.
+These potential outcomes for long-term investment returns are generated by the Vanguard Capital Markets Model®
+(VCMM) and reflect the collective perspective of our Investment Strategy Group. The expected risk premiums—and
+the uncertainty surrounding those expectations—are among a number of qualitative and quantitative inputs used in
+Vanguard’s investment methodology and portfolio construction process.
+IMPORTANT: The projections and other information generated by the VCMM regarding the likelihood of various
+investment outcomes are hypothetical in nature, do not reflect actual investment results, and are not guarantees
+of future results. Distribution of return outcomes from the VCMM are derived from 10,000 simulations for each
+modeled asset class. Simulations are as of September 30, 2020. Results from the model may vary with each use
+and over time. For more information, see the Appendix section “About the Vanguard Capital Markets Model.” 3
+
+--- PAGE 4 ---
+Global outlook summary 1. A profound yet ultimately temporary setback.
+Social activities and the industries most reliant on
+them will rebound, as they have following past
+Global economy in 2021: Closing the immunity gap pandemics. Consumer reluctance from fear of catching
+COVID-19 will determine the path, but eventually
+The COVID-19 pandemic has produced the most
+social activities ranging from concert-going to traveling
+pronounced economic shock in nearly a century. In 2020,
+will resume. While the immediate pain of job losses is
+recessions around the world were sharp and deep, with
+great for many families and industries, we believe that,
+significant supply-chain disruptions. That said, more than
+assuming a reasonable path for health outcomes and
+in previous recessions, policymakers were aggressive in
+additional policy support, the scarring effect of
+supporting financial markets and their economies. While
+permanent job losses is likely to be limited.
+the global economy continues to recover as we head into
+2021, the battle between the virus and humanity’s efforts 2. An accelerated future. Trends that Vanguard and
+to stanch it continues. others have previously discussed, ranging from work
+automation to digital technologies to certain business-
+For 2021, our outlook for the global economy hinges model disruptions, have only been accelerated by the
+critically on health outcomes. Specifically, our baseline shock of COVID-19. This outlook lays out how pervasive
+forecast assumes that an effective combination of the future of virtual work could be and what broader
+vaccine and therapeutic treatments should ultimately macroeconomic effects may result.
+emerge to gradually allow an easing of government
+3. Pivots in policy. This crisis has seemingly altered
+restrictions on social interaction and a lessening of
+the expectations of, and preferences for, certain
+consumers’ economic hesitancy. But the recovery’s path
+government policies, ranging from more forceful
+is likely to prove uneven and varied across industries and
+efforts by central banks to drive up inflation to more
+countries, even with an effective vaccine in sight. As we
+aggressive spending by fiscal authorities amid
+said in our midyear 2020 outlook, it will be some time
+economic headwinds. These intentions are unlikely
+before many economies return to their pre-COVID levels
+to be reversed quickly, producing potential new risks
+of employment and output.
+on the investment horizon.
+The unevenness of our cyclical growth outlook is reflected 4. Unaltered reality. Despite the extraordinary events
+in the world’s major economies. China, where control of of 2020, some aspects of the global economy may
+the pandemic has been more effective, has swiftly ultimately stay as they are. In our view, these would
+returned to near pre-pandemic levels of activity, and we include the multifaceted U.S.-China relationship and
+see that extending in 2021 with growth of 9%. Elsewhere, the likelihood of increasing innovation in the years
+the virus’s prevalence has been less well-controlled. We ahead, as suggested by Vanguard’s “Idea Multiplier.”
+expect growth of 5% in the U.S. and 5% in the euro area,
+with those economies still falling short of full employment Global inflation: Modest reflation “yes”;
+levels in 2021. In emerging markets, we expect a more a return to high inflation “no”
+uneven recovery, with aggregate growth of 6%.
+In 2021, we anticipate a cyclical bounce in consumer
+inflation from pandemic lows near 1% to rates closer
+Risks to our baseline growth forecast are biased to
+to 2% as spare capacity is used up and the recovery
+the upside, reflecting the chance of further breakthroughs
+continues. However, as growth and inflation firm, and
+in vaccine development. Both monetary and fiscal policy
+as the immunity gap closes, an “inflation scare” is
+will remain supportive in 2021, but the primary risk factor
+possible. A risk is that markets could confuse this
+is the pandemic’s fate and path.
+modest reflationary bounce with a more severe but
+unlikely episode.
+COVID-19’s long shadow: A pivotal moment
+in history Our baseline projections reflect our belief that inflation
+rates persistently above 3% are difficult to generate
+When we peek beyond the long shadow of COVID-19, our
+across many developed markets. Mounting debt loads,
+research and read of history suggest that the pandemic
+high fiscal spending, and extraordinarily easy monetary
+will have certain effects on the economy, markets, and
+policy all have the potential to feed inflation psychology,
+policy. We can split these effects into four categories:
+4
+
+--- PAGE 5 ---
+but any such influence would have to more than during the initial shock of the pandemic was fairly uniform
+counteract high levels of unemployment as well as across global markets, with the steep drop in discount
+important structural deflationary forces at work in rates explaining some (but not all) of this past year’s
+developed markets since before the pandemic. rebound in equity prices. Our fair-value stock projections,
+which explicitly incorporate such effects, continue to reveal
+a global equity market that is neither grossly overvalued
+The bond market: Interest rates staying low in 2021
+nor likely to produce such outsized returns going forward.
+Interest rates and government bond yields that were
+low before the pandemic are now even lower. We The outlook for the global equity risk premium is
+expect interest rates globally to remain low despite our positive and modest, with total returns expected to be
+constructive outlook for firming global economic growth 3 to 5 percentage points higher than bond returns. This
+and inflation as 2021 progresses. While yield curves may modest return outlook, however, belies opportunities for
+steepen, short-term rates are unlikely to rise in any major investors to invest broadly around the world and across
+developed market as monetary policy remains highly the value spectrum.
+accommodative. Vanguard expects bond portfolios, of all
+types and maturities, to earn returns close to their current And while this range is below recent returns based on
+yield levels. As 2021 unfolds, the greatest risk factor valuations and interest rates, global equities are anticipated
+would appear to be higher-than-expected inflation. to continue to outperform most other investments and
+the rate of inflation.
+Global equities: Challenges and opportunities
+Yet again, disciplined investors were rewarded in 2020 by
+remaining invested in the stock market despite troubling
+headlines. The dramatic repricing of global equity risk
+Indexes used in our historical calculations
+The long-term returns for our hypothetical portfolios are based on data for the appropriate market indexes through
+September 2020. We chose these benchmarks to provide the best history possible, and we split the global
+allocations to align with Vanguard’s guidance in constructing diversified portfolios.
+U.S. bonds: Standard & Poor’s High Grade Corporate Index from 1926 through 1968; Citigroup High Grade Index
+from 1969 through 1972; Lehman Brothers U.S. Long Credit AA Index from 1973 through 1975; and Bloomberg
+Barclays U.S. Aggregate Bond Index thereafter.
+Ex-U.S. bonds: Citigroup World Government Bond Ex-U.S. Index from 1985 through January 1989 and
+Bloomberg Barclays Global Aggregate ex-USD Index thereafter.
+Global bonds: Before January 1990, 100% U.S. bonds, as defined above. January 1990 onward, 70% U.S. bonds
+and 30% ex-U.S. bonds, rebalanced monthly.
+U.S. equities: S&P 90 Index from January 1926 through March 1957; S&P 500 Index from March 1957 through
+1974; Dow Jones Wilshire 5000 Index from the beginning of 1975 through April 2005; and MSCI US Broad
+Market Index thereafter.
+Ex-U.S. equities: MSCI World ex USA Index from January 1970 through 1987 and MSCI All Country World ex
+USA Index thereafter.
+Global equities: Before January 1970, 100% U.S. equities, as defined above. January 1970 onward, 60% U.S.
+equities and 40% ex-U.S. equities, rebalanced monthly.
+5
+
+--- PAGE 6 ---
+I. Global economic • Explain how the unprecedented support of central
+banks and policymakers is likely to continue beyond
+perspectives
+the pandemic, and how risks surrounding these
+intentions are low for now.
+• Surmise that when the dust settles, lasting effects will
+be multifaceted, yet the global economic trajectory will
+Global economic outlook: Approaching the dawn
+be broadly similar to that of the pre-COVID world.
+The COVID-19 pandemic has produced the most
+pronounced economic shock in multiple generations.
+A healthy economy begins with health
+In 2020, recessions around the world were deep, supply
+The global recovery stands at a critical stage as economic
+chains disrupted, and policymakers of all types aggressive
+factors continue to take a back seat to public health policy
+in supporting financial markets and their economies. While
+and the path of the virus. We view the next phase of
+the global economic recovery continues as we head into
+economic advances as more challenging than the sharp
+2021, so does the battle between the virus and humanity’s
+bounce-backs experienced in the third quarter of 2020,
+efforts to stanch it.
+but ultimately a combination of effective vaccines and
+therapeutic treatments will emerge and become widely
+Our global economic outlook, along with more detailed
+available in 2021. To that end, we believe the pace of
+regional outlooks that follow, is designed to:
+the recovery will be driven by what we have termed the
+• Emphasize the outsized role that health policy and immunity gap (the percentage of the population lacking
+outcomes have played and will play in the global immunity to the virus) and the reluctance gap (the
+economy and financial markets. reluctance of a percentage of the population to engage
+in economic activity), as shown in Figure I-1.
+• Articulate a recovery path that will remain uneven
+and is likely to extend beyond 2021.
+FIGURE I-1
+Health outcomes drive consumer behavior and, in turn, recovery
+As more people Fewer people will be Leading to a healthier
+become immune reluctant to engage in overall economy
+economic activity
+Immunity Reluctance Unemployment/
+gap gap output gap
+Percentage
+of population Engaging in normal Economic
+that is . . . Immune out-of-house activities activity
+Notes: The immunity gap is the proportion of the population that remains susceptible to COVID-19, and it’s calculated as the difference between herd immunity
+threshold (around 65% of the population) and the percentage of population with acquired immunity.. The reluctance gap is the proportion of the population that
+continues to refrain from normal out-of-house activities in fear of catching the virus. This is directly related to the immunity gap. The higher the immunity gap, the higher
+the proportion of the population that is fearful of engaging in normal activities. The unemployment/output gap is the gap between what economic activity was
+before COVID-19 and what economic activity is today. That is directly related to the reluctance gap. The bigger the reluctance gap, the lower economic activity is.
+That translates to a bigger economic activity gap and a bigger output gap.
+Source: Vanguard.
+6
+
+--- PAGE 7 ---
+Closing the immunity gap will hinge most critically on the remaining economic gaps in regions where the virus is
+combination of the population willing to be vaccinated and still circulating widely. Figure I-3 (on page 8) shows this
+the vaccine’s effectiveness. Another key element is the pronounced effect on global labor markets as the
+degree of immunity acquired by people who have already consumer services sector—including restaurants,
+had the virus. Figure I-2 illustrates how all these factors entertainment, and transportation—remains in deep stress.
+are combined in our estimation of the odds for achieving
+population immunity in 2021. The pace of the next phase of recovery, then, is a function
+of immunity and reluctance. Greater immunity and reduced
+The immunity gap in turn affects the reluctance gap. reluctance will drive a sharper recovery. Under our more
+As long as the population is not immune, a portion of optimistic scenarios for vaccine effectiveness, much of
+consumers will be fearful of engaging in normal activities, the economic loss stemming from the pandemic could
+and that will leave economic activity below potential. be recovered in the next year, while a persistently large
+immunity gap—possibly a result of a less effective vaccine
+Along with health policy restricting economic activity in the or an elongated distribution cycle—leaves economies with
+name of virus suppression, the reluctance gap has had an only marginal progress from current levels. Our central
+outsized impact on economic sectors that heavily depend case projects a positive recovery path that will extend
+on face-to-face interaction, and it explains most of the beyond 2021 before approaching the pre-pandemic trend
+FIGURE I-2
+How close a vaccine gets a population to the immunity threshold depends on effectiveness
+and coverage
+COVID-19 immunity
+threshold 65%
+Notes: Immunity threshold is the percentage of the population immune to a pathogen at which point the pathogen runs out of susceptible hosts, thereby providing
+indirect protection to those who aren’t immune. Depending on how contagious a pathogen is, anywhere from 50% to 90% of the population needs immunity to reach
+the immunity threshold. Vaccine effectiveness is defined as the percentage of vaccinated people that are protected from infection. Vaccine coverage is the percentage
+of the population that chooses to be vaccinated. Our baseline vaccine scenario was for a 60% effective vaccine with 65% coverage estimate. At the time of writing, in
+early Phase 3 trial results, the Pfizer/BioNTech vaccine had shown 90%+ effectiveness and the Moderna vaccine had shown better than 94% effectiveness.
+Sources: Vanguard and McKinsey, as of November 11, 2020.
+7
+ssenevitceffe
+eniccaV
+100%
+mRNA
+vaccine Childhood
+with vaccines
+80 baseline
+coverage
+60 Popular
+Population immunity
+assumption
+scenario Infection immunity
+Achieved with vaccine
+needed 20%
+40 and low/modest levels
+of infection-acquired immunity
+Achieved with vaccine
+20 and substantial levels of
+infection-acquired immunity
+Unlikely despite vaccine
+0
+0 20 40 60 80 100%
+Vaccine coverage
+
+--- PAGE 8 ---
+FIGURE I-3 Policy-supported recovery to continue; modest
+Face-to-face intensive sectors have reflation expected
+experienced outsized stress In response to the COVID-19 crisis, 2020 has witnessed
+one of the swiftest and most decisive sets of policy
+responses ever implemented by central banks and fiscal
+High Medium Low
+face-to-face face-to-face face-to-face policymakers in major developed economies (Figure I-7,
+service industries industries industries on page 11). By cutting interest rates, restarting (or
+expanding) asset purchases, and providing additional
+–1.2%
+liquidity support measures, central bankers were able to
+–3.5% ensure that global financial conditions remained loose.
+By keeping borrowing costs low, central banks have
+facilitated highly expansionary fiscal stances.
+The substantial increase in public debt inevitably raises
+concerns about the debt’s sustainability, but we view
+–11.6%
+developed-market governments’ fiscal positions as
+broadly sustainable in the near term. This is centered on
+Global employment levels 3Q 2020 relative to 4Q 2019
+our view that, in all likelihood, nominal economic growth
+Notes: Employment levels are represented by a Gross Domestic Product (GDP)- rates will exceed the cost of servicing this public debt
+weighted average of the U.S., euro area, United Kingdom, and Japan. Euro area
+over the medium term (Figure I-8, on page 11).
+employment data is a Vanguard estimate based on available data at time of
+publication. High face-to-face industries include accommodations, arts and
+entertainment, food services, and transportation. Medium industries include Although the pandemic is still affecting economic activity,
+manufacturing, construction, retail and wholesale trade, and health care. Low
+we expect the supportive monetary and fiscal stance to
+industries include professional services, information, financial activities, real
+estate, and government. persist. Compared with their pre-COVID trajectory, interest
+Sources: U.S. Bureau of Labor Statistics, U.S. Bureau of Economic Analysis, rates will be lower for longer, and central-bank balance
+European Central Bank, Statistics Bureau of Japan, Office for National sheets will be larger. We expect fiscal policy to play a
+Statistics, and Moody’s Data Buffet, as of September 30, 2020.
+bigger role in sustaining the recovery over the next year
+than it did in previous recessions, including those that
+followed the global financial crisis.
+of output. Figure I-4 shows our estimated recovery paths
+for the global economy, and Figure I-5 shows downside, Mounting debt loads, extraordinarily easy monetary policy,
+baseline, and upside scenarios for 2021. (See page 9.) and, in the United States, an explicit assurance that policy
+will remain accommodative longer than in the past have all
+The unevenness of our cyclical growth outlook is reflected led to concerns about resurgent inflation. Our projections
+in the world’s major economies and our outlook for the show that such concerns are premature and unlikely to
+year ahead (Figure I-6, on page 10). China has been an materialize in 2021. High fiscal spending has the potential
+outlier in its swift return to near pre-pandemic output, and to influence inflation psychology, but any such influence
+we see that extending in 2021 with growth of 9%.1 We would have to more than counteract high levels of
+expect growth of 5% in the U.S. and 5% in the euro area, unemployment as well as important structural deflationary
+with those economies ending at or marginally below their forces at work in developed markets since before the
+pre-pandemic output levels. In emerging markets, we pandemic. We maintain our long-held assessment that
+expect an uneven and challenged recovery, aggregating sustainable inflation rates above 3% or more are difficult
+to growth of 6%. to generate across many developed markets.
+8 1 Growth figures are rounded to the nearest whole number.
+
+--- PAGE 9 ---
+FIGURE I-4
+Health outcomes drive next phase of recovery
+8%
+4
+0
+–4
+–8
+–12
+December June December June December June December
+2019 2020 2020 2021 2021 2022 2022
+Notes: The y-axis represents the GDP-weighted level impact from the baseline, which is December 2019 for major global economies. The blue and gray dotted lines
+represent three forecasts: our base case and upside and downside scenarios. The downside scenario is characterized by a failure to significantly reduce virus transmission
+in the short term, which would cause a slower recovery. Potential problems with the efficacy, adoption, distribution, or safety of a vaccine could also surface. The upside
+scenario is characterized by a speedy large-scale distribution of an effective vaccine, which will see the economy return to normal more quickly than we currently expect.
+Sources: Vanguard and Refinitiv, as of November 30, 2020.
+9
+egnahc
+egatnecrep
+evitalumuC
+9102
+rebmeceD
+morf
+Upside
+Pre-COVID-19 trend
+Downside
+Baseline
+FIGURE I-5
+Economic scenarios for 2021
+Vanguard assessment of risks
+Downside risk Base case Upside surprise
+10% 60% 30%
+Immunity gap Little progress on infection Major economies achieve Major economies achieve
+immunity by end of 2021 infection immunity by end infection immunity by
+of 2021 mid-2021
+Reluctance gap Social and business activity Social and business activity Social and business activity
+hampered through 2021 normalizes by the second half normalizes in the first half
+of 2021 of 2021
+Economic recovery Labor market scarring possible Unemployment rate falls Unemployment rate falls and
+given persistently high and through year-end 2021 full employment is achieved
+long-term unemployment by end of 2021
+Inflation moves toward target
+Inflation persistently in 2021 Inflation overshoots in 2021
+below target
+Pre-pandemic level of output Pre-pandemic level of output
+Pre-pandemic level of output reached by end of 2021 reached mid-2021
+not achieved in 2021
+Note: The odds for each scenario are based on the assessment of members of Vanguard’s Global Economics and Capital Markets Outlook Team.
+Source: Vanguard, as of November 30, 2020.
+
+--- PAGE 10 ---
+FIGURE I-6 However, the balance of long-term risks will shift, as
+Global growth: Better in 2021 the pandemic has permanently altered the landscape by
+accelerating such trends as the digitalization of economies
+and deglobalization and has influenced pivots in policy
+frameworks and the role of the state.
+Some aspects of the global economy may ultimately
+stay as they are. In our view, these would include the
+contentious U.S.-China relationship, Vanguard’s “Idea
+Multiplier,” and the likelihood of increasing innovation
+acting to boost productivity in the years ahead.2
+One widely recognized trend that COVID has accelerated
+is increased work-location flexibility. Given that most
+businesses were forced to reorganize around remote
+working, the pros and cons of the shift will be under
+greater scrutiny than ever.
+Our analysis finds that across developed economies,
+occupations in which a majority of labor is employed
+are well-suited for remote work. Thus, as shown in
+Notes: Growth for 2020 includes Vanguard estimates for the fourth quarter. Figure I-10 (on page 12), globally the upper threshold
+Growth figures are rounded.
+for the population able to work remotely going forward
+Sources: Vanguard and Refinitiv, as of September 30, 2020.
+appears quite high, and we would expect this trend to
+prove more enduring even after the pandemic has passed.
+In 2021, we anticipate a cyclical bounce in consumer
+Although some have called for a rapid deglobalization effort
+inflation from pandemic lows near 1% to rates closer to
+in the pandemic’s aftermath, we think such a view is
+2% for a time—though not persistently—as the uneven
+overly pessimistic. Rather, the current wide extent of
+recovery continues. A risk is that markets could confuse
+economic and financial linkages poses challenges to a
+this modest reflationary bounce with a return to a
+widespread reshoring back home, suggesting that the
+sustained period of above-target inflation.
+more likely path forward is a gradual slowdown in trade
+(“slowbalization”), alongside a recalibration and moderate
+When the dust settles: Structural trajectory resembles
+shortening of supply chains. Figure I-11 (on page 13)
+pre-COVID
+estimates the future change in trade volume globally.
+When we look beyond the long shadow of COVID-19,
+While this trajectory would suggest negative implications
+we expect history to show multifaceted effects from the
+for near-term growth activity because of inefficient
+pandemic on macroeconomic trends (Figure I-9, on page
+allocation of resources and rising uncertainty, it would
+12). The economic damage may prove temporary for
+put aside fears of a more significant supply shock.
+consumers and labor markets if the race against time
+to defeat the pandemic is effective.
+2 The Idea Multiplier is a proprietary metric that tracks the flow and growth of academic citations. It has been shown to be a leading indicator of productivity growth. (For
+10 more information, see Davis, Wang, and Patterson et al., 2019, and Davis, Patterson, and Sathe et al., 2020.)
+etar
+htworg
+launnA
+10%
+8
+6
+4
+2
+0
+–2
+–4
+–6
+–8
+United States Euro area China World
+2020 2021 forecast
+
+--- PAGE 11 ---
+FIGURE I-7
+Unprecedented support from central banks and fiscal policy
+15%
+10
+5
+0
+0 5 10 15 20 25 30%
+Notes: Change in fiscal policy is represented by the change in the cyclically adjusted primary balance from 2019 through September 30, 2020.
+Sources: Vanguard, Congressional Budget Office, Board of Governors of the U.S. Federal Reserve System, and International Monetary Fund, as of September 30 2020.
+11
+PDG
+fo
+egatnecrep
+a
+sa
+ycilop
+lacsfi
+ni
+egnahC
+U.K.
+Size of circles U.S.
+corresponds to Japan
+region’s GDP
+Australia
+Euro area
+China
+Change in central bank balance sheet as a percentage of GDP
+FIGURE I-8
+Fiscal sustainability likely even without
+aggressive austerity
+Note: The forecast represents 3.5% nominal GDP growth, an average debt
+interest cost of 1.2%, and a 2.5% budget deficit.
+Sources: Vanguard calculations, based on data from Refinitiv and the
+International Monetary Fund, as of September 30 2020.
+rojam
+rof
+PDG/tbeD
+seimonoce
+depoleved
+Perhaps most notably from a policy perspective, this crisis
+has seemingly caused a pivot in the expectations of, and
+preferences for, certain government policies, such as more
+aggressive spending by fiscal authorities amid economic
+headwinds. These intentions are unlikely to wane in the
+years ahead, in our view, and we expect fiscal policy to
+160%
+play a larger role not only in sustaining the recovery but Forecast
+beyond as well.
+140
+We do not expect a return to fiscal austerity, which has
+been a common approach in the years immediately 120
+following previous crises. Instead, our assessment of
+the balance of risks leans toward governments tolerating
+100
+higher levels of government debt for longer.
+The rapid scientific advances related to a vaccine have 80
+2005 2010 2015 2020 2025 2030
+been welcome news to the global economy. In fact, we’re
+not surprised that this point was reached so quickly. The
+
+--- PAGE 12 ---
+FIGURE I-10
+Occupations most suited to remote work are nearly half of total
+developed-market employment
+7.5
+7
+6.5
+6
+5 10 15 20
+Notes: Data are limited to developed economies, namely the U.S., the U.K., the European Union, and Japan. The x-axis represents the percentage of total individuals
+globally employed. The y-axis represents our estimated remote score index and marks the remote score associated with an occupation. A score of 0 would represent
+occupations least suited for remote work and 8 would represent occupations most suited for remote work. The occupations indicated by blue dots are those with low remote
+scores, or less suited to be completely done remotely. Purple dots indicate occupations that have a high remote score or are better suited to remote work.
+Sources: Office for National Statistics, Eurostat, and Moody’s Data Buffet, as of September 30, 2020.
+12
+erocs
+etomeR
+FIGURE I-9
+History to show varying effects from COVID-19
+Accelerated Temporary/Pivots Unaltered
+• Productivity • H ealth care • A ccommodative • U.S./China
+• Winner take all challenges policy • Idea Multiplier
+• C onsumer • P ublic debt
+• Deglobalization
+reluctance • E volution of policy
+• Inequality
+• L abor market frameworks
+• Location flexibility scarring
+Source: Vanguard, as of November 30, 2020.
+8
+Industries most suited
+Industries least suited
+Technicians Professionals
+and associate
+Managers professionals
+Clerical
+support Service and sales
+Craft and related
+Plant and machine trades
+operators and
+assemblers Elementary
+occupations
+Agricultural
+workers
+5.5
+0 5 10 15 20 25%
+Employment (as an average across developed countries)
+
+--- PAGE 13 ---
+FIGURE I-11
+‘Slowbalization’ scenario expected
+30%
+20
+10 Forecast
+0
+–10
+–20
+–30
+–40
+1992 1995 1998 2001 2004 2007 2010 2013 2016 2019 2022 2025
+Notes: We estimate trade growth as a function of an import-adjusted demand measure, Fraser Institute’s trade liberalization index, and changes in global value chains.
+The import-adjusted demand measure uses the OECD input-output tables to account for the import content of each expenditure component in each of the economies we
+track. Under the slowbalization scenario, future trade growth is estimated by assuming our independent variables change at a pace lower than seen during the pre-
+global fin3a0nc%ial crisis globalization wave, but above the pace seen during the post-global financial crisis trade slowdown.
+Sources: Vanguard calculations, using data from the International Monetary Fund, OECD input-output tables, and the Fraser Institute. Actual data as of December 2017,
+20 and the forecast ends December 2025.
+Forecast
+10
+0
+fields of genetics and biomedicine have been rife with
+–10 innovative ideas in the last decade, and successes seem
+poised–2 t0o have a cascading effect on productivity in the
+decade ahead. –30
+–40
+We identified this phenomenon in The Idea Multiplier,
+1992 1998 2004 2010 2016 2022
+our 2019 research that found that future productivity is
+fundamentally driven by the generation, dissemination,
+and further expansion of ideas (Davis, Wang, and
+Patterson et al., 2019).
+Figure I-12 shows how the Idea Multiplier, as it relates to
+genetics and biomedicine, has recently accelerated at a
+pace similar to that of computers and telecommunications
+nearly four decades ago. But rather than fears about
+computers replacing certain categories of workers,
+such gains are likely to result in benefits enjoyed
+across incomes and regions, with the development
+and distribution of a COVID-19 vaccine a case in point
+(Tufano et al., 2018).
+Having developed our views on these trends, we take
+stock holistically of the effect on economic fundamentals
+over the medium term.
+13
+labolg
+ni
+egnahc
+launnA
+labolg
+ni
+egnahc
+launnA
+emulov
+tropmi
+)%(
+emulov
+tropmi
+FIGURE I-12
+The Idea Multiplier in genetics and
+biomedicine has started to grow faster than
+it did in computers and telecom in the 1980s
+1.4
+1.2
+1
+Notes: The vertical axis plots the Idea Multiplier index for the research fields
+of genetics and biomedicine and computers and telecommunications. The Idea
+Multiplier is a proprietary metric that tracks the flow and growth of academic
+citations. It has been shown to be a leading indicator of productivity growth.
+(For more information, see Davis, Wang, and Patterson et al., 2019, and Davis,
+Patterson, and Sathe et al., 2020.) The horizontal line plots the timeline for
+each Idea Multiplier index.
+Sources: Vanguard calculations, based on data from Clarivate Web of Science
+and the Federal Reserve Bank of St. Louis, as of December 30, 2019.
+reilpitluM
+aedI
+Computers
+& telecommunications
+1982–1990
+Genetics
+& biomedicine
+2010–2018
+
+--- PAGE 14 ---
+Overall, the largest single risk to markets and the global Compared with falling into a prolonged stagnation (“off-
+economy remains health-related outcomes and the course”) or a rapid reflation and surge in productivity gains
+timeline for effective therapeutics. Under assumptions (“path improved”), we see a global economy that will
+about near-term solutions providing significant aid in regain much of the footing it lost during the pandemic.
+battling the pandemic, our central case projects a longer- We see a return to steady but still moderate growth, and
+run structural path for the economy that looks similar to interest rates normalizing gradually from historic lows,
+its pre-pandemic one (Figure I-13). though remaining low and supportive for some time.
+FIGURE I-13
+Post-COVID secular states of the world
+Proximate path Off-course Path improved
+(1960s recoveries) (Stagnation, post-global financial (Productivity boost, 1950s
+crisis, Japan) and 1990s)
+Probabilities 55% 25% 20%
+Markers Only temporary labor market and Permanent structural scarring. Swift economic reallocation
+structural scarring. Moderate Some sectors and industries adjustment. Some industries
+pace of supply chain recalibration. never return to normal, some thrive in the new post-
+jobs are never recovered, and COVID-19 world order, with
+there is permanent reshoring of digital technologies, work
+supply chains. flexibility, and idea multipliers
+leading to an innovation and
+productivity boom.
+Growth Faster than pre-COVID-19 trend Same as pre-COVID-19 trend Permanently faster than pre-
+for a while, then settling back to (~2%) but starting from lower COVID-19 trend (~3%
+normal (~2%) levels. COVID-19 economic or higher)
+losses never recovered.
+Inflation Moderate Ultra-low, periodic deflation Well contained because of
+strong supply-side growth
+Rates Moderate but rising to pre- Remaining at current lows Rising from historic lows,
+COVID-19 levels surpassing pre-COVID-19
+levels
+S0o.8urce: Vanguard, as of November 30, 2020. 0.8
+0.7 0.7
+0.6 0.6
+0.5 0.5
+0.4 0.4
+0.3 0.3
+0.2 0.2
+0.1 0.1
+0.0 0.0
+14
+15 500%
+10
+400%
+5
+300%
+0
+-6 -4 -2 0 2 4 6
+200%
+-5
+100%
+-10
+0%
+-15 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+Notes: dot size = p4
+to change size: select same appearance; go to effect > convert to shape > ellipse > absolute
+100%
+80%
+60%
+40%
+20%
+0%
+15%
+1p Percentiles 12 Percentiles key: key:
+9 95th 95th
+6
+75th 75th
+3
+Median Median
+0 25th 25th
+–3
+5th 5th
+–6
+Top Bottom
+dedeen
+fi
+lebal
+sixA
+2019 2025
+15%
+12%
+9%
+6%
+3%
+0%
+-3%
+-6%
+Axis label if needed
+level
+tuptuO
+level
+tuptuO
+level
+tuptuO
+Potential
+GDP
+Pre-
+COVID-19
+trend
+2019 2025 2019 2025
+
+--- PAGE 15 ---
+United States: Improvement ahead FIGURE I-14
+Sectors with less human contact will reach
+As discussed earlier in relation to the global economy,
+pre-virus trends quicker than others
+our near-term views for the U.S. also are most heavily
+influenced by health outcomes at this stage of the
+recovery. As of this writing, prospects for an effective 110
+vaccine have improved, leading to a more optimistic
+timeline to close the immunity and reluctance gaps (as
+100
+discussed earlier with regard to Figure I-1 on page 6).
+90
+To that end, the reluctance gap has had an outsized
+impact on economic sectors that heavily depend on high
+degrees of face-to-face interaction, for production or 80
+output. These sectors, however, make up a relatively
+small portion of output (about 12%), yet they have 70
+lagged and will continue to lag in recovery behind those
+sectors involving less personal contact (Figure I-14). 60
+4Q 2Q 4Q 2Q 4Q
+The pace of the next phase of recovery, then, is a function 2019 2020 2020 2021 2021
+of immunity and reluctance. Reflecting this relationship
+Notes: “F2F” refers to face-to-face contact. High F2F sectors include retail,
+and our assessment of likely vaccine effectiveness and
+transportation, and arts and entertainment. Medium includes professional
+distribution outcomes, our central case projects a positive services, health care, education, and other services. Low comprises the
+recovery path in which the immunity and reluctance gaps remaining sectors such as agriculture, utilities, and manfucturing. 100 is the
+pre-virus trend for each of the sector groupings.
+will be effectively closed within the second half of the
+Source: Vanguard, as of November 30, 2020.
+year, achieving an annual growth rate of 5% and leaving
+an output gap to the pre-virus trend of roughly 1% at the
+end of 2021 (Figure I-15, on page 16).
+Risks to this scenario are present, however, reflecting The uniqueness of this recession and the outsized effects
+the uncertainty and fluidity of both the state of virus on many service sectors of the economy have resulted in
+transmission and developments involved with the uneven labor market outcomes wherein those that have
+distribution of a vaccine, yet we currently view them been better able to operate at near full capacity in this
+as skewed to the upside. Under our most optimistic environment—such as professional service and goods-
+scenarios for vaccine effectiveness and distribution, producing industries—have experienced only a fraction
+much of the economic losses stemming from the of the job losses that consumer service industries have.
+pandemic could be recovered in the next year by closing In the pandemic’s early months, these job losses in the
+the immunity and reluctance gaps in the first half of 2021. services sector were considered temporary, as both
+Downside risks would reflect a more severe winter employees and employers expected to recouple after
+season related to virus transmission and a persistently the pandemic. However, as the pandemic persisted and
+large immunity gap—related to a more prolonged consumers were slow to return to these sectors, this
+vaccine distribution cycle—throughout the year, which temporary unemployment relationship became permanent.
+leaves the U.S. economy with only marginal progress
+from current levels.
+15
+)dnert
+DIVOC-erp
+=
+001(
+yrtsudni
+yb
+PDG
+Pre-COVID-19 Low F2F sectors
+(70% of GDP)
+Medium F2F
+sectors (18%
+of GDP)
+High F2F sectors
+(12% of GDP)
+Forecast
+
+--- PAGE 16 ---
+This is a challenge for the labor market recovery ahead, FIGURE I-15
+as it lengthens the expected time for displaced workers Recovery path to extend beyond 2021
+to find new employment and is one of the reasons we
+believe additional fiscal support will prove necessary. At
+8%
+this stage of the recovery, we’re paying less attention to
+the official unemployment rate and instead are closely
+4
+monitoring broader measures of labor market participation
+and underemployment, most of which have experienced a
+0
+more gradual recovery.
+–4
+We expect the pace of monthly job growth to continue to
+moderate in the near term, leaving the unemployment rate
+–8
+centered near 6.5% as 2020 closes. As the winter fades
+and progress toward closing the immunity gap ramps up in
+–12
+the second half of 2021, we anticipate a sharp acceleration
+Dec. Jun. Dec. Jun. Dec. Jun. Dec.
+in job growth, and an unemployment rate near 5% at the
+2019 2020 2020 2021 2021 2022 2022
+end of 2021.
+Notes: The y-axis represents the level impact from the baseline, which is
+December 2019. The blue and gray dotted lines represent three forecasts: our
+Business restrictions and the accompanying collapse in
+base case and upside and downside scenarios. The downside scenario is
+demand during the initial stages of the pandemic were a characterized by a failure of the current restrictions to significantly reduce virus
+large negative shock for inflation, driving prices to historical transmission in the short term, which would cause a slower recovery. Potential
+problems with the efficacy, adoption, distribution, or safety of a vaccine could
+lows across various sectors—most notably in the apparel,
+also surface. The upside scenario is characterized by a speedy large-scale
+vehicles, and transportation industries. In the subsequent distribution of an effective vaccine, which will see the economy return to normal
+months, we have seen a gradual normalization, and we more quickly than we currently expect.
+expect the core Personal Consumption Expenditures Sources: Vanguard and Refinitiv, as of November 30, 2020.
+(PCE) Price Index to trend higher in early 2021 and
+produce a cyclical bounce as the economy continues
+to recover and the immunity gap closes. A weaker U.S.
+dollar, the possibility of further fiscal stimulus, and drive inflation lower. These factors contribute to our
+positive base effects will be additional factors firming expectations that inflation will trend lower in the second
+the path of inflation. half of the year, bringing PCE for 2021 in the range of
+1.6%–1.8% year over year (Figure I-16, on page 17).
+Should our most optimistic economic and vaccine
+scenario unfold, these factors could produce an inflation As with most countries, particularly developed markets,
+scare, wherein the overshooting of Fed targets is viewed all eyes will be on policymakers in the U.S. in 2021. The
+as more persistent, influencing investor expectations, impact of the largest shock to economic conditions in
+which could introduce market volatility. multiple generations was mitigated by the fast, focused,
+and significant efforts of policymakers. Absent these, the
+However, our base case assumes that these cyclical downturn would no doubt have been more severe, the
+effects will prove transient, as more structural forces rebound less robust, and the financial market impact
+such as technology and unemployment continue to more significant.
+16
+egnahc
+egatnecrep
+evitalumuC
+9102
+rebmeceD
+morf
+Upside
+Pre-COVID-19 trend
+Downside
+Baseline
+
+--- PAGE 17 ---
+FIGURE I-16
+After midyear cyclical bounce, outlook for inflation remains subdued
+PCE and core PCE forecast
+3.0%
+2.5
+Cyclical
+bounce
+2.0 Core PCE Structural
+Core PCE
+trends
+1.5 (forecast)
+PCE
+1.0 PCE
+(forecast)
+0.5
+0.0
+Jan. Jul. Jan. Jul. Jan. Jul. Jan. Jul. Jan. Jul.
+2018 2018 2019 2019 2020 2020 2021 2021 2022 2022
+Notes: The dotted lines represent our forecast for the inflation index, which is indicated by solid lines. The forecast is obtained from Vanguard proprietary inflation
+forecasting models. Core PCE removes the more volatile food and energy components of inflation.
+Sources: Vanguard calculations, based on data from Moody’s Data Buffet and Refinitiv, as of November 30 2020.
+One reason the recovery from the global financial crisis Going forward, countercyclical fiscal and monetary
+was so prolonged was its impact on businesses’ and policy will be essential in our view to keep households
+households’ balance sheets. Figure I-17 (on page 18) and businesses from suffering more lasting economic
+shows that without monetary and fiscal policymakers scarring. Fiscal policy aimed at supporting and, eventually,
+helping businesses remain solvent through loan, grant, stimulating output would be critical to the success of
+interest rate, and other policies, they could not have accommodative monetary policy, including low policy
+retained nearly as many workers or, in many cases, rates and credible forward guidance, particularly with
+continued to operate. Instead, we have seen business interest rates near the zero lower bound.
+and personal bankruptcies appear more limited than
+many would have anticipated, remaining close to pre- Our baseline outlook assumes that a targeted fiscal
+virus levels. However, this is an area we will be keenly package of at least $1 trillion, aimed at supporting the
+monitoring in the months ahead for lagged effects that income losses of households and businesses, will be
+are not currently visible. necessary and may be passed in 2021.
+17
+
+--- PAGE 18 ---
+In regard to monetary policy, we believe the Fed will current levels until at least 2023 under our base case
+continue to use the tools at its disposal, including economic outcomes, credible forward guidance and Fed
+increasing the pace of asset purchases when needed communication would prove critical to influencing market
+and keeping interest rates at the zero lower bound. behavior should an “inflation scare” scenario unfold in
+While we would not expect policy rates to move from mid-2021 as articulated above.
+FIGURE I-17
+Bankruptcies remain contained for now
+a. Business
+bankruptcies show
+no major change
+from last year and
+are below where
+the unemployment
+rate might suggest
+b. Personal
+bankruptcies are
+also down from
+last year and from
+what the
+unemployment rate
+might suggest
+Notes: Bankruptcy filings are on a 12-month trailing basis. The implied bankruptcy rates are based on a regression measuring the historical relationship between
+the unemployment rate and bankruptcy filings, as well as adjusting for the ratio of temporarily to permanently unemployed in another regression.
+Sources: U.S. Bureau of Labor Statistics and Administrative Office of the U.S. Courts, as of September 30, 2020.
+18
+yctpurknab
+ssenisub
+latoT
+shtnom
+21
+tsap
+revo
+sgnilfi
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+yctpurknab
+lanosrep
+latoT
+shtnom
+21
+tsap
+revo
+sgnilfi
+2019 Q3 Global financial Bankruptcies
+year-end 2020 crisis peak rate implied by
+Q3 2020
+unemployment
+rate
+1.6M
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+
+--- PAGE 19 ---
+Euro area: Pandemic accelerates fiscal integration FIGURE I-18
+In our central scenario, we expect a gradual
+The COVID-19 outbreak, and the measures put in place
+recovery in 2021
+to contain it, led the euro zone’s economy to experience
+its deepest recession since its formation in 1999. In the
+second quarter of 2020, the output level was 15% below 5%
+the level attained at the end of 2019 (Figure I-18). Supply
+was severely constrained by national lockdowns, while
+0
+demand softened amid reluctance to engage in social
+activities, along with lower aggregate incomes and higher
+–5
+uncertainty about the near-term economic outlook.
+A moderate easing of government restrictions, plus –10
+a partial switch away from services toward goods
+consumption, led to an encouraging rebound in activity –15
+in the third quarter. This recovery, however, looks set to
+be short-lived, with another spike in virus transmission –20
+forcing authorities to retighten restrictions. We expect Dec. Jun. Dec. Jun. Dec. Jun. Dec.
+2019 2020 2020 2021 2021 2022 2022
+another contraction in GDP in the fourth quarter of 2020,
+though it will be much less severe than earlier in the
+Notes: The y-axis represents the level impact from the baseline, which is
+year. Overall, the euro area economy is anticipated to December 2019. The blue and gray dotted lines represent three forecasts: our
+have fallen by 6% to 8% in 2020 relative to 2019. base case and upside and downside scenarios. The downside scenario is
+characterized by a failure of the current restrictions to significantly reduce virus
+transmission in the short term, which would cause a slower recovery. Potential
+Looking ahead to 2021, we expect economic activity to problems with the efficacy, adoption, distribution, or safety of a vaccine could
+gradually recover as governments gain control over the also surface. The upside scenario is characterized by a better-than-expected
+clampdown of the second virus wave and a speedy large-scale distribution of an
+virus and as an effective vaccine becomes widely available
+effective vaccine, which will see the economy return to normal more quickly
+and distributed. In our base case, we expect that growth than we currently expect.
+will be about 5% in 2021 and that GDP will return to its Sources: Vanguard estimates and Bloomberg, as of November 12, 2020.
+pre-virus level by the end of the year—though still 2%
+below the trajectory we expected a year ago. The risks
+to this view are skewed to the upside. A better-than- Inflation in the euro area dropped sharply in 2020. This
+expected clampdown of the renewed spike in infections drop was driven by sharply lower energy prices, short-term
+and a speedy large-scale distribution of an effective tax cuts, and a widening output gap as the recession took
+vaccine will see a return to normal more quickly than we hold. As all three factors are set to unwind in 2021, we
+currently expect. The downside risk is predominantly the expect both the core and headline Consumer Price Index
+inverse of these upside risks. A failure of the current (CPI) rate to rise (Figure I-19, on page 20). However,
+restrictions to significantly reduce virus transmission in inflation is still expected to remain subdued and well
+the short term would mean a slower recovery. Potential below the European Central Bank’s (ECB’s) 2% target
+problems with the efficacy, adoption, distribution, or throughout 2021 amid weak labor bargaining power, a
+safety of a vaccine could also surface. flat Phillips curve, and subdued medium- to long-term
+inflation expectations. Even in our upside scenario, we
+do not expect inflation to surge sustainably above 2%.
+19
+egnahc
+egatnecrep
+evitalumuC
+9102
+rebmeceD
+morf
+Pre-COVID-19 trend
+Upside
+Downside
+Baseline
+
+--- PAGE 20 ---
+In response to the pandemic and rapidly tightening euro zone countries have so far remained below the
+financial conditions, the ECB acted swiftly and aggressively peaks observed following the global financial crisis,
+in restoring calm in 2020. It bought 500 billion euros of despite the economy’s being in a deeper recession this
+assets, primarily euro area government bonds, through time. The outlook for the labor market, though, varies
+its Pandemic Emergency Purchase Programme (PEPP). substantially across countries; Italy and Spain are
+By ensuring that borrowing costs remained low, the particularly exposed, as a relatively large share of their
+central bank partly facilitated highly expansionary fiscal economies is skewed toward sectors that are most
+stances by national governments. France, Italy, and vulnerable to the pandemic (Figure I-21, on page 21).
+Spain will all record budget deficits over 10% in 2020,
+while Germany’s deficit will be closer to 5%. We expect the ECB to expand the PEPP by 500 billion
+euros at its December meeting and to continue these
+This coordinated response has kept unemployment in emergency purchases until at least mid-2021. Monetary
+check through furloughs and wage-support efforts. As
+Figure I-20 shows, unemployment rates in most major
+FIGURE I-19
+Euro area inflation will recover from its
+2020 low but will remain well below the
+ECB’s target
+Notes: The downside scenario is characterized by a failure of the current
+restrictions to significantly reduce virus transmission in the short term, which
+would cause a slower recovery. Potential problems with the efficacy, adoption,
+distribution, or safety of a vaccine could also surface. The upside scenario is
+characterized by a better-than-expected clampdown of the second virus wave
+and a speedy large-scale distribution of an effective vaccine, which will see the
+economy return to normal more quickly than we currently expect.
+Sources: Vanguard estimates and Bloomberg, as of November 12, 2020.
+20
+egnahc
+egatnecrep
+raey-revo-raeY
+IPC
+eroc
+aera
+orue
+ni
+FIGURE I-20
+Most euro area unemployment rates have
+remained lower than the peak since the
+global financial crisis
+1.6% 30%
+Upside
+1.4 25
+1.2
+20
+1.0
+Forecast 15 0.8
+0.6 10
+0.4
+5
+0.2
+Downside
+0
+0 Germany France Italy Spain United
+2018 2019 2020 2021 Kingdom
+Notes: The purple dots show the unemployment rate peak during 2009–2020. The
+blue bars show the expected peak because of the coronavirus pandemic. The U.K.,
+which is not part of the euro area, is included for comparison.
+Sources: Vanguard estimates and Bloomberg, as of November 12, 2020.
+etar
+tnemyolpmenU
+Coronavirus-period peak
+Peak 2009–2020
+
+--- PAGE 21 ---
+conditions will remain highly accommodative, and the Despite the substantial increase in public debt in 2020,
+deposit rate will stay below zero for at least the next we see the fiscal positions of major euro area economies
+12 months. as being sustainable. This view is primarily based on the
+assumption that, in all likelihood, nominal economic growth
+On the fiscal side, one unexpected benefit from the rates will exceed the cost of servicing this debt over the
+pandemic has been the approval of the “Next Generation medium term, while budget deficits will normalize. A major
+EU” package, which is a significant step toward greater risk to this view would be if the economy were subjected
+European fiscal integration. The stimulus, in the form of to a series of further negative growth and inflation shocks
+390 billion euros in grants and 360 billion euros in loans, in the coming years, particularly in countries such as Italy,
+is expected to boost output by about 2% per year over where the gap between expected growth and interest
+the coming years. Even with the added support from this cost is narrow.
+package, however, the fiscal impulse in 2021 will go into
+reverse as governments restore their budget deficits to
+more sustainable levels.
+FIGURE I-21
+Spain’s and Italy’s labor markets are particularly exposed because of their outsized share
+of sectors that are vulnerable to the pandemic
+Percentage of total employment
+Furlough Furlough Arts,
+scheme scheme Wholesale Accommodation Transport entertainment,
+generosity duration and retail trade and food and storage and recreation
+■ ■ ■ ■ ■ ■
+Germany
+1 Dec. 2021 13% 4% 5% 2%
+■ ■ ■ ■ ■ ■
+France
+2 Jun. 2021 14% 5% 5% 2%
+■ ■ ■ ■ ■ ■
+Italy
+3 Apr. 2021 15% 7% 5% 1%
+■ ■ ■ ■ ■ ■
+Spain
+4 Jan. 2021 17% 8% 5% 2%
+■ ■ ■ ■ ■ ■
+U.K.
+1 Mar. 2021 14% 7% 5% 3%
+Notes: Furlough scheme generosity is indicated by a scale ranging from 1 to 5 and is based on factors including a firm’s contribution to employee salaries. Furlough
+scheme duration is based on the termination date. For the four columns on the right, the most vulnerable sectors, the share ranges from 2% to 17% of total employment.
+The colors represent conditional formatting of each column individually, except the last three columns, which are considered together given similar magnitude.
+Sources: Vanguard estimates, Eurostat, Office for National Statistics, and Bloomberg, as of November 12, 2020.
+21
+
+--- PAGE 22 ---
+United Kingdom: Brexit risks continue to weigh FIGURE I-22
+on outlook
+UK 1: TOhKe aUs.K is. .e cJounsot mreym eoxvpee ruiepnscidees aa ndde edpoewr nside dashed lines
+recession than its European counterparts
+The path of U.K. economic output in 2020 was similar in
+shape to that of the euro area. A very deep contraction in
+the first half of the year was followed by a sizable recovery 10%
+in the third quarter as virus restrictions were partially
+5
+eased. The government’s “Eat Out to Help Out” program
+to support the hospitality industry, coupled with cuts in 0
+the value-added tax (VAT) for the most vulnerable sectors,
+provided additional support in the summer. However, as –5
+with the rest of Europe, the economy was expected to
+–10
+contract again in the fourth quarter as countries imposed
+tighter restrictions to tackle a spike in infections. –15
+–20
+The main difference between the euro area and the
+U.K. is that the U.K. will suffer a deeper recession in –25
+2020 (Figure I-22). This is primarily because sectors Dec. Jun. Dec. Jun. Dec. Jun. Dec.
+2019 2020 2020 2021 2021 2022 2022
+that are most reliant on social activities, such as leisure,
+hospitality, and tourism, account for a larger share of the Note: The y-axis represents the level impact from the baseline, which is
+economy than they do in most other European countries. December 2019. The blue and gray dotted lines represent three forecasts:
+our base case and upside and downside scenarios. The downside scenario is
+A slightly longer lockdown during the spring and tighter-
+characterized by a failure of the current restrictions to significantly reduce virus
+than-average restrictions in the winter are also partly to transmission in the short term, which would cause a slower recovery. Potential
+blame. The U.K. economy is expected to have fallen by problems with the efficacy, adoption, distribution, or safety of a vaccine could
+also surface. The upside scenario is characterized by a better-than-expected
+10% to 12% in 2020 relative to 2019.
+clampdown of the second virus wave and a speedy large-scale distribution of
+an effective vaccine, which will see the economy return to normal more quickly
+In 2021, we expect the U.K. economy to gradually than we currently expect.
+recover as restrictions ease and life returns closer to Sources: Vanguard estimates and Bloomberg, as of November 12, 2020.
+normal. Our central scenario pencils in U.K. growth of
+between 7% and 9%, which is slightly higher than the
+euro area, primarily because output is starting from a The rate of consumer price inflation slowed materially
+lower base. We expect output to return to its pre- throughout 2020, driven by lower energy prices, a VAT
+pandemic level by the first quarter of 2022. Risks are cut, and weakening demand relative to supply. As with
+again skewed to the upside, reflecting ongoing the euro area, we expect aggregate prices to gradually
+breakthroughs in vaccine development. rise as these factors unwind in 2021. Both survey- and
+market-based measures of inflation expectations remain
+well-anchored in the U.K. As a consequence, we expect
+inflation will approach the Bank of England’s target of
+2% over the next year.
+22
+egnahc
+egatnecrep
+evitalumuC
+9102
+rebmeceD
+morf
+Pre-COVID-19 trend
+Upside
+Downside
+Baseline
+
+--- PAGE 23 ---
+On the policy front, the Bank of England eased monetary However, as Figure I-23 illustrates, the long-term
+conditions considerably this year. The Bank Rate was economic implications of a Brexit deal compared with
+slashed from 0.75% to 0.10%, and the target stock of no Brexit deal are not too far apart. Both scenarios
+bond purchases was increased from 445 billion pounds would restrict the free movement of people and
+to 895 billion pounds.3 As part of the expansion of this therefore the growth of the labor supply, and both
+quantitative easing (QE) program, the BoE bought over scenarios would lead to a customs border and likely
+50% of the government-issued new debt between March hamper productivity growth through less foreign direct
+and September, which helped keep borrowing costs low investment and reduced innovation. Furthermore, even if
+for the U.K. government. The U.K.’s primary deficit is set no deal is reached with the E.U. in the short run, it could
+to exceed 10% of GDP in 2020 amid a very expansionary still happen. After all, the E.U. accounts for about half
+fiscal stance and, as with the euro area, the government’s of the U.K.’s trade, so a deal of some form is likely to
+many support packages (including a program to pay a be made eventually.
+portion of furloughed workers’ wages) have limited the
+rise in unemployment so far.
+FIGURE I-23
+We expect the BoE’s policy stance to remain highly Deal or no deal, Brexit will hurt the
+accommodative and for its QE program to last until at U.K. economy
+least mid-2021. Although the Monetary Policy Committee
+has warmed to the idea of implementing a negative
+Free-trade agreement No deal
+interest rate policy, we do not expect this to be executed
+unless economic conditions substantially deteriorate. The Impact due to
+–1.8% –2.1%
+furlough program will likely taper off after March 2021, labor supply loss
+and this should mark the beginning of a normalization
+of the government’s deficit spending.
+Impact due to
+–4.6% –5.7%
+A key risk to the U.K. economic outlook remains a no-deal productivity loss
+Brexit. As of this writing, the U.K. and European Union
+were still negotiating in an attempt to strike a bare-bones
+–6.4%
+free trade agreement by the end of the transition period
+on December 31, 2020. In our central scenario, we –7.8%
+expect a deal to be reached, albeit at the last minute.
+Departing the E.U. will likely cause significant disruption Notes: The figure examines the cumulative impact of Brexit on GDP by 2030. The
+productivity impact has been estimated using a vector error correction (VEC)
+to many U.K. firms that have to adapt and change the
+model that incorporates a proxy for trade openness and foreign direct investment.
+way they do business. This is part of the reason we We assume human capital growth is unaffected by Brexit. Labor supply growth is
+expect the U.K. economy to return to its pre-pandemic assumed to grow at a rate similar to that of total population growth.
+Sources: Vanguard calculations, Macrobond, and Office for National Statistics,
+level of output slightly later than the rest of the euro area
+as of November 12, 2020.
+(though some euro-area firms will also suffer, just to a
+lesser extent than in the U.K.).
+3 Source: Bank of England, March 2020. 23
+
+--- PAGE 24 ---
+China: First in, first out, and first to normalize FIGURE I-24
+China’s V-shaped recovery
+In early 2020, COVID-19 and its economic effects were
+mostly seen as problems affecting China alone. Now China
+has emerged as one of the few countries to successfully 20%
+contain the virus and the only economy expected to
+15
+return to pre-COVID trend levels by the end of 2020
+(Figure I-24). We expect the Chinese economy to rise 10
+9% in 2021, supported by the continued recovery in
+5
+domestic consumption and service sectors, as well as
+an improving external environment. 0
+–5
+While the pace of recovery in 2020 has exceeded most
+expectations, its unevenness, as shown in Figure I-25 –10
+(on page 25), is as we expected in our earliest COVID
+–15
+economic research (Patterson et al., 2020). Specifically,
+export-driven manufacturing sectors have outperformed
+service and consumption, given consumer reluctance
+and the absence of developed-market-like household Notes: The y-axis represents the level impact from the baseline, which is
+December 2019. The blue and gray dotted lines represent three forecasts:
+transfers in the government’s COVID-19 relief package.
+our base case and upside and downside scenarios. The downside scenario is
+Infrastructure and real estate investment have also characterized by premature policy tightening and supply chain decoupling. A
+rebounded sharply, owing to policymakers’ choice of potential COVID resurgence leading to additional containment measures also
+poses a downside risk, although at this stage that seems unlikely. The upside
+stimulating production and construction over consumption.
+scenario would entail surging global demand from a better-than-expected
+recovery in developed markets and China maintaining its elevated global export
+As we suggest in a forthcoming research paper, In market share.
+Search of Fluctuations: Dissecting China’s True Growth Source: Vanguard, as of November 30, 2020.
+Picture and Its Implications, the use of infrastructure and
+real estate investment, as well as state-owned enterprises
+(SOEs), as cyclical backstoppers during slowdowns is emergency policy measures will inevitably be phased
+not unique to the COVID pandemic; what is different is out over time, broad tightening also appears unlikely
+the size of the stimulus package delivered (Schickling, given subdued inflation and uncertainties associated
+Yeo, and Wang, 2021). As Figure I-26 (on page 26) with COVID-19. Instead, policymakers will likely take a
+illustrates, the fiscal and monetary packages have paled more data-dependent and targeted approach, such as
+in comparison to Chinese policymakers’ response during providing funding support to small and medium-sized
+the global financial crisis, while the extent of credit easing private enterprises and high-end manufacturers while
+is lower than that delivered during the 2013 and 2015– restricting real estate developers’ financing. Overall, we
+2016 economic slowdowns. By contrast, most world expect fiscal policy and broad credit growth to gradually
+governments and central banks have rallied to push normalize in 2021, resulting in slowing property and
+through an unprecedented level of policy support, with infrastructure investment.
+the U.S. delivering a fiscal package twice that of the
+global financial crisis. China’s desire to balance near-term On the currency side, strong fundamentals will keep
+growth stability with medium-term financial stability will the renminbi well supported in the near term, especially
+lead it to calibrate its policy response more prudently than as the positive development of a vaccine could boost
+its developed-market peers, making a replay of its role as the potential for a stronger global recovery and a weaker
+a global savior during 2009 unlikely. U.S. dollar. However, we also expect more two-way
+volatility, as long-term U.S.-China relations remain
+Growing concerns about an overheated property market contentious and the current account surplus may
+and a robust economic recovery create the risk of gradually fade amid the resumption in global production
+premature policy tightening in 2021. While further and increased domestic consumption of foreign services,
+aggressive easing doesn’t seem necessary and such as international travel.
+24
+egnahc
+egatnecrep
+evitalumuC
+9102
+rebmeceD
+morf
+Upside
+Pre-COVID-19
+trend
+Downside
+Baseline
+Dec. Jun. Dec. Jun. Dec. Jun. Dec.
+2019 2020 2020 2021 2021 2022 2022
+
+--- PAGE 25 ---
+FIGURE I-25 The pandemic has accelerated many trends, including a
+An uneven recovery between . . . shift toward less globalization, as nations seek to promote
+domestic manufacturing or diversify supply chain risk
+across other developing economies. Although plans to
+Goods and services
+recalibrate supply chains will take years to play out,
+11.4%
+8.4% Chinese policymakers have nonetheless expressed greater
+strategic emphasis on the rebalancing toward domestic
+demand as the driver of future growth, preparing for
+potential “slowbalization,” or slowing in the rate of
+globalization.4 Against the backdrop of a less globalized
+world, we analyze three potential paths that China can
+–16.6%
+–19.3% take over the next decade (Figure I-27, on page 26).
+The context for evaluating these paths lies in two primary
+Industrial Service Industrial Service
+production production production production goals that policymakers announced at China’s fifth plenary
+session: reaching the threshold of a high-income country
+(~$13,500 USD GDP per capita, based on World Bank
+State versus private output standards) by 2025, and doubling real GDP per capita
+7.8% (~$20,500 USD) by 2035. This would effectively elevate
+6.4%
+China to the status of a moderately developed economy
+by 2035.
+In assessing our three potential growth scenarios, the
+2025 goal appears attainable, while the 2035 aspiration
+appears to be loftier, with only a restoration of a pre-global
+–7.7% –7.6% financial crisis globalization wave, along with effective
+structural reforms and an adequate policy cushion (the
+State Private State Private
+“smooth rebalancing under reglobalization” scenario),
+likely to lead to a doubling of China’s GDP per capita by
+2035. Under the other scenarios, however, it will be
+Exports and investment challenging to achieve this target within the same timeline,
+versus retail sales
+given a more hostile and complex global environment.
+19.9% Under our assumption of successful structural reforms
+14.2%
+11.2% in a slowbalized world, the Chinese economy will only
+double its income several years post-2035. Should China
+fail to enact structural reforms, however, this goal will
+prove to be even more elusive, with a Japan-style scenario
+suggesting that China is unlikely to reach its 2035 target
+–18.5%
+in the next two decades.
+–25.6%
+–27.8%
+Exports Investment Retail sales Exports Investment Retail sales As nations throughout the world begin envisioning life
+post-COVID, China is entering the next decade at a critical
+junction where, in the past, middle-income countries
+Change from Change from have flourished or floundered. Amid significant external
+Oct. 2019 to March 2020 April 2020 to Sept. 2020
+and demographic headwinds, productivity growth via
+market reforms and promoting innovation will be key in
+Note: State output is measured as the output of state-owned enterprises.
+Sources: Vanguard, using data from Bloomberg, as of September 30, 2020. determining whether China escapes this middle-income
+trap and achieves the status of a moderately developed
+economy within the next decade.
+4 See reference to President Xi Jinping’s speech on the “dual circulation” strategy: http://www.xinhuanet.com/english/2020-09/02/c_139337727.htm. 25
+
+--- PAGE 26 ---
+FIGURE I-27
+Mapping out the path to high income
+Notes: To convert our real GDP growth forecasts to nominal GDP per-capita growth, we assumed a roughly stable population growth of 0.5%. For simplicity, we also
+assumed a constant GDP deflator of 0.5% throughout.
+Source: Vanguard, as of November 30, 2020.
+26
+)DSU(
+atipac
+rep
+PDG
+anihC
+FIGURE I-26
+China’s stimulus is neither unprecedented nor ‘whatever it takes’
+Note: Total social financing is proxied by credit growth for the U.S. comparison.
+Sources: Vanguard, using data from Bloomberg and WIND, as of October 30, 2020.
+$25,000
+Smooth rebalancing
+(reglobalization)
+2035 double GDP per capita target 10% probability 20,000
+Smooth rebalancing
+(“slowbalization”)
+50% probability
+15,000
+2025 high-income threshold Japan-style stagnation
+40% probability
+10,000
+5,000
+0
+1990 1995 2000 2005 2010 2015 2020 2025 2030 2035
+Smooth Smooth
+rebalancing rebalancing Japan-style
+(reglobalization) (slowbalization) stagnation
+Average real GDP growth (2021 to 2035) 5.0% 4.3% 3.8%
+Average real GDP growth (2025 to 2030) 4.3% 3.4% 2.2%
+Average real GDP growth (2030 to 2035) 4.5% 3.9% 3.6%
+Year China will reach 2025 high-income threshold 2024 2025 2025
+Year China will double GDP per capita 2034 2037 2040
+ot
+evitaler
+egnahC
+level
+nwodwols-erp
+25%
+U.S. stimulus efforts
+20
+15
+10
+5
+0
+2009 2013 2016 2020
+Percentage change relative to pre-slowdown level of GDP change in augmented fiscal deficit
+Percentage-point rebound in total social financing growth
+Percentage-point change in 10-year yield
+
+--- PAGE 27 ---
+Japan: A new leader faces familiar challenges Another notable development in 2020 was the
+resignation of Japan’s longest-serving prime minister,
+Japan was the first developed economy to officially enter
+Shinzo Abe. Known for the eponymous Abenomics,
+a recession in 2020. This was triggered by China’s first-
+Abe’s tenure was associated with aggressive monetary
+quarter lockdown and the associated effects on Japan’s
+easing and fiscal stimulus, with less robust success on
+tourism sectors, which rely heavily on Chinese Lunar New
+the platform’s “third arrow,” structural reforms. Public
+Year tourists, following the fourth-quarter 2019 VAT hike
+debt levels surpassed 200% of GDP, while de facto debt
+that stifled domestic consumption. Although Japan’s close
+monetization in the form of the Bank of Japan’s buying
+geographic ties to China and its aging population raised
+a large percentage of government bond issuance kept
+concerns the country would be hit hard by the virus, so
+interest rates near zero and provided a much-needed,
+far it has managed to avoid widespread outbreaks and its
+albeit still underwhelming, boost to inflation, as shown
+deaths per capita are among the lowest in the developed
+in Figure I-29 (on page 28). This playbook is being
+world. Accordingly, the government’s containment
+adopted by other developed economies that view Japan
+measures have been more lax, and overall mobility
+as evidence that sustainable debt levels are higher than
+indexes indicated a much smaller decline than in the
+previously thought. Although structural factors such as
+U.S. or Europe. We expect the Japanese recovery to
+demographics, technology, and rigid inflation expectations
+take a path similar to that of other developed economies,
+have thus far kept a lid on inflation, in the long term,
+returning to pre-COVID trend around the second half
+Japan’s debt levels pose a financial stability risk and
+of 2022 (Figure I-28). This recovery will exhibit similar
+constrain fiscal options for the next downturn. In the
+uneven characteristics, with strength in export/
+near term, we expect a pause in monetary policy as the
+manufacturing sectors offsetting weakness in domestic
+Bank of Japan eyes post-COVID normalcy.
+service sector activity.
+FIGURE I-28
+An uneven and gradual recovery
+a. GDP expected to reach pre-COVID trend in 2022 b. External demand industries have driven the recovery
+Notes: In Figure a, the y-axis represents the level impact from the baseline, which is December 2019. The blue and gray dotted lines represent three forecasts: our base
+case and upside and downside scenarios. The downside scenario is characterized by a resurgence of cases depressing consumer sentiment and a softening of global
+durable goods demand. The upside scenario entails accelerated virus abatement boosting consumer confidence, propelling service consumption, and restoring tourism
+industries in early 2021.
+Sources: Figure a: Vanguard, as of November 30, 2020. Figure b: Vanguard calculations, based on data from Bank of Japan, as of September 30, 2020.
+27
+egnahc
+egatnecrep
+evitalumuC
+9102
+rebmeceD
+morf
+Dec. Jun. Dec. Jun. Dec. Jun. Dec.
+2019 2020 2020 2021 2021 2022 2022
+)001
+= 5102
+rebmeceD(
+dexednI
+4% 120%
+2
+Pre-COVID-19 trend
+110 0
+Upside
+–2 100
+Downside
+–4 90
+–6
+Baseline
+80
+–8
+–10 70
+2015 2016 2017 2018 2019 2020
+Real exports
+Real services
+
+--- PAGE 28 ---
+Abe’s successor, Yoshihide Suga, largely represents a is 27th in the world.5 Investment in digital infrastructure
+continuation of these policies but with renewed focus on is perhaps the country’s best hope to escape the low
+the structural reform component. In recent years, Japan’s productivity growth realm it has been mired in for several
+growth has stemmed from rising labor force participation decades. As Figure I-30 shows, Japan’s GDP per hour
+by women and the elderly, but further gains in these areas worked is well below that of its peers, and business
+are unlikely, as they’re already high compared with the creation and employment in digitally intensive sectors
+average of other Organisation for Economic Co-operation is a fraction of other developed economies’. Digitalizing
+and Development member countries. Therefore, structural the economy will require conquering some of the same
+reform in other areas is key. cultural barriers that preempted Abe’s attempts at
+boosting immigration and foreign workers.
+One particular area of focus is the increasing need for
+digitalization of the Japanese economy, which according
+to the 2020 IMD World Digital Competitiveness ranking
+FIGURE I-29
+Inflation remains below target even after years of expansionary fiscal and monetary policy
+250% 4%
+Public debt as percentage
+3
+200 of GDP (left axis)
+Japan government bond
+10-year yield (right axis) 2
+150
+1
+100
+0
+50
+–1
+Business entry rates Japan corPe oCsPtI- (eringhtrt ya xeism) ployment growth GDP per hour worked
+0 –2
+Developed Developed Developed
+Ja1p9a9n9 2001 averag2e003 2005 Jap2a0n07 2009 averag2e011 2013 Ja2p0a1n5 2017 2a0v1e9rage
+2% 8% 1.1% 2% $46.8 $64.3
+Note: Core CPI measures the change in the price of goods and services purchased by consumers, excluding fresh food.
+Sources: Vanguard calculations, based on data from Moody’s Data Buffet and Refinitiv, as of December 31, 2019.
+FIGURE I-30
+Digitalization may provide a needed productivity boost
+In digitally intensive sectors
+Business entry rates Post-entry employment growth GDP per hour worked
+Japan 2% 1.1% $46.8
+Developed
+markets 8% 2% $64.3
+average
+Notes: Employment and entry rates data are from 1998 to 2015. Business entry rates and post-entry employment growth are for highly digitally intensive sectors. GDP
+per hour worked is in U.S. dollars.
+Sources: Vanguard calculations, based on data from the Organisation for Economic Co-operation and Development and World Bank, as of December 31, 2019.
+28 5 Digitalization refers to the use of technology to lower costs and barriers of storing, sharing, and analyzing data.
+
+--- PAGE 29 ---
+Emerging markets: Health care challenges but The exception to this is Southeast Asia. We would not be
+economic opportunities globally surprised if emerging markets in aggregate do not attain
+their pre-COVID early 2020 growth levels until mid-2023.
+As with developed economies, 2020 has brought severe
+However, much of developing Asia, including South Korea
+challenges to emerging markets. Hardest hit have been
+and Indonesia, may well buck this trend and return to
+Latin America, Africa, and West Asia. Emerging markets
+early 2020 growth levels by mid-2021 (Figure I-32, on
+have been particularly vulnerable to the economic and
+page 30). Broadly, the emerging market complex stands
+medical consequences of the pandemic, and we expect
+to gain from a global economic recovery in 2021, aided
+this to continue until a vaccine is widely available. This
+by positive vaccine developments in developed markets.
+will take longer for many emerging-market countries,
+which lack sufficient roads to rapidly transport the vaccine
+Ongoing risks
+or the facilities to keep vaccine supplies refrigerated at
+extremely cold temperatures. As of this writing, the Thus far in 2020, the commodity-dependent emerging-
+apparent success of the Pfizer vaccine trial and others market economies have seen depressed export levels as
+has buoyed hopes worldwide that there is a path to China and the developed world buy less of their petroleum
+normalcy. But the poorest emerging-market countries and minerals. Most important, U.S.-China trade tensions
+may be last in line to receive this potential cure. However, may well continue to disrupt global value chains. And
+should other vaccine candidates prove easier to distribute in some countries, including Brazil and the Philippines,
+with little or no excess refrigeration, emerging markets political leaders have been slow to impose pandemic-
+may benefit from vaccines sooner than expected. related lockdowns, thereby postponing the recovery
+Generally speaking, emerging-market countries have process. Further, many emerging-market countries are
+lagged developed-market economies when it comes to dependent on remittances from migrant workers, which
+pandemic management, specifically in controlling the have declined substantially. In addition, throughout
+spread by testing widely for the coronavirus (Figure I-31). emerging markets, as in developed economies, tourism
+FIGURE I-31
+Developed markets conduct more COVID-19 tests than emerging economies do
+4.0
+Notes: Data are reported by national authorities. When a series ends it is because that national authority stopped reporting the number of tests it was conducting.
+Some countries, such as Brazil, never reported testing. Testing data were smoothed using a seven-day moving average.
+Source: Our World in Data, Oxford University, as of October 31, 2020.
+29
+elpoep
+000,001
+rep
+stset
+weN
+Russia
+3.5 European Union average
+United States
+3.0
+2.5
+2.0
+1.5 Turkey
+India
+1.0 South Africa
+Indonesia
+0.5 Mexico
+Nigeria
+0
+March April May June July August September October November
+2020 2020 2020 2020 2020 2020 2020 2020 2020
+
+--- PAGE 30 ---
+revenues have plummeted. Of course, for the foreseeable Across the globe in the first half of 2020, supply and
+future both emerging and developed markets will remain demand pushed inflation in opposite directions. Supply
+vulnerable to volatile financial market sentiment and its shortages in the tradable goods sector, such as food and
+implications for global capital flows. medical equipment, exerted upward pressure on prices.
+In turn, cratering demand because of the deep global
+Inflation recession put downward pressure on prices. Ultimately,
+Modest pre-pandemic inflation gave way to disinflation the force of weaker demand prevailed, and pre-pandemic
+as emerging-market economies contended with weak inflation gave way to disinflation across emerging markets
+global demand as a result of COVID-19 lockdowns across in the first half of 2020.
+the globe in March and April. Since then, the inflation
+picture has diverged across emerging-market regions. Since then, we have seen recoveries in inflation rates
+Disinflationary pressures abated in Latin America and through the second half of 2020 in Latin America and
+Emerging Europe as global demand recovered after Emerging Europe (Figure I-33, on page 31). Brazilian
+economies emerged from lockdown. By contrast, much and Mexican central banks, for example, are monitoring
+of Emerging Asia continues to see disinflationary trends. resurgent inflation closely and will tailor monetary policy
+We expect inflation to approach its pre-pandemic pace appropriately in 2021. In Emerging Asia, however, inflation,
+across emerging markets in 2021, though it may possibly led by food price inflation, had spiked before the pandemic.
+fall short in Emerging Asia given higher-than-average pre- After briefly abating, disinflationary pressures appear to
+pandemic inflationary pressures. have resumed across Emerging Asia in the second half
+of 2020, a development we will watch closely in 2021.
+FIGURE I-32
+Global growth rebound a tailwind for emerging-market growth in 2021
+8%
+4
+2
+0
+2021 average inflation forecast
+Notes: Inflation is measured as the average headline CPI measure. Dots represent central projections for GDP growth.
+Source: Vanguard, as of November 30, 2020.
+30
+tsacerof
+htworg
+PDG
+1202
+Indonesia
+6
+India
+Mexico South Africa
+South Korea
+Russia
+Brazil
+0 1 2 3 4 5 6 7 8 9%
+
+--- PAGE 31 ---
+FIGURE I-33
+Disinflation in emerging-market Asia contrasts with return to pre-pandemic inflation in Latin
+America and emerging-market Europe
+Notes: Inflation is measured as the year-over-year percentage change in CPI indexes. The series shown are GDP-weighted CPI series for a number of countries in each
+region. We exclude Argentina from Latin America and Turkey from emerging-market Europe because of their idiosyncratically high inflation rates.
+Sources: National statistical bureaus via Moody’s Data Buffet, as of October 31, 2020.
+Overall, we expect demand to follow the recovery in Debt burden
+supply through 2021, and we expect to see modest Combating the coronavirus pandemic has been an
+increases in inflation across emerging markets. We do expensive undertaking for economies around the world,
+not expect inflation to stage another pre-pandemic spike including emerging markets. Countries have paid for
+in Emerging Asia and instead see inflation settling around furlough programs, medical supplies, and stimulative
+the longer-run average of 2%–3%. An exception to this fiscal measures by issuing more debt. This in turn has
+trend may be India, where the inflationary pressures of increased debt levels as a proportion of GDP across
+2019 and 2020 could continue to build in 2021. emerging-market economies in 2020. We expect those
+debt burdens to remain high in 2021, as governments
+Monetary policy continue to support their economies through subsequent
+Emerging-market central banks cut interest rates in flare-ups in COVID infection rates (Figure I-35, on page
+the first half of 2020 to keep financial conditions as 33). The saving grace is that interest rates on emerging-
+accommodative as possible to support the economy as market debt remain low, presenting relatively cheap
+countries entered lockdowns. We expect these banks to refinancing opportunities for indebted governments.
+continue this accommodative policy via low interest rates
+in 2021 (Figure I-34, on page 32). A surprise inflation Countries that can grow their economies faster than
+spike has the potential to derail central bank plans for the interest they are paying on their debt will be able to
+accommodative monetary policy in 2021, as we saw in reduce their debt burdens in 2021. For example, China
+Turkey in the second half of 2020. The September and and India might begin reducing their debt load. As we
+November 2020 rate hikes in Turkey to contain inflation have seen in the past, Brazil continues to have difficulty
+are evidence of this. Stubbornly high inflation in Mexico reining in its spending. As a consequence, debt
+may prevent further monetary policy easing, while we sustainability will remain a focus as debt looks set to
+would not be surprised to see rate hikes in Brazil in 2021 increase further as a proportion of GDP.
+to combat inflation.
+31
+raey-revo-raeY
+noitaflni
+dethgiew-PDG
+10%
+8
+6 Emerging-market
+Asia
+4 Emerging-market
+Europe
+(excluding Turkey)
+2 Latin America
+(excluding Argentina)
+0
+2008 2010 2012 2014 2016 2018 2020
+
+--- PAGE 32 ---
+FIGURE I-34
+Emerging-market central banks will look to keep interest rates low in 2021
+CCeennttrraall Bbaannkk P poolilcicy yR raatetes s( D(Deceecmebmebr e20r 1290–1O9c ttoob Nero 2v0e2m0)ber 2020)
+12% Peru South Korea Chile Hungary Malaysia
+6
+0
+12% Colombia Brazil Philippines South Africa India
+6
+0
+12% Indonesia Russia Mexico China Turkey
+6
+In November
+Turkey raised its
+interest rate to 15%
+0
+2019 2020 2019 2020 2019 2020 2019 2020 2019 2020
+Sources: National central banks via Refinitiv, as of November 30, 2020.
+32
+
+--- PAGE 33 ---
+FIGURE I-35
+Debt burdens will remain stubbornly high unless emerging-market economic growth
+surprises on the upside
+120%
+100
+80
+60
+40
+20
+0
+Brazil China South Africa Mexico India Russia
+Notes: Debt figures are gross government debt annual totals. The figure uses forecasted 2021 growth rates and assumes constant government debt yields
+and small fiscal deficits persisting through 2021.
+Sources: National government sources via Refinitv, as of November 30, 2020.
+Foreign exchange The strengthening South African rand and Mexican peso
+As often happens with the foreign exchange market, reflect hopes of a global growth rebound as countries exit
+exchange rates between emerging-market currencies lockdown. Both of those currencies of trade-dependent
+and the U.S. dollar have reflected a number of different countries are still a bit weaker than they were going into
+themes in 2020 that we think will continue to play a role the pandemic, reflecting a continued uncertainty about
+in 2021 (Figure I-36, on page 34). trade growth in 2021. Global trade recovery will be a key
+theme for emerging markets in 2021 and will be reflected
+March and April 2020 saw emerging-market currencies in their exchange rates.
+depreciate dramatically against the U.S. dollar as investors
+sought the safety of U.S. assets. Most emerging-market A continually weakening Turkish lira reflects another
+currencies have strengthened against the USD in the important theme for 2021: inflation risk. Spiraling inflation
+second half of the year. The extent of that strengthening, has forced a currency depreciation against the dollar.
+or indeed further weakening, as was the case for the Although we think Turkey’s inflation woes are idiosyncratic,
+Brazilian real and the Turkish lira, reflects themes that inflation risk is a theme to watch in 2021 with currency
+we will continue to see in 2021. implications.
+33
+PDG
+fo
+egatnecrep
+sa
+tbeD
+Debt burdens will remain stubbornly high unless
+emerging market economic growth surprises to the upside
+2018 2019 2020 2021 forecast
+
+--- PAGE 34 ---
+Finally, pandemic management is another important theme adopted different strategies regarding pandemic
+for 2021; this has been reflected in currency movements mitigation, including fiscal expenditures. These differences
+so far in 2020. Emerging-market governments have will continue to be reflected in currencies in 2021.
+FIGURE I-36
+Emerging markets currency movements
+170
+Exchange rates versus USD
+160
+150
+Turkish lira
+Brazilian real
+140
+Russian ruble
+South African rand
+130 Mexican peso
+Broad emerging
+markets currency index
+120
+People’s Republic
+of China renminbi
+110
+Weaker versus USD
+100
+Stronger versus USD
+90
+80
+2019 2020
+Notes: The broad emerging markets currency index is proxied by the MSCI Emerging Markets Currency Index. For each emerging-market currency pairing with the U.S.
+dollar, a value above 100 is a strengthening of the USD versus that emerging-market currency.
+Source: Bloomberg data, as of November 30 2020.
+34
+
+--- PAGE 35 ---
+II. Global capital markets All of these factors serve to reaffirm the lower return
+orbit we have been writing about for the past few years.
+outlook
+Common asset-return-centric portfolio tilts that seek higher
+return or yield are still unlikely to escape the strong gravity
+of low returns. However, a modest steepening in the
+The path of global capital markets in 2020 can largely efficient frontier suggests an increase in expected return
+be described in three phases. The first phase occurred for taking on equity risk relative to this time last year.
+during the first month-and-a-half of the year and generally
+involved rising equity prices as lower rates and a reduction
+Global equity markets: A wild ride back to where
+in trade uncertainty bolstered risk assets. The second
+we started
+phase occurred as the realities of the pandemic and
+related lockdowns set in during mid-February and March. Despite the rapid fall in equity prices that saw global
+Equity markets plummeted, credit spreads widened, equity markets lose almost a third of their value in
+central banks quickly cut interest rates and employed March, markets rebounded sharply over the next eight
+novel tools to stabilize markets, and fiscal policymakers months. In USD terms, global equities, as measured by
+unleashed a wave of support. The third phase began in the FTSE All-World Index, returned –1.03% for the year
+April and has seen a more pronounced recovery in some as of the end of October. The recovery also saw a
+regions than others. continuation of trends from the past decade. U.S.
+equities have outperformed their international peers, and
+As we look to 2021 and beyond, our outlook for global large-capitalization growth stocks have dominated their
+asset returns is guarded. This is most true for equities, as value counterparts.
+high valuations and lower economic growth rates mean
+we expect lower returns over the next decade. For fixed Even with the roller-coaster ride equity markets have had
+income, lower interest rates and flatter yield curves are this year, our outlook is remarkably similar to last year’s.
+expected to weigh on returns for the foreseeable future. Our expectation for lower trend GDP growth and its impact
+on corporate revenue growth, along with contraction in
+A consistent theme of persistent low inflation and low valuations, has led to a guarded outlook for global equities,
+interest rates across developed-market economies which we expect to return 5%–7% over the next decade.
+emerging from our economic outlook supports our view Further, we do not expect the trends that have defined the
+of a lower-return environment. This theme affects our last decade to persist. Namely, we expect equity markets
+outlook for bond yields and therefore future bond returns, outside of the U.S. to outperform, largely because of lower
+equity valuations, and earnings growth rates, and even valuations and a higher dividend yield. Likewise, we are
+the growth versus value debate. We view the prospects expecting value stocks to outperform growth over the next
+for higher inflation and higher rates over the foreseeable decade based on our fundamental assessment.
+future as unlikely because of the secular factors
+described in the economic section.
+Vanguard’s distinct approach to forecasting
+To treat the future with the deference it deserves, Vanguard has long believed that market forecasts are best viewed
+in a probabilistic framework. This annual publication’s primary objectives are to describe the projected long-term return
+distributions that contribute to strategic asset allocation decisions and to present the rationale for the ranges and
+probabilities of potential outcomes. This analysis discusses our global outlook from the perspective of a U.S. investor
+with a dollar-denominated portfolio.
+35
+
+--- PAGE 36 ---
+Similar valuations support an outlook consistent with FIGURE II-1
+last year’s; downside risks and volatility are likely to Probability of equity market correction
+stay elevated remains elevated
+U.S. equity markets have more than made up their losses
+Global equity market drawdown in the next three years
+incurred in early 2020, which explains why valuations are
+modestly higher than they were a year ago. Internationally,
+valuations have recovered, but not to the same degree.
+Given the strong, if not uniform, recovery in global equity
+prices, the risk of a sharp downturn (defined as a >20%
+drop) over the next three years shown in Figure II-1
+remains elevated.
+Although it is certainly possible that we could experience
+a macroeconomic shock that pushes markets lower, that
+is not the reason for our call. Figure II-2a (on page 37)
+plots Robert Shiller’s cyclically adjusted price/earnings
+ratio (CAPE) for the Standard & Poor’s 500 Index versus
+our “fair-value” model. Vanguard’s fair-value CAPE
+accounts for current interest rates and inflation levels. It
+Note: Probability corresponds to the percentage of global equity in USD VCMM
+also provides a more useful time-varying benchmark that
+simulations that experience declines over the next three years. Returns do not
+accounts for changes in economic and financial market take into account management fees and expenses, nor do they reflect the effect
+conditions against which the traditional CAPE ratios can be of taxes. Returns do reflect reinvestment of dividends and capital gains. Indexes
+are unmanaged; therefore, direct investment is not possible.
+compared, instead of the popularly used historical average
+Source: Vanguard, as of September 30, 2020.
+as a benchmark. Although the CAPE dipped below the
+fair-value range in March, it has recovered to levels
+consistent with the upper part of our range.6
+The high valuations are an important input into our more
+When we extend this fair-value concept to other regions, conservative forecast for U.S. equity over the next ten
+we find that non-U.S. developed markets appear to be years. Although valuation expansion benefited returns
+at the low end of fair value, after adjusting valuations for over the last 30 years, we expect valuations to contract
+lower rates and inflation. Emerging markets, on the other 2% on average annually as interest rates gradually rise
+hand, are slightly overvalued after adjusting for their higher over the next decade. Alongside the decline in corporate
+risk and the higher earnings yields required by investors earnings growth, which is projected to fall from its 5.8%
+(Figure II-2b). Meanwhile, after many years of strong historical average annual rate to a growth rate close to
+performance, the valuation of growth and large-cap 5%, our expected return outlook for U.S. equity for
+equities appears to be more stretched, compared with the next decade is centered in the modest 3.7%–5.7%
+value and small-caps. range, not materially different from the 3.5%–5.5%
+returns forecasted last year (DiCiurcio et al., 2020). This
+Outlook for global equities and the diversification is quite different from the 10.6% annualized return
+of domestic risks generated over the last 30 years.
+Given our outlook for the slowing rate of recovery in
+global growth, subdued inflation, lower interest rates, From a U.S. investor’s perspective, the expected return
+and elevated current market valuations, our long-term outlook for non-U.S. equity markets is in the 7%–9%
+return outlook for equities remains guarded relative to range, higher than that of U.S. equity (Figure II-3, on
+the experience of previous decades, based on our page 38), thanks to relatively more reasonable valuations
+Vanguard Capital Markets Model (VCMM) projections. and a higher dividend yield.7
+IMPORTANT: The projections and other information generated by the VCMM regarding the likelihood of various investment outcomes are hypothetical
+in nature, do not reflect actual investment results, and are not guarantees of future results.
+6 Because a recent decline in interest rates and inflation depresses the discount rates used in asset-pricing models, investors are willing to pay a higher price for future
+earnings, thus inflating price/earnings ratios.
+36 7 For more information on our U.S. versus international equity outlook, see DiCiurcio et al. (2020).
+ytilibaborP
+50% 10% downturn 20% downturn
+40
+30
+20
+10
+0
+2019 2020 2019 2020
+Normal environment
+
+--- PAGE 37 ---
+FIGURE II-2
+Divergence in global equity valuations
+a. CAPE for the S&P 500 is approaching overvalued territory b. Other developed markets are more fairly priced
+CAPE (S&P 500)
+Fair-value CAPE +/–0.5 standard error
+Notes: Fair-value CAPE is based on a statistical model that corrects cyclically
+adjusted price/earnings (CAPE) measures for the level of inflation expectations
+and for lower interest rates. The statistical model specification is a three-
+variable vector error correction (VEC), including equity-earnings yields, ten-year
+trailing inflation, and ten-year U.S. Treasury yields estimated over the period
+January 1940 to September 2020. (For details, see Davis et al., 2018.)
+Sources: Vanguard calculations, based on Robert Shiller’s website at
+aida.wss.yale.edu/~shiller/data.htm, the U.S. Bureau of Labor Statistics,
+and the Federal Reserve Board, as of September 30, 2020.
+Figure II-4 (on page 39) shows our sum-of-parts The higher return outlook for non-U.S. equity markets
+framework for U.S. and international equities and underscores the benefits of global equity strategies in
+highlights the factors that we expect to drive this environment and provides a timely opportunity for
+international equity outperformance. Although our U.S. investors to review areas of excessive concentration
+anticipation of a valuation contraction in the U.S. risk. Our ten-year outlook for global equity (in USD) is in
+contributes to our call for international equities to the 5%–7% range, as seen in Figure II-3. Though the
+outperform, our analysis suggests that even if interest case for global diversification is particularly strong now,
+rates remain low ten years from now—which would for the purposes of asset allocation, we caution investors
+provide support for equity valuations—they will likely be against implementing tactical tilts based on just the median
+associated with offsetting lower economic and earnings expected return—that is, ignoring the entire distribution
+growth over the same period (DiCiurcio et al., 2020). of asset returns and their correlations, particularly given
+our expectation for elevated risks in 2021 and beyond.
+37
+detsujda
+yllacilcyC
+oitar
+sgninrae/ecirp
+50 Equity markets
+Dot-com 100%
+bubble CAPE percentile relative
+40 to fair value
+Stretched
+75 70% Growth
+30 69% Large-cap
+66% Emerging-
+20 Fairly valued 50 market
+63% U.S.
+50% Value
+10 25 35% Small-cap
+Undervalued 28% Ex-U.S.
+0 developed
+1950 1960 1970 1980 1990 2000 2010 2020 0 market
+Notes: The U.S. valuation measure is the current CAPE percentile relative to
+“fair-value CAPE” for the S&P Composite Index from January 1940 to September
+2020. The developed-markets valuation measure is the weighted average of each
+region’s (Australia, United Kingdom, euro area, Japan, and Canada) current CAPE
+percentile relative to each region’s own fair-value CAPE. The fair-value CAPE for
+Australia, the U.K., the euro area, Japan, and Canada is a five-variable vector error
+correction (VEC) model, with equity earnings yield (from each MSCI country index),
+ten-year trailing inflation, ten-year government bond yield, equity volatility, and
+bond volatility estimated over the period January 1970 to September 2020. The
+emerging markets valuation measure is a composite valuation measure of
+emerging-markets-to-U.S. relative valuations and current U.S. CAPE percentile
+relative to its fair-value CAPE. The relative valuation is the current ratio of
+emerging-markets-to-U.S. P/E metrics relative to its historical average, using
+three-year trailing average earnings from January 1990 to September 2020.
+Sources: Vanguard calculations, based on Robert Shiller’s website at aida.wss.yale.
+edu/~shiller/data.htm, the U.S. Bureau of Labor Statistics, the Federal Reserve
+Board, and Refinitiv, as of September 30, 2020.
+
+--- PAGE 38 ---
+The end of the “value coma” is coming—we’re just value stocks have experienced prolonged periods of
+not sure when outperformance on a few occasions. We found that
+A key market theme of the post-global financial crisis these style rotations into value stocks from growth have
+era has been the outperformance of growth stocks occurred during periods of accelerating earnings growth
+(particularly large-caps) versus value in the U.S. Many across the economy. Figure II-5 (on page 39) shows our
+explanations have been proposed, ranging from value estimate of the “fair value of value” based on these
+definitions to industry concentration, and have even led variables, in addition to long-term real interest rates,
+some to question the existence of the value premium. short-term equity market volatility, and technology
+spending as a percentage of GDP.
+Our research indicates that a value premium does exist
+and that the recent outperformance of growth stocks can Over the next decade, we do expect value stocks to
+be partially explained by downward-trending long-term outperform growth, although their total return will still be
+inflation levels and the lack of material acceleration in constrained by our outlook for broad U.S. equities. Our
+earnings growth over the last decade. Lower inflation return expectations for value and growth stocks in excess
+levels are more beneficial to growth stocks because of broad U.S. equities is 1.1% and –2.6% annualized,
+of the longer-term nature of their expected dividends. respectively. Given these differences and continued low
+Value stocks pay out a larger share of their earnings as inflation expectations, our view is that the outperformance
+dividends today, whereas the promise of dividends from will be primarily driven by the contraction in the valuations
+growth stocks is further in the future, marking their prices of growth stocks, rather than the valuations of value stocks
+much more sensitive to changes in inflation. Though returning to levels seen in prior decades.
+inflation levels have been moving lower since the 1980s,
+FIGURE II-3
+Equity markets’ ten-year return outlook: Setting reasonable expectations
+Percentile key
+50%
+Cumulative
+25% 75%
+probability of
+lower return 5% 95%
+Percentiles
+Notes: The forecast corresponds to distribution of 10,000 VCMM simulations for ten-year annualized nominal returns as of September 2020 in USD for asset classes
+highlighted here. Median volatility is the 50th percentile of an asset class’s distribution of annualized standard deviation of returns. Asset class returns do not take into
+account management fees and expenses, nor do they reflect the effect of taxes. Returns do reflect reinvestment of dividends and capital gains. Indexes are unmanaged;
+therefore, direct investment is not possible. See the Appendix section titled “Indexes for VCMM simulations” for further details on asset classes.
+Source: Vanguard, as of September 30, 2020.
+IMPORTANT: The projections and other information generated by the Vanguard Capital Markets Model (VCMM) regarding the likelihood of various
+38 investment outcomes are hypothetical in nature, do not reflect actual investment results, and are not guarantees of future results.
+5th 25th Median 75th 95th
+Median
+volatility (%)
+U.S. small-cap 21.6
+U.S. REITs 19.5
+U.S. value 18.7
+International equity
+18.6
+(unhedged)
+U.S. growth 18.1
+U.S. equity 16.9
+U.S. large-cap 16.5
+Global equity
+16.4
+(unhedged)
+–10 –5 0 5 10 15%
+Ten-year annualized return
+
+--- PAGE 39 ---
+FIGURE II-4
+Valuation contraction in the U.S. is expected to drive excess returns
+internationally over the next ten years
+Annualized return 0.3%
+1.6%
+2.2%
+–0.7%
+8.0%
+4.7%
+MSCI USA Valuation Earnings Dividend Foreign- MSCI ACWI
+return expansion growth yield exchange ex USA return
+(2020–2030) return (2020–2030)
+Foreign-
+Valuation Earnings Dividend exchange Total
+expansion growth yield return return
+MSCI USA Index –2.1% 5.0% 1.8% — 4.7%
+MSCI ACWI ex USA Index 0.1% 4.3% 3.4% 0.3% 8.0%
+IMPORTANT: The projections and other information generated by the Vanguard Capital Markets Model regarding the likelihood of various investment
+outcomes are hypothetical in nature, do not reflect actual investment results, and are not guarantees of future results.
+Note: Forward-looking return estimates are from VCMM, as of September 2020, for the period October 1, 2020, through September 30, 2030. Returns do not take into
+account management fees and expenses, nor do they reflect the effect of taxes. Returns do reflect reinvestment of dividends and capital gains. Indexes are unmanaged;
+therefore, direct investment is not possible.
+Sources: Vanguard calculations, based on data from Refinitiv and Global Financial Data. Forward-looking return estimates are from the VCMM, as of September 30, 2020.
+FIGURE II-5
+‘Fair value of value’ has been trending lower because of lower long-term levels of inflation
+Note: The statistical model specification is a seven-variable vector error correction (VEC), including value/growth basis-point ratio, ten-year trailing inflation, ten-year
+real Treasury yields, equity volatility, earnings growth, change in earnings growth, and IT spending estimated over the period January 1979 to September 2020.
+Sources: Vanguard calculations, based on data from FactSet, the U.S. Bureau of Labor Statistics, the Federal Reserve Board, Refinitiv, and Global Financial Data, as of
+September 30, 2020.
+39
+dedivid
+oitar
+koob-ot-ecirp
+eulaV
+oitar
+koob-ot-ecirp
+htworg
+yb
+0.35
+Value outperforms growth
+0.30
+0.25
+0.20
+0.15 Range
+Growth outperforms value Predicted
+0.10
+Actual
+0.05 Growth stocks higher than fair value
+0
+1979 1989 1999 2009 2019
+
+--- PAGE 40 ---
+Global fixed income markets: A gradually U.S. interest rates: Despite low yields, duration is
+evolving curve fairly valued
+Against a backdrop of lower yields across the curve, the As the pandemic took hold globally in the spring, yields
+fixed income return outlook in the next decade has been on developed-market government bonds plummeted
+revised downward from last year’s projections, to 0.75%– and global central banks cut policy rates to zero (and in
+1.75%, as shown in Figure II-6. Expected returns for non- some cases below zero). These dynamics led to low
+U.S. bonds are marginally lower than those of U.S. bonds, and flat sovereign yield curves throughout the world.
+given the relatively lower yields in non-U.S. developed Given our view that the Fed and other developed-market
+markets, yet the diversification through exposure to central banks will keep policy rates low and that the risk
+hedged non-U.S. bonds should help offset some risk of a material rise in long-term interest rates remains
+specific to the U.S. fixed income markets (Philips et al., modest, we are projecting normal compensation for
+2014). Within the U.S. aggregate bond market, investors taking interest-rate risk. As illustrated in Figure II-7
+are still expected to be fairly compensated for assuming (on page 41), increases in expected returns for taking
+credit risk, which is consistent with our expectation for on longer-term interest rate risk (that is, duration) are
+broad U.S. investment-grade bonds outperforming U.S. fairly valued and less risky than investors may expect
+Treasury bonds by 1% on an annualized basis. Importantly, in a low-yield environment.
+while future returns for fixed income look low, the
+recent crisis has reaffirmed the diversification role
+they play in a portfolio.
+FIGURE II-6
+Lower interest rates have pushed expected bond returns lower
+Median
+volatility (%)
+Percentile key
+50%
+Cumulative
+25% 75%
+probability of
+lower return 5% 95%
+Percentiles
+IMPORTANT: The projections and other information generated by the Vanguard Capital Markets Model regarding the likelihood of various investment
+outcomes are hypothetical in nature, do not reflect actual investment results, and are not guarantees of future results.
+Notes: The forecast corresponds to distribution of 10,000 VCMM simulations for ten-year annualized nominal returns as of September 30, 2020, in USD for asset
+classes highlighted here. Median volatility is the 50th percentile of an asset class’s distribution of annualized standard deviation of returns. Asset class returns do not
+take into account management fees and expenses, nor do they reflect the effect of taxes. Returns do reflect reinvestment of dividends and capital gains. Indexes are
+unmanaged; therefore, direct investment is not possible. See the Appendix section titled “Indexes for VCMM simulations” for further details on asset classes.
+Source: Vanguard, as of September 30, 2020.
+40
+5th 25th Median 75th 95th
+U.S. high-yield
+10.3
+corporate bonds
+U.S. TIPS 6.4
+U.S. credit bonds 5.6
+U.S. Treasury Index 4.1
+U.S. bonds 4.0
+Global bonds ex-U.S. 2.4
+hedged in USD
+U.S. inflation 2.4
+U.S. cash 0.9
+–2 0 2 4 6%
+Ten-year annualized return
+
+--- PAGE 41 ---
+Corporate bonds: Higher risk, higher return FIGURE II-7
+Fed policy support has similarly played an important role Fixed income appears to be fairly valued
+in supporting the corporate bond market. Central bank
+purchases of credit bonds (including “fallen angels,” bonds Bond markets
+that have fallen from investment-grade to high-yield status) 100%
+have supported the investment-grade and high-yield
+Stretched
+markets. As illustrated in Figure II-7, our outlook suggests
+75 Valuation percentile
+that the expected risk premium above comparable-maturity
+53% Duration
+Treasury bonds associated with credit bonds is within the 48% U.S. aggregate
+fair-value range given the current level of credit spreads.8 Fairly valued 50 bonds
+Declines in long-term Treasury rates also make our 44% Intermediate
+40% TIPS
+central tendency for U.S. credit bonds (specifically, the 25
+Undervalued
+Bloomberg Barclays U.S. Credit Bond Index) lower than
+last year, around the 1.25%–2.25% range. The central
+0
+tendency for high-yield corporate bonds (specifically, the
+Bloomberg Barclays U.S. High Yield Corporate Bond Notes: Valuation percentiles are relative to Year 30 projections from VCMM.
+Intermediate credit and U.S. aggregate bond valuations are current spreads
+Index) is in the 2.75%–3.75% range, lower than this time
+relative to Year 30. Duration valuation is the expected return differential over
+last year because of lower Treasury yields and modestly the next decade between the long-term Treasury index and the short-term
+higher credit spreads. Treasury index relative to Years 21–30. TIPS valuation is the ten-year-ahead
+annualized inflation expectation relative to Years 21–30. Returns do not take
+into account management fees and expenses, nor do they reflect the effect of
+Treasury Inflation-Protected Securities (TIPS): taxes. Returns do reflect reinvestment of dividends and capital gains. Indexes
+Markets don’t see inflation coming are unmanaged; therefore, direct investment is not possible.
+Source: Vanguard, as of September 30, 2020.
+Break-even inflation expectations inferred from the U.S.
+TIPS market have recovered from their pre-pandemic
+levels but remain below the Fed’s 2% inflation target
+Bonds as ballast in a multi-asset portfolio
+and slightly lower than the VCMM long-term median
+levels. Although this may reduce the attractiveness of With economic growth and inflation staying even lower
+TIPS from a return perspective, we still believe they for longer after the first phase of the economic recovery
+could be a valuable inflation hedge for some institutions and with the markets expecting loose monetary policy to
+and investors sensitive to inflation risk. Although our persist, we find it hard to see any material uptick in fixed
+economic outlook suggests that persistent high inflation income returns in the foreseeable future. Instead of
+is unlikely over the medium term, growth/inflation surges viewing this asset class as a primary return-generating
+are possible because of base effects or optimism driven investment, investors are encouraged to view bonds
+by health outcomes. This is not our base case, but it from a risk-mitigating perspective. Our analysis in last
+nonetheless presents TIPS as a good hedge in the event year’s outlook suggested that bonds maintain their
+this risk scenario unfolds. diversification benefits despite low-to-negative global
+yields; the events of 2020 only confirmed that.
+IMPORTANT: The projections and other information generated by the Vanguard Capital Markets Model regarding the likelihood of various investment
+outcomes are hypothetical in nature, do not reflect actual investment results, and are not guarantees of future results.
+8 Credit spreads have continued to tighten since the date of this analysis, which has compressed the credit risk premium and moved valuations above their 50th percentile
+historically. Notably, they are still within the fair value range depicted here. 41
+
+--- PAGE 42 ---
+Portfolio implications: Low return environment FIGURE II-8
+persists, but marginal equity risk is better The efficient frontier has steepened
+compensated because of the increased expected equity
+As highlighted in previous sections and previous years, risk premium
+elevated equity valuations and low rates have pulled the
+market’s efficient frontier of portfolio expected returns
+into a lower orbit. This year, however, the efficient frontier
+has steepened (that is, there are larger increases in
+expected return for increases in equity risk), as seen in
+Figure II-8. The steepening of the frontier is a result of
+lower valuations in international equity markets and lower
+yield curves throughout the world. Clients for whom a
+time-varying approach to asset allocation is appropriate
+are expected to be better compensated for taking equity
+risk (Wallick et al., 2020).
+Over the medium term, we expect central banks to keep
+interest rates low and take measures to prevent a sharp
+steepening in the yield curve, thereby keeping risk-free
+rates close to current levels. Elevated valuations raise Note: Lines indicate the range of portfolios and dots indicate 60% equity/40% bond
+portfolios that achieve the highest expected return per unit of volatility across U.S.
+the probability of a correction that could lead to more
+and non-U.S. equities, short-term U.S. credit bonds, short- and long-term Treasuries,
+attractive valuations for financial assets and a higher short-term Treasury Inflation-Protected Securities, and non-U.S. aggregate bonds.
+return outlook compared with our forecasts today. Returns do not take into account management fees and expenses, nor do they reflect
+the effect of taxes. Returns do reflect reinvestment of dividends and capital gains.
+Nonetheless, the return outlook is still likely to remain
+Indexes are unmanaged; therefore, direct investment is not possible. See the
+much lower than the experience of previous decades Appendix section titled “Indexes for VCMM simulations” for further details on
+and, in particular, of the post-global financial crisis years. asset classes shown here.
+Source: Vanguard calculations, based on VCMM projections as of September 30,
+2019, and September 30, 2020.
+To try to increase portfolio returns, a popular strategy is
+to overweight higher-expected-return assets or higher-
+yield assets, as highlighted in Figure II-9 (on page 43).
+A few common “reach for yield” strategies include inflation shocks is real. For instance, higher growth
+overweighting real estate investment trusts (REITs) rates and inflation could accompany a reopening of the
+and high-yield corporates. Similarly, “reach for return” economy that occurs after the successful distribution
+strategies involve tilting the portfolio toward emerging- of a vaccine. While such an inflation impact is likely to
+market equities to take advantage of higher growth be transient in our view, investors may wish to hedge
+prospects. Home bias causes some to shy away from such a risk.
+non-U.S. equities. While some of these strategies could
+improve the risk–return profile marginally, they are unlikely, For investors looking to hedge inflation risk, our research
+by themselves, to escape the strong gravitational pull of indicates that it is the sensitivity (that is, beta) of the hedge
+low-return forces in play and restore portfolios to the asset to inflation, not the correlation, that matters.9 Further,
+higher orbit of historical returns. for long-only investors, volatility is also an important
+consideration. Figure II-10 (on page 43) shows the
+Inflation-hedging: Focus on the betas, not inflation beta and volatility of popular inflation hedges.
+the correlations From an aggregate portfolio perspective, investors looking
+Although we expect secular forces, demand/supply to hedge inflation risk should look to Treasury bills, TIPS,
+imbalances, and a persistent output gap to keep a lid and commodities or gold over REITs and equities
+on inflation for the foreseeable future, the risk of because of higher betas and/or lower volatilities.
+IMPORTANT: The projections and other information generated by the Vanguard Capital Markets Model (VCMM) regarding the likelihood of various
+investment outcomes are hypothetical in nature, do not reflect actual investment results, and are not guarantees of future results.
+9 Inflation beta is defined as how much an asset’s return increases when inflation goes up by 1 percentage point, and it represents the true inflation-hedging property of
+the asset. Whereas correlation captures the direction of co-movement between the asset’s returns and inflation, inflation beta captures both the direction and the
+42 magnitude of the co-movement. (See Aliaga-Díaz et al., 2018.)
+nruter
+dezilaunna
+raey-5
+detcepxE
+10%
+September
+8 2020
+6
+4 September
+2019
+2
+0
+0 2 4 6 8 10 12 14 16 18%
+Volatility
+60% equity/40% bond portfolio
+
+--- PAGE 43 ---
+FIGURE II-10
+How assets perform as hedges of short-term inflation
+Notes: Correlations of CPI with asset classes are based on rolling one-year annualized returns. Volatility is calculated as the standard deviation of rolling one-year
+annualized returns. Data are from January 1970 to October 2020.
+Sources: Vanguard calculations, based on data from Refinitiv, Moody’s Analytics Data Buffet, the S&P GSCI, the Bloomberg Barclays Treasury Inflation Protected
+Securities Index, the S&P GSCI Gold Index, and the FTSE Nareit All Equity REITs Index, as of September 30, 2020.
+43
+notiaflni
+IPC
+.S.U-ot-ateB
+FIGURE II-9
+Projected ten-year annualized nominal returns
+5th 25th 75th 95th Median
+Portfolios percentile percentile Median percentile percentile volatility
+100% bonds 0.2% 0.8% 1.2% 1.7% 2.7% 3.3%
+Global 20/80 stock/bond 1.1% 1.9% 2.5% 3.1% 4.1% 3.8%
+balanced 60/40 stock/bond 1.3% 3.2% 4.6% 6.0% 8.2% 9.5%
+portfolios 80/20 stock/bond 1.0% 3.6% 5.5% 7.3% 10.1% 12.9%
+100% equity 0.5% 3.9% 6.2% 8.5% 12.1% 16.4%
+60/40 stock/bond 1.3% 3.2% 4.6% 6.0% 8.2% 9.5%
+High-yield tilt 1.6% 3.6% 5.0% 6.4% 8.6% 10.4%
+U.S. tilt 0.8% 2.8% 4.3% 5.8% 8.0% 9.5%
+Portfolios
+Emerging markets equity tilt 1.3% 3.5% 4.9% 6.4% 8.6% 11.0%
+with common
+60/40 without ex-U.S. equity –0.2% 2.1% 3.7% 5.4% 7.9% 9.8%
+20% tilts
+REITs tilt 1.1% 3.0% 4.4% 5.8% 7.8% 9.1%
+TIPS tilt 1.3% 3.2% 4.6% 6.0% 8.1% 9.4%
+IMPORTANT: The projections and other information generated by the Vanguard Capital Markets Model (VCMM) regarding the likelihood of various
+investment outcomes are hypothetical in nature, do not reflect actual investment results, and are not guarantees of future results.
+Notes: Summary statistics are from 10,000 VCMM simulations for projected ten-year annualized nominal returns as of September 30, 2020, in USD before costs.
+Historical returns are computed using indexes defined in “Indexes used in our historical calculations” on page 5. The global equity is 60% U.S. equity and 40% global
+ex-U.S. equity. The global bond portfolio is 70% U.S. bonds and 30% global ex-U.S. bonds. Portfolios with tilts include a 20% tilt to the asset specified, funded from the
+fixed income allocation for the fixed income tilt and the equity allocation for the equity tilt. Returns do not take into account management fees and expenses, nor do they
+reflect the effect of taxes. Returns do reflect reinvestment of dividends and capital gains. Indexes are unmanaged; therefore, direct investment is not possible.
+Source: Vanguard, as of September 30, 2020.
+4.0
+3.0
+2.0
+1.0
+0
+−1.0
+Global Global REITs TIPS Treasury Commodities Gold
+bonds equity bills
+Volatility 7.1% 17.0% 19.1% 4.9% 3.5% 24.9% 27.1%
+
+--- PAGE 44 ---
+Taking stock holistically of market and economic considerations. In Figure II-11, we’ve aggregated our
+fundamentals perspectives on the impact of these drivers on economic
+This year, more so than in the past, our outlook for both and financial market fundamentals, thus tying our
+the economy and financial markets hinges on a number macroeconomic perspectives to our views on asset
+of factors. While health outcomes take preeminence as returns and portfolio construction.
+a near-term driver of outcomes, there are several other
+FIGURE II-11
+Disparate fundamental effects from key drivers
+▲ Directional impact: Higher
+● Directional impact: Undetermined
+▼ Directional impact: Lower
+Outcomes
+Fixed
+Equity income Asset Interest
+Drivers Base case returns returns Volatility correlations rates Growth Inflation Productivity
+Health/
+Effective near-
+mitigation ▲ ▼ ▼ ▼ ● ▲ ● ●
+term solution
+solutions
+Fiscal policy/ Increases ● ▼ ▲ ▼ ▲ ▲ ▲ ●
+public debt
+Monetary Very ▲ ● ▼ ▲ ▼ ▲ ▲ ▲
+policy accommodative
+Globalization Slowbalization ▼ ▲ ▲ ▲ ▼ ▼ ▲ ▼
+Inequality Increases ● ▲ ▲ ▲ ▼ ▼ ▼ ▼
+Winner Accelerates ▲ ▲ ▼ ▲ ▼ ● ● ●
+take all
+Labor market Moderate ▼ ▼ ▲ ▼ ▼ ▼ ● ▲
+scarring
+Consumer Gradually eases ▼ ▼ ▲ ▼ ▼ ▼ ▼ ●
+reluctance
+Work from Higher ▲ ▼ ▼ ▼ ● ▲ ● ▲
+home permanence
+Summary ● ▼ ● ● ▼ ● ▲ ▲
+Notes: Cells represent the directional impact on a given outcome indicator based on the Vanguard base case assessment for a given driver.
+Source: Vanguard, as of November 30, 2020.
+44
+
+--- PAGE 45 ---
+Portfolio construction strategies for three potential of 12 percentage points because of a steeper efficient
+economic scenarios frontier. Also compared with last year’s baseline, we are
+Based on our global economic perspectives, we examine still tilted to non-U.S. equities relative to U.S. exposure.
+in Figure II-12 three possible economic scenarios
+occurring over the next three years. The “proximate Using our VCMM simulations, we are able not only to
+path” scenario depicts an economic environment of illustrate the effectiveness of various portfolio strategies
+trend economic growth, low inflation, and low policy designed for each scenario but also to show the risks of
+rates. The “off-course” scenario is defined by low such strategies. The following conclusions can be drawn
+growth and minimal productivity. The “path improved” from our analysis:
+scenario involves a strong surge in growth and inflation,
+1. Portfolios designed for specific macroeconomic
+as well as rising rates and a productivity boom that
+scenarios entail important trade-offs. If the scenario
+combine to push us above pre-pandemic trend growth.
+for which the portfolio was designed does not take
+place, then the portfolio performance is typically the
+Figure II-12 shows optimal portfolios for each scenario that
+worst of all the options.
+vary their exposures to the following four factors, or risk
+premiums: equity risk premium, term premium, credit 2. A balanced portfolio works well for investors who
+premium, and inflation risk premium. In a high-growth are agnostic about the future state of the economy.
+path improved scenario, expected global equity returns The baseline balanced portfolio is an “all-weather”
+would be high, and steepening is seen in the efficient strategy, with either top or middle-of-the-road
+frontier. Long and short rates would also rise faster performance in each scenario.
+than expected, resulting in an optimal portfolio that is
+3. Portfolio tilts should be done within an optimization
+overweight equity and inflation-linked bonds.
+framework. Ad hoc tilts ignore correlations among
+assets and lead to inefficient portfolios. For instance,
+A recessionary, off-course-scenario portfolio would
+in an off-course scenario strategy, U.S. equities can
+underweight equity and overweight long duration.
+be close to market-weighted (as opposed to
+Surprisingly, the allocation to U.S. equity remains rather
+underweighted) because of the added diversification
+large, as the portfolio that is also heavy on long-term
+benefits of long-term bonds.
+Treasuries derives a larger diversification benefit from
+U.S. equities in spite of their lower returns (especially
+in a recession) than from including higher-returning non-
+U.S. equity assets.
+The portfolio strategy in our baseline scenario is well-
+diversified but overweights risk assets by 4 percentage
+points compared with a 60/40 portfolio. As asset-return
+expectations materially change through time, the allocation
+in our baseline scenario also changes accordingly. These
+changing asset expectations drive what are known as
+time-varying portfolios, which use forward-looking asset-
+return expectations as the basis for potential strategic
+allocation changes. Our research suggests that investors
+who have the willingness and ability to accept forecast
+model risk may be able to improve risk-adjusted returns
+over the long term relative to a static portfolio (Wallick et
+al., 2020). Compared with our baseline scenario for 2020,
+our 2021 baseline portfolio has increased equity exposure
+45
+
+--- PAGE 46 ---
+FIGURE II-12
+Cyclical surprises and asset allocation trade-offs
+Scenario 1 Scenario 2 Scenario 3
+Proximate path Off-course Path improved
+Small overweight Small underweight Overweight equity and
+equity and overweight equity and larger overweight inflation-
+long duration overweight long duration linked bonds
+46
+nruter
+dezilaunna
+naideM
+a. O ptimal portfolios vary
+for different economic
+environments.
+26% U.S. equity 24% U.S. equity 36% U.S. equity
+38% Global ex-U.S. equity 33% Global ex-U.S. equity 36% Global ex-U.S. equity
+2% Global ex-U.S. bonds 2% Global ex-U.S. bonds 8% Global ex-U.S. bonds
+0% Short-term credit 0% Short-term credit 0% Short-term credit
+1% Short-term Treasury 1% Short-term Treasury 1% Short-term Treasury
+28% Long-term Treasury 39% Long-term Treasury 7% Long-term Treasury
+5% Short-term TIPS 1% Short-term TIPS 12% Short-term TIPS
+b. T he proximate 8%
+path portfolio
+is not always 6
+the best, but it’s
+never the worst. 4
+2
+IMPORTANT: The
+projections and other 0
+information generated 7 8 9 10 11% 8 9 10 11 12 13% 8 9 10 11 12%
+by the Vanguard Capital
+Median volatility
+Markets Model regarding
+the likelihood of various
+investment outcomes are
+Best Proximate path Off-course Path improved
+hypothetical in nature,
+do not reflect actual
+investment results, and Second-best Off-course Proximate path Proximate path
+are not guarantees of
+future results.
+Worst Path improved Path improved Off-course
+c. P ortfolios designed
+Strategy upside relative 0.1% lower annualized 1.2% higher annualized
+for a single scenario to proximate path portfolio return with 1.2% lower return with 2.2% higher
+volatility in an off-course volatility in a path improved
+are tempting but
+scenario scenario
+can be risky.
+Strategy downside relative 0.5% lower annualized 0.25% lower annualized
+to proximate path portfolio return with 1.4% lower return with 2% higher
+volatility in a path improved volatility in an off-course
+scenario scenario
+Notes: Performance is relative to the efficient frontier. Portfolios are selected from an efficient frontier based on a fixed risk aversion level using a utility-function-
+based optimization model. The forecast displays simulations of three-year annualized returns of asset classes shown as of September 30, 2020. Scenarios are based
+on sorting the VCMM simulations based on rates, growth, volatility, and inflation. The three scenarios are a subset of the 10,000 VCMM simulations. Returns do not
+take into account management fees and expenses, nor do they reflect the effect of taxes. Returns do reflect reinvestment of dividends and capital gains. Indexes are
+unmanaged; therefore, direct investment is not possible. See the Appendix section titled “Index simulations” for further details on asset classes shown here.
+Source: Vanguard, as of September 30, 2020.
+
+--- PAGE 47 ---
+References Davis, Joseph, Qian Wang, Andrew Patterson, Adam J.
+Schickling, and Asawari Sathe, 2019. The Idea Multiplier: An
+Aliaga-Díaz, Roger, Qian Wang, Andrew Patterson, Vytas Maciulis,
+Acceleration in Innovation Is Coming. Valley Forge, Pa.: The
+and Ashish Rajbhandari, 2018. Global Macro Matters: From
+Vanguard Group.
+Reflation to Inflation: What’s the Tipping Point for Portfolios?
+Valley Forge, Pa.: The Vanguard Group. DiCiurcio, Kevin, Ian Kresnak, Kelly Farley, and Luigi Charles,
+2020. Global Macro Matters: A Tale of Two Decades for U.S.
+Davis, Joseph, 2019. Why Inflation Remains Low (Hint: It’s
+and Non-U.S. Equity: Past Is Rarely Prologue. Valley Forge, Pa.:
+About Technology). Blog posted July 22, 2019. Available at
+The Vanguard Group.
+www.vanguardcanada.ca/individual/articles/education-
+commentary/vanguard-voices/moore-law.htm Patterson, Andrew J., Shaan Raithatha, Adam Schickling,
+Maximilian Wieland, and Beatrice Yeo, 2020. Global Macro
+Davis, Joseph, Roger Aliaga-Díaz, Harshdeep Ahluwalia and Ravi
+Matters: Estimating the Economic Impact of the COVID-19
+Tolani, 2018. Improving U.S. Stock Return Forecasts: A “Fair-
+Shock. Valley Forge, Pa.: The Vanguard Group.
+Value” CAPE Approach. The Journal of Portfolio Management
+44(3): 43–55. Philips, Christopher B., Joseph H. Davis, Andrew J. Patterson, and
+Charles J. Thomas, 2014. Global Fixed Income: Considerations for
+Davis, Joseph, Roger A. Aliaga-Díaz, Peter Westaway, Qian
+Fixed Income Investors. Valley Forge, Pa.: The Vanguard Group.
+Wang, Andrew J. Patterson, Kevin DiCiurcio, Alexis Gray, and
+Jonathan Lemco, 2019. Vanguard Economic and Market Outlook Schickling, Adam, Beatrice Yeo, and Qian Wang, 2021. In
+for 2020: The New Age of Uncertainty. Valley Forge, Pa.: The Search of Fluctuations: Dissecting China’s True Growth Picture
+Vanguard Group. and Its Implications. Valley Forge, Pa.: The Vanguard Group.
+Davis, Joseph, Roger A. Aliaga-Díaz, Peter Westaway, Qian Sims, Christopher A., 2016. Fiscal Policy, Monetary Policy
+Wang, Andrew J. Patterson, Kevin DiCiurcio, Alexis Gray, and and Central Bank Independence. Available at https://www.
+Jonathan Lemco, 2020. Vanguard Economic and Market kansascityfed.org/~/media/files/publicat/sympos/2016/
+Outlook, 2020 Midyear Update: Forecasting in the Time of econsymposium-sims-paper.pdf?la=en
+Coronavirus. Valley Forge, Pa.: The Vanguard Group.
+Tufano, Matthew, Asawari Sathe, Beatrice Yeo, Andrew S.
+Davis, Joseph H., Andrew Patterson, Asawari Sathe, Adam Clarke, and Joseph Davis, 2018. Megatrends: The Future of
+Schickling, and Qian Wang, 2020. The Idea Multiplier: An Work. Valley Forge, Pa.: The Vanguard Group.
+Innovation in Predicting Productivity. Available at SSRN: https://
+ssrn.com/abstract=3695091 or http://dx.doi.org/10.2139/ Wallick, Daniel W., Kevin DiCiurcio, Darrell I. Pacheco, and
+ssrn.3695091. Roger Aliaga-Díaz, 2020. The Implications of Time-Varying
+Return on Portfolio Construction. Valley Forge, Pa.: The
+Vanguard Group.
+47
+
+--- PAGE 48 ---
+III. Appendix data. Using a system of estimated equations, the model
+then applies a Monte Carlo simulation method to project
+the estimated interrelationships among risk factors and
+asset classes as well as uncertainty and randomness over
+About the Vanguard Capital Markets Model time. The model generates a large set of simulated
+outcomes for each asset class over several time horizons.
+IMPORTANT: The projections and other information
+Forecasts are obtained by computing measures of central
+generated by the Vanguard Capital Markets Model
+tendency in these simulations. Results produced by the
+regarding the likelihood of various investment outcomes
+tool will vary with each use and over time.
+are hypothetical in nature, do not reflect actual investment
+results, and are not guarantees of future results. VCMM
+The primary value of the VCMM is in its application to
+results will vary with each use and over time.
+analyzing potential client portfolios. VCMM asset-class
+forecasts—comprising distributions of expected returns,
+The VCMM projections are based on a statistical analysis
+volatilities, and correlations—are key to the evaluation of
+of historical data. Future returns may behave differently
+potential downside risks, various risk–return trade-offs,
+from the historical patterns captured in the VCMM. More
+and the diversification benefits of various asset classes.
+important, the VCMM may be underestimating extreme
+Although central tendencies are generated in any return
+negative scenarios unobserved in the historical period on
+distribution, Vanguard stresses that focusing on the full
+which the model estimation is based.
+range of potential outcomes for the assets considered,
+such as the data presented in this paper, is the most
+The VCMM is a proprietary financial simulation tool
+effective way to use VCMM output. We encourage
+developed and maintained by Vanguard’s Investment
+readers interested in more details of the VCMM to
+Strategy Group. The model forecasts distributions of future
+read Vanguard’s white paper (Davis et al., 2014).
+returns for a wide array of broad asset classes. Those
+asset classes include U.S. and international equity markets,
+The VCMM seeks to represent the uncertainty in
+several maturities of the U.S. Treasury and corporate fixed
+the forecast by generating a wide range of potential
+income markets, international fixed income markets, U.S.
+outcomes. It is important to recognize that the VCMM
+money markets, commodities, and certain alternative
+does not impose “normality” on the return distributions,
+investment strategies. The theoretical and empirical
+but rather is influenced by the so-called fat tails and
+foundation for the Vanguard Capital Markets Model is
+skewness in the empirical distribution of modeled asset-
+that the returns of various asset classes reflect the
+class returns. Within the range of outcomes, individual
+compensation investors require for bearing different types
+experiences can be quite different, underscoring the
+of systematic risk (beta). At the core of the model are
+varied nature of potential future paths. Indeed, this is a
+estimates of the dynamic statistical relationship between
+key reason why we approach asset-return outlooks in a
+risk factors and asset returns, obtained from statistical
+distributional framework.
+analysis based on available monthly financial and economic
+48
+
+--- PAGE 49 ---
+Indexes for VCMM simulations • U.S. long-term Treasury bonds: Bloomberg Barclays
+U.S. Long Treasury Bond Index.
+The long-term returns of our hypothetical portfolios are
+based on data for the appropriate market indexes through • U.S. credit bonds: Bloomberg Barclays U.S. Credit
+September 30, 2020. We chose these benchmarks to Bond Index.
+provide the most complete history possible, and we
+• U.S. short-term credit bonds: Bloomberg Barclays
+apportioned the global allocations to align with Vanguard’s
+U.S. 1–3 Year Credit Bond Index.
+guidance in constructing diversified portfolios. Asset
+classes and their representative forecast indexes are • U.S. high-yield corporate bonds: Bloomberg
+as follows: Barclays U.S. High Yield Corporate Bond Index.
+• U.S. equities: MSCI US Broad Market Index. • U.S. bonds: Bloomberg Barclays U.S. Aggregate
+Bond Index.
+• Global ex-U.S. equities: MSCI All Country World ex
+USA Index. • Global ex-U.S. bonds: Bloomberg Barclays Global
+Aggregate ex-USD Index.
+• U.S. REITs: FTSE/NAREIT US Real Estate Index.
+• U.S. TIPS: Bloomberg Barclays U.S. Treasury Inflation
+• U.S. cash: U.S. 3-Month Treasury—constant
+Protected Securities Index.
+maturity.
+• U.S. short-term TIPS: Bloomberg Barclays U.S. 1–5
+• U.S. Treasury bonds: Bloomberg Barclays U.S.
+Year Treasury Inflation Protected Securities Index.
+Treasury Index.
+• U.S. short-term Treasury bonds: Bloomberg
+Barclays U.S. 1–5 Year Treasury Bond Index.
+Notes on risk
+All investing is subject to risk, including the possible loss of the money you invest. Past performance is no guarantee
+of future returns. Diversification does not ensure a profit or protect against a loss in a declining market. There is no
+guarantee that any particular asset allocation or mix of funds will meet your investment objectives or provide you with
+a given level of income. The performance of an index is not an exact representation of any particular investment, as
+you cannot invest directly in an index.
+Stocks of companies in emerging markets are generally more risky than stocks of companies in developed countries.
+U.S. government backing of Treasury or agency securities applies only to the underlying securities and does not
+prevent price fluctuations. Investments that concentrate on a relatively narrow market sector face the risk of higher
+price volatility. Investments in stocks issued by non-U.S. companies are subject to risks including country/regional risk
+and currency risk.
+Bond funds are subject to the risk that an issuer will fail to make payments on time, and that bond prices will decline
+because of rising interest rates or negative perceptions of an issuer’s ability to make payments. High-yield bonds
+generally have medium- and lower-range credit-quality ratings and are therefore subject to a higher level of credit risk
+than bonds with higher credit-quality ratings. Although the income from U.S. Treasury obligations held in the fund is
+subject to federal income tax, some or all of that income may be exempt from state and local taxes.
+49
+
+--- PAGE 50 ---
+Connect with Vanguard® > vanguard.com © 2020 The Vanguard Group, Inc.
+All rights reserved.
+Vanguard Marketing Corporation, Distributor.
+CFA® is a registered trademark owned by CFA Institute. ISGVEMO 122020

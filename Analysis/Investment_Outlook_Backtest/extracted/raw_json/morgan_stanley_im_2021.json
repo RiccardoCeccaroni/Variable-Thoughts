@@ -1,0 +1,41 @@
+{
+  "company": "Morgan Stanley Investment Management",
+  "report_year": "2021",
+  "publication_date": "2021-01",
+  "forecast_period": "2021-2022",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth",
+      "horizon": "2021",
+      "forecast_value": "6.4%",
+      "source_quote": "2021 global growth of 6.4% is expected (following a contraction of 3.4% in 2020)"
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "U.S. real GDP growth",
+      "horizon": "2021",
+      "forecast_value": "5.9%",
+      "source_quote": "According to Morgan Stanley Research, global GDP will return to its pre-COVID path (i.e., what it would have been absent the COVID-19 shock) by 4Q21."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core PCE inflation",
+      "horizon": "end of 2021",
+      "forecast_value": "2.0%",
+      "source_quote": "inflation will pick up, predominately in the U.S., rising to 2% by the end of 2021 and 2.5% in 2022 vs 1.2% in 2020."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core PCE inflation",
+      "horizon": "2022",
+      "forecast_value": "2.5%",
+      "source_quote": "inflation will pick up, predominately in the U.S., rising to 2% by the end of 2021 and 2.5% in 2022 vs 1.2% in 2020."
+    }
+  ],
+  "excluded_vague_count": 18
+}

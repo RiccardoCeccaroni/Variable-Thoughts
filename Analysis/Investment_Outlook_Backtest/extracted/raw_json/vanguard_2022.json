@@ -1,0 +1,113 @@
+{
+  "company": "Vanguard",
+  "report_year": "2022",
+  "publication_date": "2021-12",
+  "forecast_period": "2022 calendar year",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth",
+      "horizon": "2022 calendar year",
+      "forecast_value": "4%",
+      "source_quote": "Overall, we expect GDP growth of 4% over the course of 2022."
+    },
+    {
+      "category": "growth",
+      "region": "Euro area",
+      "variable": "Real GDP growth",
+      "horizon": "2022 calendar year",
+      "forecast_value": "4%",
+      "source_quote": "In both the United States and the euro area, we expect growth to slow down to 4%."
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "Real GDP growth",
+      "horizon": "2022 calendar year",
+      "forecast_value": "5.5%",
+      "source_quote": "In the U.K., we expect growth of about 5.5%"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "Real GDP growth",
+      "horizon": "2022 calendar year",
+      "forecast_value": "~5%",
+      "source_quote": "in China we expect growth to fall to about 5%."
+    },
+    {
+      "category": "growth",
+      "region": "EM",
+      "variable": "Real GDP growth",
+      "horizon": "2022 calendar year",
+      "forecast_value": "5.5%",
+      "source_quote": "Across emerging markets, growth could prove uneven, aggregating to 5.5%."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core PCE (year-over-year)",
+      "horizon": "year-end 2022",
+      "forecast_value": "2.3%–2.6%",
+      "source_quote": "bringing the Core Personal Consumption Expenditures Price Index for year-end 2022 in the range of 2.3%–2.6% year over year."
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "Headline CPI (year-over-year) peak",
+      "horizon": "H1 2022",
+      "forecast_value": "4.5%–5%",
+      "source_quote": "We expect headline CPI to peak between 4.5% and 5% in the first half of 2022"
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "Headline CPI (year-over-year)",
+      "horizon": "year-end 2022",
+      "forecast_value": "~2.5%",
+      "source_quote": "and approach 2.5% year over year by the end of 2022."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "U-3 unemployment rate",
+      "horizon": "mid-2022",
+      "forecast_value": "3.5%",
+      "source_quote": "the official unemployment rate will reach the pre-pandemic low of 3.5% in mid-2022"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed first rate hike timing",
+      "horizon": "2022",
+      "forecast_value": "H2 2022",
+      "source_quote": "In the United States, that balance should involve the Federal Reserve raising interest rates in the second half of 2022"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate (terminal, this cycle)",
+      "horizon": "end of tightening cycle",
+      "forecast_value": "at least 2.5%",
+      "source_quote": "Ultimately, we anticipate that the Federal Reserve will raise rates to at least 2.5% by the end of this cycle to keep wage pressures under control and to keep inflation expectations stable."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Euro area",
+      "variable": "ECB rate hike timing",
+      "horizon": "through end-2023",
+      "forecast_value": "no rate hikes for at least 24 months",
+      "source_quote": "we don't currently expect rate hikes over at least the next 24 months"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England first rate hike",
+      "horizon": "December 2021 – February 2022",
+      "forecast_value": "December 2021 (or February 2022 if labor data disappoints)",
+      "source_quote": "We expect the MPC to begin raising interest rates in December 2021, provided that October labor market data are in line with our expectations."
+    }
+  ],
+  "excluded_vague_count": 26
+}

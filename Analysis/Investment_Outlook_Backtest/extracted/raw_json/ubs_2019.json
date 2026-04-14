@@ -1,0 +1,33 @@
+{
+  "company": "UBS Global Wealth Management",
+  "report_year": "2019",
+  "publication_date": "2018-12-06",
+  "forecast_period": "2019 and next 6-12 months",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth",
+      "horizon": "2019 calendar year",
+      "forecast_value": "3.6%",
+      "source_quote": "Global economic growth will decelerate next year to 3.6% from 3.8% in 2018"
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Brent crude oil price",
+      "horizon": "June-December 2019",
+      "forecast_value": "USD 85/barrel",
+      "source_quote": "CIO sees the recent sell off in crude oil prices as overdone, and expects prices to rise towards USD 85/barrel over the next six to 12 months"
+    },
+    {
+      "category": "fx",
+      "region": "China",
+      "variable": "Chinese yuan trade-weighted exchange rate",
+      "horizon": "2019",
+      "forecast_value": "5% decline in trade-weighted terms",
+      "source_quote": "The Chinese yuan should continue to decline, easing 5% in trade-weighted terms against a backdrop of ongoing US-China trade tensions, slowing Chinese economic growth, and a diminishing current account surplus."
+    }
+  ],
+  "excluded_vague_count": 9
+}

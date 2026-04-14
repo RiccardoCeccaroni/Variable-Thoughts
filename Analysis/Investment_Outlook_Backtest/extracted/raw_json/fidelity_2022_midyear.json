@@ -1,0 +1,25 @@
+{
+  "company": "Fidelity International",
+  "report_year": "2022",
+  "publication_date": "2022-04",
+  "forecast_period": "Mid-2022 onward",
+  "predictions": [
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "End of 2022",
+      "forecast_value": "unlikely to rise much further from ~2.5%",
+      "source_quote": "Investors may not need to be concerned about bond yields rising much further. If their capital is safe and they are collecting a 2.5% yield in the meantime, then the case for bonds is much stronger."
+    },
+    {
+      "category": "growth",
+      "region": "Europe",
+      "variable": "Eurozone recession",
+      "horizon": "Within the next year (by mid-2023)",
+      "forecast_value": "recession is base case",
+      "source_quote": "Recession now looks like a base case for the region within the next year as rising fuel, food and energy bills weigh on household incomes."
+    }
+  ],
+  "excluded_vague_count": 20
+}

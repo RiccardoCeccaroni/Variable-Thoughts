@@ -1,0 +1,96 @@
+{
+  "company": "Schroders",
+  "report_year": "2019",
+  "publication_date": "2018-12-05",
+  "forecast_period": "2019",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "2.9%",
+      "source_quote": "Our forecast is for global economic growth to slow to 2.9% in 2019"
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "2.4%",
+      "source_quote": "We see US GDP growth at 2.4% in 2019"
+    },
+    {
+      "category": "growth",
+      "region": "Eurozone",
+      "variable": "Eurozone real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.6%",
+      "source_quote": "Our forecast has GDP growth slowing from 1.9% in 2018 to 1.6% in 2019"
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "UK real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.4%",
+      "source_quote": "we forecast GDP growth of 1.4%"
+    },
+    {
+      "category": "growth",
+      "region": "Japan",
+      "variable": "Japan real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1%",
+      "source_quote": "we see GDP growth of 1% in 2019"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China real GDP growth (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "6.2%",
+      "source_quote": "We forecast Chinese growth to slow to 6.2% in 2019"
+    },
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth (YoY%)",
+      "horizon": "2020",
+      "forecast_value": "2.5%",
+      "source_quote": "We see a further slowdown in global growth to 2.5% for 2020"
+    },
+    {
+      "category": "inflation",
+      "region": "Global",
+      "variable": "Global inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "2.9%",
+      "source_quote": "our global inflation forecast has increased to 2.9% for 2019"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "2.7%",
+      "source_quote": "For the US, we see inflation remaining elevated in 2019 at 2.7%"
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "UK inflation (YoY%)",
+      "horizon": "2019",
+      "forecast_value": "1.8%",
+      "source_quote": "For the UK, we forecast inflation to fall from 2.5% in 2018 to 1.8% in 2019"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate peak",
+      "horizon": "mid-2019",
+      "forecast_value": "3%",
+      "source_quote": "We anticipate three more interest rate increases from the US Federal Reserve (Fed), taking the Fed funds policy rate to a peak of 3% in June 2019"
+    }
+  ]
+}

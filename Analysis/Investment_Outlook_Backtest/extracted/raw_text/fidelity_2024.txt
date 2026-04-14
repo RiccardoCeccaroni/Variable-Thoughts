@@ -1,0 +1,1474 @@
+SOURCE: fidelity/fidelity_2024.pdf
+PAGES: 32
+
+--- PAGE 1 ---
+This is for investment professionals only and should not be relied upon by private investors
+
+--- PAGE 2 ---
+Contents
+Overview 3
+The economy in 2024 5
+Scenario 1: Cyclical recession 9
+Scenario 2: Soft landing 1 4
+Scenario 3: Balance sheet recession 18
+Scenario 4: No landing 22
+Asia 26
+Sustainability 30
+2 Investment Outlook Fidelity International
+
+--- PAGE 3 ---
+Overview
+More risk, higher yields, and four ways forward
+Remarkable changes across economies and markets, combined with a year of political
+uncertainty, make forecasting unusually difficult in 2024. Instead, we offer four potential paths
+the world could take, each assigned with its own probability.
+Andrew McCaffery
+Global CIO, Asset Management
+I have never managed money on the basis that I which allows us to prepare sooner, spotting signals
+know what’s going to happen in 12 months’ time. along the way that either support or refute a given
+I may have a view, but good investing needs outcome, so we can adapt accordingly.
+discipline, an open mind, and a preparedness to
+In our Outlook for the coming year, we lay out
+react to the facts as they change.
+the four macroeconomic scenarios for developed
+Often, it’s difficult to understand big economic, markets that we think investors should keep
+social, or political shifts until they are well underway in mind as 2024 unfolds, while our heads of
+and new trends are firmly established. We’re in the investment explain what each would mean for
+first stages of a dramatic regime change - from their asset class.
+low inflation and ever declining interest rates to
+And what a year lies ahead. There will be an
+something different. That something different will
+exceptional run of elections across the world during
+come with greater economic volatility and the risk
+2024 coinciding with a renewed interest in fiscal
+premium for holding assets will therefore be higher.
+policy. There is a political desire to maintain high
+We expect rates will tend higher and returns on
+budget deficits and government intervention in
+equity will be much more differentiated across
+different forms. Markets will start to exert a greater
+countries and regions.
+price for that spending. We are going to be talking
+In this environment I find it more helpful to consider about the cost of capital a lot in 2024, not just for
+different scenarios: the alternate paths economies corporates but for governments, and not only what
+and markets could take. My colleagues and I interest costs will do in the short run.
+estimate how likely we think each scenario to be,
+3 Investment Outlook Fidelity International
+
+--- PAGE 4 ---
+The most significant election, of course, will be in Perhaps the biggest shift of all is the effort to
+the United States. It has long been a destination build a more sustainable world, and the work by
+for safe haven flows and a place to park the policymakers to push companies and investors
+proceeds of trade surpluses, helping to fund public further into a transition economy. Engaging with the
+and private spending. In a world of reshoring network of regulators and industry groups through
+and falling Chinese demand for US goods, the ‘system-wide stewardship’ will continue to be
+so-called ‘exorbitant privilege’ that comes with important in 2024 and beyond, a topic our Outlook
+issuing the world’s reserve currency appears to be also covers.
+waning. These cracks could easily widen in 2024
+The world is always uncertain. But this is one of
+and present a temptation for the Federal Reserve
+those periods when it is not an exaggeration to use
+to pause or even reverse monetary measures like
+the phrase ‘regime change’. Investors will need to
+quantitative tightening.
+stay nimble in 2024, ready to navigate each twist
+China’s cycle is in a different place, with and turn as the real scenario plays out.
+implications for other Asian economies that can
+benefit from the country’s demand. Our 2024
+Outlook presents scenarios here, too. Meanwhile,
+Japan is, like western economies, adjusting to the
+end of one era and the beginning of another.
+4 Investment Outlook Fidelity International
+
+--- PAGE 5 ---
+The economy in 2024
+Something will give
+The economy continues to deliver surprises but we are confident of one thing: if US and other
+developed world interest rates have not peaked already, then they will do so soon. And against
+this backdrop growth will stall. We detail four potential scenarios for 2024 and the next leg of a
+business cycle which has seen the most intense round of monetary tightening in a generation.
+Salman Ahmed
+Global Head of Macro and Strategic Asset Allocation
+Much of what has surprised central bank officials Markets, where those betting on a downturn have
+and financial markets in 2023 stems from our lack already been burned once, are however now lined
+of understanding of the deeper economic effects up behind a Goldilocks ‘soft landing’ where the
+of the past fifteen years - including the pandemic - rate hikes and the tightening of the past two years
+on households and corporations. We will get more will do just enough to gradually return the economy
+clarity in the months ahead - on inflation, the optimal and labour market to equilibrium. We have a
+level of interest rates, or the stubborn resilience of the different view.
+US job market. But investors are rightly nervous that
+Our base case for 2024 is a cyclical
+the next stage of this cycle will bring more volatility.
+recession
+Our labour market tightness index is finally
+showing signs of easing Resilience driven by fiscally supported consumers
+and companies has been the biggest surprise of
+100%
+2023, but barring something extraordinary, next
+year we expect to see the economy finally turn
+50%
+lower. There are signs it is already doing so. The
+buffer of savings built up by households and the
+0%
+1950 1960 1970 1980 1990 2000 2010 2020 corporate sector in the pandemic is almost drained,
+NBER Recession Periods Soft Landing Periods fiscal support should narrow, and there is likely
+Fidelity US Labour Market Tightness Indicator
+to be a pick-up in refinancing needs at a time of
+credit tightening across the board.
+Source: Fidelity International, FIL Global Macro Team calculations, Haver Analytics, October 2023.
+5 Investment Outlook Fidelity International
+
+--- PAGE 6 ---
+US excess consumer savings almost depleted
+Aggregate excess savings following recessions
+$3tn
+$2tn
+$1tn
+$0tn
+$-1tn
+0 5 10 15 20 25 30 35 40 45
+Months since start of recession
+1970 1973 1980 1990
+2001 2008 2020
+Current business activity indicators show
+Note: excess savings calculated as the accumulated difference between actual personal savings Europe slowing down faster than the US
+and the trend implied by data for 48 months leading up the first month of each recession as
+defined by the National Bureau of Economic Research.
+Source: Fidelity International, FRBSF Staff calculations, BEA, September 2023.
+All of this supports our base case for a cyclical
+recession in 2024; inflation has begun to fall but
+interest rates will stay higher for longer until there
+are clearer signs it is heading back to target.
+Central banks will then pivot and cut rates as the
+damage to growth becomes obvious.
+Source: Fidelity International, FIL Global Macro Team calculations, Refinitiv Datastream, October 2023.
+Fundamentally, we continue to think there is simply
+a lag between policy tightening and the effects
+on the real economy. The transmission channel is
+delayed, not broken and the continued stickiness
+of inflation points to misaligned expectations that
+erocs-Z
+have to be balanced out. A moderate recession
+should achieve that, driven by tight monetary policy
+as the effects of lagged fiscal support melt away in
+the developed world. Labour markets will normalise
+and restore price stability before we move towards
+a recovery at the end of 2024.
+Signs of a recession are already apparent in
+Europe where the transmission channel is more
+effective. This has led the European Central Bank to
+start focusing on growth - a trend we think will take
+hold in the US next year.
+2
+1
+0
+-1
+-2
+July 2020 July 2021 July 2022 July 2023
+US Euro area
+Labour markets will normalise
+Alternative endings
+and restore price stability before
+we move towards a recovery at We still see room for other possibilities. Alongside
+the end of 2024 a cyclical recession, to which we give a
+probability of 60 per cent, our 2024 outlook
+considers the investment implications of a more
+severe balance sheet recession (10 per cent
+probability) that prompts widespread cutbacks
+in spending by companies and consumers alike
+and judders through the economy, even into
+2025, driven by a disruptive reaction to very high
+real rates. We consider the chances of the more
+6 Investment Outlook Fidelity International
+
+--- PAGE 7 ---
+benign soft landing (20 per cent); and a case in However, our research shows such a scenario
+which there is no landing in 2024 at all (10 per to be at odds with current inflation and labour
+cent), in other words, where the economy holds at market dynamics. Surveys of Fidelity’s equity, fixed
+current levels of growth and inflation, provoking income, and private credit analysts show that
+central banks into another, albeit incremental, pressure on company labour costs is alive and
+round of policy rate rises. well. Geopolitical tensions and the demands of
+the energy transition will keep upward pressure
+The path of Federal Reserve policy, together
+on commodity prices. This in turn will force central
+with inflation and growth trajectories, will look
+banks to keep interest rates high and sooner or
+dramatically different in each scenario and will
+later deliver a more dramatic shock to growth.
+inevitably be subject to high levels of uncertainty
+both in terms of timing and end points.
+Four scenarios for 2024
+Don’t forget the tails
+There are other real threats to growth. China’s
+Growth
+much feted path to recovery has proved rockier
+than hoped. The country’s unique story demands a
+set of its own scenarios for 2024 and, on balance,
+Note: Inflation rate measured by US Core Personal Consumption Expenditures Price Index. Growth
+we think Beijing will manage to hit its growth
+by US GDP per annum. Source: Fidelity International, October 2023.
+targets this year but will do little more as a period
+Markets are still optimistic
+of controlled stabilisation comes through.
+Under the soft landing scenario backed by current A US election year crystalises the partisan division
+market pricing, the decision to keep interest rates that threatens its government’s ability to spend and
+higher for longer could further reduce inflation to has the potential to shift geopolitical goalposts
+a level where policymakers are comfortable. The meaningfully, in both Europe and Asia.
+Fed and others would then respond by loosening
+The Russia-Ukraine war continues to fuel commodity
+policy, removing the threat of crippling rises in
+prices at a time when supply is already tight. Risks
+debt payments for households and companies.
+emanating from a widening of the Israel-Hamas
+Pressure for bigger rises in wages would abate
+war into a regional conflict remain, including a
+as inflation expectations eased and the labour
+potential rise in oil prices which would lead to
+market steadied.
+another shock to headline inflation. That shock
+etar
+noitalfnI
+The path of Federal Reserve policy,
+6% together with inflation and growth
+trajectories, will look dramatically
+5%
+different in each scenario
+4%
+3%
+2%
+1%
+0%
+-3% -2% -1% 0% 1% 2% 3% 4%
+Cyclical recession Soft landing
+Balance sheet recession No landing
+7 Investment Outlook Fidelity International
+
+--- PAGE 8 ---
+could lead to damaging rises in interest rates as know. Expect narratives to shift rapidly. Prepare
+well as the risk of stagflation down the line. for shorter cycles. Watch for imbalances between
+demand and supply, and for lags in the effects
+Policymakers will continue to test the limits of the
+of policy. A volatile macroeconomic environment
+financial system. As the world makes its first ever
+demands vigilance.
+exit from QE there is much we don’t - and can’t -
+The view on the ground
+We surveyed analysts across our equity, fixed income, and private credit teams to hear how their sectors
+would fare in the different scenarios.
+In the table below, upward arrows indicate that most of the responses in the sector are implying a positive
+effect and the background colour indicates the strength of those responses. For example, most consumer
+staples analysts answered that a cyclical recession will have a positive impact on their sector. The
+downward arrow indicates a negative impact, with the shade of red reflecting the strength of responses.
+The neutral/no change “-” has a light grey background and indicates lack of clear direction.
+Consumer Consumer Information
+Energy Financials Healthcare Industrials Materials Telecoms Utilities Real Estate
+discretionary staples Technology
+Cyclical
+recession
+Soft
+landing
+Balance
+sheet
+recession
+No
+landing
+Strong negative impact Moderately negative impact No clear direction
+Moderately positive impact Strong positive impact
+Note: Real estate analysts consider both earnings/valuation of listed securities within the real estate space as well as the yield on underlying real assets.
+Source: Fidelity International Analyst Survey, October 2023.
+8 Investment Outlook Fidelity International
+
+--- PAGE 9 ---
+Our base case scenario
+A cyclical recession would see a moderate economic contraction followed by a return to growth
+in late 2024 or early 2025. Inflation would be sticky for a period before returning to target, with
+interest rates staying higher for longer followed by central banks pivoting to cut rates. This is
+currently our base case.
+Cyclical recession: inflation falls back to target – rates come down after labour market cracks
+Opportunity lingers... ...with growth coming later in the year
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024
+Core PCE (% YoY) Policy rate (FFR - LB)
+Source: Fidelity International, October 2023. Note: Inflation rate measured by US Core Personal Consumption Expenditures Price Index. Growth
+by US GDP per annum. Source: Fidelity International, October 2023.
+etar
+noitalfnI
+Scenario 1: 60%
+Cyclical recession
+probability
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+-3% -2% -1% 0% 1% 2% 3% 4%
+Growth
+Cyclical recession Soft landing
+Balance sheet recession No landing
+Investment summary: In our base case scenario, ■ Some cautiousness around cyclical sectors and
+a cyclical recession would bring lower economic weaker geographies
+growth that could be a worry for small-caps or
+■ Inflation-linked bonds preferred as inflation
+companies with discretionary sales. Equities (away
+remains sticky, although nominal bonds will
+from low-quality or small names) would be of
+benefit as rates fall
+interest, while in fixed income the focus would
+■ A potential ‘Goldilocks-zone’ for real estate
+remain on short-dated, high-quality credits.
+investment
+9 Investment Outlook Fidelity International
+
+--- PAGE 10 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+Multi asset quality names in recession scenarios, with
+refinancing concerns feeding into a preference
+We regard a cyclical recession as a mildly risk-
+in the base case for investment grade credit and
+off scenario in which there would still be good
+higher-rated high yield issuers.
+opportunities for investors who are discerning
+about sectors and geographies. Investors shouldn’t We expect inflation in a cyclical recession would
+be scared of holding select equity investments be sticky for a while before it fell back to target,
+because markets anticipate an economic recovery and so inflation-linked bonds (offering ‘real
+later in the year. US equities would be especially yields’) would be preferred to nominal bonds
+well positioned. In particular, mid-cap stocks look in this scenario. Markets already price inflation
+attractive along with much of the S&P 500 that returning to target, but investors expect that very
+have not shared the incredible performance this high real yields will be needed to achieve that.
+year of the ‘Magnificent Seven’ stocks (Alphabet, In this scenario, real yields would fall in line with
+Amazon, Apple, Meta, Microsoft, Nvidia, and Tesla). growth and central bank expectations.
+Valuations look reasonable for these well-run
+companies with solid growth prospects. US small-
+caps would be more challenged in a slowdown In a recession, India and
+or recession scenario given their greater debt Indonesia are markets with good
+refinancing needs. defensive qualities that are less
+tied to the global cycle
+‘Magnificent Seven’ stocks lead S&P 500
+performance
+180
+We would take long positions in certain emerging
+160 markets in any scenario, given attractive
+valuations and idiosyncratic economic cycles,
+140
+but our preferences change depending on
+120
+which scenario emerges. In a recession, India
+and Indonesia are markets with good defensive
+100
+qualities that are less tied to the global cycle. We
+80
+also favour some emerging market local currency
+February 2023 June 2023 October 2023
+bonds (with exchange rate hedging) as global
+Top 7 Rest S&P 500
+interest rates decline, but without any significant
+Note: Top seven = Meta, Amazon, Apple, Microsoft, Alphabet, Tesla, Nvidia.
+growth concerns impacting the creditworthiness
+Source: Goldman Sachs, Fidelity International, October 2023.
+of major emerging markets.
+This reflects our broader preference for playing
+- Henk-Jan Rikkerink
+high-quality equities and credit against low-
+Global Head of Solutions and Multi Asset
+10 Investment Outlook Fidelity International
+
+--- PAGE 11 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+Fixed income Private credit
+Our cyclical recession scenario starts with a In a cyclical recession, our approach would be
+period of above-consensus inflation in the first to focus on further reducing risk and allocating to
+half of 2024. We would expect a series of upside borrowers with the strongest balance sheets. We
+inflation surprises to generate another spell of would expect some support to valuations given the
+outperformance for inflation-linked bonds. This expected reversal in interest rates.
+would be similar to 2020/2021 when inflation
+accelerated and 1 to 10-year inflation-linked bonds
+outperformed all-maturity nominals by about 15 A cyclical recession demands a focus
+per cent. Upside inflation surprises would suggest on companies where we can have a
+a tricky period for nominal bonds in the first half direct influence over the structure and
+of 2024, and we would therefore favour medium- documentation of deals
+duration inflation-linked bonds over nominal ones in
+this scenario.
+If the yield curves remain inverted in all major In the senior secured loan market, we would
+currencies, we would suggest money market favour defensive sectors and firms with capex-light
+funds as a respectable alternative for more business models that have strong visibility on their
+cautious investors, as they offer higher yields than earnings. Companies with contracted rather than
+government bonds with almost no risk. discretionary sales would be the focus, as well
+as those that are likely to have more stable cash
+Central banks on high alert for persistent inflation
+flows, such as healthcare, technology, and business
+should help here. Short-dated, high-quality credit (in
+services firms. Debt service costs would start to
+GBP, for example) could also work well.
+decrease as interest rates came back down.
+The later part of 2024, when we anticipate faster-
+In this scenario, we recommend being
+than-expected cuts from the US Federal Reserve,
+overweight on both structured credit and direct
+would be a strong period for nominal bonds. It
+lending strategies, with a particular focus on
+would be the hardest of all asset allocations to
+lending to defensive sectors and those with
+time, but for investors with a higher risk tolerance,
+business-to-business income streams. A cyclical
+nominal yields at cycle highs will be irresistible
+recession demands a conservative approach
+at some point and offer higher betas than are
+to credit selection to avoid over-leveraged
+available with inflation-linked bonds.
+firms, and a focus on companies where we can
+- Steve Ellis
+have a direct influence over the structure and
+Global Chief Investment Officer, Fixed Income
+documentation of deals.
+There is already plenty of downside risk priced into
+the lowest end of the market. And so heading into
+a cyclical recession there would be a moment to
+11 Investment Outlook Fidelity International
+
+--- PAGE 12 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+reallocate into interesting, lower-rated assets that The UK meanwhile would do poorly in this
+the market has over-discounted - once we had sight scenario because around a fifth of the market is
+of the recovery. made up of energy and mining companies. These
+would suffer from slowing economic growth. We
+- Michael Curtis
+would favour international names, in particular
+Head of Private Credit Strategies
+high-quality, economically-insensitive names
+Equities
+with recurring revenue and good pricing power
+that should see them through a storm. These
+Current consensus earnings forecasts look too
+businesses can be found across several sectors,
+optimistic for this scenario so we would expect
+from consumer staples to computer software.
+them to be downgraded. It would be worth
+looking for cheap stocks in markets such as There could be an interesting dynamic around
+Europe and Japan where valuations are far small and mid-cap stocks in this scenario.
+from pricing in any kind of recession. Japan is These companies were derated in 2023 as they
+especially positive for equity owners thanks to grappled with higher interest rates, and so
+a series of corporate governance reforms which have already cheapened in relation to forward
+have focused on shareholder returns. We would earnings estimates (although some nervousness
+also expect the yen to strengthen if there were about their ability to meet those estimates
+interest rate cuts elsewhere. remains). If there is further economic pressure
+in the early part of the year, then small-caps
+could come under pressure, but when we do see
+some relief on interest rates, smaller stocks may
+have more recovery potential. Unlike Big Tech,
+We would favour high-quality,
+which supercharged the market in 2023, smaller
+economically-insensitive names
+companies are not ‘priced for perfection’ so could
+with recurring revenue and good
+offer more of a margin of safety.
+pricing power
+- Ilga Haubelt
+Head of Equities, Europe
+- Martin Dropkin
+Head of Equities, Asia Pacific
+In a cyclical recession we would be cautious
+Real estate
+around European cyclicals like industrials but would
+expect to find opportunities among financials, In many ways, a cyclical recession would be the
+which are attractively valued. Bond proxies like ‘Goldilocks-zone’ for property investment because
+utilities, consumer staples, and healthcare also a small amount of inflation is positive for real
+typically do well in a cyclical recession. estate. Furthermore, given that property prices
+12 Investment Outlook Fidelity International
+
+--- PAGE 13 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+have already adjusted (particularly in Europe change, moving out of a period of sustainable
+and especially in the UK), and if interest rates income and into one of sustainable growth.
+have peaked, then there would only be upside Previously, in a world of near-zero interest rates,
+to come. In this scenario, there would certainly property was invested in chiefly for its yield
+be opportunities to take on more risk. There is (especially compared with other asset classes
+already a good balance of supply and demand such as bonds). Now, we expect it to return
+across European markets, meaning 2024 should to its traditional role of a ‘hybrid’ asset class
+prove to be a strong vintage to invest in real combining sustainable income with equity-like
+estate under this scenario. capital growth.
+It is important to note that as well as dealing - Neil Cable
+with the shifting macroeconomic backdrop, the Head of European Real Estate Investments
+real estate market is undergoing a structural
+The view on the ground
+How our analysts think their sectors would fare in a cyclical recession
+“Real estate investment trusts typically “Consumer cyclical is a higher beta
+trade like bonds. If rates come sector dependent on discretionary
+down, at least the valuation should consumer spending. These
+expand, although fundamentals companies would be among those
+will be hit in line with the more severely hurt by a recession of
+overall economy.” any size.”
+Real estate equity analyst Consumer discretionary
+North America fixed income analyst
+North America
+“This scenario should lead to an
+increase in commodity prices, which
+should have a negative impact on
+materials companies.”
+Materials equity analyst
+India
+13 Investment Outlook Fidelity International
+
+--- PAGE 14 ---
+Soft landing: inflation back to target; rates back to neutral
+Risk on... ... as economies avoid recession
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024
+Core PCE (% YoY) Policy rate (FFR - LB)
+Source: Fidelity International, October 2023.
+etar
+noitalfnI
+Scenario 2: 20%
+Soft landing
+probability
+A soft-landing scenario would involve a slightly below trend slowdown across major economies, with
+no major shocks to knock markets off track. The decision to keep interest rates higher for longer would
+bring inflation to a level with which central banks are comfortable. This would then allow them to
+pivot and cut interest rates, easing pressure on indebted households and companies.
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+-3% -2% -1% 0% 1% 2% 3% 4%
+Growth
+Cyclical recession Soft landing
+Balance sheet recession No landing
+Note: Inflation rate measured by US Core Personal Consumption Expenditures Price Index. Growth
+by US GDP per annum. Source: Fidelity International, October 2023.
+Investment implications: A soft landing would ■ A benign backdrop for nominal bonds,
+allow investors to lean into risk across many asset European real estate, and consumer-linked
+classes, and with inflation returning to target levels companies
+there would be particular opportunities for growth
+■ Less defensive and mid-cap names likely to
+stocks, real estate logistics, and cyclical credits.
+outperform the market
+Some defensiveness though would still be needed
+■ Money market funds would offer interesting
+around the coming maturity walls in the fixed
+opportunities early in the year
+income market, and around the US dollar’s role as
+a ‘safe haven’.
+14 Investment Outlook Fidelity International
+
+--- PAGE 15 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+Multi asset There is still some danger in investment grade
+credit from the higher-for-longer rates environment
+A soft landing would be very much a risk-on
+that is likely to remain for at least the first part of
+scenario in our view, and good news for equities
+2024, and from the maturity walls that we can all
+- especially those beyond the big names that
+see coming for corporate borrowers over the next
+have driven S&P 500 performance in 2023 - and
+three years. But, in a situation of continuing - but
+moderately positive for bonds. We therefore
+not overwhelming - growth, there should be room
+favour US mid-caps over mega-cap growth
+for both investment grade credit and some careful,
+stocks, with the latter already having benefitted
+well-researched purchases in high yield assets,
+from a ‘flight to quality’ this year as economic
+where there are high single digit yields on offer.
+uncertainty remained high.
+A soft landing would be negative for the US
+Maturity walls unlikely to be an issue in 2024 -
+dollar because it would reverse the ‘safe-haven’ but will loom over high yield soon
+inflows that have boosted it over the past two
+$400bn
+years, eroding its yield. For a cyclical upswing
+we would favour markets like Korea and Taiwan, $300bn
+which are exposed to the growth-sensitive
+$200bn
+semiconductor cycle, and ‘higher beta’ markets
+like Brazil. The prospect of interest rate cuts from
+$100bn
+the US Federal Reserve and a softer dollar could
+also encourage a resurgence in high-yielding
+$0bn
+2023 2024 2025 2026 2027 2028 2029 2030
+emerging markets FX. Elsewhere, we would
+USD HY bond maturity wall
+regard a soft landing as beneficial for beaten-up
+EUR HY bond maturity wall
+cyclical names including Asia high yield credit
+and more liquid alternatives. Source: Bloomberg, Fidelity International, 31 August 2023.
+- Henk-Jan Rikkerink
+Global Head of Solutions and Multi Asset
+If anything, money market assets and shorter-dated
+inflation-linked paper might underperform because
+Fixed income
+of their relatively short duration, although they could
+With nothing to upset the apple cart, this scenario
+do well in the early part of the year before capital
+should present a benign environment for nominal
+gains from government and corporate bonds
+bonds. Longer-duration paper would obviously
+began to take over and favour those asset classes.
+offer the best results thanks to the reduction
+US assets would probably do better because
+of headline interest rates by the end of the
+we should see a sharper fall in yields from what
+year. High yield would also do well in a good
+is currently a higher starting point than in other
+environment for risk assets thanks to a solid
+developed markets. European financials might
+performance on growth.
+15 Investment Outlook Fidelity International
+
+--- PAGE 16 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+be another interesting play, starting from a Equities
+relatively cheap level in what would be a benign
+The most important element of a soft landing
+environment for fixed income.
+scenario is that inflation would return to target
+- Steve Ellis
+levels, and central banks could declare victory.
+Global Chief Investment Officer, Fixed Income
+Growth stocks should do well in this scenario
+(financials and commodities names in particular)
+Private credit
+as inflation returns to target levels and central
+In a soft landing scenario, we would expect less-
+banks pivot. We don’t think value stocks would
+defensive names to outperform. It could bring a
+have much benefit over growth.
+reprieve from defaults and a lower refinancing
+Consumption is particularly interesting in a soft
+risk for borrowers across the market, and in the
+landing. Salaries would have risen with inflation
+more economically friendly environment there
+but mortgage costs would then begin to fall as
+would be a real opportunity in lower rated senior
+interest rates came down. That would put more
+secured loans or structured credit.
+money into householders’ pockets. It would be a
+The best returns might be found in assets that
+good time to look into retail names.
+are currently priced very wide to the market, and
+However, a soft landing scenario would still
+we would shift our allocation towards names
+demand a defensive approach, especially
+that could rally where more adverse scenarios
+compared to ‘no landing’. We would double down
+have not played out. For example, triple-C
+on diversification plays that should help protect a
+rated names, which typically make up between
+portfolio from any macroeconomic shocks, and be
+1 and 10 per cent of the European leveraged
+even more mindful of high valuations.
+loan index, can contribute as much as 25 to 30
+per cent of performance at times when market Geographically, we would expect Japanese
+expectations shift to a more benign outlook. equities to benefit in this scenario. If central banks
+across the rest of the world were cutting rates,
+Cyclical names with a higher risk profile are likely
+and with real rates coming down quickly, the yen
+to give the strongest returns, while in structured
+would start to appreciate. Domestic consumer
+credit the high-yield tranches should offer the
+stocks would do well off the back, while firms
+most attractive returns. We would therefore
+that rely on exports might face pressure from the
+allocate to sub-investment grade structured credit
+strong currency.
+tranches. In direct lending and senior loans, higher
+incomes, falling rates and a more benign default - Ilga Haubelt
+Head of Equities, Europe
+environment would be constructive for refinancing
+- Martin Dropkin
+and capital appreciation opportunities.
+Head of Equities, Asia Pacific
+- Michael Curtis
+Head of Private Credit Strategies
+16 Investment Outlook Fidelity International
+
+--- PAGE 17 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+Real estate rents to rise, given the surprisingly low vacancy
+rates that remain for warehouses.
+With growth returning to major economies and
+interest rates coming down to historic levels, this Over recent years there has been a shift in tenants’
+would be the perfect opportunity to lean into the focus to the sustainability profile of the buildings
+property sector. they rent, and this is only set to continue in any of
+the scenarios we might face. Tenants’ interest in
+In particular, we would anticipate a stronger
+green buildings is not only driven by regulatory
+outlook for logistics, given how tightly this market
+changes or even by the opportunity to cut energy
+is currently supplied in Europe. Because of the
+costs, but by their own ambitions towards net zero,
+rise of online shopping, logistics is now a better
+stakeholder pressures, and their efforts to attract
+indicator of consumer health than traditional retail
+and retain staff.
+real estate and should benefit from increased
+- Neil Cable
+consumer activity. This sector has had a good run
+Head of European Real Estate Investments
+recently but there is still room for growth and for
+The view on the ground
+How our analysts think their sectors would fare in a soft landing scenario
+“The healthcare sector’s valuation “I think market expectation is
+is highly rate sensitive, and earnings currently somewhere between
+are vulnerable to inflation. So, this a soft landing and cyclical recession
+is the most positive scenario. I would and therefore a soft landing
+expect an increase in absolute will be positively received for
+valuations.” cyclical names.”
+Healthcare equity analyst Consumer discretionary fixed
+Europe income analyst
+North America
+“Utilities are considered defensive.
+A soft landing would be positive for
+most industries but only neutral
+for utilities.”
+Utilities fixed income analyst
+North America
+17 Investment Outlook Fidelity International
+
+--- PAGE 18 ---
+Balance sheet recession: reversal of inflationary trends; sharp pivots from central banks
+Risk off... ... as we enter a deep recession
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024
+Core PCE (% YoY) Policy rate (FFR - LB)
+Source: Fidelity International, October 2023.
+etar
+noitalfnI
+Scenario 3: 10%
+Balance sheet recession
+probability
+A balance sheet recession would be marked by a deep and prolonged downturn across
+developed and emerging economies. A serious default cycle would take hold across corporate
+markets and weaker sovereigns would also come under pressure. Because a balance sheet
+recession would prompt widespread cutbacks in corporate and household spending, central
+banks would respond by cutting interest rates aggressively, while inflation would also fall sharply.
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+-3% -2% -1% 0% 1% 2% 3% 4%
+Growth
+Cyclical recession Soft landing
+Balance sheet recession No landing
+Note: Inflation rate measured by US Core Personal Consumption Expenditures Price Index. Growth
+by US GDP per annum. Source: Fidelity International, October 2023.
+Investment implications: The dramatic downturn ■ A risk-off approach would be needed across
+of a balance sheet recession would prompt most asset classes
+cautiousness across the board, but there would still
+■ Focus on duration, defensiveness, and
+be opportunities. Fixed-income duration and ‘safe-
+sustainable incomes
+haven’ currencies would be likely to provide some
+■ ‘Safe-haven’ currencies and gold would be
+relief, while investments in solid, defensive sectors
+interesting
+that have long term visibility on income - such as
+healthcare and utilities - could remain attractive.
+18 Investment Outlook Fidelity International
+
+--- PAGE 19 ---
+Multi asset they may even return to quantitative easing. Many
+clients have been creeping into those positions this
+This is a clear risk-off scenario and one that
+year already. Some have been burned for doing
+would be bullish for both the US dollar and
+so, but in this case it could pay dividends.
+Japanese yen (as traditional safe havens), gold,
+and also bond duration, given the likelihood ‘Safe-haven’ currencies and gold have
+of sharp pivots from key central banks, with performed well in previous risk-off scenarios
+outperformance by companies with strong
+balance sheets. We would be particularly
+concerned about the ability of some small-cap
+companies to weather a deep and prolonged
+recession, especially those carrying large
+debt loads. There would be good reason to
+look at US mid-caps and parts of the S&P 500
+where valuations have remained reasonable
+– but excluding the ‘Magnificent Seven’ stocks
+(Alphabet, Amazon, Apple, Meta, Microsoft,
+Nvidia, and Tesla). Similarly, we would strongly Note: Gold index is XAU (USD/oz); Yen-Dollar exchange rate (JPY/USD); Swiss Franc-Euro exchange
+rate (CHF/EUR). Source: Refinitiv Datastream, Fidelity International, October 2023.
+prefer high-quality credit over the riskier segments
+of high-yield bonds. We would look for the capital uplift from duration,
+Outside the US, more defensive emerging market and would also raise the allocation to cash and
+equities in places like India and Southeast Asia buy gold. We would probably want some ‘safe-
+look best placed for this scenario, as those haven’ currencies as well. We would go up the
+markets are less tied to the global cycle. quality spectrum as high as possible and hedge
+against some of the downside that equity holdings
+- Henk-Jan Rikkerink
+will inevitably deliver. Assuming we had seen off
+Global Head of Solutions and Multi Asset
+the threat of big supply-side-driven cost increases,
+Fixed income there would be no case for inflation-linked paper.
+A balance sheet recession always puts fear into - Steve Ellis
+Global Chief Investment Officer, Fixed Income
+fixed income investors. But it would be risk off for
+everyone. Credit and much, if not all, of the equities
+Private credit
+universe would be knocked off the table - or at
+least forced to play second fiddle to bets on falling Given the associated material correction in
+interest rates and the need for capital preservation. asset prices and with corporate valuations under
+pressure, in a balance sheet recession we would
+In a real downturn we always buy duration
+favour moving up the capital structure, with a
+because we would expect the central banks to
+focus on senior secured exposure. Investment
+cut rates, potentially hard, with the possibility that
+grade tranches of structured credit, specifically
+dloG Franc Yen
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+2400 0.8 72
+2000 1.0 84
+1600 1.2 96
+1200 1.4 108
+Yen
+800 1.6 120
+400 1.8 132
+2007 2008 2009 2010 2011 2012 2013
+19 Investment Outlook Fidelity International
+
+--- PAGE 20 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+collateralised loan obligations (CLOs), also offer Equities
+defensive properties and high excess returns:
+Banks and other financials are well placed to
+in more than 25 years of the European asset
+deal with a standard, cyclical recession, but
+class, the market has not seen a single default
+they struggle when faced with this more severe
+of tranches rated single-A or above (although
+scenario. In a balance sheet recession we would
+past performance does not guarantee how it
+significantly reduce our exposure to financials.
+would perform through a new balance-sheet
+Some commodities stocks could also come under
+recession). The yields on these instruments also
+pressure as demand falters.
+offer a substantial premium to corporate fixed
+This is the scenario to look for somewhere to
+income assets.
+hide, and utilities and healthcare firms - those
+We would also suggest looking at higher-rated
+names that act like bond proxies - could be the
+senior secured leveraged loans and direct
+place to go. The US could also act as a relative
+lending where credit valuations should more
+safe haven. There would of course be some
+than compensate for any potentially adverse
+beneficiaries in the falling rate environment, such
+default scenarios while also providing high
+as those previously expensive growth names
+single-digit income and above. We favour
+whose discounted cash flows would suddenly
+Europe over the US because of the dominance
+look more attractive. For example, subscription
+of defensive industries, higher expected recovery
+model software companies that have strong
+rates, and less leveraged capital structures.
+recurring revenues would be worth investigating.
+As happened during the global financial
+It would be important to make any defensive
+crisis, expect fewer deals, although any new
+moves quickly. No major markets currently reflect
+issuance in both direct lending or senior
+this scenario in their valuations, so if a balance
+secured loans would be likely to have lender-
+sheet recession took hold, prices would correct
+friendly documentation packages and pricing,
+sharply. You would want to keep your powder dry
+so there could be attractive opportunities to
+when it comes to small-cap companies and wait
+place new capital further down the line. It is
+to see how the dust settles. Policymakers would
+important to note the differences between the
+be under enormous pressure to pivot and save
+market now and how it was heading into the
+the economy. Interest rates would turn sharply,
+Global Financial Crisis in 2008. There is far
+putting growth stocks back in favour towards the
+less leverage in the system today, and with the
+end of the year.
+growth of private credit, companies have more
+- Ilga Haubelt
+options to address capital structure issues,
+Head of Equities, Europe
+meaning that defaults should be contained and
+- Martin Dropkin
+recoveries respectable.
+Head of Equities, Asia Pacific
+- Michael Curtis
+Head of Private Credit Strategies
+20 Investment Outlook Fidelity International
+
+--- PAGE 21 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+Real estate there was no concept of a green premium, but
+that has changed. Now an asset’s sustainability
+In a balance sheet recession, any growth in
+profile could still drive demand even in a difficult
+the market could prove difficult to find and that
+recession. This would be down to cost sensitivity
+naturally leads to more caution. A lot of investors
+- buildings with strong sustainability credentials
+would sell out of the sector altogether, but this
+are more efficient, drastically reducing tenants’
+might be short-sighted. It would be far better to
+energy bills. Even in this tightened scenario
+concentrate on the core of the market and those
+tenants might be happy to pay a rental premium
+assets with long leases, collect the income, and
+for greener buildings given their overall costs
+wait out the storm. The reliable income from
+would be cut.
+investments such as nursing homes or supermarkets
+- Neil Cable
+could be particularly attractive in this scenario.
+Head of European Real Estate Investments
+The last time there was a balance sheet
+recession, during the global financial crisis,
+The view on the ground
+How our analysts think their sectors would fare in a balance sheet recession
+“A deep recession would mean “Defensive sectors, such
+demand gets hit further which implies as grocers within consumer
+inventory correction will take longer staples, would benefit
+to finish which in turn implies this from the rotation
+downturn gets messier.” away from cyclicals.”
+Information technology Consumer staples equity analyst
+fixed income analyst North America
+North America
+“Lower rates are helpful for cash flows for food delivery companies. These are
+somewhat of a special case within the consumer discretionary sector given their
+immaturity - it’s unclear how their margins will grow as the industry develops, and
+in many cases they’re only just about to turn free cash flow positive so their value
+is unusually heavily skewed towards a longer-term view. This makes the interest
+rate background very important.”
+Consumer discretionary equity analyst
+Europe
+21 Investment Outlook Fidelity International
+
+--- PAGE 22 ---
+No landing: higher-for-longer rates with sticky inflation
+Rates stay high... ... as growth remains resilient
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024
+Core PCE (% YoY) Policy rate (FFR - LB)
+Source: Fidelity International, October 2023.
+etar
+noitalfnI
+Scenario 4: 10%
+No landing
+probability
+In a no landing scenario, US economic growth would continue to be resilient while Europe’s current
+slowdown would reverse. Core inflation would remain sticky and settle one or two percentage
+points above central bank targets, encouraging monetary policy makers to keep nudging interest
+rates higher.
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+-3% -2% -1% 0% 1% 2% 3% 4%
+Growth
+Cyclical recession Soft landing
+Balance sheet recession No landing
+Note: Inflation rate measured by US Core Personal Consumption Expenditures Price Index. Growth
+by US GDP per annum. Source: Fidelity International, October 2023.
+Investment implications: A no landing scenario ■ European exporters expected to perform well,
+could be more varied than it sounds. With interest with growth accelerating in emerging markets
+rates staying high or even rising, floating rate
+■ Mid-cap companies likely to outperform the
+options across the private credit market would
+mega-growth stocks that have dominated
+be favoured, while mid-cap companies and
+headlines in 2023
+commodities would also be of interest. However,
+■ Refinancing rates could be challenging for
+this scenario would present a challenge to the real
+higher-leveraged names across bonds and
+estate market, to firms looking to refinance, and to
+senior secured loans
+government and investment grade bonds.
+22 Investment Outlook Fidelity International
+
+--- PAGE 23 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+Multi asset pressures brought to bear by higher rates and
+quantitative tightening. Those of us who have tiptoed
+Higher for (even) longer interest rates translate
+into longer-duration nominal bonds would suffer.
+into bearishness on duration. Our preference
+for this scenario would therefore be high-quality Money market funds would benefit as cash rates
+credit and cash over government bonds, and rose and in general we would prefer shorter-
+for inflation-linked rather than nominal debt as duration, and good-quality, cyclical assets. Note
+markets would have to re-price for structurally that not all cyclical assets - low-quality high yield
+higher inflation. for example - will feel the positive boost of strong
+growth, because lower-quality names will be hurt
+In equities, we would favour US mid-caps over
+by worse liquidity and higher rates.
+the mega-cap growth stocks as we would also
+do in a soft landing. Mid-cap valuations look Ever-higher refinancing rates for highly-leveraged
+far more reasonable and would be well set companies would present a growing danger,
+to benefit from the resilient economic growth generating an environment of heightened
+environment that a no landing scenario implies. idiosyncratic risk. Sub-10-year inflation-linked
+Outside the US, this higher-for-longer interest bonds could outperform, boosted by upside
+rate scenario would also be good news for surprises in inflation, and sheltered by their
+interest-rate-sensitive cyclicals like European and relatively short duration and lower beta than
+Japanese banks. Other cheap cyclicals such as nominal government bonds. Geographically, the
+Chinese equities, Asia high yield, and more liquid US would have better growth and higher inflation
+alternative assets would also benefit. and therefore US yields would rise by more than
+the European alternatives, making it a yet tougher
+If we do see an upturn rather than a downturn
+environment there for duration.
+from here, then we would also expect more
+cyclical emerging markets like Korea and Taiwan
+Inflation-linked bonds could continue to
+to benefit given their exposure to the growth- outperform in a no landing scenario
+sensitive semiconductor cycle. Higher beta and
+120
+commodity-exporter EM assets, such as Brazilian
+equities, should also do well under this scenario. 110
+- Henk-Jan Rikkerink
+100
+Global Head of Solutions and Multi Asset
+90
+July 2020 July 2021 July 2022 July 2023
+Fixed income
+1-10 Year US Inflation 1-10 Year US Treasuries
+Linked Treasuries
+This would be the most dangerous scenario
+Source: ICE BofA 1-10 Year US Inflation-Linked Treasury Index, ICE BofA 1-10 Year US Treasury Index,
+for government and investment-grade bonds,
+Fidelity International, 30 September 2023.
+with inflation continuing well above target and
+a renewed series of hikes from the US Federal - Steve Ellis
+Reserve, as the economy miraculously resists the Global Chief Investment Officer, Fixed Income
+23 Investment Outlook Fidelity International
+
+--- PAGE 24 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+Private credit to benefit. Japan, also sensitive to Chinese
+growth, would react positively too and we
+Faced with the growing inflationary pressures of
+would expect to see growth accelerate across
+a no landing scenario, the floating rate nature of
+emerging markets, again benefiting exporters.
+private credit products would be attractive as a
+potential hedge against inflation. In terms of style, we would expect the higher-for-
+longer interest rate environment to favour value
+In this scenario we could position less
+over growth, with earnings steadily improving
+defensively and be willing to take on more risk,
+during the year. The US economy would be
+focusing on industry leaders and companies
+resilient in this scenario, with full employment
+with strong pricing power and the ability to
+and consumers still able to spend. However, it is
+pass costs through to customers. However, if
+worth bearing in mind that with rates remaining
+rates stayed higher for much longer, we would
+elevated, this scenario could end up being
+look to avoid names with higher debt-to-ebitda
+challenging for equities.
+leverage or lower interest-coverage ratios and
+would be cautious around traditionally defensive Among US equities we would pick companies
+sectors, such as healthcare and technology, with two key characteristics. The first is pricing
+that often have higher leverage and might not power - companies that have control over their
+have the pricing power to pass on higher costs. input and output costs. The second is a well-
+Similarly, companies where wages make up a structured balance sheet with limited leverage,
+large proportion of costs are likely to be less and companies that can create free cashflows
+attractive in a high-inflation scenario, although on an annual basis. Railways, which have fixed
+there may be exceptions. assets and in many cases monopoly power,
+would be one example that ticks both boxes.
+With rates staying high or even rising further,
+there would be more erosion of valuations and Commodities, especially oil, would also do
+refinancing would become more difficult for well in a no landing scenario, benefiting the
+certain credits. While the maturity wall would not UK market with its heavy weighting to those
+be an imminent worry, refinancing needs over sectors. By contrast, sticky inflation would be
+the next couple of years might start to present a bad news for companies sensitive to input costs
+greater challenge. and would see margins come under pressure.
+Certain consumer staples companies we favour
+- Michael Curtis
+in a cyclical recession would suffer from higher
+Head of Private Credit Strategies
+commodity prices.
+Equities
+It may be tempting to think that the ‘Magnificent
+Assuming that one driver behind a no landing Seven’ big tech companies that have done so
+scenario is a strong economic performance well in 2023 would carry on their winning streak
+from China, then some exporters in Europe, in a no landing scenario. But it’s all about
+particularly Germany, should be in pole position valuation. Some have great business models,
+dominance in their sub-sector, and can continue
+24 Investment Outlook Fidelity International
+
+--- PAGE 25 ---
+Scenario 1: Scenario 2: Scenario 3: Scenario 4:
+Cyclical Soft Balance sheet No
+recession landing recession landing
+to generate free cashflows sustainably. Others From an investment perspective, a no-landing
+now have their best years behind them, making outlook would be a time to retreat to core holdings
+it difficult to justify higher valuations from here. and wait out the cycle. The fundamentals across
+real estate should remain relatively robust, so once
+- Ilga Haubelt
+this phase is past and rates finally come down, it
+Head of Equities, Europe
+- Martin Dropkin would be possible to sell and crystalise any gains.
+Head of Equities, Asia Pacific There could be opportunities to take advantage
+of the repricings taking place in the sector to add
+Real estate
+value, but broadly we believe this would be a time
+Higher for longer rates and surging inflation to remain defensive.
+present a challenge to the real estate market.
+- Neil Cable
+Tenants would face increasing costs, although we Head of European Real Estate Investments
+wouldn’t expect them to go bust in large numbers
+as buffers have been priced into the market.
+The view on the ground
+How our analysts think their sectors would fare in a no landing scenario
+“Given valuations remain very rate sensitive, “Most utilities benefit from higher inflation
+expect higher rates to exert continued protections (particularly regulated utilities)
+pressure on valuations - especially if the but continued high inflation will cause capex,
+market becomes concerned this is longer- opex, index-linked debt, and interest costs
+term. Additionally, continued high inflation to rise which is likely to hurt credit metrics,
+would be negative for earnings given limited particularly in light of high investment
+pricing power in the sector.” requirements across the sector.”
+Healthcare equity analyst Utilities fixed income analyst
+Europe Europe
+“If inflation continues to remain high, the
+deterioration in asset quality is likely to override the
+continued benefit of higher rates.”
+Financials fixed income analyst
+Europe
+25 Investment Outlook Fidelity International
+
+--- PAGE 26 ---
+Asia
+Riding the growth momentum
+China’s economic slowdown and the resilience of the US dollar have dimmed the lustre of many
+Asian economies’ strong growth momentum in the past year. But heading into 2024, this growth
+story should continue.
+Martin Dropkin Lei Zhu
+Head of Equities, Asia Pacific Head of Asian Fixed Income
+The performance of the US dollar and investors’ and monetary support to keep growth on track,
+faltering optimism over China’s recovery have including effective measures to address deep,
+obscured the strong growth story of many Asian structural problems that help rebalance the
+economies in the past year. But Asia’s prospects economy away from the old investment-led model.
+still look solid, supported by robust consumption These policy supports would, in turn, help stabilise
+and positive structural shifts. real estate, which accounts for around two-thirds of
+household wealth in China, delivering a restorative
+Three scenarios for China’s growth
+boost to consumer confidence.
+China is the big variable for the region. We
+see three different macro scenarios as the
+likeliest pathways for the country’s economy in These policy supports would help
+the year ahead. stabilise real estate, which accounts
+for around two-thirds of household
+The first, our base case, outlines a controlled
+wealth in China
+stabilisation for China, where its recovery
+gradually accelerates as the property sector
+stabilises and consumption picks up. We assign
+a 65 per cent probability to this scenario in In the event of recession in developed countries,
+which the economy grows around 4 to 5 per cent the stronger domestic market in China would
+in 2024. Policymakers will provide more fiscal help offset slumping overseas demand. While we
+26 Investment Outlook Fidelity International
+
+--- PAGE 27 ---
+believe the high growth model in previous years is A second potential pathway for China’s economy
+not sustainable, the improving macro environment focuses on the downside risks, such as government
+would support corporate earnings and ultimately lift stimulus failing to come through quickly enough,
+investor sentiment. For property, we would expect a which could result in a serious slowdown. We
+stabilisation of prices, not a resumption of growth, assign a 25 per cent probability to this scenario.
+with a close eye on the debt levels. This entails the economy taking a double hit
+from both domestic structural challenges and an
+The implications for Chinese assets under a
+external demand slowdown. Policy support coming
+controlled stabilisation scenario are mixed. For
+up short would tip the ailing property market into a
+Chinese equities, which currently offer attractive
+more meaningful decline. In response, credit risk for
+valuations compared with most other regions,
+local government debt would rise as land sales, a
+cyclical stocks like those in the shipping, industrials,
+major source of local governments’ fiscal revenue,
+and oil services sectors would stand to benefit from
+shrink further.
+the rising economic output. Stronger household
+spending, supported by the large excess savings If the twin crises in the property and local
+accumulated during the pandemic, would also government debt sectors were to spill over to the
+benefit consumer sector stocks. In this scenario, broader financial system, China could be heading
+interest rates would range from stable to a small for ‘Japanification’, or years of economic stagnation
+decline. The real yield on China’s government characterised by heavy debt loads, disinflationary
+bonds would remain compelling because of the pressures, and a pullback in spending and
+low inflation environment, which would support confidence among consumers and businesses.
+demand for onshore bonds. Even so, we may see There would still be room for increased leverage at
+some short-term liquidity squeezes in the onshore the central government level to offset the downturn,
+bond market, driven by investors’ expectations of but for equity investors, a bear-case scenario like
+future policy support and an increasing supply of this would call for defensive positioning. Utilities
+government bonds driving yields up further. and consumer staples stocks would show more
+resilience in weathering the storm. This backdrop
+China’s services sector emerges as a bright
+could be positive for China’s fixed income assets,
+spot as property slumps
+and we would be more aggressive on favouring
+4 duration. At the same time, rising default risks in
+2 such a downturn argue for sticking with high-quality
+0 corporate bonds.
+-2
+-4
+-6
+June 2022 February 2023 September 2023
+Industrial Services Property
+Note: Monthly readings of Fidelity International’s proprietary China activity tracker. Y-axis shows the
+Z-score of each series. Scores greater than 0 indicate activity above its long-run mean. Scores less
+than 0 indicate activity below its long-run mean. Source: Fidelity International, November 2023.
+27 Investment Outlook Fidelity International
+
+--- PAGE 28 ---
+Our third and final scenario for China involves the Japan
+economy entering a strong period of reflation.
+China’s trajectory is the biggest swing factor for the
+We think it’s the least probable of the three
+region, but it’s far from the only economy that will
+outcomes with only a 10 per cent probability.
+drive Asian markets in the coming year. Japan’s
+equities could continue to outperform as the
+economy transitions into a mildly inflationary state,
+Policymakers would go beyond
+following decades of stagnant growth and falling
+cyclical easing measures to bail
+prices. Wage increases will have a knock-on effect
+out both property developers and
+of boosting consumption and supporting further
+cash-strapped local government
+price gains. Japan’s households are starting to
+financing vehicles
+show a shifting mentality from saving to spending
+and this will have broad and lasting effects. At the
+same time, corporate governance reforms in Japan
+continue to unlock equity market value. Companies
+In this case, China reverts to its old economic are focusing more on dividends and buybacks. The
+playbook, propping up growth by government Japanese market’s shareholder return profile may
+overinvestment and rekindling a property boom. improve faster than most other developed markets.
+Policymakers would go beyond cyclical easing As policymakers gain confidence that Japan’s mild
+measures to bail out both property developers inflation has reached a sustainable level, it will be
+and cash-strapped local government financing only a matter of time before the Bank of Japan
+vehicles, fuelling a renewed credit binge in the further unwinds its ultra-loose monetary policy
+public and private sectors. Inflation accelerates. and makes a full exit from its policy of yield curve
+Business and consumer confidence is resurgent. control. This policy normalisation will help attract
+Real estate’s reprise boom drives a broad-based investors to the local bond market.
+recovery across the economy. In the short term,
+India and Southeast Asia
+China would regain its rapid economic growth,
+but investors should be wary: this debt-fuelled The rest of the Asian region will face challenges in
+expansion would not be sustainable over the the event of recession in the west or of any surprise
+long run and would eventually create even worse slowdowns in China, but it also stands to benefit
+structural problems in the economy. In terms of from some favourable structural growth tailwinds
+asset class implications, the reflation scenario is in the long-term. India is likely to be one of the
+positive for economically-sensitive value stocks world’s fastest growing economies over the coming
+like the heavy machinery and financial sectors. years. With an expanding working-age population,
+We would also favour consumer stocks, especially the country will produce and consume more goods
+discretionary names, because of the broad and services and drive technological innovation.
+consumption recovery that would likely follow. Indian equities’ relatively high valuations, versus
+28 Investment Outlook Fidelity International
+
+--- PAGE 29 ---
+other Asian and emerging markets, can be configurations will result in sizeable business
+justified by its listed companies’ consistently higher and investment inflows to the rest of the region,
+return on equity. helping boost exports and employment in both
+India and Southeast Asia. Of course, a recession
+Meanwhile, the push to reduce supply chain
+in developed markets or a sharper slowdown in
+reliance on China through expanding production
+China would be a big blow to exporters across the
+bases in India and Southeast Asia will support
+rest of Asia, but that would only be one factor amid
+manufacturing growth momentum across the
+a much broader set of considerations, depending
+region. Although it’s hard for neighbouring countries
+on which of our global macro scenarios plays out in
+to replicate China’s manufacturing dominance,
+the year ahead.
+the rise of so-called ‘China plus one’ supply chain
+Growth is expected to stay resilient across emerging Asia
+10%
+Forecast
+8%
+6%
+4%
+2%
+0%
+2022 2023 2024
+China India Indonesia Malaysia
+Philippines Thailand World
+Note: 2023 and 2024 numbers are the IMF’s projections. Figures are annual real GDP growth rates. Source: IMF’s October World Economic Outlook, Fidelity International, November 2023.
+29 Investment Outlook Fidelity International
+
+--- PAGE 30 ---
+Sustainability
+Regulation and the bond between climate and
+nature will drive progress in 2024
+The urgency to reach net zero and stop nature loss is leading to increasingly complex markets
+in need of more policy direction. In response, asset managers are evolving their engagement
+approaches to include regulators, policymakers, and industry groups, alongside corporates.
+Jenn-Hui Tan
+Global Head of Stewardship and Sustainable Investing
+‘System-wide stewardship’, where investors Governments are seeking to close policy gaps to
+engage with a broad spectrum of stakeholders make green technologies cheaper while regulators
+on sustainability issues, will be a driver of the are working to channel transition financing to
+ESG agenda in 2024. The aim is to help create a the right places. System-wide initiatives such
+favourable policy and regulatory environment that as the United States’ Inflation Reduction Act
+enables and incentivises companies to operate provide support to develop technologies like
+more sustainably. We have identified four themes green hydrogen and sustainable aviation fuels.
+that underpin our thinking around system-level Political will such as this should help to develop
+stewardship: climate change, nature loss, strong decarbonisation pathways for sectors where the
+and effective governance, and social disparities. transition is either technologically difficult or too
+expensive. In the EU, the introduction of the Carbon
+Transition finance needed
+Border Adjustment Mechanism is designed to
+Climate financing remains a significant challenge create a level playing field between companies
+for corporates and financial institutions alike. manufacturing within the bloc and exporters to
+Gradually, frameworks are emerging to help it, by ensuring that the carbon price of incoming
+companies put in place robust strategies to goods is equivalent to the carbon price of
+meet their net zero targets. As more businesses production within the EU.
+publish credible transition plans, we expect further But the social ramifications of the transition are also
+developments in transition finance, including front of mind. We continue to engage with firms not
+innovation in sustainable debt instruments. only on the infrastructure costs of decarbonisation
+30 Investment Outlook Fidelity International
+
+--- PAGE 31 ---
+but also retraining workers as requirements
+change. At government level, policymakers are
+looking for ways to protect those least able to bear
+the costs from up-front transition commitments as
+new technologies are built out. The prize is a clean
+energy revolution with lower operating costs and
+increased energy security.
+Nature in focus
+COP15 in 2022 proved to be a turning point in
+recognising the impact of nature loss as part
+Bioacoustic technology is putting a number on nature loss. Click here or scan the QR code to
+of the climate crisis. Healthy carbon sinks and watch the video.
+ecosystems play a significant role in achieving Directive (CSRD), a form of data collection that
+net zero, while climate change is a direct driver of begins in 2024 for some firms. This is the most
+declining biodiversity. comprehensive reporting standard to date. The
+The economic implications are clear: it’s CSRD requires companies to report on their
+estimated that more than half of global GDP own environmental and social impact as well as
+is moderately or highly dependent on nature.1 sustainability-related risks to their business.
+The ties between climate and nature are also And there is more: the International Sustainability
+becoming more evident in certain industries. Standards Board has published its own version of
+Some, like mining, will need to play leading roles sustainability disclosure standards designed to be
+in a successful transition. adopted globally and focused initially on climate.
+Companies are already considering how to Due diligence of supply chains is also gaining
+implement the recently published Taskforce on attention following the EU Deforestation Act and
+Nature-Related Financial Disclosures (TNFD). other forthcoming rules aimed at mitigating impacts
+Like the Taskforce on Climate-Related Financial on human rights.
+Disclosures, the framework is designed to deliver Regulation on this scale sounds daunting, but
+a standardised language to report on nature. This sustainability reporting and how it links to financial
+is no mean feat. Nature loss is notoriously difficult reporting is an important part of mitigating the risks
+to gauge given the absence of a universal of climate change, nature loss, and social issues. It
+metric. Innovative technologies, like the nascent should also enable companies to scale up activities
+field of bioacoustics, are trying to remedy this by that not only align with the transition but drive
+developing alternative measurement systems. change across the global economy.
+Elements of the TNFD have already been included
+in the EU’s Corporate Sustainability Reporting
+1 World Economic Forum (2020) Nature Risk Rising: Why the Crisis Engulfing Nature Matters for Business and the Economy, WEF_New_Nature_Economy_Report_2020.
+pdf (weforum.org)
+31 Investment Outlook Fidelity International
+
+--- PAGE 32 ---
+Important Information
+This document is for Investment Professionals only and should not be relied on by private investors.
+This document is provided for information purposes only and is intended only for the person or entity to which it is sent. It must not be reproduced or circulated to any other party
+without prior permission of Fidelity.
+This document does not constitute a distribution, an offer or solicitation to engage the investment management services of Fidelity, or an offer to buy or sell or the solicitation
+of any offer to buy or sell any securities in any jurisdiction or country where such distribution or offer is not authorised or would be contrary to local laws or regulations. Fidelity
+makes no representations that the contents are appropriate for use in all locations or that the transactions or services discussed are available or appropriate for sale or use in
+all jurisdictions or countries or by all investors or counterparties.
+This communication is not directed at, and must not be acted on by persons inside the United States and is otherwise only directed at persons residing in jurisdictions where
+the relevant funds are authorised for distribution or where no such authorisation is required. In China, Fidelity China refers to FIL Fund Management (China) Company Limited.
+Investment involves risks. Business separation mechanism is conducted between Fidelity China and the shareholders. The shareholders do not directly participate in investment
+and operation of fund property. Past performance is not a reliable indicator of future results, nor the guarantee for the performance of the portfolio managed by Fidelity China.
+All persons and entities accessing the information do so on their own initiative and are responsible for compliance with applicable local laws and regulations and should consult
+their professional advisers.
+Reference in this document to specific securities should not be interpreted as a recommendation to buy or sell these securities, but is included for the purposes of illustration
+only. Investors should also note that the views expressed may no longer be current and may have already been acted upon by Fidelity. The research and analysis used in this
+documentation is gathered by Fidelity for its use as an investment manager and may have already been acted upon for its own purposes. This material was created by Fidelity
+International.
+Past performance is not a reliable indicator of future results.
+This document may contain materials from third-parties which are supplied by companies that are not affiliated with any Fidelity entity (Third-Party Content). Fidelity has not been
+involved in the preparation, adoption or editing of such third-party materials and does not explicitly or implicitly endorse or approve such content.
+Fidelity International refers to the group of companies which form the global investment management organization that provides products and services in designated jurisdictions
+outside of North America Fidelity, Fidelity International, the Fidelity International logo and F symbol are trademarks of FIL Limited. Fidelity only offers information on products and
+services and does not provide investment advice based on individual circumstances.
+Issued in Europe: Issued by FIL Investments International (FCA registered number 122170) a firm authorised and regulated by the Financial Conduct Authority, FIL (Luxembourg)
+S.A., authorised and supervised by the CSSF (Commission de Surveillance du Secteur Financier) and FIL Investment Switzerland AG. For German wholesale clients issued by
+FIL Investment Services GmbH, Kastanienhöhe 1, 61476 Kronberg im Taunus. For German Institutional clients issued by FIL (Luxembourg) S.A., 2a, rue Albert Borschette BP 2174
+L-1021 Luxembourg.
+Issued in France by FIL Gestion (authorised and supervised by the AMF, Autorité des Marchés Financiers) N°GP03-004, 21 Avenue Kléber, 75016 Paris.
+In Hong Kong, this document is issued by FIL Investment Management (Hong Kong) Limited and it has not been reviewed by the Securities and Future Commission. FIL Investment
+Management (Singapore) Limited (Co. Reg. No: 199006300E) is the legal representative of Fidelity International in Singapore. FIL Asset Management (Korea) Limited is the legal
+representative of Fidelity International in Korea. In Taiwan, Independently operated by FIL Securities (Taiwan ) Limited, 11F, 68 Zhongxiao East Road., Section 5, Xinyi Dist., Taipei
+City, Taiwan 11065, R.O.C Customer Service Number: 0800-00-9911#2 .
+Brunei, Indonesia, Malaysia, Philippines and Thailand: For information purposes only. Neither FIL Limited nor any member within the Fidelity Group is licensed to carry out fund
+management activities in Brunei, Indonesia, Malaysia, Thailand and Philippines.
+Issued in Australia by Fidelity Responsible Entity (Australia) Limited ABN 33 148 059 009, AFSL No. 409340 (“Fidelity Australia”). This material has not been prepared specifically
+for Australian investors and may contain information which is not prepared in accordance with Australian law.
+ED23-240

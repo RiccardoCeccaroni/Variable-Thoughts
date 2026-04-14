@@ -1,0 +1,49 @@
+{
+  "company": "Fidelity International",
+  "report_year": "2024",
+  "publication_date": "2023-10",
+  "forecast_period": "2024",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth",
+      "horizon": "2024",
+      "forecast_value": "cyclical recession (60% probability base case); negative GDP growth",
+      "source_quote": "Our base case for 2024 is a cyclical recession"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate direction",
+      "horizon": "H2 2024",
+      "forecast_value": "Fed pivot to rate cuts after recession becomes obvious",
+      "source_quote": "Central banks will then pivot and cut rates as the damage to growth becomes obvious."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US Core PCE",
+      "horizon": "H1 2024",
+      "forecast_value": "above consensus / upside inflation surprises in H1 2024",
+      "source_quote": "Our cyclical recession scenario starts with a period of above-consensus inflation in the first half of 2024. We would expect a series of upside inflation surprises to generate another spell of outperformance for inflation-linked bonds."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "US labor market conditions",
+      "horizon": "2024",
+      "forecast_value": "normalization / easing; rising unemployment",
+      "source_quote": "Labour markets will normalise and restore price stability before we move towards a recovery at the end of 2024"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate peak",
+      "horizon": "Near-term (early 2024)",
+      "forecast_value": "rates have peaked or will peak soon",
+      "source_quote": "if US and other developed world interest rates have not peaked already, then they will do so soon."
+    }
+  ],
+  "excluded_vague_count": 22
+}

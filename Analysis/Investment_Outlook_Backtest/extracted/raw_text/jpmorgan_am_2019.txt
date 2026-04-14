@@ -1,0 +1,924 @@
+SOURCE: jpmorgan_am/jpmorgan_am_2019.pdf
+PAGES: 26
+
+--- PAGE 1 ---
+FOR INSTITUTIONAL/WHOLESALE/PROFESSIONAL CLIENTS AND QUALIFIED INVESTORS ONLY – NOT FOR RETAIL USE OR DISTRIBUTION
+PORTFOLIO INSIGHTS
+2019
+2019
+GLOBAL
+GLOBAL
+ALTERNATIVE S
+ALTERNATIVE S
+OUTLOOK
+OUTLOOK
+ALTs by
+
+--- PAGE 2 ---
+Global Insights Investment Writing team: Jill Hamburg-Coplan, Barbara Heubel, Emily Overton, Barbara Rudolph, Melissa Wiegand.
+Global Creative Services for design: Adrienne Assaff, Valerie Caro, Mark Virgo.
+Alternatives Editorial Advisors: Kelly Ripley, Rachel Shuman, Anita Sonawane, Paul Summer.
+Copyright 2019 JPMorgan Chase & Co. All rights reserved.
+
+--- PAGE 3 ---
+2 0 1 9 G L O B A L A LT E R N AT I V E S O U T L O O K
+TA B L E O F C O N T E N T S
+3
+FOREWORD
+4 MACROECONOMIC OUTLOOK
+As growth slows and risks rise, investors should expect the unexpected
+6 ALTERNATIVE ASSET ALLOCATION
+A strategic framework for alternative asset allocation, with insights on late-cycle investing
+10 HEDGE FUNDS
+A new, higher volatility regime sets the stage for certain hedge fund strategies
+13 INFRASTRUCTURE
+ESG is paramount for sustainable near- and long-term returns
+14 TRANSPORT
+Preparing for resilience in a period of change
+16 PRIVATE CREDIT
+Amid an influx of new lenders, finding pockets of quality
+18 PRIVATE EQUITY
+When fundraising gets easier, investing is more challenging
+20 GLOBAL REAL ESTATE
+Relative value opportunities in a market priced to perfection
+
+--- PAGE 4 ---
+[No extractable text]
+
+--- PAGE 5 ---
+F O R E W O R D
+IT HAS BEEN SAID THAT the compass of knowledge directs the shortest, safest course to any destination.
+In 2019, investors may need accurate investment direction, guidance and perspective more than they ever have
+before. Investors face a year of transition and change as markets adjust to global quantitative tightening, credit
+markets awash in money with loose covenants, newly volatile equity markets, tariffs and the threat of trade wars,
+populism and nationalism, and a long-in-the-tooth economic expansion.
+CHRISTOPHER HAYWARD
+To help you navigate this shifting investment landscape, we are pleased to share our first J.P. Morgan Global
+Alternatives Outlook.
+Surveying the CEOs, CIOs and strategists of our USD 136 billion alternatives platform, we asked them to provide a 12- to
+18-month outlook for their respective markets and explore their most promising investment ideas over that time
+horizon. We intentionally selected a diverse group of experts from across our 13 distinct alternative investment engines
+spanning private equity, private credit, hedge funds, real estate and real assets, and liquid alternatives.
+We challenged them to be light on the theoretical and focus more on practical implementation across the range of
+ANTON PIL
+alternative strategies. We have also included a macroeconomic overview from the alternatives perspective and a
+strategic framework for alternative asset allocation.
+With nearly 50 years of experience investing in alternatives, more than 800 alternatives professionals around the
+globe and one of the industry’s broadest lineups of alternative investment strategies, we do think we are uniquely
+positioned to present this new Global Alternatives Outlook. We hope it helps you meet your particular investment goals
+and needs.
+Please let us know if we can be of help in implementing any ideas presented in the Outlook, or if you need additional
+information from any of our contributors.
+On behalf of J.P. Morgan Asset Management, thank you for your continued trust and confidence.
+Christopher Hayward and Anton Pil
+Managing Partners,
+J.P. Morgan Global Alternatives
+J.P. MORGAN ASSET MANAGEMENT 3
+
+--- PAGE 6 ---
+M A C R O E C O N O M I C O U T L O O K
+As growth slows and risks rise, investors
+should expect the unexpected
+David Lebovitz, Global Market Strategist
+It’s a common and all too human mistake—extrapolating our current situation into the future and assuming that
+it will continue to hold. The second half of 2018 saw a deceleration in global growth, rising inflation and more
+hawkish central bank sentiment. This dynamic has led investors to worry that we have reached the end of the
+cycle and that this environment will persist, leading volatility higher and risk assets lower.
+Growth outlook
+While we acknowledge that the U.S. economy is in late cycle, we believe that both the economy and markets still
+have room to run. U.S. economic growth should average around 3% through the middle of 2019 as fiscal stimulus
+continues to boost headline GDP, but beneath the surface the composition of growth will likely shift. Rising trade
+tensions have clouded business sentiment, and with corporate executives feeling less optimistic, the pace of
+capital spending has slowed. On the other hand, lower energy prices should prevent inflation from spiking much
+higher, which, alongside a tight labor market, should provide support for consumer spending.
+As the composition of U.S. growth changes and headline growth gradually decelerates beginning around the middle
+of 2019, economic growth rates across global economies will likely begin to converge. European GDP growth
+should rebound as the manufacturing sector finds its footing, and Japan should see more stable growth as the
+effects of 2018’s natural disasters run their course. Ideally, healthy growth in developed markets, coupled with
+stimulus out of China, should provide support for the emerging world. That said, uncertainty around trade
+continues to act as a drag, and continued strength in the U.S. dollar would continue to undermine the pace of
+international expansion.
+Inflation and interest rates
+Tighter labor markets and rising wages have begun pushing prices higher across the developed world, while
+weaker currencies and higher commodity prices have lifted inflation in emerging markets. Output gaps are
+expected to continue to close, but the recent softening in commodity prices, and wage growth that remains
+below its long-term average, should cap how much higher inflation can move in the near term.
+This backdrop should allow for continued adjustment in the stance of global monetary policy. The conclusion of
+net new asset purchases by the European Central Bank (ECB), along with balance sheet reduction by the Federal
+Reserve (Fed), has turned quantitative easing into quantitative tightening (EXHIBIT 1). In this environment, we
+anticipate that fundamentals, rather than sentiment, will be the key driver of asset prices. On the interest rate
+front, we expect the Fed will hike at least once in 2019 and then pause as U.S. growth softens amid waning fiscal
+stimulus. The recent decline in oil prices should lead headline inflation to remain below the Fed’s target,
+providing the central bank with additional flexibility as it determines the optimal path of monetary policy. More
+4 2019 GLOBAL ALTERNATIVES OUTLOOK
+
+--- PAGE 7 ---
+MACROECONOMIC OUTLOOK
+than anything, however, next year’s Fed decisions will be
+increasingly data dependent. The ECB and Bank of England (BoE)
+will likely hike as well. Rising rates will deliver more attractive
+yields to traditional fixed income investments but could
+simultaneously lead to market dislocation in cases where cheap
+liquidity has been used irresponsibly.
+Investment implications
+A rising rate environment, combined with lingering uncertainty
+about trade, should lead market volatility higher. The question for
+investors is how to respond. In late cycle, there are ways that
+investors can play both offense and defense using alternatives—
+namely, by focusing on assets that generate stable streams of
+income and strategies that benefit from the disruption that rising
+volatility often creates.
+Volatility will remain elevated into the end of the cycle as central
+banks become increasingly hawkish and continue the process of
+normalization following what has been an unprecedented
+Fed ECB BoE BoJ Total
+500
+0
+-500
+-1,000
+DSU
+monetary policy experiment. It is naïve to think that quantitative
+tightening will not impact asset prices around the world—what
+goes up must eventually come down. However, we do not expect
+an immediate deterioration in the fundamentals but rather a
+gradual softening as we approach 2020. As such, the recent
+correction seems to be exactly that, and the re-rating in
+valuations has created a much larger opportunity set than the
+one we faced at the end of 3Q18.
+It seems unlikely that 2019 will mark the end of the current
+economic expansion, but clearly risks are beginning to build. We do
+not believe this is a reason for investors to move to the sidelines
+but rather an opportunity to ensure that portfolios are prepared
+for the unexpected as well as the expected. In the following pages
+of this Outlook, we explore how, when and why investors can use
+both offensive and defensive approaches across a wide range of
+alternative asset classes and investment strategies.
+Quantitative easing has turned into quantitative tightening
+EXHIBIT 1: GLOBAL CENTRAL BANK BALANCE SHEET EXPANSION, USD BILLIONS, 12-MONTH ROLLING FLOW
+2,000
+1,500
+1,000 FORECAST
+2016 2017 2018 2019
+Source: Bank of England, Bank of Japan, European Central Bank, FactSet, Federal Reserve System, J.P. Morgan Global Economic Research, J.P. Morgan Asset Management. Balance
+sheet expansion assumes no more quantitative easing (QE) from Bank of England (BoE); tapering of European Central Bank (ECB) from 30 billion EUR to 15 billion EUR in October 2018
+and zero in January 2019; tapering of Bank of Japan (BoJ) QE to 20 trillion JPY annually for the remainder of 2018 and 2019. Forecasts, projections and other forward-looking statements
+are based upon current beliefs and expectations. They serve as an indication of what may occur; actual results or performance may differ materially from those reflected or
+contemplated.
+J.P. MORGAN ASSET MANAGEMENT 5
+
+--- PAGE 8 ---
+A LT E R N AT I V E A S S E T A L L O C AT I O N
+A strategic framework for alternative asset
+allocation, with insights on late-cycle investing
+Jamie Kramer, CFA, Head of Alternatives Solutions Group
+Pulkit Sharma, CFA, Head of Alternatives Investments Strategy & Solutions
+A new baker quickly learns the need for precision and discipline. A third of a cup of flour is quite different from
+half a cup, after all. So too must investors learn the need for discipline in alternative asset portfolio construction.
+Investors are increasingly looking beyond traditional asset classes to achieve their objectives, recognizing that a
+sizable allocation to alternatives can be additive to their portfolios. However, too often investors assemble a
+collection of alternative assets in a one-off manner, not giving enough thought to how the allocations will work
+together in a portfolio.
+As public markets face growing challenges, we believe that a strong alternatives framework—a precise recipe—is
+essential to building resilient portfolios. Alternative asset portfolio construction should be holistic, comprising
+three basic components: a core foundation, with assets such as core real assets and core private credit designed
+to provide stable income with lower volatility; core complements, with assets such as hedge funds adding
+diversification through differentiated returns; and return enhancers, with assets such as distressed credit and
+private equity seeking opportunistic returns.
+Investors should right-size both the mix of alternatives and the risk within each asset class to ensure that
+alternatives serve their intended role in an overall portfolio. An allocation of 20% to a diversified alternatives
+portfolio can increase return and reduce risk (Exhibit 1). Approaches vary. But we believe that (in the absence of
+constraints) within an alternatives portfolio a balanced allocation of 70% to the core foundation and core
+complements and 30% to return enhancers offers investors strong prospects for sustainable long-term success.
+LATE-CYCLE SOLUTIONS
+A right-sizing approach may be especially helpful in today’s late-cycle environment, when investors need
+solutions that will both help insulate them from more challenging market conditions and provide the potential
+for enhanced returns. All three components of a diversified alternatives portfolio, described below, have a role to
+play in late cycle:
+Core foundation to provide stable income
+In essential assets such as core real estate, infrastructure and transportation, investors can find stable income
+streams and local uncorrelated returns that can, in most cases, grow with inflation. The income from core is
+designed to be stable and predictable for many years, meaning it also serves as a volatility cushion. We believe
+that a tilt toward strategies where a majority of return comes from income and growth of income rather than
+6 2019 GLOBAL ALTERNATIVES OUTLOOK
+
+--- PAGE 9 ---
+ALTERNATIVE ASSET ALLOCATION
+An allocation of 20% to a diversified alternatives portfolio can increase return and reduce risk
+EXHIBIT 1: RISK AND RETURN PROFILES FOR A 60/40 GLOBAL EQUITY-BOND PORTFOLIO AND A GLOBAL CORE-PLUS 20% ALTS PORTFOLIO
+60/40 Global equities/bonds + 20% Global core-plus alts
+40% global bonds
+20%
+60% global equities
+TARGET RETURN ATTRIBUTES
+Target net return 5%–6% 5.5%–6.5%
+Target income return 1%–2% 1.5%–2.5%
+LONG-TERM RISK-RETURN ATTRIBUTES
+Historical return 6.10% 6.90%
+Volatility 10.70% 9.70%
+Return per unit of risk 0.6 0.7
+Equity beta (vs. MSCI World) 0.6 0.5
+Inflation sensitivity 67% 72%
+Source: J.P. Morgan Asset Management Alternatives Solutions Group.
+Notes: (1) The global core-plus alts portfolio contains the following categories: global core real estate, global core infrastructure, global core transport, core private credit, hedge funds,
+liquid alts and private equity. (2) Illustrative long-term analysis uses asset class data from 1998 to 2017. (3) The target returns are net returns for illustrative purposes only and are
+subject to significant limitations. An investor should not expect to achieve actual returns similar to the target returns shown above. Because of the inherent limitations of the target
+returns, potential investors should not rely on them when making a decision on whether or not to invest in the strategy. Please see the complete Target Return disclosure at the
+conclusion of the publication for more information on the risks and limitation of target returns. (4) Return per unit of risk is calculated by dividing the 20-year CAGR by the 20-year
+standard deviation. (5) Volatility is calculated using historical annual 1998-2017 standard deviation of historical returns. (6) Equity beta is computed relative to the MSCI World
+benchmark. (7) The inflation sensitivity is calculated using the U.S CPI Index + 3% on a rolling three-year basis. (8) The portfolios assume annual rebalancing. Past performance is not
+indicative of future results. Diversification does not guarantee investment returns and does not eliminate the risk of loss. J.P. Morgan seeks to achieve the stated objectives, but there
+can be no guarantee the objectives will be met.
+from multiple expansion (i.e., core and core-plus real assets) can Return enhancers to take advantage of corporate stress
+help make portfolios more resilient in late cycle. High quality,
+Special situations and distressed debt strategies will be
+covenant-tight private credit can also serve as a reliable income
+positioned to benefit should defaults tick up following multiple
+provider. An overweight to core—conservative alternative
+years of increased credit issuance and looser credit standards.
+investments that typically use little to no leverage—is particularly
+Private equity continues to be another potential source of
+desirable in late cycle, as the risk of refinancing leverage adds
+enhanced return, but, as with hedge funds, it demands a greater
+significant beta to highly levered strategies.
+focus on manager selection. In late cycle, we note, investors
+should focus on managers that can offer operational
+Core complements to benefit from increased volatility
+improvements to the companies they own and rely less on
+Hedge funds are flexible structures, allowing many managers to financial engineering to generate returns.
+take advantage of the increase in dispersion and dislocation that
+accompanies both normalizing levels of volatility and rising rates.
+Relative value strategies in particular stand to gain, given their PORTFOLIO CONSTRUCTION AND THE BENEFITS OF
+ability to deliver uncorrelated returns and to benefit from a more PRIVATE INVESTMENTS
+uncertain environment. Across hedge fund strategies, rigorous
+manager selection is critical to identify investments that can be A portfolio construction framework allocating 70% to the core
+additive throughout market cycles. foundation and core complements is also a framework for
+liquidity management: Non-core return enhancers are by
+J.P. MORGAN ASSET MANAGEMENT 7
+
+--- PAGE 10 ---
+ALTERNATIVE ASSET ALLOCATION
+definition less liquid and more vulnerable to market timing. In CONCLUSION
+short, disciplined alternative asset portfolio construction is also
+In any stage of the economic cycle, discipline is essential in
+disciplined liquidity management.
+portfolio construction, but positioning and strategies must evolve
+Post-financial crisis, many investors learned the importance of as markets shift. As alternative asset allocations increase,
+matching underlying investment duration with a fund’s liquidity investors must move from a best-ideas mindset to an application
+terms. Additionally, investors are realizing that they should look of greater discipline—more science, less art—in their allocation
+at both return enhancement and total risk reduction to evaluate decisions. Returning to our baking analogy, while baking is a
+the benefits of the full spectrum of illiquidity available in science that always demands discipline, seasonal choices will
+alternative investments. vary (blueberry pie in the summer, pecan pie in the fall).
+Especially in today’s late cycle—when liquidity becomes more
+Particularly in private alternatives, investors also benefit from an precious, income becomes scarce, risk and correlations are a
+information advantage and control premium vs. traditional assets. growing concern, and information and control can make an even
+For example, in private equity and infrastructure, control of a greater difference—alternative asset investors will benefit from a
+company or asset allows for an increased ability to impact strong framework. That framework will offer a clear view into
+financial and non-financial (e.g., ESG—environmental, social and opportunities and risks to deliver diversifying and resilient
+governance) factors. With an alternatives platform encompassing investment outcomes.
+over USD 100 billion in ESG-integrated assets under management,
+and a commitment to partnering with communities and investors,
+we’ve seen firsthand how the consideration of ESG factors can
+help reduce risk and ensure the sustainability of returns.
+8 2019 GLOBAL ALTERNATIVES OUTLOOK
+
+--- PAGE 11 ---
+CENTURY PLAZA TOWERS AND 2000 AVENUE OF THE STARS
+The iconic office campus in Los Angeles, California
+
+--- PAGE 12 ---
+H E D G E F U N D S
+A new, higher volatility regime sets the stage
+for certain hedge fund strategies
+Yazann Romahi, Ph.D., CFA, Chief Investment Officer, Quantitative Beta Strategies
+Mark Vanacore, Chief Investment Officer, Highbridge Capital Management
+Paul Zummo, CFA, Chief Investment Officer, J.P. Morgan Alternative Asset Management
+After the lowest equity market volatility in 100 years, our hedge fund investors believe financial markets are
+undergoing a regime change, entering a new, higher volatility norm. All else being equal, an increase in market
+volatility helps generate trading opportunities—and several hedge fund strategies stand to benefit as volatility
+prompts the relationship among stocks, rates and credit spreads to evolve, affecting prices and correlations.
+One indicative metric: Realized volatility hit 21% in early 2018 vs. a 7% average in 2017 (EXHIBIT 1). From these
+early stirrings, the pickup is expected to continue, propelled by the tapering of quantitative easing, the rate hikes
+expected ahead and generally tighter financial conditions. The potential for inflation, ongoing trade wars, a fully
+valued market and geopolitical uncertainty around the world also feed the volatile backdrop.
+25
+20
+15
+10
+5
+0
+In more volatile markets, certain hedge fund characteristics stand out—including an ability to take long and
+short positioning, and a focus on uncovering short-term inefficiencies. Those qualities may prove advantageous
+in the coming year, as fundamentals will likely do more to set valuations and as price dispersion likely grows. Our
+investors expect complacency to start unraveling and market participants to become more discriminating. Late in
+the cycle, given the significant growth in corporate indebtedness, when liquidity is withdrawn from the system the
+10 2019 GLOBAL ALTERNATIVES OUTLOOK
+tnecreP
+40
+35
+30
+11-naJ 11-rpA 11-luJ 11-tcO 21-naJ 21-rpA 21-luJ 21-tcO 31-naJ 31-rpA 31-luJ 31-tcO 41-naJ 41-rpA 41-luJ 41-tcO 51-naJ 51-rpA 51-luJ 51-tcO 61-naJ 61-rpA 61-luJ 61-tcO 71-naJ 71-rpA 71-luJ 71-tcO 81-naJ 81-rpA 81-luJ 81-tcO
+Median equity volatility historically is about 15%, yet in 2017 it fell below 10%; its 2019 range may be 12%–18%
+EXHIBIT 1: S&P 500 WEEKLY REALIZED VOLATILITY
+S&P 500 3-mo realized vol S&P 500 3-mo realized vol (min) S&P 500 3-mo realized vol (median)
+Abnormally compressed 2017 period; Current level: 16.8%
+vol ranged from 5.1% to 8.4%
+Source: J.P. Morgan Markets; data as of November 23, 2018. Forecasts, projections and other forward-looking statements are based upon current beliefs and
+expectations. They serve as an indication of what may occur. Actual results or performance may differ materially from those reflected or contemplated.
+
+--- PAGE 13 ---
+HEDGE FUNDS
+weaker among the highly leveraged companies should struggle to VOLATILE WORLD CREATES TAILWINDS FOR
+roll over their maturing debt.1 As the inability to refinance creates TACTICAL TRADING, IDIOSYNCRATIC EXPOSURES
+winners and losers in equities and credit, opportunities should
+Volatility shines a spotlight on relative value (RV) strategies, which
+emerge, and some of our investors will lean into hedge fund
+can reduce market-directional risk in a less benign environment.
+strategies that can survive or prosper under asset class volatility,
+Cross-asset RV strategies, which trade the relationship between
+both sustained and intermittent bouts rolling through.
+companies’ credit and equity, can continue to benefit from an equity
+volatility pickup and widening credit spreads. So, too, can market-
+THE VIEW THROUGH A FACTOR LENS neutral strategies, which do not time the market, trade the
+relationship between securities and asset classes.
+The outlook is similar for our team that views markets through a
+factor lens. Value stocks have significantly underperformed since Short-term statistical arbitrage, with its days-to-weeks investment
+early 2017—the equity value factor is suffering its second-worst horizon, should also benefit when elevated volatility creates
+drawdown since 1990. However, value stocks have a quality bias vs. panicked, sloppy and forced trading across markets. Small
+more expensive stocks. Further, we have seen the pricing of value market imbalances may offer robust opportunities in stocks
+vs. expensive growth stocks detach from fundamentals, leaving whose prices are unduly depressed. The risk to these strategies
+value stocks more than two standard deviations cheap relative to would be a continued, synchronized expansion with lower levels
+history. Should borrowing costs rise or earnings expectations for of volatility (e.g., VIX below 12%).
+growth stocks fall, we would expect value stocks to rebound—
+benefiting hedge fund strategies that offer exposure to the equity Statistical arbitrage and other data-based hedge fund strategies
+value factor, particularly those that are market neutral. also stand out because of developments in data technologies.
+The sheer volume of existing data has grown dramatically and its
+Another market-neutral strategy we highlight, merger arbitrage, nature and sources have deepened while processing power has
+may experience short-term volatility shocks, yet we also expect exploded at lower costs. Sophisticated techniques such as
+opportunities. Given that a high percentage of outstanding machine learning, neural networks and natural language
+merger deals are friendly in nature, and with merger spreads processing can help ferret out investment signals. The risk is
+above 10% annualized, our investors see potential in strategies potentially one of crowding.
+that can capture this premium.
+Concentrated, not diversified, factor exposure has rewarded
+investors since 2017. But under bear market conditions, we
+believe opportunities should arise across a range of factors and
+1 Some 69 companies globally have boosted debt levels by at least 50% since
+2013, for a total USD 1.2 trillion in largely junk-rated debt outstanding, mostly hedge fund approaches, underlining the importance of a
+due within seven years (Shannon D. Harrington, Sally Bakewell, Christopher diversified range of systematic market-neutral strategies.
+Cannon, Mathieu Benhamou, “Titans of Junk,” Bloomberg News, July 11, 2018.)
+J.P. MORGAN ASSET MANAGEMENT 11
+
+--- PAGE 14 ---
+FFYNNON OER WIND FARM, SOUTH WALES
+Operated by Ventient Energy, one of the UK’s
+largest generators of onshore wind energy,
+with a growing portfolio of clean energy assets
+
+--- PAGE 15 ---
+I N F R A S T R U C T U R E
+ESG is paramount for sustainable near- and
+long-term returns
+Matthew LeBlanc, Chief Investment Officer, Infrastructure Investments Group
+Paul Ryan, Portfolio Manager, Infrastructure Investments Group
+Private infrastructure investing has reached a tipping point. The integration of environmental, social and
+governance (ESG) standards is now mainstream, a forward-looking matter of strategic positioning rather than the
+backward-looking compliance consideration of the past. We view ESG as the No. 1 trend—critical to effective due
+diligence, underwriting and ongoing asset management, and a fundamental influence on investment outcomes.
+GOVERNANCE LAYS GROUNDWORK FOR SUSTAINABILITY
+The first ESG component to be broadly adopted was governance, and it was the condition for the other two to take
+hold. Governance is threefold: majority control, which allows for implementing sustainable practices; an indepen-
+dent board of directors, which brings diversity of insight, relationships and experience; and business-wide policies—
+hiring, health and safety, and anticorruption, among others.
+Next, environmental considerations, such as mitigating climate change risks and bolstering resilience, rose to the
+fore. Infrastructure investing has led other asset classes here, partly because meeting environmental regulations is
+a fundamental threshold for achieving expected returns. Examples from our portfolios include water companies
+meeting water conservation goals; renewable energy providers reporting on emissions avoided; and the adoption,
+testing and revision of disaster resilience plans.
+THE COMPLEXITY AND IMPORTANCE OF SOCIAL STANDARDS
+Third and most challenging are social factors—an asset’s impact on its community, customers, employees and other
+stakeholders. Social factors are complex and deeply influenced by local context, and many companies (especially
+monopolies) overlook them—even though a failure can cost a company its social license to operate.1 What is
+meeting social standards? Giving utility customers access to real-time usage data, improving passengers’ airport
+experience and communicating with those affected by weather-related events are examples. These take time and
+resources yet can both reduce risk and potentially be powerful catalysts for returns. Social factors we consider
+include positive reputation/customer satisfaction, community health and safety, local employment opportunities
+and employee voluntarism. And there can be a regulatory impact for infrastructure companies that fail to consider
+other social factors: community development; employee health and safety reviews; and reviews of customers,
+communities and supply chains.
+In 2019, being proactive on ESG risks and opportunities will be paramount in the successful active management
+of private infrastructure assets.
+1 When a project and its operating procedures (waste management, human resources, etc.) have ongoing approval or broad acceptance by
+the local community and other affected stakeholders, such as employees and the wider public.
+J.P. MORGAN ASSET MANAGEMENT 13
+
+--- PAGE 16 ---
+T R A N S P O R T
+Preparing for resilience in a period of change
+Andrian R. Dacy, Chief Investment Officer, Global Transportation Group
+In the year ahead, global transportation investing will contend with trade tensions and myriad new regulations.
+Given that backdrop, we see opportunity in the core-plus transport space,1 where asset risk is mitigated by our
+direct operational involvement and income generation is relatively protected by long-term leases and the
+financial strength of counterparties’ (end users’) balance sheets.
+TRADE WARS: NEGLIGIBLE IMPACT AS NEW ROUTES SUPPORT SHIPPING
+Shipping activity has, oddly enough, benefited from recent U.S.-China trade skirmishes—in part because they have
+accelerated an ongoing movement of manufacturing away from China, often to Southeast Asia, for lower labor
+costs. These point-of-origin changes have added as much as 15% more time at sea—a constraint on supply and thus
+a positive for ship owners’ bottom lines. Also supporting demand for shipping is the development of new trading
+patterns emerging from trade tensions: Products subject to tariffs (soybeans, for example) are now being trans-
+shipped from the U.S. to South America before shipment to China, adding another leg to trade routes.
+THE IMPACT OF REGULATORY CHANGE
+New international environmental regulations starting in 2020 will drastically cut permissible emissions levels of
+nitrogen oxides and sulfur oxides, by up to 80%, requiring ships to use higher priced, cleaner-burning fuel. This
+change should make investing in fuel-efficient ships more attractive; 90% of our fleet is under five years of age
+and uses engine technology that cuts energy consumption by up to 15% vs. older vessels. That fuel efficiency and
+cost effectiveness may allow us to lease our ships at higher rates under the new regulatory regime.
+Fuel-efficient vessels’ lower carbon footprint is also attractive to many lessees—for example, mining companies,
+utilities and conglomerates—that must report their annual carbon use and are keenly focused on environmental
+sustainability. ESG2 is also in play for aviation assets. Newer, fuel-efficient aircraft design features that reduce
+weight and fuel use, while moving the same number of people for less, can attract leases of up to 15 years.
+Environmental sustainability also supports other areas of core-plus transport investing, such as the vessels that
+provide critical maintenance to wind farms.
+1 We define core-plus transport as the larger, more expensive and most strategically important assets integral in end users’ global logistics
+networks; these include large dry bulk carriers, ultra-large containerships (ULCs), tankers, liquefied natural gas (LNG) carriers, very large
+gas carriers (VLGCs), aircraft and railcars.
+2 Environmental, social and governance considerations.
+14 2019 GLOBAL ALTERNATIVES OUTLOOK
+
+--- PAGE 17 ---
+TRANSPORT
+30,000
+20,000
+10,000
+0
+Meanwhile, Basel III (and soon Basel IV) regulations are
+intensifying the departure of traditional bank-owned leasing
+companies from the transportation leasing space.3 As these
+companies’ presence shrinks, asset managers are stepping in.
+To be sure, a risk to transport investing is a major trade-induced
+GDP slowdown; transportation is historically correlated with
+global economic growth. Nevertheless, with the exception of the
+global financial crisis in 2008, the transportation industry’s
+demand growth has been consistent and upwardly moving since
+2000, a trajectory we expect to continue (EXHIBIT 1A and 1B).
+And due to the financial strength of the typical counterparty and
+the long-term employment of assets, market cycles have less
+impact on a core-plus strategy. Diversified core-plus transport
+portfolio construction—differentiated assets, counterparties and
+lease maturities—and specific industry knowledge are most
+critical to long-term, predictable income generation.
+3 This is primarily due to an increase in the equity charges borne by banks
+investing equity in leasing.
+selim
+ennot
+nb
+.tsE
+70,000 12 100
+Chemicals
+60,000
+10 90
+LNG
+LPG
+50,000
+Oil 8 80
+products
+40,000
+Crude oil
+6 70
+Other
+dry trade
+Containership
+4 60
+Minor bulk
+Grain
+2 50
+Coal
+Iron ore
+0 40
+’00 ’02 ’04 ’06 ’08 ’10 ’12 ’14 ’16 ’18 ’00 ’02 ’04 ’06 ’08 ’10 ’12 ’14 ’16 ’18
+KPR
+/
+KSA
+noillirT
+)%(
+rotcaf
+daoL
+Maritime and aircraft investing’s underlying demand fundamentals have grown consistently since 2000 and recovered within 12–18 months
+of the 2008 global financial crisis
+EXHIBIT 1A: TOTAL SEABORNE TRADE EXHIBIT 1B: TOTAL AIRLINE TRAFFIC
+Available seat kilometer (ASK) (LHS) Load factor (RHS)
+Revenue passenger kilometer (RPK) (LHS)
+Source: Clarksons, Flightglobal, International Air Transport Association; data as of December 1, 2018. LNG: liquefied natural gas; LPG: liquefied petroleum gas. Forecasts, projections
+and other forward looking statements are based upon current beliefs and expectations. They serve as an indication of what may occur, actual results or performance may differ
+materially from those reflected or contemplated.
+J.P. MORGAN ASSET MANAGEMENT 15
+
+--- PAGE 18 ---
+P R I VAT E C R E D I T
+Amid an influx of new lenders, finding
+pockets of quality
+Candace Chao & Whitney Wilcox, Co-Portfolio Managers, J.P. Morgan Core Mezzanine Debt Fund, Real Estate Americas
+Leander Christofides & Brad Demong, Co-Chief Investment Officers, Global Special Situations
+Brian Coleman, CFA, Portfolio Manager, Alternative Credit Solutions, J.P. Morgan Alternative Asset Management
+Bill Eigen, CFA, Chief Investment Officer, Absolute Return & Opportunistic Fixed Income
+Jason Hempel & Jonathan Segal, CFA, Portfolio Managers, Highbridge Capital Management
+Banks and life insurance companies dominated private credit until regulations born of the global financial crisis
+(GFC) led them to dramatically pull back. Increasingly, fund managers have stepped into this void, often leading
+to more competition, lower underwriting standards and the same late-cycle behavior seen in the public credit
+markets. Against this backdrop, success will require well-resourced specialist managers with unique sourcing
+capabilities, prudent underwriting and disciplined structuring skills. Lenders taking shortcuts may provide us with
+attractive opportunities (particularly in the next downturn) in distressed debt and special situations.
+LATE-CYCLE BEHAVIOR IN CORPORATE CREDIT
+Leverage in the public—and large parts of the private—corporate debt market has increased globally, in many
+cases exceeding, as a percentage of GDP, pre-GFC levels, and issuance has hit a record. While low interest rates
+have made this debt burden manageable for now, many investors have deep concerns regarding deteriorating
+creditor protections—overly issuer-friendly (“covenant-lite”) loans, cash flow adjustments masking leverage, and
+generally loose underwriting standards (EXHIBIT 1). While default rates at publication time remain well below
+historical averages, the long-in-the-tooth credit cycle and rising rates increase the potential for market stress
+and a pickup in default rates, while poor credit underwriting and lack of financial covenants may lead to lower
+rates of recovery in the event of defaults.
+100 12
+90
+11
+80
+70 10
+60
+9
+50
+8 40
+30 7
+20
+6
+10
+0 5
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+16 2019 GLOBAL ALTERNATIVES OUTLOOK
+%
+snoillirt
+DSU
+Weaker protections: “Covenant lite” as a percentage of new issuance has grown dramatically
+EXHIBIT 1: COVENANT-LITE BOND ISSUANCE AS A PERCENTAGE OF GLOBAL CREDIT MARKETS
+Covenant-lite leveraged loans (LHS) Global credit markets (RHS)
+Source: J.P. Morgan Asset Management; data as of November 30, 2018.
+
+--- PAGE 19 ---
+PRIVATE CREDIT
+FINDING POCKETS OF OPPORTUNITY limited competition and enjoy high barriers to entry. These are
+low-LTV loans to highly creditworthy borrowers with very
+Parts of the corporate credit market appear stretched, and this manageable debt-to-income ratios.
+requires a cautious approach. Still, not all areas of private debt are
+• Senior loans: We see opportunity where there is less than 4x or no
+overheating. For instance, the U.S. consumer remains in a strong
+leverage, meaningful LTV cushions, full financial covenants and
+position (EXHIBIT 2). Residential mortgages and consumer finance
+exits that won’t rely on capital markets for liquidity. Targets
+take advantage of this and face less fierce competition than in the
+include private loans to small and mid cap public companies.
+corporate space. In commercial real estate lending, we see less
+• Providing liquidity: As forced sellers flee credit markets late in
+pressure on leverage, underwriting standards and loan covenants.
+the cycle, providing liquidity to stressed markets may be a way
+And some of our investors in corporate lending have a generally
+to capture value.
+positive outlook, structuring positions and transactions for the late
+cycle. Aware defaults could potentially pick up, those teams often • Credit risk transfer:1 As healthy U.S. consumers pay down mort-
+prefer deals paying us back in one to three years; which are gages, this market may continue to provide uncorrelated income.
+secured by a liquid asset or those where loan holders or borrowers
+have few options. Those teams are seeking the greatest margin of
+ABILITY TO PIVOT TO IDIOSYNCRATIC, DISTRESSED
+safety by lending at the top of the capital structure, continuing to
+write our own covenants, avoiding what is popular and working AND SPECIAL SITUATIONS
+even harder to find and structure quality deals.
+We see opportunities in distressed and special-situations private
+While recognizing that we are late in the cycle in many developed credit strategies that, while all-weather, are particularly well
+economies, we believe attractive opportunities still exist. positioned to take advantage of current late-cycle excesses and
+Examples include: to potentially benefit when the next economic downturn occurs.
+We will focus on U.S. and European countries where we have
+• Real estate mezzanine debt: We expect to continue to originate
+deep familiarity, where relationships matter and where significant
+mezzanine debt on high quality, primarily stabilized core assets in
+barriers to entry exist.
+major markets to experienced sponsors. We like the high income
+returns and downside protection (a roughly 25% equity cushion) in
+Opportunities will likely include medium-size businesses (enterprise
+particular during late cycle. Loan-to-value (LTV) ratios remain stable
+value under USD 2 billion) that have valuable hard assets but have
+and covenants are prevalent; the relative value and risk-adjusted
+been hurt by the actions of less than top-notch management.
+returns, compared with equity and public credit, are compelling.
+Distressed investments may continue in industrials, energy and
+• U.S. residential mortgages: We believe non-agency residential materials, and (building on a history of monetizing intellectual
+mortgages today represent an attractive area, where lenders face
+property) in the medical device and specialty pharmaceutical
+sectors, where we understand patent and regulatory processes.
+The increasingly competitive market means manager quality
+matters even more. Investors should look for continuity,
+experience and a reputation for sophistication and
+HH debt, % of GDP (LHS)
+105 14
+HH debt service payments, % of GDP (RHS) trustworthiness, along with strong sourcing networks that enable
+100 the investment manager to originate high quality deals. To be
+13
+sure, a sustained recession and consequent erosion of cash flows
+95
+and collateral values represent a risk to any performing credit
+12
+90
+strategy. In an environment of market duress, investors should
+85 11 seek managers with critical experience and networks solidified
+80 during the GFC. The potential risk of a recession in the next few
+10 years also speaks to the need to have a range of private credit
+75
+strategies—across performing, special situations and distressed—
+70 9
+2005 2007 2009 2011 2013 2015 2017 that can flourish in different environments.
+J.P. MORGAN ASSET MANAGEMENT 17
+% %
+Household balance sheets have not been re-leveraged to the
+same extent as corporates'
+EXHIBIT 2: U.S. HOUSEHOLD DEBT AND DEBT SERVICE RATIOS
+Source: Bank for International Settlements, Board of Governors of the Federal Reserve 1 A new, growing market that assumes the credit risk of mortgages originally
+System; data as of December 31, 2017. underwritten by Fannie Mae and Freddie Mac.
+
+--- PAGE 20 ---
+P R I VAT E E Q U I T Y
+When fundraising gets easier, investing
+is more challenging
+Larry Unrein, CFA, Portfolio Manager and Global Head of the Private Equity Group
+The private equity (PE) market has seen solid fundraising for almost a decade from investors interested in
+maintaining, if not expanding, PE allocations (EXHIBIT 1). Increasingly, investors anticipating only modest long-
+term returns from traditional public markets have turned to PE to help generate the returns they need.
+Institutions, on average, require returns of 7.5% to 8.0%,1 while, according to our 2019 Long-Term Capital Market
+Assumptions, a traditional 60/40 global equity-debt portfolio can be expected to return something closer to 5.5%
+over the next 10 to 15 years.2 Fundraising has also been fueled by investors anxious to rebalance out of asset
+class holdings that have appreciated beyond their strategic targets and into PE portfolios where multiple years of
+healthy distributions (in excess of contributions) have served to reduce allocations below strategic levels.3
+Other private equity
+Buyout
+Venture capital
+2H 2018 (estimate)
+Yet when funds are more easily raised, it becomes more difficult to invest them productively. Demand outpacing supply
+generally means higher valuations, greater use of leverage and/or lower potential future internal rates of return. How,
+then, should investors be thinking about their PE portfolios in this late stage of a historically long recovery?
+1 Average pension return assumptions from Public Plans Data-the Center for Retirement Research at Boston College and the Center for State
+and Local Government Excellence, as of September, 2018; endowments and foundations (E&F) return target estimated by J.P. Morgan Asset
+Management; 8% = spending rule (5%) + inflation (2% based on J.P. Morgan’s 2019 Long-Term Capital Market Assumptions) + management
+fees (1%).
+2 2019 Long-Term Capital Market Assumptions, J.P. Morgan Asset Management; data as of September 30, 2018.
+3 On a global basis, distributions to PE limited partners exceeded contributions in each year from 2011 through 1H 2017. Cambridge Associates
+Private Investment Database, 1H 2017. See http://docs.preqin.com/reports/Bain-and-Company-Global-Private-Equity-Report-2018.pdf Figure 1.16.
+18 2019 GLOBAL ALTERNATIVES OUTLOOK
+level
+dlroW
+CA
+ICSM
+gnisiardnuf
+ytiuqe
+etavirp
+labolG
+snoillib
+DSU
+Global PE fundraising has been strong for almost a decade. How can all these funds be put to work effectively?
+EXHIBIT 1: INVESTOR SENTIMENT
+1,200 500
+1,100 450
+1,000 400
+900 350
+800 300
+700 250
+600 200
+500 150
+400 100
+300 50
+200 0
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Source: FactSet, Thomson ONE; historical data and 2H 2018 total fundraising estimate as of June 30, 2018.
+
+--- PAGE 21 ---
+PRIVATE EQUITY
+MAINTAIN A SENSE OF REALITY AND DISCIPLINE Technological innovation and disruption
+In our view, investors have three choices: Lower return Finally, an unrelenting wave of technological innovation and
+expectations, sacrifice underwriting standards or be disciplined in adoption is giving rise to an array of new business ventures
+seeking out solid opportunities in this late cycle with the potential hardly imaginable a decade ago. These innovations are improving
+to deliver on private equity risk and return objectives over the long efficiencies, disrupting businesses and transforming traditional
+term. We believe that, even in the current market environment of modes of communication—a fundamental shift we expect to
+rising valuations and intense competition, there are ample continue. We see particular opportunities in rapidly changing
+opportunities in PE markets to help investors achieve required, e-commerce and in cybersecurity—a non-discretionary
+risk-appropriate returns. But it will take skilled, discerning investors technology expenditure for many.
+with well-established sourcing networks, a disciplined due diligence
+Such game-changing innovations are far more likely to be
+process and the ability to implement effectively to achieve those
+conceived and nurtured as start-ups than as homegrown
+goals. It may also require a willingness to underweight or
+businesses within mature public firms. And many of these
+overweight specific sectors depending on where high conviction
+ventures are choosing to remain private longer5—due in part to a
+opportunities can be found in this market.
+greater availability of private equity financing and the costs and
+regulatory constraints involved in going public. Exposure to these
+AREAS OF OPPORTUNITY technological innovation-driven growth opportunities is getting
+harder and harder to achieve through public equity markets.6
+Small to midsize private companies However, venture capital investing is risky and there are many
+failures; that makes expertise in specific technology sectors and
+Within corporate finance, which accounts for the bulk of PE
+access to early-stage companies with leading entrepreneurs
+assets, we see attractive opportunities in firms with revenues of
+critical to successful investing.
+USD 10 million to USD 100 million. While large and mega deals
+steal the headlines, smaller, below-the-radar opportunities are
+In short, private equity investors can’t ignore the macro
+more numerous and typically less leveraged, with less inflated
+environment—the length of the current recovery and the stores of
+valuations.4 Private equity partners experienced in working
+dry powder seeking investment opportunities, now approaching
+closely with the management of these smaller firms can help
+$1 trillion.7 In our view, particularly within the small to midsize
+realize business improvement and growth opportunities,
+corporate finance market, valuations may not yet be as
+enhancing the potential for greater investor returns.
+concerning as they were near their 2006–07 peak. But timing
+private equity markets is extremely difficult. Now, as always,
+Europe, China and, selectively, India
+skillful, disciplined investing at a measured pace over time
+The world economy is providing an expanding global opportunity remains the key to meeting return objectives.
+set for PE investing. At the same time, we believe a broadly
+inclusive, top-down, globally diversified strategy may be less
+appropriate for private equity than for public equity investing. In
+our view, investors are best served by a more selective, market-
+by-market, deal-by-deal, bottom-up approach to PE investing,
+allowing identification of the best opportunities wherever they
+reside. Our focus outside the U.S. continues to be on the key
+5 During the period 1996-2000, the average company completing an initial public
+private equity markets—Europe, China and, selectively, India—and
+offering (IPO) was 6 years old at the time of the offering. In the early 2000s,
+the high growth areas within them. the average age rose to 8 years. Following the financial crisis, it increased to
+10 years. https://corpgov.law.harvard.edu/2018/10/09/cashing-it-in-private-
+company-exchanges-and-employee-stock-sales-prior-to-ipo/.
+6 For example, from 1997 to 2017 the number of U.S. listed companies declined
+from roughly 7,900 to 4,300 (Standard & Poors, September 9, 2018). In contrast,
+4 For example, purchase price multiples for deals below USD 200 million the number of venture capital (VC) deals involving start-up firms valued at over
+averaged 7.5x vs. 9.9x for the overall buyout market, for the 10 years ended June USD 1 billion (i.e., “unicorns”) rose from fewer than 10 in 2007 to 75 in 2017.
+30, 2018. Akerman Q3 2018 Perspectives RW Insurance; PitchBook, data as of Unicorn Report 2018, PitchBook; data as of August 1, 2018.
+June 30, 2018. 7 PitchBook, data as of September 2018.
+J.P. MORGAN ASSET MANAGEMENT 19
+
+--- PAGE 22 ---
+G L O B A L R E A L E S TAT E
+Relative value opportunities in a market
+priced to perfection
+David Chen, Chief Investment Officer, Real Estate Asia Pacific
+Tony Manno, President and Chief Investment Officer, Security Capital Research & Management, Inc.
+Pete Reilly, Chief Investment Officer, Real Estate Europe
+Doug Schwartz, Chief Investment Officer, Real Estate Americas
+Where are global investors likely to find attractive real estate opportunities? It’s a fair question, with economies in
+mid to late cycle, interest rates rising and properties generally priced to perfection. Global core real estate returns
+have averaged just over 10.5% since late 2010, following global financial crisis lows (EXHIBIT 1). Valuations have
+been a significant driver of those returns, however, leaving much of the real estate market fairly priced.
+20
+10
+0
+-10
+-20
+-30
+-40
+Finding value requires looking beyond the averages. Regional markets are at varied stages of the economic cycle
+and monetary policy normalization. These differences, and a host of distinct dynamics across and within regions,
+styles and sectors, create pockets of opportunity that can help investors diversify and enhance real estate
+portfolio income and return.
+Here are some areas our regional real estate specialists view as among the most promising over the next 12 to
+18 months.
+U.S.: DON'T UNDERESTIMATE CORE
+For the past several years, many investors in U.S. real estate have tilted their new allocations to value-added
+properties in the search for higher returns; we see this trend at an inflection point. Driving the shift is a sizable
+rise in construction costs for property improvement or development that is thinning the return premium for
+construction risk, limiting the supply of new core properties and even allowing some stabilized, fully leased core
+properties to sell below the now elevated cost of building new unleased assets.
+20 2019 GLOBAL ALTERNATIVES OUTLOOK
+%
+80-ceD 90-raM 90-nuJ 90-peS 90-ceD 01-raM 01-nuJ 01-peS 01-ceD 11-raM 11-nuJ 11-peS 11-ceD 21-raM 21-nuJ 21-peS 21-ceD 31-raM 31-nuJ 31-peS 31-ceD 41-raM 41-nuJ 41-peS 41-ceD 51-raM 51-nuJ 51-peS 51-ceD 61-raM 61-nuJ 61-peS 61-ceD 71-raM 71-nuJ 71-peS 71-ceD 81-raM 81-nuJ
+A great global run for real estate has led to a relatively fully priced market
+EXHIBIT 1: OPEN-END FUND RETURNS, GLOBAL ROLLING 12 MONTHS
+Source: IPD, J.P. Morgan Asset Management; data as of June 30, 2018.
+
+--- PAGE 23 ---
+GLOBAL REAL ESTATE
+Since early 2016, income from leases of existing U.S. core assets offer ample opportunities in the major gateway cities for building a
+has been growing at a faster annual rate (4% to 5%) than core solid, well-diversified core foundation. What’s more, the growth
+property values (2% to 3%).1 We anticipate that rising construction outlook is relatively strong; Asia-Pacific appears firmly in mid cycle
+costs will help support increasing rental incomes. When construc- in economic growth and monetary policy normalization.
+tion costs go up, new properties have to charge higher rents to be
+Multi-family properties for lease in Tokyo and Osaka are among the
+viable; that allows existing core properties to raise rents with less
+many high quality core opportunities we are seeing. Net
+risk of losing tenants. Rising construction costs will also limit new
+in-migration, increasing household formation and a strong
+space available for lease—another positive for rent growth. So we
+preference for smaller rental apartments are driving core real
+see further upside in core rents and valuations, provided the econ-
+estate opportunities in these cities, despite Japan’s overall aging
+omy and demand continue to hold up.
+population. An influx of youthful Japanese workers, in search of
+higher paying, better quality jobs and a dynamic urban
+environment, has helped maintain occupancy rates of over 95%2
+EUROPE: BUY VALUE-ADDED AND SELL INTO CORE
+and household formation rates of 1.6% and 1.4% for Tokyo and
+While investors have been drawn to the U.S. value-added sector Osaka, respectively.3 This is supporting stable, attractive core
+in search of higher returns, they have been hesitant to move levered internal rates of return (IRRs) of around 8% for multi-family
+beyond core in Europe. This is not surprising, given the instability leased space, with roughly 80% of returns from current income.4
+engendered by a host of geopolitical uncertainties—the ongoing
+Brexit negotiations, the outlook for the eurozone, the Scottish
+referendum, Italian elections and the end of the Merkel era, to REITs: ADDRESSING VOLATILITY
+name a few. “Europe” is not a homogeneous place. The result,
+Volatility has returned to the equity markets—the REIT market
+based on what our on-the-ground investment teams have been
+included. With its varied investor base—encompassing ETFs, hedge
+seeing, is a pricing spread between value-added and core assets
+funds and momentum players—REIT equity is far more volatile than
+that has remained well above average.
+the value of its underlying real estate. In this late-cycle, high
+volatility environment, investors may want to consider a combination
+This very risk aversion has created an arbitrage opportunity for
+of these two approaches to enhance real estate portfolio
+knowledgeable, discerning investors to seek out undervalued and
+performance:
+undercapitalized properties (e.g., languishing office space in top-
+tier European cities), carefully price the risk and implement a
+1. Dampen volatility by investing throughout the REIT capital
+strategy to revitalize and lease up the building with quality
+stack. A REIT, like any other business, has both equity and debt
+tenants. Once the property is fully occupied and stabilized, the
+(typically including secured mortgage loans, unsecured bonds
+goal is to sell it into the core market, where demand is high and
+and preferred convertible debt). Buying the debt offsets the
+valuations attractive.
+leverage embedded in REIT equity and can meaningfully
+reduce a REIT portfolio’s volatility.
+Of course, it’s also important to have a finger on the pulse of the
+market and recognize when the spread begins to tighten and the
+2. Use the liquidity and volatility of the REIT market to potentially
+opportunity starts to fade. We’ll keep you posted.
+enhance returns. An experienced, skilled investor, particularly
+one with a benchmark-agnostic approach, can be nimble,
+buying and selling those REITs they believe are under- or
+ASIA-PACIFIC: A DIVERSIFIED MARKET IN MID CYCLE
+overvalued to potentially generate attractive total returns.
+Asia-Pacific real estate has matured from a largely value-added
+and opportunistic market to one with greatly expanded and Even in a market that is largely priced to perfection, knowledge-
+increasingly transparent core opportunities. Japan, Australia, able, experienced global investors with a broad toolbox can find
+Korea, Singapore, Hong Kong, New Zealand and China account for a robust set of attractive real estate opportunities.
+roughly 90% of the overall Asia-Pacific real estate market and
+2 The Association for Real Estate Securitization; data as of November 2018.
+3 Occupancy rates as of 2017. Cities of Tokyo and Osaka government websites;
+1 National Council of Real Estate Investment Fiduciaries (NCREIF) Fund Index data as of June 2018.
+Open-end Diversified Core Equity (NFI-ODCE); data as of September 30, 2018.
+4 J.P. Morgan Asset Management; estimates as of November 2018.
+J.P. MORGAN ASSET MANAGEMENT 21
+
+--- PAGE 24 ---
+This page is deliberately left blank
+22 GLOBAL ALTERNATIVES OUTLOOK
+
+--- PAGE 25 ---
+NOT FOR RETAIL DISTRIBUTION: This communication has been prepared exclusively for institutional, wholesale, professional clients and qualified investors only, as
+defined by local laws and regulations.
+The views contained herein are not to be taken as advice or a recommendation to buy or sell any investment in any jurisdiction, nor are they a commitment from J.P. Morgan
+Asset Management or any of its subsidiaries to participate in any of the transactions mentioned herein. Any forecasts, figures, opinions or investment techniques and strategies
+set out are for information purposes only, based on certain assumptions and current market conditions and are subject to change without prior notice. All information
+presented herein is considered to be accurate at the time of production. This material does not contain sufficient information to support an investment decision and it should
+not be relied upon by you in evaluating the merits of investing in any securities or products. In addition, users should make an independent assessment of the legal, regulatory,
+tax, credit and accounting implications and determine, together with their own professional advisers, if any investment mentioned herein is believed to be suitable to their
+personal goals. Investors should ensure that they obtain all available relevant information before making any investment. It should be noted that investment involves risks, the
+value of investments and the income from them may fluctuate in accordance with market conditions and taxation agreements, and investors may not get back the full amount
+invested. Both past performance and yields are not reliable indicators of current and future results.
+J.P. Morgan Asset Management is the brand for the asset management business of JPMorgan Chase & Co. and its affiliates worldwide.
+To the extent permitted by applicable law, we may record telephone calls and monitor electronic communications to comply with our legal and regulatory obligations and
+internal policies. Personal data will be collected, stored and processed by J.P. Morgan Asset Management in accordance with our Company’s Privacy Policy. For further
+information regarding our regional privacy policies, please refer to the EMEA Privacy Policy; for locational Asia-Pacific privacy policies, please click on the respective links:
+Hong Kong Privacy Policy, Australia & New Zealand Privacy Policy, Taiwan Privacy Policy, Japan Privacy Policy and Singapore Privacy Policy.
+This communication is issued by the following entities: in the United Kingdom by JPMorgan Asset Management (UK) Limited, which is authorized and regulated by the Financial
+Conduct Authority; in other European jurisdictions by JPMorgan Asset Management (Europe) S.à r.l.; in Hong Kong by JF Asset Management Limited, or JPMorgan Funds
+(Asia) Limited, or JPMorgan Asset Management Real Assets (Asia) Limited; in Singapore by JPMorgan Asset Management (Singapore) Limited (Co. Reg. No. 197601586K), or
+JPMorgan Asset Management Real Assets (Singapore) Pte Ltd (Co. Reg. No. 201120355E); in Taiwan by JPMorgan Asset Management (Taiwan) Limited; in Japan by JPMorgan
+Asset Management (Japan) Limited, which is a member of the Investment Trusts Association, Japan, the Japan Investment Advisers Association, Type II Financial Instruments
+Firms Association and the Japan Securities Dealers Association and is regulated by the Financial Services Agency (registration number “Kanto Local Finance Bureau (Financial
+Instruments Firm) No. 330”); in Australia to wholesale clients only as defined in section 761A and 761G of the Corporations Act 2001 (Cth) by JPMorgan Asset Management
+(Australia) Limited (ABN 55143832080) (AFSL 376919); in Brazil by Banco J.P. Morgan S.A.; in Canada for institutional clients’ use only by JPMorgan Asset Management (Canada)
+Inc., and in the United States by JPMorgan Distribution Services Inc. and J.P. Morgan Institutional Investments, Inc., both members of FINRA.; and J.P. Morgan Investment
+Management Inc.
+The target returns shown herein are current as of the date of this presentation and do not constitute actual returns. The target returns are provided for illustration/discussion
+purposes only and are subject to significant limitations. An investor should not expect to achieve actual returns similar to the target returns shown throughout. The target
+returns are the manager’s goal based on the manager’s calculations using data available to it, the assumptions set forth above, past and current market conditions, and available
+investment opportunities, each of which are subject to change. Because of the inherent limitations of the target returns, potential investors should not rely on them when making a
+decision on whether or not to invest in the strategies. The target returns cannot account for the impact that economic, market and other factors may have on the implementation
+of an actual investment program. Unlike actual performance, the target returns do not reflect actual trading, liquidity constraints, fees, expenses, taxes and other factors that could
+impact the future returns of the strategies. The manager’s ability to achieve the target return is subject to risk factors over which the manager may have no or limited control. No
+representation is made that the strategy will achieve the target return or its investment objective. Actual returns could be higher or lower than the target return.
+Photographs of investment examples were chosen for their aesthetic appearance.
+Copyright 2019 JPMorgan Chase & Co. All rights reserved.
+J.P. MORGAN ASSET MANAGEMENT 23
+
+--- PAGE 26 ---
+FOR INSTITUTIONAL/WHOLESALE/PROFESSIONAL CLIENTS AND QUALIFIED INVESTORS ONLY – NOT FOR RETAIL USE OR DISTRIBUTION
+PORTFOLIO INSIGHTS
+For more information visit:
+www.jpmorgan.com/altsoutlook
+ALTs by
+WP_GLOBAL ALTS OUTLOOK | 01/19 | 0903c02a8249b905

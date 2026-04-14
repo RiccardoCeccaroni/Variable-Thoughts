@@ -1,0 +1,57 @@
+{
+  "company": "JP Morgan Asset Management",
+  "report_year": "2024",
+  "publication_date": "2024-01-01",
+  "forecast_period": "2024",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings growth",
+      "horizon": "2024",
+      "forecast_value": "Single-digit",
+      "source_quote": "2024 looks like a year of slowing GDP growth, single-digit earnings growth and single-digit returns on the median S&P 500 stock."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "Median S&P 500 stock total return",
+      "horizon": "2024",
+      "forecast_value": "Single-digit",
+      "source_quote": "We expect single digit earnings growth and single digit returns on the median US stock in 2024, with continued outperformance by the megacaps."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "2024",
+      "forecast_value": "Fluctuate between 4% and 5%; if breakout, likely to 5.5%",
+      "source_quote": "I believe they will fluctuate between 4% and 5% in 2024, but if they break out I suspect it would be to 5.5%."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Wage inflation",
+      "horizon": "2024",
+      "forecast_value": "Decline",
+      "source_quote": "We also expect wage inflation to decline based on the decline in advertised wages."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate cuts",
+      "horizon": "End of 2024",
+      "forecast_value": "Less than 1.4% (140bps) of easing; hopes for less easing",
+      "source_quote": "Futures markets are pricing in 1.4% of Fed easing by the end of 2024; I hope it's less than that since too much easing too fast could reignite inflation."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth trajectory",
+      "horizon": "2024",
+      "forecast_value": "Slowing but no sharp decline",
+      "source_quote": "Leading indicators point to slowing economic growth but not a collapse."
+    }
+  ],
+  "excluded_vague_count": 15
+}

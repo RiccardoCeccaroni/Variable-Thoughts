@@ -1,0 +1,1296 @@
+CYC L I C A L 
+O U T LO O K
+
+J A N U A R Y   2 0 2 4
+
+Navigating 
+the Descent
+
+With the global economic outlook still 
+
+clouded and equity markets priced for 
+
+a soft landing, bonds offer attractive 
+
+yields and resilience across multiple 
+
+possible outcomes.
+
+This page has been intentionally left blank. 
+
+W R I T T E N B Y:
+
+The steepest interest-rate-hiking cycle in decades has set global economic activity on a course 
+
+1
+
+Tiffany Wilding
+Managing Director 
+Economist
+
+Andrew Balls 
+Chief Investment Officer
+Global Fixed Income
+
+that remains difficult to map, making it especially important to respect risks and to look to build 
+
+portfolios capable of performing well in a variety of conditions.
+
+After major economies showed surprising resilience in 2023, we anticipate a downshift toward 
+
+stagnation or mild contraction in 2024. The standout strength of the U.S. is likely to fade over 
+
+our six- to 12-month cyclical horizon. Countries with more rate-sensitive markets will likely slow 
+
+more markedly.
+
+With inflation easing, developed market (DM) central banks have likely reached the end of their 
+
+hiking cycles. That has shifted attention to the timing and pace of eventual rate cuts. 
+
+Historically, central banks do not tend to cut rates ahead of downturns, instead easing only after 
+
+recessionary conditions appear and then delivering more cuts than markets anticipate. In the 
+
+longer term, we continue to expect neutral policy rates to decline to levels similar to, or slightly 
+
+above, those seen before the pandemic.
+
+Echoing comments by Federal Reserve Chair Jerome Powell, we believe upside risks around 
+
+inflation and downside risks to growth have become more symmetrical. However, recession 
+
+risks remain elevated, in our view, due to stagnant supply and demand growth across DM. After 
+
+a rally across many financial markets in late 2023, riskier assets appear priced for an economic 
+
+soft landing and may be underestimating both upside and downside risks.
+
+With attractive valuations and yields still near 15-year highs, fixed income markets can offer an 
+
+array of opportunities with the potential to weather multiple macroeconomic scenarios.
+
+In credit markets, we continue to favor U.S. agency mortgage-backed securities and other high 
+
+quality assets backed by collateral, which offer both attractive yields and downside resiliency. 
+
+The trend of banks stepping away from certain types of lending will likely persist and afford 
+
+opportunities in asset-based and specialty finance in private markets.
+
+We also see unusually appealing opportunities globally, with potential to outperform U.S. bonds 
+
+based on greater downside economic risks. We are focused on more liquid DM markets given 
+
+attractive yields, but will also look to find value in emerging market (EM) debt.
+
+Cash yields remain elevated, but investors can miss out by sitting in cash too long. The bond 
+
+market rally in late 2023 highlighted how investors can achieve more attractive total return in 
+
+high quality, medium-term bonds – through the combination of yield and price appreciation – 
+
+without taking on greater interest rate risk in long-dated bonds.
+
+CYCLICAL OUTLOOK  •  JANUARY 20242
+
+Economic outlook: 
+Resilience in 2023 
+giving way to 
+stagnation in 2024
+
+Economic activity held up better than expected in 2023 despite 
+
+aggressive central bank tightening, banking sector turmoil, and 
+
+geopolitical stress.
+
+Several factors contributed: Restrictive monetary policy raised 
+
+borrowing costs but didn’t kick off a tightening in broader 
+
+financial conditions. Swift government intervention helped 
+
+contain the stress stemming from regional bank failures. 
+
+Corporate margins were generally healthy, consumption was 
+
+resilient, an easing in global supply chain bottlenecks helped 
+
+cool inflation, and labor supply recovered.
+
+This year, however, U.S. growth is likely to move more in line 
+
+with the rest of DM into stagnation or mild contraction. Real 
+
+savings buffers should soon return to pre-pandemic levels, 
+
+as inflation has eroded the nominal value of households’ 
+
+total wealth. Fiscal policy will likely be contractionary across 
+
+DM, with the economic drag from higher borrowing costs 
+
+continuing to build.
+
+Additional improvements in labor force participation rates 
+
+also look more difficult to achieve. Implementation lags mean 
+
+the productivity benefits from new technologies, such as 
+
+generative artificial intelligence, are likely only to accrue over a 
+
+longer time horizon.
+
+Economies with more interest-rate-sensitive, variable-rate debt 
+
+markets are likely to slow at a faster rate (e.g., Australia, Canada, 
+
+New Zealand, and Sweden), led by weaker consumption growth. 
+
+The U.K. and Europe are also more interest-rate-sensitive 
+
+than the U.S. and, in addition, look vulnerable due to Europe’s 
+
+trade links to China, where growth also remains weak; the 
+
+lingering effects of the energy shock from Russia’s invasion of 
+
+Ukraine on terms of trade and investment; and the outlook for 
+
+somewhat greater fiscal tightening.
+
+CYCLICAL OUTLOOK  •  JANUARY 20243
+
+MONETARY POLICY OUTLOOK: EXPECT A LAG 
+BEFORE EASING BEGINS
+
+already in recession. Even in a handful of cases when a central 
+
+bank did cut in the absence of recession, inflation had clearly 
+
+DM central banks have likely now reached the end of their 
+
+respective hiking cycles. Investors’ attention has turned 
+
+to easing, including when and how many rate cuts could 
+
+eventually come.
+
+Historically, central banks haven’t cut rates ahead of 
+
+recessions. Instead, cuts tend to coincide with rising 
+
+unemployment and a falling output gap, when an economy is 
+
+peaked, while the unemployment rate rose back toward its 
+
+longer-term average from a notably low level.
+
+Today, measures of headline and core inflation have clearly 
+
+peaked (see Figure 1), while unemployment rates have started to 
+
+edge higher as labor market imbalances have generally eased. 
+
+Nevertheless, labor markets remain tight, with less progress 
+
+made in moderating inflation in wage-sensitive core services. 
+
+Figure 1: Inflation measures have moderated significantly, but less progress in wage-sensitive services categories
+
+Developed market inflation y/y
+
+Core services ex shelter inflation y/y
+
+DM core
+
+DM headline
+
+Eurozone
+
+U.K.
+
+U.S. (CPI)
+
+U.S. (PCE)
+
+10%
+
+8%
+
+6%
+
+4%
+
+2%
+
+0%
+
+10%
+
+8%
+
+6%
+
+4%
+
+2%
+
+0%
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Source: Haver Analytics and PIMCO calculations as of 30 November 2023. DM is a GDP-weighted aggregate of euro area, U.K., U.S., Canada, and Japan.
+
+CYCLICAL OUTLOOK  •  JANUARY 20244
+
+A DM immigration boom, spurred by post-pandemic border 
+
+example, the Taylor rule – named after economist John 
+
+reopenings and geopolitical conflicts, has also complicated 
+
+Taylor – and related offshoots are widely used to gauge the 
+
+the task of monetary policy, since job-skills mismatch and 
+
+relationship between policy rates, inflation, and growth.
+
+supply-constrained housing markets may be limiting the 
+
+disinflationary effects from higher potential labor supply. A fear 
+
+of inflation reaccelerating, similar to the 1970s period under 
+
+then-Fed Chair Arthur Burns, could also keep central banks 
+
+waiting longer to ease than in the past.
+
+Simple Taylor-type rules implied the Fed was nine months late 
+
+to start raising rates in 2022. Using those same rules today 
+
+would imply the Fed is already late to cut (see Figure 2). Yet 
+
+these rules aren’t well-suited to prescribing policy in the face of 
+
+supply shocks, and it’s uncertain where inflation will gravitate 
+
+Estimating just how much central banks will lag is more art 
+
+once pandemic-related effects more fully fade. 
+
+than science, even using established economic tools. For 
+
+Figure 2: Various monetary policy rules would suggest the Fed was late to hike rates
+
+Realized target fed funds rate (upper bound) vs. Taylor-type rules
+
+Fed funds rate
+
+Taylor-type rules
+
+8%
+
+6%
+
+4%
+
+2%
+
+0%
+
+0
+2
+0
+2
+/
+5
+0
+
+0
+2
+0
+2
+/
+8
+0
+
+0
+2
+0
+2
+/
+1
+1
+
+1
+2
+0
+2
+/
+2
+0
+
+1
+2
+0
+2
+/
+5
+0
+
+1
+2
+0
+2
+/
+8
+0
+
+1
+2
+0
+2
+/
+1
+1
+
+2
+2
+0
+2
+/
+2
+0
+
+2
+2
+0
+2
+/
+5
+0
+
+2
+2
+0
+2
+/
+8
+0
+
+2
+2
+0
+2
+/
+1
+1
+
+3
+2
+0
+2
+/
+2
+0
+
+3
+2
+0
+2
+/
+5
+0
+
+3
+2
+0
+2
+/
+8
+0
+
+3
+2
+0
+2
+/
+1
+1
+
+Source: Federal Reserve Bank of St. Louis, Haver Analytics, and PIMCO calculations as of 30 November 2023. Shaded region depicts a range of Taylor-type monetary 
+policy rules. Range of Taylor rules is based on “The Monetary-Fiscal Policy Mix and Central Bank Strategy,” James Bullard, 12 May 2023.
+
+CYCLICAL OUTLOOK  •  JANUARY 20245
+
+Overall, we expect DM central banks to start rate cuts closer 
+
+to the middle of 2024 (potentially a bit earlier for the Fed), 
+
+with the exclusion of the Bank of Japan, which we think will 
+
+continue with its plans for modest rate hikes this year.
+
+The implication of lagged monetary easing is that when 
+
+central banks do start cutting, cuts can be more aggressive 
+
+than markets anticipate. To be sure, this partly reflects 
+
+the difficulty forecasters have in anticipating recessions – 
+
+and the tendency of central banks not to cut until they are 
+
+pretty confident the economy has entered recession with 
+
+unemployment rising.
+
+The magnitude of the prior hiking cycle has 
+been a good indicator of the magnitude of 
+the following easing cycle.
+
+Based on a sample of 140 rate-hiking cycles across 14 
+
+developed markets from the 1960s to today, central banks 
+
+have tended to cut their respective policy rate by 500 basis 
+
+points (bps), on average, when their economies are entering 
+
+recession. During cutting cycles that didn’t coincide with 
+
+recession, the central banks still cut by 200 bps on average in 
+
+the first year of easing. This is twice the every-other-meeting 
+
+pace of 25-bp cuts embedded in the Federal Open Market 
+
+Committee’s (FOMC) latest Summary of Economic Projections.
+
+Overall, the magnitude of the hiking cycle that came directly 
+
+before has been a good indicator of the magnitude of an 
+
+easing cycle. Additionally, we continue to anticipate a return 
+
+to an environment similar to The New Neutral period before 
+
+the COVID-19 shock, with neutral policy rates expected to be 
+
+similar to, or slightly above, levels before the pandemic, which 
+
+would be consistent with more extensive rate cuts. (For more, 
+
+see our latest Secular Outlook, “The Aftershock Economy.”) 
+
+A PATH TOWARD A SOFT LANDING IS NOT THE ONLY 
+POSSIBLE PATH
+
+One of our main arguments for elevated recession risks is 
+
+that the tighter-for-longer strategy that central banks have 
+
+been communicating has historically not often coincided with 
+
+economic soft landings. In instances when hiking cycles did 
+
+not precede recessions – in the mid-1960s, mid-1980s, and 
+
+1990s – the central bank usually moved relatively quickly 
+
+to cut rates, as a coinciding positive supply shock (global 
+
+trade expansions, productivity booms, and OPEC production 
+
+accelerations) contributed to falling inflation.
+
+Post-pandemic supply chain normalization has already 
+
+eased inflation measures off their peak in 2022. We expect 
+
+this disinflation to continue in 2024, with headline and core 
+
+measures dipping into the 2%–3% range year-over-year across 
+
+DM. This, plus the potential for a faster cutting cycle, should 
+
+raise the prospects for a soft landing. 
+
+However, with less room for further supply-side gains from a 
+
+post-pandemic normalization, at the same time that demand 
+
+is waning, we would hesitate to declare victory over either 
+
+inflation or recession risks. With both supply and demand 
+
+growth expected to be stagnant across DM in 2024, we think 
+
+recession risks remain more pronounced than usual.
+
+Inflation risks still look most pronounced in the U.S., where 
+
+growth could remain somewhat more resilient relative to other 
+
+DM economies. That’s due to the relatively slow pass-through 
+
+of higher market rates into outstanding debt service payments; 
+
+higher real excess savings due to larger pandemic-related 
+
+fiscal stimulus; and growing support from previously enacted 
+
+legislation aimed at supporting infrastructure, renewable 
+
+energy, and supply chain investments, which could boost 
+
+demand in the near term before supply-side benefits offset 
+
+inflationary pressures. 
+
+CYCLICAL OUTLOOK  •  JANUARY 20246
+
+Investment implications: Position for a broad 
+range of opportunities
+
+We view fixed income investments as broadly 
+
+Figure 3: Nominal and real 10-year rates across developed markets
+
+appealing over our cyclical horizon, given 
+
+attractive yields and valuations as well as 
+
+the potential for resilience across multiple 
+
+economic scenarios. Such resilience is 
+
+especially important in the wake of the 
+
+increase in geopolitical risk and market 
+
+volatility over the past two years. Because 
+
+attractive yields can be found in high quality 
+
+bonds, investors do not need to step down in 
+
+credit quality.
+
+Starting yields, which historically are highly 
+
+correlated with returns, are still near the highest 
+
+levels in 15 years, offering both attractive 
+
+income and potential downside cushion. 
+
+Inflation-adjusted yields also remain elevated 
+
+as inflation continues to abate (see Figure 3). 
+
+We continue to see Treasury Inflation-Protected 
+
+Securities (TIPS) as a reasonably priced source 
+
+of inflation protection, should upside inflation 
+
+risks materialize.
+
+Cash yields remain high but can only be 
+
+locked in overnight, and they could decline 
+
+quickly, especially if central banks start cutting 
+
+policy rates. Investors risk missing out by 
+
+holding cash too long while trying to time a 
+
+re-entry into markets.
+
+Because yield curves are unusually flat 
+
+today, investors don’t need to greatly extend 
+
+duration – a gauge of sensitivity to changes 
+
+in interest rates, which is most pronounced 
+
+in long-dated bonds – to unlock potential 
+
+value. Intermediate bond maturities can help 
+
+investors pursue attractive yield along with 
+
+potential price appreciation should bonds rally, 
+
+as occurred in late 2023 and as often happens 
+
+in an economic slowdown. 
+
+Nominal rates 
+
+U.S.
+
+U.K. 
+
+Germany
+
+Canada
+
+Australia
+
+14%
+
+12%
+
+10%
+
+8%
+
+6%
+
+4%
+
+2%
+
+0%
+
+-2%
+
+0
+9
+9
+1
+/
+2
+1
+
+3
+9
+9
+1
+/
+2
+1
+
+6
+9
+9
+1
+/
+2
+1
+
+9
+9
+9
+1
+/
+2
+1
+
+2
+0
+0
+2
+/
+2
+1
+
+5
+0
+0
+2
+/
+2
+1
+
+8
+0
+0
+2
+/
+2
+1
+
+1
+1
+0
+2
+/
+2
+1
+
+4
+1
+0
+2
+/
+2
+1
+
+7
+1
+0
+2
+/
+2
+1
+
+0
+2
+0
+2
+/
+2
+1
+
+3
+2
+0
+2
+/
+2
+1
+
+Real rates
+
+U.S.
+
+U.K. (adjusted)
+
+Germany
+
+Canada
+
+Australia
+
+8%
+
+6%
+
+4%
+
+2%
+
+0%
+
+-2%
+
+-4%
+
+0
+9
+9
+1
+/
+2
+1
+
+3
+9
+9
+1
+/
+2
+1
+
+6
+9
+9
+1
+/
+2
+1
+
+9
+9
+9
+1
+/
+2
+1
+
+2
+0
+0
+2
+/
+2
+1
+
+5
+0
+0
+2
+/
+2
+1
+
+8
+0
+0
+2
+/
+2
+1
+
+1
+1
+0
+2
+/
+2
+1
+
+4
+1
+0
+2
+/
+2
+1
+
+7
+1
+0
+2
+/
+2
+1
+
+0
+2
+0
+2
+/
+2
+1
+
+3
+2
+0
+2
+/
+2
+1
+
+Source: PIMCO and Bloomberg as of 29 December 2023. U.K. real rates adjusted to be shown on a CPI 
+basis. All rates are for 10-year sovereigns.
+
+CYCLICAL OUTLOOK  •  JANUARY 20247
+
+MORE SYMMETRICAL RISKS
+
+In our October Cyclical Outlook, “Post Peak,” we argued that 
+
+global fixed income yields looked both attractive and high 
+
+relative to the levels we expected to prevail over the cyclical 
+
+horizon and beyond. After the U.S. had led a third-quarter rise 
+
+in global yields, we said we expected to maintain overweight 
+
+duration positions and to increase those with any further rise 
+
+in yields.
+
+At current valuations, we continue to find 
+bonds attractive.
+
+For example, if current economic conditions persist, bonds 
+
+have the potential to earn equity-like returns based on today’s 
+
+starting yield levels. If the economy enters recession, bonds 
+
+At this point, we don’t see duration extension as a compelling 
+
+will likely outperform stocks. If inflation revives and central 
+
+tactical trade. We expect to be broadly neutral on duration after 
+
+banks need to hike again, both bonds and stocks would likely 
+
+the most recent bond-market rally, which has brought global 
+
+be challenged, but high starting yields can provide a potential 
+
+yields back in line with our expected ranges, and amid the 
+
+cushion for bonds.
+
+shifting balance of inflation and growth risks. We see those risks 
+
+as more symmetrical today.
+
+Maintaining a focus on liquidity and portfolio flexibility can allow 
+
+us to respond to events as the balance between growth and 
+
+We believe the Fed and other central banks have scope to cut 
+
+inflation risks evolves. Active management allows us to more 
+
+rates aggressively if growth slows. Yet there are also scenarios 
+
+nimbly seize upon relative value opportunities as they arise.
+
+in which the recent market-based easing of financial conditions 
+
+has done much of the work for central banks. That easing, 
+
+GLOBAL MARKETS MAY OUTPERFORM
+
+alongside continued consumer and corporate-sector strength, 
+
+could even prompt inflation to flare up again.
+
+This loop between central bank communication, financial 
+
+conditions, and real economic performance will likely 
+
+continue. We use scenario planning as part of our risk 
+
+management process to position for a broad set of macro 
+
+and market outcomes.
+
+OPPORTUNITIES ACROSS OUTCOMES
+
+After central banks globally raised rates in relative synchrony, 
+
+their paths ahead are likely to be more differentiated. We 
+
+continue to see the potential for outperformance of global 
+
+duration versus the U.S. Our view is based on the relatively 
+
+higher chance of U.S. economic resilience and the greater 
+
+downside risks in more rate-sensitive markets, notably, Australia, 
+
+the U.K., and the eurozone.
+
+We believe opportunities in global bond markets are more 
+
+attractive than they have been over the past decade. Investors 
+
+We expect fiscal concerns will continue, both in the U.S. and 
+
+with broad, global platforms can access a diversified set of bond 
+
+globally. We see potential for further bouts of long-end curve 
+
+exposures and a variety of sources of potential return.
+
+weakness amid anxiety about elevated supply, as occurred 
+
+in late summer, stemming from the increased bond issuance 
+
+needed to fund large fiscal deficits. We therefore expect to 
+
+have a curve-steepening bias in our portfolios, with overweight 
+
+positions in the 5- to 10-year part of the curve globally, and 
+
+underweights in the 30-year area.
+
+At current valuations, we continue to find bonds attractive 
+
+relative to equities (for more, see our latest Asset Allocation 
+
+Outlook, “Prime Time for Bonds”), while fixed income can 
+
+continue to offer correlation and diversification benefits in 
+
+portfolios. Bond returns also tend to be less dependent on a 
+
+positive economic outcome.
+
+We expect to focus on more liquid DM overall, given attractive 
+
+yield levels. We also expect to find good opportunities in 
+
+emerging markets (EM), both in terms of local and external 
+
+debt. We expect to be overweight EM foreign exchange, with 
+
+diversified funding currencies to reduce the correlation between 
+
+higher-carry EM currencies and global risk assets.
+
+CYCLICAL OUTLOOK  •  JANUARY 20248
+
+FOCUS ON CREDIT QUALITY
+
+In more credit-oriented markets, we continue to favor U.S. 
+
+agency mortgage-backed securities as a high quality, liquid form 
+
+of credit spread in portfolios. We also favor high quality non-
+
+agency mortgages, commercial mortgage-backed securities, 
+
+and asset-backed securities, based on both current valuations 
+
+and the default-remote properties of these securities given the 
+
+collateral backing them.
+
+In areas such as private credit, commercial real estate, and 
+
+bank loans, we believe there is an important distinction 
+
+between the stock of existing assets and the flow of new 
+
+investment opportunities. The existing stock faces real 
+
+challenges from higher interest rates and a slowing economy, 
+
+with a substantial distance remaining to mark private assets 
+
+to more realistic, market-based price levels, especially in areas 
+
+with fundamental weakness.
+
+In corporate credit, we favor liquid credit indices, senior financial 
+
+sector debt, and high quality positions in investment grade and 
+
+high yield bonds, while exercising greater caution with lower-
+
+quality credit and more economically sensitive sectors such as 
+
+floating-rate bank loans.
+
+At the same time, the opportunity for flexible capital has become 
+
+more attractive, as borrowers are in need of creative solutions 
+
+given a more constrained lending community. Asset-based 
+
+lending is perhaps the best example of this, where we are seeing 
+
+bank retrenchment create large-scale liquidity gaps in a variety 
+
+of forms of consumer and non-consumer lending. This is 
+
+The attractive opportunities we see in public markets today 
+
+particularly true in the U.S., as banks seek to sell assets, offload 
+
+contrast with a more nuanced outlook for private credit amid 
+
+future lending obligations, or exit certain business lines entirely.
+
+the need to refinance loans in a tougher borrowing environment. 
+
+Banks are retrenching in the face of liquidity constraints, 
+
+regulatory restrictions, and cost-structure challenges, as we 
+
+outlined in our recent publication, “Opportunities in Private 
+
+Credit: Stepping In as Banks Step Out.”
+
+As the lending community becomes 
+constrained, attractive opportunities in 
+asset-based lending are growing.
+
+Over time, this painful period of adjustment may lead to 
+
+further opportunities for well-positioned lending platforms to 
+
+earn proper premiums for less-liquid investments. In turn, we 
+
+anticipate what could be some of the best lending vintages 
+
+across private markets since the global financial crisis. Even 
+
+amid robust activity in corporate direct lending, which has 
+
+recovered from most of the spread widening that happened 
+
+since mid-2022, there is still significant need for flexible 
+
+solutions to complex capital structure problems, many of which 
+
+could offer equity-like returns in the near- to intermediate-term, 
+
+in our view.
+
+CYCLICAL OUTLOOK  •  JANUARY 2024CYCLICAL OUTLOOK  •  JANUARY 2024
+
+9
+
+About Our Forums
+
+PIMCO is a global leader in active fixed income with deep expertise across public and private 
+
+markets. Our investment process is anchored by our Secular and Cyclical Economic Forums. 
+
+Four times a year, our investment professionals from around the world gather to discuss and 
+
+debate the state of the global markets and economy and identify the trends that we believe will 
+
+have important investment implications. In these wide-reaching discussions, we apply behavioral 
+
+science practices in an effort to maximize the interchange of ideas, challenge our assumptions, 
+
+counter cognitive biases, and generate inclusive insights.
+
+At the Secular Forum, held annually, we focus on the outlook for the next five years, allowing 
+
+us to position portfolios to benefit from structural changes and trends in the global economy. 
+
+Because we believe diverse ideas produce better investment results, we invite distinguished 
+
+guest speakers – Nobel laureate economists, policymakers, investors, and historians – who 
+
+bring valuable, multidimensional perspectives to our discussions. We also welcome the active 
+
+participation of the PIMCO Global Advisory Board, a team of world-renowned experts on economic 
+
+and political issues.
+
+At the Cyclical Forum, held three times a year, we focus on the outlook for the next six to 12 
+
+months, analyzing business cycle dynamics across major developed and emerging market 
+
+economies with an eye toward identifying potential changes in monetary and fiscal policies, 
+
+market risk premiums, and relative valuations that drive portfolio positioning. 
+
+pimco.com
+
+All investments contain risk and may lose value. Investing in the bond market is subject to risks, including market, interest rate, issuer, credit, inflation risk, and liquidity 
+risk. The value of most bonds and bond strategies are impacted by changes in interest rates. Bonds and bond strategies with longer durations tend to be more sensitive 
+and volatile than those with shorter durations; bond prices generally fall as interest rates rise, and low interest rate environments increase this risk. Reductions in bond 
+counterparty capacity may contribute to decreased market liquidity and increased price volatility. Bond investments may be worth more or less than the original cost when 
+redeemed. Mortgage- and asset-backed securities may be sensitive to changes in interest rates, subject to early repayment risk, and while generally supported by a 
+government, government-agency or private guarantor, there is no assurance that the guarantor will meet its obligations. U.S. agency mortgage-backed securities issued by 
+Ginnie Mae (GNMA) are backed by the full faith and credit of the United States government. Securities issued by Freddie Mac (FHLMC) and Fannie Mae (FNMA) provide an 
+agency guarantee of timely repayment of principal and interest but are not backed by the full faith and credit of the U.S. government. 
+References to Agency and non-agency mortgage-backed securities refer to mortgages issued in the United States. Investing in foreign-denominated and/or -domiciled securities 
+may involve heightened risk due to currency fluctuations, and economic and political risks, which may be enhanced in emerging markets. Currency rates may fluctuate significantly 
+over short periods of time and may reduce the returns of a portfolio. Bank loans are often less liquid than other types of debt instruments and general market and financial conditions 
+may affect the prepayment of bank loans, as such the prepayments cannot be predicted with accuracy. There is no assurance that the liquidation of any collateral from a secured 
+bank loan would satisfy the borrower’s obligation, or that such collateral could be liquidated. Private credit involves an investment in non-publically traded securities which may be 
+subject to illiquidity risk. Portfolios that invest in private credit may be leveraged and may engage in speculative investment practices that increase the risk of investment loss. The 
+value of real estate and portfolios that invest in real estate may fluctuate due to: losses from casualty or condemnation, changes in local and general economic conditions, supply 
+and demand, interest rates, property tax rates, regulatory limitations on rents, zoning laws, and operating expenses. Inflation-linked bonds (ILBs) issued by a government are fixed 
+income securities whose principal value is periodically adjusted according to the rate of inflation; ILBs decline in value when real interest rates rise. Treasury Inflation-Protected 
+Securities (TIPS) are ILBs issued by the U.S. government. Management risk is the risk that the investment techniques and risk analyses applied by an investment manager will not 
+produce the desired results, and that certain policies or developments may affect the investment techniques available to the manager in connection with managing the strategy. The 
+credit quality of a particular security or group of securities does not ensure the stability or safety of an overall portfolio. Diversification does not ensure against loss.
+Forecasts, estimates and certain information contained herein are based upon proprietary research and should not be interpreted as investment advice, as an offer or solicitation, nor 
+as the purchase or sale of any financial instrument. Forecasts and estimates have certain inherent limitations, and unlike an actual performance record, do not reflect actual trading, 
+liquidity constraints, fees, and/or other costs. In addition, references to future results should not be construed as an estimate or promise of results that a client portfolio may achieve.
+Statements concerning financial market trends or portfolio strategies are based on current market conditions, which will fluctuate. There is no guarantee that these investment 
+strategies will work under all market conditions or are appropriate for all investors and each investor should evaluate their ability to invest for the long term, especially during periods of 
+downturn in the market. Investors should consult their investment professional prior to making an investment decision. Outlook and strategies are subject to change without notice.
+This material contains the current opinions of the manager and such opinions are subject to change without notice. This material is distributed for informational purposes only and 
+should not be considered as investment advice or a recommendation of any particular security, strategy or investment product. Information contained herein has been obtained from 
+sources believed to be reliable, but not guaranteed.
+PIMCO as a general matter provides services to qualified institutions, financial intermediaries and institutional investors. Individual investors should contact their own financial 
+professional to determine the most appropriate investment options for their financial situation. This is not an offer to any person in any jurisdiction where unlawful or unauthorized. | 
+Pacific Investment Management Company LLC, 650 Newport Center Drive, Newport Beach, CA 92660 is regulated by the United States Securities and Exchange Commission. | 
+PIMCO Europe Ltd (Company No. 2604517, 11 Baker Street, London W1U 3AH, United Kingdom) is authorised and regulated by the Financial Conduct Authority (FCA) (12 
+Endeavour Square, London E20 1JN) in the UK. The services provided by PIMCO Europe Ltd are not available to retail investors, who should not rely on this communication but 
+contact their financial adviser. | PIMCO Europe GmbH (Company No. 192083, Seidlstr. 24-24a, 80335 Munich, Germany), PIMCO Europe GmbH Italian Branch (Company No. 
+10005170963, via Turati nn. 25/27 (angolo via Cavalieri n. 4), 20121 Milano, Italy), PIMCO Europe GmbH Irish Branch (Company No. 909462, 57B Harcourt Street Dublin D02 
+F721, Ireland), PIMCO Europe GmbH UK Branch (Company No. FC037712, 11 Baker Street, London W1U 3AH, UK), PIMCO Europe GmbH Spanish Branch (N.I.F. W2765338E, 
+Paseo de la Castellana 43, Oficina 05-111, 28046 Madrid, Spain) and PIMCO Europe GmbH French Branch (Company No. 918745621 R.C.S. Paris, 50–52 Boulevard 
+Haussmann, 75009 Paris, France) are authorised and regulated by the German Federal Financial Supervisory Authority (BaFin) (Marie- Curie-Str. 24-28, 60439 Frankfurt am Main) 
+in Germany in accordance with Section 15 of the German Securities Institutions Act (WpIG). The Italian Branch, Irish Branch, UK Branch, Spanish Branch and French Branch are 
+additionally supervised by: (1) Italian Branch: the Commissione Nazionale per le Società e la Borsa (CONSOB) (Giovanni Battista Martini, 3 - 00198 Rome) in accordance with Article 
+27 of the Italian Consolidated Financial Act; (2) Irish Branch: the Central Bank of Ireland (New Wapping Street, North Wall Quay, Dublin 1 D01 F7X3) in accordance with Regulation 43 
+of the European Union (Markets in Financial Instruments) Regulations 2017, as amended; (3) UK Branch: the Financial Conduct Authority (FCA) (12 Endeavour Square, London E20 
+1JN); (4) Spanish Branch: the Comisión Nacional del Mercado de Valores (CNMV) (Edison, 4, 28006 Madrid) in accordance with obligations stipulated in articles 168 and 203 to 224, 
+as well as obligations contained in Tile V, Section I of the Law on the Securities Market (LSM) and in articles 111, 114 and 117 of Royal Decree 217/2008, respectively and (5) French 
+Branch: ACPR/Banque de France (4 Place de Budapest, CS 92459, 75436 Paris Cedex 09) in accordance with Art. 35 of Directive 2014/65/EU on markets in financial instruments 
+and under the surveillance of ACPR and AMF. The services provided by PIMCO Europe GmbH are available only to professional clients as defined in Section 67 para. 2 German 
+Securities Trading Act (WpHG). They are not available to individual investors, who should not rely on this communication. | PIMCO (Schweiz) GmbH (registered in Switzerland, 
+Company No. CH-020.4.038.582-2, Brandschenkestrasse 41 Zurich 8002, Switzerland). The services provided by PIMCO (Schweiz) GmbH are not available to retail investors, 
+who should not rely on this communication but contact their financial adviser. | PIMCO Asia Pte Ltd (8 Marina View, #30-01, Asia Square Tower 1, Singapore 018960, Registration 
+No. 199804652K) is regulated by the Monetary Authority of Singapore as a holder of a capital markets services licence and an exempt financial adviser. The asset management 
+services and investment products are not available to persons where provision of such services and products is unauthorised. | PIMCO Asia Limited (Suite 2201, 22nd Floor, Two 
+International Finance Centre, No. 8 Finance Street, Central, Hong Kong) is licensed by the Securities and Futures Commission for Types 1, 4 and 9 regulated activities under the 
+Securities and Futures Ordinance. PIMCO Asia Limited is registered as a cross-border discretionary investment manager with the Financial Supervisory Commission of Korea 
+(Registration No. 08-02-307). The asset management services and investment products are not available to persons where provision of such services and products is 
+unauthorised. | PIMCO Investment Management (Shanghai) Limited. Office address: Suite 7204, Shanghai Tower, 479 Lujiazui Ring Road, Pudong, Shanghai 200120, China 
+(Unified social credit code: 91310115MA1K41MU72) is registered with Asset Management Association of China as Private Fund Manager (Registration No. P1071502, Type: Other). 
+| PIMCO Australia Pty Ltd ABN 54 084 280 508, AFSL 246862. This publication has been prepared without taking into account the objectives, financial situation or needs of 
+investors. Before making an investment decision, investors should obtain professional advice and consider whether the information contained herein is appropriate having regard 
+to their objectives, financial situation and needs. To the extent it involves Pacific Investment Management Co LLC (PIMCO LLC) providing financial services to wholesale clients, 
+PIMCO LLC is exempt from the requirement to hold an Australian financial services licence in respect of financial services provided to wholesale clients in Australia. PIMCO LLC is 
+regulated by the Securities and Exchange Commission under US laws, which differ from Australian laws. | PIMCO Japan Ltd, Financial Instruments Business Registration Number 
+is Director of Kanto Local Finance Bureau (Financial Instruments Firm) No. 382. PIMCO Japan Ltd is a member of Japan Investment Advisers Association, The Investment Trusts 
+Association, Japan and Type II Financial Instruments Firms Association. All investments contain risk. There is no guarantee that the principal amount of the investment will be 
+preserved, or that a certain return will be realized; the investment could suffer a loss. All profits and losses incur to the investor. The amounts, maximum amounts and calculation 
+methodologies of each type of fee and expense and their total amounts will vary depending on the investment strategy, the status of investment performance, period of 
+management and outstanding balance of assets and thus such fees and expenses cannot be set forth herein. | PIMCO Taiwan Limited is an independently operated and managed 
+company. The reference number of business license of the company approved by the competent authority is (112) Jin Guan Tou Gu Xin Zi No. 015 . The registered address of the 
+company is 40F., No.68, Sec. 5, Zhongxiao East Rd., Xinyi District, Taipei City 110, Taiwan (R.O.C.), and the telephone number is +886 2 8729-5500. | PIMCO Canada Corp. (199 Bay 
+Street, Suite 2050, Commerce Court Station, P.O. Box 363, Toronto, ON, M5L 1G2) services and products may only be available in certain provinces or territories of Canada and only 
+through dealers authorized for that purpose. | Note to Readers in Colombia: This document is provided through the representative office of Pacific Investment Management 
+Company LLC located at Carrera 7 No. 71-52 TB Piso 9, Bogota D.C. (Promoción y oferta de los negocios y servicios del mercado de valores por parte de Pacific Investment 
+Management Company LLC, representada en Colombia.). Note to Readers in Brazil: PIMCO Latin America Administradora de Carteiras Ltda.Av. Brg. Faria Lima, 3477 Itaim Bibi, 
+São Paulo - SP 04538-132 Brazil. Note to Readers in Argentina: This document may be provided through the representative office of PIMCO Global Advisors LLC AVENIDA 
+CORRIENTES, 299, Buenos Aires, Argentina. | No part of this publication may be reproduced in any form, or referred to in any other publication, without express written permission. 
+PIMCO is a trademark of Allianz Asset Management of America LLC in the United States and throughout the world. ©2024, PIMCO.
+
+PC607_4020538
+
+0
+0
+1
+1
+0
+3
+3
+-
+2
+0
+1
+0
+-
+4
+2
+0
+2
+R
+M
+C
+
+

@@ -1,0 +1,137 @@
+{
+  "company": "Vanguard",
+  "report_year": "2023",
+  "publication_date": "2022-12",
+  "forecast_period": "2023 calendar year",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth (Q4/Q4 year-over-year)",
+      "horizon": "2023 calendar year",
+      "forecast_value": "0.25%–0.5%",
+      "source_quote": "US 0.25%–0.5%"
+    },
+    {
+      "category": "growth",
+      "region": "Euro area",
+      "variable": "Real GDP growth (annual)",
+      "horizon": "2023 calendar year",
+      "forecast_value": "0%",
+      "source_quote": "Euro area 0%"
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "Real GDP growth (annual)",
+      "horizon": "2023 calendar year",
+      "forecast_value": "-1% to -1.5%",
+      "source_quote": "UK –1% to –1.5%"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "Real GDP growth (annual)",
+      "horizon": "2023 calendar year",
+      "forecast_value": "4.5%",
+      "source_quote": "China 4.5%"
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "U-3 unemployment rate",
+      "horizon": "year-end 2023",
+      "forecast_value": "4.4%",
+      "source_quote": "US ... Unemployment rate ... Vanguard 4.4%"
+    },
+    {
+      "category": "labor",
+      "region": "Euro area",
+      "variable": "Unemployment rate",
+      "horizon": "year-end 2023",
+      "forecast_value": "7.4%",
+      "source_quote": "Euro area ... Unemployment rate ... Vanguard 7.4%"
+    },
+    {
+      "category": "labor",
+      "region": "UK",
+      "variable": "Unemployment rate",
+      "horizon": "year-end 2023",
+      "forecast_value": "4.7%",
+      "source_quote": "UK ... Unemployment rate ... Vanguard 4.7%"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Headline PCE (Q4/Q4 year-over-year)",
+      "horizon": "2023 calendar year",
+      "forecast_value": "3%",
+      "source_quote": "US ... Headline inflation ... Vanguard 3%"
+    },
+    {
+      "category": "inflation",
+      "region": "Euro area",
+      "variable": "Headline CPI (annual average)",
+      "horizon": "2023 calendar year",
+      "forecast_value": "5.3%",
+      "source_quote": "Euro area ... Headline inflation ... Vanguard 5.3%"
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "Headline CPI (annual average)",
+      "horizon": "2023 calendar year",
+      "forecast_value": "6.3%",
+      "source_quote": "UK ... Headline inflation ... Vanguard 6.3%"
+    },
+    {
+      "category": "inflation",
+      "region": "China",
+      "variable": "Headline CPI (annual average)",
+      "horizon": "2023 calendar year",
+      "forecast_value": "2.2%",
+      "source_quote": "China ... Headline inflation ... Vanguard 2.2%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate",
+      "horizon": "year-end 2023",
+      "forecast_value": "4.5%",
+      "source_quote": "US ... Monetary policy ... 2023 4.5%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Euro area",
+      "variable": "ECB policy rate",
+      "horizon": "year-end 2023",
+      "forecast_value": "2.5%",
+      "source_quote": "Euro area ... Monetary policy ... 2023 2.5%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England Bank Rate",
+      "horizon": "year-end 2023",
+      "forecast_value": "4.5%",
+      "source_quote": "UK ... Monetary policy ... 2023 4.5%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "China",
+      "variable": "One-year MLF rate",
+      "horizon": "year-end 2023",
+      "forecast_value": "2.6%",
+      "source_quote": "China ... Monetary policy ... 2023 2.6%"
+    },
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global recession",
+      "horizon": "2023",
+      "forecast_value": "recession (base case)",
+      "source_quote": "Our base case is a global recession in 2023 brought about by the efforts to reduce inflation."
+    }
+  ],
+  "excluded_vague_count": 12
+}

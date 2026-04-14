@@ -1,0 +1,1897 @@
+SOURCE: amundi/amundi_2022.pdf
+PAGES: 24
+
+--- PAGE 1 ---
+INVESTMENT OUTLOOK | 2022
+INVESTMENT OUTLOOK| 2022
+Investing in the great transformation
+1
+
+--- PAGE 2 ---
+INVESTMENT OUTLOOK | 2022
+Dear client
+As the global economy recovers from its pandemic scars and inflation makes its
+first comeback in decades, the world is preparing to face its greatest ever
+challenges: the energy transition to fight the inexorable climate crisis and the
+development of an inclusive growth model.
+We believe that 2022 will be a pivotal year in this respect, encompassing a huge
+mobilisation of resources to succeed in both of these challenges. Meanwhile,
+some of the paradigms that have characterised the previous decade will appear
+outdated.
+The paradigm of austerity at all costs is a thing of the past, and not only as a
+response to the Covid-crisis disruptions. Huge fiscal stimulus, along with private
+capital, is crucial for the ambitious investment needed to reach Net Zero emission
+targets by 2050 and to manage the transition. The energy crisis we are living in
+today is adding more fragility to an already unequal society, and governments
+need to act. Central Banks’ independence will come into question, while dealing
+with multiple targets (inflation, growth, unemployment, green, inequality). The
+mantra of «too much of everything» (overcapacity) is also debunked as scarcity is
+all around: commodities (food and energy), a skilled workforce and alternative
+supply chains to mention a few. This comes alongside the end to the old wave of
+globalisation and the emergence of China as global power (in terms of consumer
+demand, climate action, geopolitical equilibria), rather than being a mere low cost
+manufacturer.
+All this translates into three major themes for investors in 2022: first, inflation, at
+a time when economic growth starts to slowdown; second, the de-synchronisation
+of fiscal and monetary policies across the world, along with the impacts of the
+slowdown in China; third an acceleration of ESG integration into portfolios.
+We will help you rethink your portfolios through these lenses, and to explore the
+opportunities that will arise in this new investment regime.
+Pascal BLANQUÉ Vincent MORTIER
+Group Chief Deputy Group Chief
+Investment Officer Investment Officer
+22
+
+--- PAGE 3 ---
+INVESTMENT OUTLOOK | 2022
+10 KEY MESSAGES FROM THE 2022 INVESTMENT OUTLOOK
+The road back to 70s narrative gains traction. Secular stagnation is a thing of the past, the “roaring
+1
+20s” – a new economic miracle – a dream. Global growth will return to potential after the peak, as
+cyclical stimuli fade. Inflation will prove to be permanent and uncertain, fuelled by supply shortages
+and scarcity all around. De-synchronisation among growth and inflation trends are back with
+vengeance,globalisation will take a hit.
+Central Banks (CB) hold the key to the cycle. A stagflationary direction is on the horizon, with a
+2 risk that Central Banks may lose control, while trying to balance the growth and inflation trade off. In
+DM, CBs will acceptfallingbehindthe curve,giventheir benignneglectof the inflationnarrative.
+After an initial tiptoe into tapering, expect more, not less, monetary accommodation down the
+3 road (moving into 2023) amid decelerating growth and the rising fiscal needs required to finance the
+green and just transition. Central Banks and governments will work in harmony: higher debt will need
+to be monetisedand financial repression will continue.
+The cycle will extend further, but frenzied markets are no longer in sight. In the sequence of
+4
+tapering and deceleration, followed by more stimuli and re-acceleration, investors should be cautious
+first (neutral on risk assets) and search for entry points to complement their strategic positioning in
+equities, commodities and EM. The latter, should be back in focus after a lost decade, in which global
+positioninghas fallenbelow strategic targets.
+The concept of EM as a block is definitely over. The great divide will be across three worlds: 1)
+5
+countries with inflation and Central Banks acting to control it; 2) countries with Central Banks
+remaining inactive (out of control); and 3) China. Investors should favour 1 and 3, where currencies
+shouldalso appreciateversusthe US dollar,bearingthe burden of hyper-Keynesianpolicies.
+Targeting real returns is the new horizon, beware of the nominal illusion. Challenges will
+6
+increase for a 60/40 portfolio. Positive equity/bond correlation calls for more dynamic allocation.
+Relative value plays and additional sources of diversification that can potentially mitigate inflation risk,
+such as real assets,will be paramount.
+Real rates will determine the fate of excessive equity valuations. They will eventually pick up,
+7
+challenging the bubble areas in the growth space. Selection should focus on earnings and pricing
+power, qualityand value,amid highercosts and rising rates.
+Resist the temptation to go long duration after the first leg of rising nominal yields. Curve
+8
+movements, currencies and cross-regional opportunities will flourish in a world of divergent monetary
+policies.Unconstrainedfixed incomewill remain the name of the game.
+We will likely see some cracks relating to leverage issues come to the surface. This will trigger
+9
+the first round of the great discrimination between unsound and expensive credit, at risk during a time
+of tighterliquidity conditions and defaultrates bottomingout, versus soundand expensivecredit.
+The green and social recovery will push towards ESG mainstreamisation, but the transition will
+not be linear. The ESG ecosystem (regulation, coalitions, investor preferences) will drive demand
+10
+and data quality and affect the price discovery process, with positive feedback loops between some
+ESG factor adoptionand their increasing impacton prices.
+DM = Developed Markets, EM = Emerging Markets.
+33
+
+--- PAGE 4 ---
+INVESTMENT OUTLOOK | 2022
+INDEX
+CIOs’ letter 2
+10 key messages from the 2022 investment outlook 3
+Setting the scene 5,6,7
+Central Banks’ focus 8,9
+Base, alternative scenarios and risks 10
+Key investment convictions for 2022 11,12
+ESG Focus 13
+Asset Class Views
+Asset class views table 14
+Allocation and Equities 15
+Bonds and Emerging markets 16
+Commodities and FX 17
+Private markets 18,19
+Focus on EU open strategic autonomy 20
+Forecasts 21,22
+Authors 23
+44
+
+--- PAGE 5 ---
+INVESTMENT OUTLOOK | 2022
+MULTIPLE TRANSITIONS LEADING DIVERGING PATHS
+Central banks hold the key to the cycle in a desynchronised world
+2022 will mark a critical juncture on the road to a new level. Chinese growth will be critical. It will cool down, but
+economic and financial regime. Multiple coexisting not be derailed in our view. The Chinese government will
+transitionswilldrivetheshiftfromtheoldtoanewregime, have to manage China’s transition towards a more
+that has already started in economic, social and balanced andequalsociety,avert a hard landingand curb
+geopolitical spheres, that will accelerate and have investors’moralhazardinover-indebtedareassuchasthe
+profound implications for investors. The end of the ultra- housing market. While such deleveraging goes ahead,
+easy monetary era, as well as the growing momentum for fiscal and monetary policy should become moderately
+policies to avoid a climate catastrophe and social threats supportive.
+willbethemestowatch.
+The impact of a Chinese slowdown should remain
+The strong growth rebound in 2021 means that some of contained overall, although spill overs on select
+the excess accommodation introduced to fight the metal/commodity exporters and trade partners may
+economicdamagefromthepandemicisnolongerneeded. occur. Discrimination regarding emerging markets
+It is time for Central Banks to start gradually removing it, (EM) will be key.
+as overheating in some areas will start to emerge and
+inflation is making its first major comeback in decades. At The Eurozone outlook should remain benign, with
+the same time, the impact of the energy transition will peripheral countries benefitting from resources from the
+determine winners and losers across economies and Next Generation EU (NGEU) recovery package and
+markets and fiscal policy will have to mitigate the cost of regained confidence in service sectors, which have not
+this. Tapering is the buzzword at the end of 2021 but been fully exploited this year. Yet, there is also the
+CentralBanksmayonlytiptoeintoit. possibility that growth will disappoint on the downside as
+supply shortages threaten the recovery to different
+The shift away from a world of ultra-easy money will degreesacrossregions.Thisisakeyareaofrisk.
+not be straight forward, as multiple transitions will
+affect Central Banks’ reaction functions. Transition 2: From liberalism to government
+interventioninaddressinggreenandsocialissues
+Transition1:Fromeuphoriatonormality The Covid-19 crisis has further exacerbated the need to
+In a broadly good environment for global growth, we are fight inequalities and put health and environmental issues
+moving away from the re-opening euphoria seen earlier in at the top of the political agenda. Addressing these issues
+the year and global economic momentum is slowing down means fighting monopolies, accelerating the energy
+topotential,fromitspeakascyclicalstimulifade. transition, rebuilding the social pact and rebalancing the
+dynamicbetweenprofitsandwages.
+The illusion of a global economic miracle will wane. All this will come with greater regulations, possible
+changesintaxation,investmentininfrastructureandgreen
+In the US,ongoing supportivefiscal policy, positive wealth projects, and fiscal measures targeted towards social
+effects from financial markets and rising demand from issues.Hence,thefiscalpushwillcontinue,butataslower
+millennials may support further years of above potential pacecomparedwith2020-2021.
+growth, but expansion will remain below 2021’s record
+Growth is set to decelerate at pre-crisis levels or below (Amundi’s real GDP forecasts)
+10
+8
+6
+4
+2
+%
+,Y 0
+o
+Y -2
+-4
+-6
+-8
+United States Japan Eurozone China
+2020 2021 2022 2023 Average pre-crisis growth
+Source: Amundi, IMF. Data is as of 8 November 2021. Average pre-crisis growth refers to the 2010-18 period. Forecasts are by Amundi Research.
+5
+
+--- PAGE 6 ---
+INVESTMENT OUTLOOK | 2022
+asynchronous way. Not only will the road towards the
+Global debt is fast approaching $300 trillion withdrawal of extreme policies be long, but a further fiscal
+300 380 push to finance the energy transition and fight inequality
+360 willalsolikelyrequireCentralBanksupport.
+340 In this transition from old (fighting inflation) to new
+200 (supporting a more equal and sustainable growth path)
+320
+% mandates, Central Banks will face the dilemma of when
+n
+t$
+100 2
+3
+8
+0
+0
+0
+G f
+o a
+a
+n
+w
+d
+o
+h
+rl
+o
+d
+w
+o
+f
+f
+a
+h
+s
+i
+t
+g
+t
+h
+o
+er
+s
+/
+w
+pe
+it
+r
+c
+m
+h
+a
+o
+n
+n
+e
+/o
+n
+f
+t
+f
+in
+th
+fl
+e
+at
+a
+io
+c
+n
+co
+a
+m
+nd
+mo
+sl
+d
+o
+a
+w
+ti
+e
+o
+r
+n
+g
+b
+ro
+u
+w
+tto
+th
+n
+(
+in
+a
+D
+260P stagflationarypath). The narrative of a trade-off between
+240 growth and inflation (on top of the stagflationary one) will
+0 220 driveCentralBanks’actions.
+Central Banks will determine how long the current
+cycle can be extended further. In our view, the
+Financial corporates Government
+Non-financial corp. Households music will continue to play softly.
+Source: IIF, BIS, IMF, National sources. From IIF Global Debt Monitor
+The Federal Reserve (Fed) will move very gradually, with
+September 14th, 2021.
+benign neglect supported by its mantra of transitory
+The already high debt pile could rise further, at a inflation.TheEuropeanCentralBank(ECB)willfacemore
+time when growth is slowing, and challenging its challenges,asthetoleranceforhigherinflationislimitedin
+sustainability. the Eurozone and the energy dependence is higher. EM
+Central Banks will likely start to pause and eventually
+Transition 3: From a global value chain setup to reverse some of the tightening implemented this year.
+independenceinstrategicsectors. After an initial hawkish phase in 2022, we expect to see
+The geopolitical context will become more complex amid more accommodation down the road, which will re-
+the battle for self sufficiency, energy and technology accelerate growth at some point in 2022 and extend the
+supremacy. The Pacific area is getting hot, while China cyclefurther.
+and US tensions are escalating again. These trends are
+taking place at a time when the pandemic has already Central Banks’ actions will also be critical in
+triggered many businesses and governments to rethink relation to debt dynamics and the management of
+globalvaluechainsinordertomakethemmoreresilientto possible bubbles.
+future shocks, including natural disasters which are
+increasingly likely to occur on a warmer planet. This The case of struggling property developers in China is an
+means reshoring elements of production and exampleoftheneedtoaddressexcessiveleveragebefore
+increasingsupplychaindiversificationbynearshoring itbecomesasystemicrisk.Hence,thissituationshouldbe
+it. The focus on self-sufficiency will be particularly high in seenasapositivemoveforlong-termstabilityeventhough
+Europe, where part of the NGEU has been allocated to itmayprovepainfulintheshortterm.Globally,otherareas
+strategic sectors (semiconductors, defence and security, of excess could also be a source of risk for investors. As
+clean energy) on the road towards greater economic extra liquidity is lifted, and real yields start to drift higher,
+autonomy. ultra-high growth stocks at extreme valuations and highly
+leveraged corporate bonds will find themselves under
+Regionalisation versus globalisation will be a key pressure. We will likely see cracks regarding leverage
+theme as well as a focus on strategic sectors. issues coming to the surface, which will require additional
+focus on credit selection across the board, at a time of
+Transition4:Fromtemporarytostickierinflation. tighterliquidity conditions.
+All the aforementioned transitions will determine the path
+of inflation. Their combined effects are changing the Stagflation narrative on the rise
+dominant inflation narrative from low and temporary, to
+9000
+higher for longer. Inflation will not likely return to pre-
+8000
+crisis levels, as supply chain bottlenecks, surging energy
+7000
+prices, the rebalancing towards higher wages and rising
+tax rates will push it higher compared to the past decade. 6000
+tn
+What initially has been a US story is spreading u 5000
+o
+globally through rising food and energy prices, with the c 4000
+y
+notable exception of China, where consumer prices (CPI) r o 3000
+are under control but producer prices (PPI) are being tS
+2000
+squeezed,puttingpressureoncorporatemargins.
+1000
+Transition 5:From old to new Central Bankmandates. 0
+CentralBanks’actionswilldependonhowgrowth,inflation
+and debt adjust. The new regime we are facing will likely
+Stagflation
+see financial repression continue in 2022, with Central
+Banks remaining behind the curve and acting in an Source: Amundi, Bloomberg News Trend. Data is as of 2 November 2021.
+6
+
+--- PAGE 7 ---
+INVESTMENT OUTLOOK | 2022
+TRANSITIONS LEADING TO THE GREAT DESYNCHRONISATION
+From post pandemic euphoria
+to slowing economic momentum
+2022 will likely start with a deceleration from the 2021 peak, amid a China slowdown,
+followed later in the year by a pick-up in economic activity when China stabilises and an
+additionalfiscalpushrebootsthegrowthengine
+ Investment implications: moderating earnings growth, increased vulnerabilities,
+excessivecomplacencyandhighvaluations.Playselectiveequitywithafocusonresilience
+tohigherinflation(value,quality,pricingpowerstocks,dividendthemes)
+From liberalism
+to government interventions, with a focus on ESG themes
+The Covid-19 crisis has further exacerbated the need to fight inequalities and also put
+healthandenvironmentalissuesatthetopofthepoliticalagenda.
+ESG Investment Implications: Sector and single companies discrimination, with a focus on
+main ESG themes.
+From global value chain
+to self-independence
+Globalisation
+Amorecomplexgeopoliticalcontextamidthebattleforenergyandtechsupremacyandthe
+need to make supply chains resilient to the pandemic and to possible natural disasters is
+Re-shoring
+drivingreshoringandnearshoringtrendsglobally.
+ Investment implications: Regional themes versus global themes, strategic sectors in
+EU, China, increase focus on bottom up analysis of each business case’s resilience to
+supplydisruption,selectiveEMequity/bond.
+From low/temporary inflation,
+to stickier inflation
+Supply chain bottlenecks, energy prices, rebalancing towards higher wages and rising tax
+LOW &
+HIGH &
+TEMPORARY rateswillpushinflationhighercomparedtothelastdecade.Withslowinggrowthandhigher
+PERSISTENT
+inflationtheriskofstagflationisontherise.
+Investment implications: focus on assets related to the real economy and inflation
+linked, remain short on duration.
+Central Banks, from old
+to new mandates
+Central Banks will be forced to stay behind the curve and maintain a financial repression
+environment (zero to negative real rates) to support the rising debt needed to finance
+environmentalandsocialprojects.
+ Investment implications: CB actions will drive risk sentiment. Start the year with a
+cautious allocation (neutral on risk assets) amid tapering in the US and Europe and
+increaserisklaterwheneconomicmomentumimproves.
+77
+
+--- PAGE 8 ---
+INVESTMENT OUTLOOK | 2022
+WHEN THE GOING GETS TOUGH, THE TOUGH GETS GOING
+Central Banks deal with slowing growth and rising inflation
+Aftermorethanadecade,thefinancialcommunityisused Whenweconsidertheglobalpictureataregionallevel,we
+toreactiveandinfluentialCentralBanks. continue to see a multi-speed, uneven, unbalanced
+2022 will not be an exception: while fiscal levers remain economicandtransformationalrestart.
+significant and tied to monetary policy, Central Banks will The policy mix challenge is to transform the economic
+stay vigilant and keen to manage the growth/inflation twist rebound we have seen into a recovery with a more
+that, we are convinced, will be the dominant market equitable income distribution aimed at tackling the
+narrative throughout 2022 and will further increase the inequality and social tensions that the pandemic
+asynchronyofmonetarypoliciesacrosstheglobe. exacerbated.Arealandtangibletransformationiswhatwe
+need.
+Aregime shift is underway: enduring inflation on On the price dynamics front, we see inflation abating from
+some structural forces and a slower global growth 2021 levels, but remaining high when compared to pre-
+path not necessarily driven by the pandemic. pandemic levels. The same path will take place in the
+Emerging Markets where inflation increased even faster
+Keyassumptionstoour2022outlook than in developed ones, largely moving on soaring food
+1. Global supply chain fragilities and bottlenecks to be andenergyprices.
+put together by H2 2022. The pandemic exacerbated
+an already existing imbalance related to a In2021,theECBandtheFedintroducednewformulations
+concentration of global supply chains aimed at of their mandates which sometimes remain obscure such
+tackling short-term efficiency rather than maximising as their new “average inflation targeting” where the time
+theirresilience; horizon of reference has not been specified. However,
+when the temporary/permanent debate exhausts its
+2. Labour shortages to be solved as soon as policy appeal,monetaryauthoritieswill wrestlewithwhattodoin
+supportschemesend, wage growth to remain mildon the face of inflation materially rising amid supply side
+average; shocks,whichdominatedemandsideshocks.
+While Central Banks have been trained on demand driven
+3. Energyprices remain at high levels without creatinga
+inflationmanagement,itislessthecaseonsoaringsupply
+power crunch in China and Europe, with WTI (West
+side prices (labour market shortages, energy and food,
+Texas Intermediate) staying in the 75/80 USD range;
+clogged shipping lanes). In any case, we shouldn’t worry
+and
+aboutalackofdemandsidepricepressures! Soonwewill
+4. China’s economic recovery in the shadow of its see them building up in the US on demographic trends:
+political agenda with growth still on a slow path in Q4 Gen Z (a population cluster much larger than Gen X) will
+21andgainingsomemildtractionin2022. be soon ready to spend more (likely to buy houses and
+formfamilies).
+We expect Chinese growth to drive the two speed
+Central Banks face the big challenge of tapering at a
+recovery path that will lead global financial markets
+time when global growth is quickly going back to
+into a late cycle only in the second half of 2022.
+potential.
+2022: Central Banks in a desynchronised mood
+Amundi’s projected policy stance direction
+More accommodative
+Stable accommodative
+Less accommodative
+Tight
+Source: Amundi Research as of 8 November 2021. Illustrative map for monetary policies. Central bank stance refers to expected changes on QE or
+unconventionaltoolspositionthroughout2021andearly2022.
+8
+
+--- PAGE 9 ---
+INVESTMENT OUTLOOK | 2022
+Walkingonatightrope
+Moving to the short term, the going is definitely getting When regressing narratives versus S&P500 fair values to
+tougherespeciallyfortwoCentralBankswithverydifferent explain markets deviation from equilibrium prices, results
+constraints and concerns: the Bank of England and the are statistically significant and economically sound and
+PeopleBankofChina. showthesignificanceofnarrativeschangesovertime.
+ The BoE has to fight rising inflation and will likely hike Withthisinmind,timeforthe“secularstagnation”narrative
+rates at its December meetings amid the uncertainty of low growth and forever low inflation is now over.
+comingfromtheBrexitspillover. Instead, the “monetary policy” narrative, with the Fed’s
+ The PBoC is refraining to broadly adjust its tightening policy stance, its balance sheet expansion and Covid-19
+policy, notwithstanding the persistent weakening related Quantitative Easing, had an outsized impact
+inducedintheeconomy. supporting equity fundamentals up to August 2021. We
+ TheECBpostponeditstightspottoDecember,whenit think this narrative largely explains the disconnection
+releases its economic projections and possibly adjusts between markets dynamics and fundamentals we have
+its forward guidance. Then, it will be time to allow the seen since the beginning of the year; it has now lost a bit
+transition from PEPP (Pandemic Emergency Purchase of traction, but will remain latent in 2022. Since February,
+Programme) to APP (Asset purchase programme narratives have started to revolve around less benign
+(APP)thatmightcreatesomeheadacheswiththeECB footprints such as “back to 70s”, supporting market highs
+avoidingmarketdistortionsandmorefragmentation. butlookingforconfirmationsoncorporatefundamentals.
+ The Fed engaged on its well communicated tapering
+butwilllikelybechallengedonitsabilitytomanagethe For the time being reported earnings are surprising
+unwinding of extremely hawkish markets expectations. on the upside: we don’t think this upbeat messaging
+The risk of market disappointment is high. The first will will be repeated into 2022.
+be the toll paid by the USD and if this is the case we
+might expect to be challenged on our call for stability As a conclusion, we might expect markets participants to
+with the greenback potentially moving from 1.14 (our increasingly focus on “stagflation”, “back to 70s” and a
+presenttargetforDec22)to1.20. sequential move into less favourable valuations and
+multiple de-ratings. Overall, this emboldens our call for a
+neutralexposuretoequityatthebeginningoftheyear,that
+canberecalibratedinH2whenwemovetoalatecycle.
+Central Banks are all
+walking on a Greentransitionboosters
+tightrope: caught in a We would like to conclude on another field where we see
+vice between slower Central Banks playing a prominent role: climate change
+growth and higher and the green transition. This will involve a significant
+inflation. evolutionintheconductofmonetarypolicy.
+Monica DEFEND
+Depending on the speed and the nature of the transition
+Global Head of Research policy, climate risk will affect the traditional transmission
+channels of monetary policy while the “green swan” risks
+Their “endowment” is at stake: any deviation from their (i.e., potentially financially disruptive climate related
+forwardguidancewilldisturbmarketparticipantsstartingto events)mightbebehindasystemicfinancialcrisis.
+price in a potential loss of credibility with disruptive While this transformation is definitely on governors’ long-
+consequencesforfinancialmarkets.ForEMCentralBanks term radar, there are more short-term challenges and
+maintaining high credibility is key to keeping inflation opportunities that Central Banks should embrace. In July,
+expectationsanchored. the BoJ already announced a Green TLTRO (Targeted
+longer-term refinancing operations) to offer a favourable
+Policy attitudes will shape our investment positioning: the rate of bank lending to green activities. Similar proposals
+combination of balance sheets that need to stay ample to are on the ECB’s working list. In light of growing climate
+preserve loose financial conditions, persistently rising risks, having the TLTRO facility calibrated on a taxonomy
+inflation, slowing growth, overstretched risk asset of sustainable activities could be an immediate step to
+valuations, is jittery for financial markets (risk assets in align lending with the Paris Agreement. Green LTROs
+particular)andjustifies whyweareholdingourbreathnow could be structured to preserve the objectives and
+andexpecttoonlystartbreathingnormallylaterin2022. modalities of standard TLTROs, while at the same time
+including incentives for banks to invest in green activities
+Influencingmarketnarratives (ifnotbanks,thenbanks’clients).
+As we mentioned earlier this year, different investment Aproperdefinitionof‘greenlending’isstillmissingthough
+narratives are evolving at this point in time, leading to as it is difficult to provide a consistent definition of
+uncertainty and explaining complacency in the markets. environmental sustainability and a reliable system of
+We are convinced that narratives will continue to explain verification. Copernican transformations are in place
+the divergence between market levels and fair values almost everywhere, and it is likely the pandemic provided
+calculated on micro and macro fundamentals (Earnings theneededcatalysttomoveforward.
+pershare;interestrates,unemployment,oilprices).
+We really wish to see Central Banks adopting
+We consider markets narratives as “valuation “green transition boosters” soon.
+factors” .
+9
+
+--- PAGE 10 ---
+INVESTMENT OUTLOOK | 2022
+BASE AND ALTERNATIVE SCENARIOS AND RISKS
+Downside Central scenario Upside
+15% 70% 15%
+Renewed slump towards stagflation Bumpy road, regional divergences Inclusive and sustainable growth
+ Several risks precipitate an economic  Covid-19 becomes an endemic  Pandemic recedes more quickly than
+downturn, whose depth depends on disease, with random contagion waves. anticipated.
+the nature and intensity of the shock.  Growthcatch-up in 2021-22 converges  Extra savings and wage rises fuel
+ Upward price pressures fade, as to trend in 2022-23. Soft patch in H1 consumptionwith no erosion on
+global demand falls and labour markets 2022 due to China’s slowdown and corporate margins.
+deteriorate. accelerating inflation.  Productivity gains thanks to tech
+ Renewed monetary and fiscal  Persistent inflation pressures due to changes and structural reforms.
+accommodation, possibly a further supply-side bottlenecks and to rising  Inclusive growth thanks to the fight
+step in financial repression. wage pressures. against inequality.
+ Inflation to resurface later, forcing CB  Monetary policy asynchrony: Fed to  Inflation remains under control.
+to deviate from their guidance and taper, BoE could hike rates, ECB on  Higher interest rates due to stronger
+lose credibility. recalibration mode, and PBoCon an investment and less savings.
+ Possible triggers include China’s hard easing bias. Rates to stay low for  CBon the way to normalisation, well
+landing, Covid-19 resurgence, financial longer. received by financial markets.
+shocks, de-anchoring inflation  Fiscal policy: withdrawal of some  Debtis sustainable thanks to strong
+expectations, climate-change-related accommodation, but support will be growth and a gradual shift towards
+natural disasters and policy mistakes. needed for the energy transition. fiscal discipline.
+ Climate change bites into growth and  Possible triggers include good
+inflation by disrupting the commodity policies (e.g., structural reforms,
+cycle and adding to stagflationary effective vaccine campaigns, and
+trends. inclusive finance thanks to
+decentralisation).
+The wall of risk
+High Probability Low
+De-anchored
+Prolonged Rising Disordered
+Dein-aflnactihoonr ing End of US
+supply-chain corporate environment
+expreactetast aionnds supremacy and
+disruptions and insolvency as transition
+trigginefrla btoionnd - global political
+earnings stimulus is triggers rising
+exmpeacrktaetti ons vacuum
+recession withdrawn climate risks
+dislocations
+Positive for Positivefor Positivefor Positivefor Positive
+cash, linkers, TIPS, USD, JPY, CNY and green
+JPY, gold, USD, commodities, FX UST, minvol, Asian assets commodities
+quality vs. cyclical
+Negative for oil, Negative for Risk on HK Negative for Negative
+risky assets, AUD long-term UST, peg.Negative trade weighted brown
+CAD or NZD, EM Bund, EM fixed for Chinese dollar commodities,
+local CCY income and FX equities, CNY, insurance
+exporters US HY sector
+Source:Amundiasof31 October2021.DM:developed markets, EM:emergingmarkets.CB:central banks.MinVol=Minimum volatility,strategieswhichaim at
+reducingequityvolatility.UST=USTreasuryBond.TIPS=TreasuryInflationProtectedSecurities.FX=ForeignExchange.
+1100
+
+--- PAGE 11 ---
+INVESTMENT OUTLOOK | 2022
+KEY INVESTMENT CONVICTIONS FOR 2022
+Moving to a late cycle in H2: equities, EM and commodities favoured
+In terms of portfolio construction, 2022 will bring more credit selection will be in focus as defaults may start to
+challenges compared to 2021. Investors cannot expect risefromlowlevels,withtherisingcostofdebt.
+2021-level returns for equities, amid an environment
+of normalising earnings growth and mounting • Playequitywithafocusontheleaststretchedareas
+pressure on margins. Pressure on government bonds (value, EM, Europe) and sensitivity to higher rates.
+willcontinue,whileinterestrateswillstarttorise.Withreal Earnings growth will decelerate from the record levels
+yields globally in the low range, the search for real seenin2021,butsomebusinessesarelikelytocontinue
+incomewillcontinue. to benefit from the ongoing re-opening, while others will
+suffer from rising costs, taxation and supply chain
+The key elements to consider in portfolio readjustments. This will lead to an environment of high
+construction will be: return, liquidity risk and dispersion of returns among stocks providing a
+exposure to growth and inflation. positive backdrop for stock picking. Interest rates will
+remain reasonably low, but on a rising trajectory,
+Againstthisbackdrop,investorswillhaveto: favouring equity value (particularly financials) versus
+growth. EM equities should be back in focus. Equity
+• Start light/neutral in terms of risk exposure and re- exposurehasincreasedtoapeakinthecycle,favouring
+calibrate risk throughout the year, with a focus on DMequities.ThenextincreaseshouldfavourEM,where
+portfolio resilience to rising yields. Investors should allocations are far below the strategic target and
+start the year with a cautious/neutral allocation (also valuations look relativelyattractive. Acountry-by-country
+considering stretched market valuations) and try to assessmentwillbekeywhenlookingatEMopportunities
+exploit relative value opportunities (across regions and in the context of China’s policies, price evolution and
+segments). Ina sequenceof slowing growth followed by fiscal and monetary room. Europe should also be
+more stimulus, investors will likely have a window to favoured thanks to its Next Generation EU, with a focus
+increase risk allocation again and exploit the onthegreentransition.
+opportunities brought by an extended cycle. Risk and
+liquiditymanagementwillbekeyasrisingrealyields • AddthematicexposuretoESGfactorsthatwilllikely
+may bring some market turbulence and challenges for haveamaterialimpactonrisk/returns.Environmental,
+both equity and bonds simultaneously. The 60/40 Social and Governance (ESG) themes should be seen
+portfolio will be challenged by potentially positive as complementary to the classical portfolio metrics of
+equity/bond correlation and the duration risk in bonds, risk and return, particularly when it comes to areas that
+calling for additional sources of diversification, such as could have a material impact on asset prices. Changes
+lowlycorrelatedstrategiesandrealassets. to regulations and rising demand from institutions and
+investors are ensuring some factors are becoming
+• Getsmartinthesearchforrealincome,byenlarging increasingly relevant in this respect. The net zero
+the asset class spectrum in an environment of emissions initiative is one of the themes that will have a
+structurally higher inflation. This will mean going significant market impact, in our view. The focus on
+beyond the traditional bond space and looking at equity tacklinginequalitywilllikelybethenexttheme,asthisis
+dividends, real assets, EM bonds with a focus on short a key focus of governments during the current recovery
+duration and more generally at areas offering higher phase. Some blended themes combining environmental
+yields with relatively low duration risk (subordinated and social aspects could emerge, such as the just
+credit and loans). Credit with longer duration and/or transition’sdrivetotackleclimatechangeinanequitable
+where spreads are too tight, will be challenged. Overall way,whichisaparticularfocusofconcernforEM.
+Risk exposure recalibration in 2022
+Jan 2022 Dec 2022
+Start with cautious/neutral allocation (also considering the
+stretchedvaluationsinthemarket)tryingtoexploitrelativevalue
+opportunities(acrossregionsandsegments)
+In the sequence of slowing growth, followed by more stimulus, investors
+willlikelyhaveawindowtore-increaseriskallocationandexploitthe
+opportunitiesofalatecycle(equities,selectiveEM,commodities)
+Source: Amundi, as of 31 October 2021.
+11
+
+--- PAGE 12 ---
+INVESTMENT OUTLOOK | 2022
+KEY PORTFOLIO CONSTRUCTION CONVICTIONS
+1 2
+GET SMART IN THE SEARCH FOR REAL
+FOCUS ON PORTOFLIO RESILIENCE
+INCOME
+Balance risk in a world of changing correlations This will mean going beyond the traditional bond
+with the addition of uncorrelated sources of space to look at equity dividends, real assets,
+returns. emerging markets bonds with a focus on short
+duration and subordinated credit.
+12-month correlation S&P500 & US Treasury Index
+With negative realyieldsin DM, look at EM
+0,8
+3
+0,6 %
+0,4
+,la 2
+0,2
+itn
+1
+e
+r
+-0
+0
+,
+,
+2
+0 e ffiD
+-1
+0
+d
+-0,4 n -2
+a
+-0,6 s d -3
+-
+-
+1
+0
+,
+,
+0
+8 le iY
+la
+0 1
+0
+2
+1 1
+0
+2
+2 1
+0
+2
+3 1
+0
+2
+4 1
+0
+2
+5 1
+0
+2
+6 1
+0
+2
+7 1
+0
+2
+8 1
+0
+2
+9 1
+0
+2
+0 2
+0
+2
+1 2
+0
+2
+e
+R EM vs. DM real yield differential
+EM average
+DM average
+3 4
+IN EQUITY FOCUS ON LESS ADD EXPOSURE TO ESG FACTORS
+STRETCHED AREAS (VALUE, EM & WITH MATERIAL IMPACT ON
+EUROPE) AND SENSITIVITY TO RATES RISK/RETURNS
+Interest rates will remain reasonably low but on a Changes in regulation, rising demand from
+rising path, favouring equities with less stretched institutions and investors drive impact on markets.
+valuations such as EM equities or Europe that The net zero emissions initiative and the focus on
+should benefit from NGEU implementation. tackling inequality are the main themes to watch.
+Shiller CAPE for different Markets at 31/10/2021 Positive feedback look driving impact on markets
+10 20 30 40
+USA ESG ecosystem
+push (Regulation,
+India coalitions, investor
+Europe demand)
+Japan
+Australia
+South Africa
+Increase in data
+UK
+Impact on market availability and
+China prices innovative
+investment solutions
+Brazil
+Russia
+Source: Amundi, Barclays, Bloomberg, as of 31 October 2021 . DM = developed markets, EM = emerging markets.
+1122
+
+--- PAGE 13 ---
+INVESTMENT OUTLOOK | 2022
+ESG: RISING ADOPTION IN US AND THE GREEN MOMENTUM
+Environmental in focus with net zero investing
+The Covid-19 crisis has given an additional boost to the ESG had a significant impact on the credit market as
+trends in ESG adoption already in place before the crisis. well. In the months following the Fed’s intervention in
+In2021,inflowsintoESGETFsreached$107bnduringthe March 2020, firms in North America went into a financing
+first nine months of 2021, compared to $92bn in 2020 frenzymainlythroughthecreditmarket.
+overallandameagre$32bnin2019*. From April to October 2020, issuers from MSCI North
+Rising ESG demand comes with increasing initiatives in America financed the credit market more than four times
+termsofdatareportingstandards,regulationandcoalitions their average activity between January 2014 and March
+push (such as the Net Zero Coalition). In our view, these 2020.
+trends will help to unmask the areas of inefficiency by While our previous research signalled that better ESG
+filling the gaps of data availability and leading to credentials translated intolower creditspreads for issuers,
+adjustments in market prices, as they start to incorporate the pandemic highlighted that Governance was the most
+these new pieces of information, therefore generating a relevantpillarintermsofloweringthecostofdebt.
+positive feedback loop. Time will tell if the risk factors
+embeddedinESGareaunique,idiosyncraticsetoffactors 2022andthefocusonthenetzeroinitiative
+or just superfluous with the traditional ones. So far, The journey towards rising ESG adoption and increasing
+according to our previous research, before the crisis, ESG marketimpactwillnotbelinear.
+had already proven to be a strong candidate risk-factor in
+theEurozone,whilethiswasnotthecaseintheUS.Since The speed and deepness of ESG adoption will
+the Covid-19 crisis and Biden’s election, our most depend on the push coming from the overall ESG
+recent analysis points out that ESG is earning a place ecosystem which comprises of regulation,
+as part of a traditional factor mix in North America as coalitions and investor demand.
+well.
+The net zero emissions initiative is one of the most recent
+NorthAmerica:socialandenvironmentalinfocus examples of the ESG ecosystem in motion, highlighting
+Before the crisis, the Trump administration’s conflicting thisthemeforinvestorsandpushingcompaniestoimprove
+approach on ESG issues such as the withdrawal from the theirnet-zeroprofileintermsoftemperaturescores.These
+Paris Agreement and further delays on ESG integration in scores are emerging as a complementary tool to other
+the region, marked a strong contrast with Europe where existing climate-oriented metrics for investors willing to
+ESG factors were already showing signs of significant createnet-zeroalignedportfolios.
+marketimpact.InQ12020,amidtheCovid-19pandemic
+inducedmarketstress,componentsoftheSocialpillar Veryfewcompaniesworldwidemeetthenetzerotargeton
+in North America performed strongly in the equity a temperature score basis, there are strong data
+market. Indeed, investors discriminated stocks based on inconsistencies among providers and no unique approach
+thebestandworst“workingconditions“ofemployees. to creating a portfolio with a net zero objective. This
+provides a fertile ground for alpha generation as investors
+The election of Joe Biden as the 46th President of may leverage all available ESG data and fundamental
+the US triggered a “green momentum” which saw bottom up assessments to try to determine a forward-
+strong returns for the Environment Pillar on both lookingviewonacompany’snet-zerotrajectory.
+sides of the Atlantic Ocean.
+Temperature scores evolution between March and October 2021
+Source: Amundi on Iceberg Data Lab temperature. Data as of 6 October 2021. Data refers to MSCI indexes.
+*Source: Bloomberg ESG ETF Dashboard.
+13
+
+--- PAGE 14 ---
+INVESTMENT OUTLOOK | 2022
+AMUNDI ASSET CLASS VIEWS
+Asset Class Current Expected positioning
+positioning 2022
+= =
+US
++ +
+US value
+- -
+US growth
+Y
+T
+IU Europe = +
+Q
+E
+= =/+
+Japan
+-/= =/+
+China
+= +
+Emerging markets
+- -
+US govies
+= =
+US IG corporate
+= =
+US HY corporate
+- -
+European govies (core)
+E
+M
+O
+European govies
+C
+N (peripherals) + =/+
+I
+D
+E
+X
+IF Euro IG corporate =/+ +
+= =
+Euro HY corporate
+=/+ +
+EM bonds HC
+= =/+
+EM bonds LC
+R Commodities
+=/+ +
+E
+H
+T
+O = =/+
+Currencies (USDvsG10)
+-- - = + ++
+Negative Neutral Positive
+Source: Amundi, as of 31 October 2021..
+1144
+
+--- PAGE 15 ---
+INVESTMENT OUTLOOK | 2022
+ALLOCATION: START NEUTRAL AND RECALIBRATE RISK
+Focus on inflation-sensitive asset classes to build a resilient allocation
+We expect equity markets to remain vulnerable to
+Economic momentum should accelerate in Q2/3
+retracements in the near term as higher inflation,
+deceleratinggrowthandweakdataprovidelessgroundfor 4 Forecast
+complacency. In a less benign environment for risky 3
+assets, markets could overreact to Central Bank actions
+2
+and challenge the credibility of monetary policies. The
+1
+inevitable outcome would be for risk asset valuations to
+reprice. Although expected profit growth prevents a 0
+recession,marginssqueezeconcernsrelatedtoincreasing -1
+production costs and business confidence fragility are -2
+likely to last throughout 2022 in line with our “Composite -3
+Economic Momentum” indicator projections. An
+-4
+improvement is expected between Q2/Q3. As an 8 9 9 9 9 0 0 0 0 1 1 1 1 2 2 2 2
+1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2
+investment consequence the asset allocation should -c -r -n -p -c -r -n -p -c -r -n -p -c -r -n -p -c
+be tilted towards inflation: US linkers and EUR IG are e D a M u J e S e D a M u J e S e D a M u J e S e D a M u J e S e D
+the best picks in fixed income. Within equities quality
+Source: Amundi Research. Data is as of 31 October 2021. The Global
+factorsinthevaluesegmentshouldbenefitmost(USvalue
+Composite Economic Momentum index (CEMI) is an Amundi proprietary
+should fit both). Commodity-related currencies in G10 indicator based on four regional baskets (US, Eurozone, Japan and EM) and on
+(NOK,SEKandtosomeextentAUD,NZD)shouldprovide the following variables: earnings revisions, 10y interest rates, leading indicators,
+positive carry at a reasonable risk and hedge potential CPI YoY, PMI surveys, European Commission Economic Surprise Index and
+Inflation Surprise Index.
+commodityshocks.
+Markettriggers:Inflationandmarginssqueeze
+Decelerating economic momentum does not mean
+Towatch:PPIandsupplychaindisruption structural de/risking but seeking opportunities at
+Risks: Monetary policy mistakes, stagflation and virus reasonable risk. A reacceleration Q2/3 could offer
+variantsresistanttovaccines opportunities to re-load risk exposure.
+EQUITIES: SELECTION THROUGH INFLATION AND ESG LENSES
+Balancing core Value and Momentum with Quality
+Toppishmargins does not mean negative earnings growth
+Earnings per share growth (%)
+or the end of a bull market, as top lines take the lead for
+driving earnings per share. Nevertheless, it implies a
+80
+speed limit to expected returns, as EPS growth (+49%
+in2021fortheMSCIWorldAC)shouldfadetosingledigits
+60
+in 2022 (+8%). Then, the direction of bond yields will
+become key. Rising bond yields provide some advantage
+40
+to EMU. Japan should eventually benefit from a delayed
+recovery and a weak Yen. Also be prepared to take a
+20
+more positive stance on EM later on once the Chinese
+authorities accelerate accommodation and if EMFXbreak
+0
+out. Moreover, the quality of growth will deteriorate (less
+growth, more inflation), even if growth remains above
+-20
+potential in 2022. This suggests considering Qualityon
+top of core Value and Momentum. On themes, consider
+-40
+Value (banks), pricing power (luxury, semi-conductors),
+2019 2020 2021 2022 2023
+rising commodities (energy), capex (capital goods) and
+USA Euro Area
+Quality(pharmaceuticals).
+UK Japan
+Pacific Ex Japan GEM
+ Market triggers: Maturing expansion phase in the US,
+Source: Ibes, Datastream, Amundi Research as of 20 October 2021.
+2021, 2022, 2023 forecasts divergingwithChinaslowdown,ESGacceleration
+ To watch: Fed normalisation process, bond yield
+The wall of worries is rising, but opportunities
+direction, China’s response to slowdown, EM FX
+remain in stocks with pricing power, sensitivity to
+breakout
+the commodity cycle and interest rates as well as in
+the acceleration of the green transition.  Risks:Policymistakes,bondyields,profitrecession
+15
+
+--- PAGE 16 ---
+INVESTMENT OUTLOOK | 2022
+BONDS: LOW REAL RATES STILL BENIGN FOR CREDIT
+Central Banks will only tiptoe into tapering
+The USeconomyshould remain inan expansion phase in
+Amundi ten-year yield forecasts, +12 months
+2022 but slow down towards its potential. Inflation should
+stay higher than the Fed's current forecast. The Fed, 2,5
+given its new reaction function, will keep a cautious
+approach. US yields should rise moderately driven by (1)
+2,0
+above-trend growth (2) the decline in liquidity on the bond
+marketwiththeFed'staperingandtheendoftheTreasury
+1,5
+Department'scashdrawdown(3)thehikingcycle.TheFed
+has already announced the tapering. If the economy %
+progresses as expected, it can start a tightening cycle ,e1,0
+without hurting the economy. In theEU,therisein yields
+ta
+R
+of core euro bonds will be limited by the continued 0,5
+monetary support from the ECB. Further upward pressure
+on prices and a significant downward revision of growth
+0,0
+would call into question the rise in sovereign core bond
+yields. This will be limited by the high level of debt in the
+system. An unexpected rise in prices would create -0,5
+uncertainty for the monetary policy. Credit markets remain US Germany Japan UK
+supported by the positive cocktail of above-potential
+Lower range Upper range 8 Nov 2021
+growth,negativerealratesandaccommodativeCBs.
+ Market triggers: growth/inflation vs policy forward Source: Amundi Research, Bloomberg. Data is as of 8 November 2021.
+guidance
+Investors should remain short duration and
+ To watch: market dislocation due to energy transition increase scrutiny on credit, as liquidity will be less
+amidpoliciesfinancing abundant. CBs’ focus on the energy transition
+ Risks:FEDlosingcontroloftheshortendofthecurve, should support demand for green assets.
+centralbanksdeviationfromforwardguidance
+EM: PLAY REAL YIELDS AND EARNINGS REBOUND
+Favour EM with favourable monetary policy/ inflation outlook
+Monetary policy and inflation: favour the green circle Growth and inflation trends, monetary policy cycles and
+global financial conditions are the themes to watch. While
+%
+2
+2,0 growth momentum is getting stronger, the EM versus DM
+2
+n Colombia
+growthpremiumwillonlyreturntofavourEMmildly:China
+e i , 1,5 Peru will take its toll with more sustainable growth and lower
+ta Brazil
+Chile
+leverage. Relatively lower cost pressures and moderate
+r y 1,0 South Africa growth will allow inflation inflecting. Monetary policy
+c
+ilo
+p n i e 0,5 Malays T ia hail S an o d uth Korea
+Ind
+C
+i
+z
+a
+M ec e h x ic R o epubli
+P
+c
+oland t
+F t
+i
+o
+g
+e w
+h
+d a
+te
+r n d
+n
+o s
+in
+rm
+g
+hi a g
+s
+l h
+h
+is e
+o
+a r
+u
+ti
+l
+r o
+d
+a n t
+s
+e
+t
+p s
+a
+. h
+b
+a L
+il
+s
+i
+o
+s
+e c
+e
+: a
+m
+l la b
+o
+te o
+vi
+n
+n
+h d
+g
+ik s e
+in
+r s s
+t
+h
+o
+o c
+H
+u a
+2
+l n d
+,
+s
+i
+b
+n
+a e il n
+a
+e
+n
+s f m i
+o
+t o
+r
+f
+d
+o r
+e
+t o h
+r
+m l
+l
+y
+y
+g n a h 0,0 Philippines China Indonesia Russia s c t o a n b t l r e ib /l u o t w io e n r fr r o a m tes wid a e n l d y u a nde m rv o a r lu e ed co c n o s m tr m u o c d ti i v t e y
+c related EM FX. Higher US rates and still high debt will
+d
+e tc
+e
+-0,5
+-2,0 -1,0 0,0 1,0
+Turkey w
+W
+id
+h
+e
+ile
+n h
+th
+a
+e
+rd
+C
+c
+h
+u
+i
+r
+n
+r
+e
+e
+s
+n
+e
+cy
+a
+s
+u
+p
+th
+re
+o
+a
+ri
+d
+tie
+(
+s
+thr
+s
+o
+h
+u
+o
+g
+u
+h
+ld
+h
+a
+ig
+v
+h
+oid
+yie
+a
+ld
+s
+m
+ys
+a
+te
+in
+m
+ly
+i
+)
+c
+.
+p
+x credit event, default rates are getting higher in Asia and
+E H2 2022 inflation vs. upper-range CB target, %
+decreasing in Latam and CEMEA (Central and Eastern
+Source: Amundi Research, Bloomberg. Data is as of 8 November 2021. Europe, Middle East and Africa). Attractive valuations,
+Inflation and policy rate expectations are by Amundi Research. EM:
+value and quality will favour Latam and CEMEA equity
+emergingmarkets.CB:centralbanks.Turkey’sexpectedchangeinpolicy
+marketsinearly2022,followedbyAsialaterintheyear.In
+ratein2022is-1.0,whileH22022inflationisexpectedat13.58%againstan
+China, favour sector selection according to the Common
+upperCBtargetrangeof7.0%.
+Prosperityagenda(newenergyandbiotech).
+EM still offer attractive risk-adjusted returns.
+ Markettriggers:Growthrecoveryandinflationpeaking
+Constructive outlook on widely undervalued FX and
+ Towatch:ChinaCommonProsperityimplications
+commodity-related equity. In China, selective on
+sectors amid increasing default rates.  Risks:TighterMPondomesticand/orglobalconditions
+16
+
+--- PAGE 17 ---
+INVESTMENT OUTLOOK | 2022
+COMMODITIES: SUPPLY SHORTAGES IN PLAY FOR OIL & GAS
+In the long term, favour commodities needed for the green transition
+A new phase in the commodities rally occurred in Q321 Demand for energy transition metals on the roof
+andisexpectedtolastinto2022.Cyclicalcomponentsand
+(Ratios, 2030s average consumption relative to 2010s)
+recovery in H121 helped commodities to catch up closing
+2
+the undervaluation gap of recent years. Increasing 0
+o 3
+c
+a fr
+o
+o p
+n
+m o
+c
+t
+e
+e c
+r
+n
+n
+o t
+s
+p ia p
+o
+l e p
+v
+r
+e
+o
+r
+w to
+s
+e
+u
+r a
+p
+c lu
+p
+ru m
+ly
+n i c
+s
+n h
+h
+iu
+o
+m u
+r
+n
+t
+,
+a
+d
+g
+f e r
+e
+r o p
+s
+m in
+in
+n g e
+g
+a d
+r
+s
+e
+s
+e
+t e
+n
+o v
+c
+e o
+o
+r i a
+m
+l. l
+m
+c T o h
+o
+m e
+di
+m
+ti
+r
+e
+u o
+s
+s d h i
+a
+ti
+n
+e i
+d
+n s
+ita
+r n o itp
+a
+0 1 0
+2/
+0
+Europe and Asia for storage gas and oil inventories m e v
+a ca p u p s ro e a d c b h y ing coa w l i d n e te m r an e d xa lim ce it r a b t a io te n d s p t r h im e ar g ily lob in al Ch s in h a o . rt T a h ge e u s n o
+c c
+e g a r
+s d p e i m ll a o n v d er h to as oi n l o m t a b r e ke e t n s m du it e ig t a o te s d ub b s y tit O ut P io E n C sf s ro o m fa g r a a s s to it o is il e g a r u s n o
+reluctant to boost production while US shale oil producers e m
+are struggling to restore pre-Covid levels. Normalisation v a
+0
+oit p
+i
+t
+a
+n
+h
+r
+e
+o
+t
+u
+h
+e
+n
+e
+n
+d
+d
+e
+c
+n
+o
+u
+e
+f
+r
+r
+r
+g
+e
+w
+y
+n
+in
+t
+s
+t
+l
+e
+e
+e
+c
+r
+v
+t
+e
+o
+w
+l
+r
+s
+ith
+i
+w
+s
+h
+o
+n
+il
+i
+e
+o
+l
+t
+b
+p
+a
+r
+e
+i
+s
+x
+c
+e
+p
+e
+e
+s
+m
+c
+e
+a
+te
+t
+b
+a
+d
+o
+ls
+v
+t
+a
+o
+e
+re
+$
+h
+8
+a
+b
+0
+p
+ei
+p
+n
+a
+e
+g
+n
+n
+d
+dr
+u
+i
+g
+v
+n
+e
+a
+t
+n
+s
+il 1 0
+2 /0
+3
+oit a r
+n
+by bottlenecks in production chains. On the other hand,
+0
+2 L(
+gold is expected to suffer from the higher rates
+hti
+ui
+environmentandthebeginningoftapering. m
+)
+Source: Amundi on IMF, WEO, October 2021.
+ Markettriggers:Greeneconomytransition
+Play the short-term shortage in natural gas and oil
+ To watch: Inventories in energy sector in Europe and and long-term green winners (copper, nickel,
+Asia aluminium).
+ Risks:Geopoliticalrisk,electricpowercrunch.
+FX: SHORT-TERM POSITIVE USD
+Playing the USD status, while hedging a commodity super-cycle
+While recognising there is little the Fed can do to surprise
+Improved
+Current Sensitivity market expectations (but disappoint) at this stage, we see
+Exchange Policy rate Terms of Overall view
+valuation vs to lower the sequence of slowing global growth and the Fed
+rates forecast trades for 2022
+fair value growth starting its modest policynormalisation remaining, on
+(Commod.)
+balance, positive for USD. Inflation expectations led the
+NOK 2 3 -3 2 4 moveinyieldsin2021,yetanactiveFedandlowergrowth
+suggest real rates would need to catch-up, while staying
+AUD 2 3 -2 2 5
+negative, an environment in which the USD tends to
+CAD 2 3 -2 2 5
+strengthen,nottoweaken.WeseeEUR/USDaround1.14
+USD -2 3 3 2 6 in2022,withsimilardynamicsexpectedforalllowyielders
+NZD -2 3 -3 0 -2 in G10. The latter still seems to lack the catalysts to
+CHF -2 3 1 -2 0 balancethepressure,asdovishmonetarypoliciesmaystill
+berequiredtofillthegapwithpre-pandemicgrowthlevels.
+GBP 2 3 -1 -2
+Inflation, on the other hand, is turning out to be more
+SEK 2 0 -2 -2 -2 persistent than previously expected and the recent rally in
+EUR 2 -1 -1 -2 -2 commodity prices is translating into structural changes in
+JPY 2 3 1 -3 3 G10intermsoftrades.
+Slowing growth may prevent the USD from selling-off,
+Source: Amundi research, for illustrative purpose on historical reaction of while a few cyclical currencies (AUD, NOK, CAD) may
+currencies to selected factors. Dark green / red reflect high positive/negative
+still provide good hedges for those emerging macro
+sensitivity to the included factors and/or under/overvaluation. Light green/ red
+reflect limited positive/negative reaction and/ or under/ overvaluation. factors.Yet,thatrequiresthecurrentsweetspottostay.
+Different sensitivity to growth, inflation and terms of
+ Markettriggers:Monetarypolicydivergence
+trade will drive divergences among G10. FX
+ Towatch:Realrates,globalgrowth
+dynamics will, in our view, be key drivers for
+portfolio returns next year.  Risks:AggressivetighteningoftheFed
+17
+
+--- PAGE 18 ---
+INVESTMENT OUTLOOK | 2022
+PRIVATE MARKET: FOCUS ON ESG AND TRANSFORMATION
+Time to search for sources of diversification and inflation protection
+Our base scenario of decelerating growth from the 2021 In contrast, bank-financing remains constrained, as banks
+peak with regional divergences, persistent inflation focusonmanagingtheirownportfolios,whichwillopenup
+pressuresandasynchronisedCentralBank actioncallsfor someinterestingopportunitiesforprivatedebtmanagers.
+enhanced portfolio diversification with a focus on inflation
+protection. Real assets and private markets can help to With inflation on the rise, the floating rates available
+achieve these goals and, in our view, this explains recent within private debt is a way to mitigate its potential
+strong demand for them. In Europe, AUM of real and impact upon returns.
+private asset funds grew by almost 19% in 2020 to reach
+€1.486 billion (excluding hedge funds)* and fundraising in Selectivity will be paramount on both a geographical and
+H1 2021 reached 59% of the 2020 total, which is the sectorbasisinachallengingmarketwhereweseepockets
+second highest level on record. Europe now represents of strength and weakness in the asset class. There is a
+24%ofglobalalternativeAUM*. divergence taking place between the best credits,
+where competition is fiercer than ever – driving pre-
+Inourview,realassetswillbeincreasinglyrelevant: emptive offers and shorter due diligence periods – and
+ Firstly, we expect real assets to offer some of the more complex situations in areas such as tourism,
+best return prospects** over the next decade, with events,orothersectorswherevisibilityremainspoorinthe
+private markets returning around 200 to 500bps above short term. Hence, we are observing a flight to quality as
+listedorpubliclytradedsecurities. investors wish to protect themselves from a potential
+ Secondly, while offering a lower liquidity profile deterioration of the situation as government support winds
+compared to traditional assetclasses, real assets can down,whichcouldseeariseindefaultrates.
+help make global portfolios more resilient, through This is driving a search for conservative investments with
+the diversification benefits of these assets, their limited risk, such as senior secured debt strategies, which
+traditionally low volatility and potential inflation historically show stable income streams and consistent
+protection characteristics. That is why they will play an premium returns over liquid and traditional debt, with
+increasingly crucial role for investors as they look for modestdrawdownsoverthelongterm.
+solutions to meet their long-term liabilities and secure Since it emerged as an asset class 10 years ago, private
+theirretirementplans. debt has been an important contributor to economic
+ Finally, real assets provide a direct way to shape growth, thanks to the support it provides to the real
+our world: the energy transition, digitalisation of economy as a complement to banking intermediation and
+economicactivityandtrade,redesigningsupplychains. we strongly believe that this trend will accelerate in the
+Real assets provide a direct lever for allocating capital post-pandemic world, creating appealing investment
+to projects and companies that fulfil a broader social opportunities for long-term investors. In addition, the asset
+andeconomicagenda,emphasisingESG. classisexperiencingastrongdevelopmentofsustainable-
+linkedfinancings. Consequently,weareconfident that in
+More than ever, investing in real assets means thenext5-10 years,ESGwillbefullyembeddedwithin
+focusing on a long-term horizon, powerful deal financialrisksfacingcompaniessothatmarketsvalue
+sourcing, asset selectivity, robust operational privatecreditaccordingly.
+infrastructure and financial robustness.
+Infrastructure:focusontheenergytransition
+Investorsshouldconsider‘core’strategieswhichhave With governments increasingly relying on infrastructure
+historicallyproved to be less volatileandshownmore investment to stimulate economies and deliver climate-
+stable income generation, including during times of focused policies, the asset class has been a bright spot
+crisis: core/core+ assets in real estate and infrastructure, throughout the COVID-19 crisis. Private capital is much
+senior secured instruments in private debt, primary needed here to complement public funding, which is
+buyoutsandgrowthcapitalinprivateequity. givinginfrastructureinvestmentsstrongmomentumin
+the year ahead and beyond. In addition, the asset class
+Private debt supported byrising demand for company has proven its ability to thrive during a challenging period,
+financingafterthecrisis with unlisted infrastructure funds delivering 13.4% one-
+In the aftermath of the crisis, financing earmarked for the yearIRR(internalrateofreturn)toQ12021.
+recovery and the needs of corporations will create
+significant opportunities in the private debt space for 2022 Rising inflation concerns mean infrastructure is
+and beyond. We see strong demand from companies, likely to gain more traction as investors look to
+either to aid post-crisis rebounds or to address areas of utilise its hedge inflation mechanisms.
+underinvestmenthighlightedbythepandemici.e.,indigital
+infrastructure and supply chains. The need to reduce debt Few investors were exposed to infrastructure during the
+isalsodrivinginterestingassetdisposalopportunities. GreatFinancialCrisis.
+Therearerisksofliquidityandcapitalloss.*Preqin’s2021AlternativeAssetsinEuropeReport.**Expectedreturnsarenotnecessarilyindicativeoffutureperformance,which
+maydiffersignificantly.Pastperformanceisnotindicativeoffutureresults.Source:AmundiAssetManagementCASMModel,AmundiAssetManagementQuantSolutions
+andResearchTeams,Bloomberg.Dataasat20April2021,Macrofiguresperlastrelease.Returnsoncreditassetarecomprehensiveof
+defaultlosses.Forecastsforannualisedreturnsarebasedonestimatesandreflectsubjectivejudgmentsandassumptions.Theseresults
+wereachievedbymeansofamathematicalformulaanddonotreflecttheeffectsofunforeseeneconomicormarketfactorsondecision-making.
+.
+18
+
+--- PAGE 19 ---
+INVESTMENT OUTLOOK | 2022
+The COVID-19 crisis was a real-time test for the asset Finally, the adoption of existing technological or
+class and, in the aftermath of the crisis, investors are environmental trends has been accelerated by the
+prizing its now proven ability to resist market turbulence. pandemic and investors are willing to bid up the
+Such stability confirms a core feature of infrastructure: its valuations of companies on the right side of these
+long-term time horizon. Prices may be more attractive in changes. The COVID-19 crisis has shone a light on
+somesectors today,butit willnotmakeabig differencein severalmarket disruptionsintechnology, the environment,
+terms of returns in the long run. Buy-and-hold strategies demographics, societal changes and globalisation/
+aregainingmoretractioninthisenvironment. relocation. Some companies are well positioned to benefit
+Intermsofsectors,thepandemichasnotonlybroughtthe from such trends that existed before the crisis but have
+need for health and communications infrastructure to light, beenstrengthenedoverthepasttwoyears.
+butalsostressedtheurgencyoftheenergytransition. The environment megatrend is at the heart of all post-
+A significant share of the EU 2021-27 multi-year budget pandemic stimulus packages in developed countries and
+and of the Next Generation EU plan has been committed particularlyinEurope.
+tothegreentransitionandtodigitalinfrastructure.In2021,
+we have seen a sharp acceleration in the number of Momentum in the race to net zero in private equity
+transactions, especially for energy transition assets that should rise, as environmental issues will be at the
+willlikelycontinuetoattractsignificantprivatecapitalflows. core of investment and business opportunities.
+Privateequitykeytofinancepostcrisisrecovery Realestate:divergencesandESGinfocus
+Private equity continues to hit records numbers as it is Thesteeperthanexpectedeconomicrecoverycouldboost
+experiencing strong post-pandemic growth on the back of the leasing market and 2022could be a solid year for real
+a steeper than expected economic recovery. In Q3 2021, estateactivity.Therearearecord1,284privaterealestate
+buyoutdealsdoubledto1,042comparedtoQ12021anda fundstargetinganaggregate$365bn*.
+record5,284privateequityfundswereinthemarketatthe
+startofQ3,targeting$899bnintotal*. With ongoing asset repricing, the flight to quality
+2022 is looking bright for private equity firms. Post-crisis should benefit core assets and properties whose
+periods are historically the best times to invest in
+tenants boast strong balance sheets.
+private equity, as the demand for capital from unlisted
+companies increases significantly. During the COVID-19
+Work on qualityand the repositioning of properties to
+crisis, privately owned companies massively used debt
+match tenants’ post-pandemic needs in terms of
+and capital expenditure to finance the downturn and
+technology, make ESG a key operational component
+sometimes the shutdown in activity, notably with recourse
+of investment and management procedures: here are
+tostate-guaranteedloansaswellasdeferralsofallkinds.
+our strong convictions in the post-crisis environment. We
+have a positive viewfor newand recentprime buildings in
+As the crisis unfolds, companies need strong
+major urban centres where it’s easier and less costly to
+balance sheets to make the most of the economic
+implementtechnologicalorhighESGstandards.
+recovery, be it for refinancing, building-up purposes Offices: As the leader of Europe’s office real estate, we
+or corporate activity. believe that offices will remain an important part of
+investors’realestateportfolios,mainlyduetothedepth
+With many companies weakened by the crisis, sector of this market. However, the adjustment cycle for office
+consolidation has been accelerating, creating plentiful real estate will be a long one, where we expect to see an
+investment opportunities for private equity funds. In increase in collaborative installations and services, as well
+addition, strong equity markets since Q2 2020 have as greater geographical polarisation. Demand for office
+translatedintoabuoyantexitmarket,notjustforIPOs,but spaceisthereforelikelytobeconcentratedonmodern
+alsofortradesalesandrefinancing. buildings in major cities and inter-citycentres that are
+close to both regional transport links and mainline hubs.
+ESG will gain traction in European Private Markets The best quality assets in the office sector have remained
+relatively unscathed, proving that offices still drive
+50%
+corporateculture,brandandteambuilding.
+Logistics is definitely among the big winners of the
+40% crisis. The sector is experiencing strong demand, even in
+M peripheral urban zones, on the back of booming e-
+u A30% commerce and more fragmented supply chains. Strong
+G rental demand in a context of limited supply in the most
+S
+E sought-afterlocationsispushingrentshigher.
+fo 20% Residential. Demographic changes have accelerated
+% during and post-Covid, which has had a direct impact on
+10% the residential market, with many provincial towns with a
+good level of transportation connectivity to the main cities
+experiencing a resurgence. However, there is still a
+0%
+mismatchbetweenthesupplyandrisingdemandforthese
+Private Equity Private Debt Infrastructure Real Estate
+second tier urban areas, which is creating some tension
+2020 2025 F
+and ongoing adjustments in a very competitive residential
+Source: Amundi on PWC “EU Private Markets: ESG Reboots, October 2022. market.
+19
+
+--- PAGE 20 ---
+INVESTMENT OUTLOOK | 2022
+EU OPEN STRATEGIC AUTONOMY IN THE SPOTLIGHT
+Investment opportunities for public and private market investors
+Europe’s aspiration for strategic autonomy is an directly, but to use the power of standards and norms as
+investment opportunity with a medium term perspective. wellasfinancialincentivestofosterprivateinvestment.
+Buildingorre-shoringindustrialcapabilitiestocreateglobal
+players in strategic sectors such as microelectronics, Tradebarriersshouldbelimitedintimeandlevelsinorder
+pharma, clean energy, transport, cybersecurity and to maintain the main benefits of globalisation. They can
+defencerequiresignificantinvestment,whichcouldprovide avoid imbalances, suboptimal allocation of capital and
+lucrativeinvestments. therefore improve returns for private investors. Hence the
+needforan“open”strategicautonomypolicyforEurope.
+Europe, like the US, came out of the past decade with an
+investment deficit (capital expenditure and Research and Investmentopportunitiesforstrategicautonomy
+1
+Development) which has to be counterbalanced. Fourteen Investors should build portfolios aligned with the strategic
+industrial ecosystems have been identified which account autonomy theme. The first step for Europe is to reduce
+for 50% or Europe’s added value and should be its external dependencies, then become a relevant
+strengthened1.Animportantfeatureistherearesynergies player and eventually reach the autonomy status it
+betweenstrategicautonomyandtheenergytransition. wantstobe.
+Therefore,itshouldbecomeakeyinvestmentthemegoing
+forward. The most obvious example is in electronics and
+semiconductors, where Europe accounts of 20% of global
+Possiblenegativeeffectsandrisks consumption of chips but has a global production value of
+Themainnegativeeffectsofstrategicautonomyare: only 10% and close to zero in leading edge technologies.
+(1) The cost of non-tariff trade barriers, which leads to To reach strategic autonomy in this space will require
+permanentlossofvalue several significant investments, renewed value chains that
+(2) The retaliation of trading partners while the EU is takeintoaccounttheenergytransitionandtradebarriers.
+highlyopentoglobaltrade.
+However, in sectors where Europealready benefitsfroma
+These two effects combined could reduce EU GDP leading position, critical dependencies exist as well.
+between 2 and 3%2. However, the Covid-19 crisis has European pharmaceutical companies for instance are
+shown that the cost of supply chain disruption and among the largest global players and EU production
+bottlenecks, as well as the lack of onshore production accountsfor20%ofglobalrevenueswhileitsconsumption
+capabilitiesforcriticalgoods,canhaveafargreaterimpact is only 18%. Yet, regarding the critical topic of antibiotics,
+ongrowthandleadtochaoticrecoverypaths. the EU imports around €3 billion worth of antibiotics and
+hasanetexternaldeficitof€1.5billioneveryyear4.
+A more resilient economic model should counter-
+balance the negative effects on Therefore, this investment theme shouldn’t be built
+GDP in the long run. around sector or country allocation but around
+strategic value chains and industrial ecosystems
+There are risks attached to the search for autonomy too, anchored in the transition to net zero.
+suchas:
+(1) Lower quality of onshore production and fewer So far, we have not seen any evidence of changes in
+innovations in a protected EU market versus an open supply chains and incremental capex in Europe, just
+market,and mainly short-term fixes such as increased inventories and
+(2) ThetransferofcontinuityriskinsidetheSingleMarket diversificationofsuppliers.
+as re-shoring de facto leads to a higher reliance on
+Europeaninfrastructureandsupplychains. Severalhardconstraintsincludingintellectualpropertyand
+industrial knowhow could delay or limit this development.
+Regulation, government support and market forces should Moreover, Europe has a history of high ambition but
+mitigatethenegativeeffectsandrisks. subscalesolutions.
+“A situation of economic strategic autonomy is one where Post-Covid recovery plans and climate change
+anactorhasthepowertowidenthescopeofpossibilities”, related policies as well as political decisions,
+increase the benefits and reduce the cost of autonomy, starting with the NGEU, are pointing in the right
+whichleadstohigherequilibriumthaneconomicautonomy direction.
+itself3.
+These should become tailwinds for the open strategic
+Therefore, European institutions and national autonomyinvestmenttheme.
+governments’mainprioritiesshouldnotbetofundprojects
+1. Source European Commission.
+2. ITW, 2020.
+3. On the path to 'strategic autonomy, European Parliamentary Research Service Sept 2020.
+4. Eurostat report Nov 2019.
+2200
+
+--- PAGE 21 ---
+INVESTMENT OUTLOOK | 2022
+ECONOMIC FORECASTS
+GDP growth (YoY%), inflation (CPI, YoY%) and central bank rates
+Macroeconomic forecasts
+Inflation
+Real GDP growth.YoY%
+Annual averages (%) (CPI,YoY %)
+2021 2022 2023 2021 2022 2023
+US 5.7 3.3 2.0 4.4 3.7 2.7
+Japan 2.4 2.6 0.9 -0.4 0.6 0.6
+Eurozone 5.1 4.1 2.3 2.4 2.6 1.9
+Germany 2.9 3.7 2.0 3.2 2.7 1.8
+France 6.8 4.2 2.0 2.1 2.5 2.0
+Italy 6.3 4.8 2.3 1.9 2.5 1.8
+Spain 4.5 5.6 2.8 3.0 2.9 1.8
+UK 6.9 4.6 1.8 2.4 3.6 2.4
+Brazil 5.1 0.7 1.5 8.2 7.5 3.5
+Mexico 6.2 2.7 2.0 5.6 5.0 4.0
+Russia 4.2 2.6 2.5 6.6 5.8 4.2
+India 8.2 6.3 6.4 5.0 5.9 6.2
+Indonesia 3.1 4.6 5.0 1.6 2.8 3.4
+China 7.7 4.7 4.8 0.8 2.1 2.0
+South Africa 6.9 3.2 2.3 4.5 4.8 4.8
+Turkey 7.8 4.4 4.0 17.7 15.4 11.3
+Developed countries 5.1 3.5 2.0 2.9 2.8 2.1
+Emerging countries 6.4 4.3 4.3 4.2 4.7 4.2
+World 5.8 4.0 3.4 3.7 3.9 3.3
+Central bank rates forecasts
+Current Amundi +6m. Consensus +6m. Amundi +12m. Consensus +12m.
+UnitedStates 0.13 0.00/0.25 0.19 0.00/0.25 0.49
+Eurozone -0.50 -0.50 -0.48 -0.50 -0.40
+Japan -0.04 -0.10 -0.03 -0.10 -0.02
+UnitedKingdom 0.10 0.50 0.77 0.75 1.10
+China 3.85 3.85 3.85 3.85 3.85
+India 4.00 4.25 4.15 4.50 4.45
+Brazil 7.75 10.75 8.90 10.75 8.90
+Russia 7.50 8.00 6.80 7.50 6.15
+Source: Amundi Research. Forecasts and current data as of 8 November 2021.
+2211
+
+--- PAGE 22 ---
+INVESTMENT OUTLOOK | 2022
+FINANCIAL MARKET FORECASTS
+Bond yields
+2-year bond yield forecasts
+Current Amundi +6m. Consensus +6m. Amundi+12m. Consensus+12m.
+US 0.43 0.45/0.60 0.82 0.70/0.90 1.12
+Germany -0.74 -0.70/-0.50 -0.59 -0.70/-0.50 -0.55
+Japan -0.12 -0.20/-0.10 -0.12 -0.20/-0.10 -0.10
+UK 0.40 0.50/0.70 0.83 0.70/0.80 0.84
+10-year bond yield forecasts
+Current Amundi +6m. Consensus +6m. Amundi +12m. Consensus +12m.
+US 1.49 1.60/1.80 1.80 1.80/2.00 1.93
+Germany -0.26 -0.30/-0.10 -0.03 -0.30/-0.10 0.03
+Japan 0.05 0.00/0.20 0.13 0.00/0.20 0.18
+UK 0.86 1.00/1.20 1.27 1.20/1.40 1.32
+Equities forecast 12m. forward
+MSCIindex Pacific ex-
+US Europe EMU UK Japan World World AC
+levels at Japan
+10November 2021 4.553 1.921 277 2.045 1.240 543 3.228 757
+Low bound 4.320 1.940 280 2.040 1.250 540 3.140 720
+High bound 4.820 2.120 310 2.300 1.440 600 3.470 860
+Exchange rates
+Exchange rates forecasts vs. USD
+Current Amundi +6m. Consensus +6m. Amundi +12m. Consensus +12m.
+EUR/USD 1.16 1.14 1.17 1.14 1.18
+USD/JPY 114 113 112 116 112
+GBP/USD 1.38 1.34 1.38 1.38 1.40
+USD/CHF 0.92 0.93 0.94 0.95 0.94
+USD/NOK 8.36 8.66 8.48 8.12 8.33
+USD/SEK 8.57 8.85 8.68 8.71 8.41
+USD/CAD 1.24 1.27 1.24 1.21 1.22
+AUD/USD 0.75 0.73 0.75 0.77 0.76
+NZD/USD 0.72 0.70 0.72 0.71 0.73
+USD/CNY 6.39 6.45 6.50 6.50 6.40
+Exchange rates forecasts vs. EUR
+Current Amundi +6m. Consensus +6m. Amundi +12m. Consensus +12m.
+EUR/USD 1.16 1.14 1.17 1.14 1.18
+EUR/JPY 132 129 131 132 131
+EUR/GBP 0.85 0.85 0.85 0.83 0.85
+EUR/CHF 1.07 1.07 1.10 1.08 1.12
+EUR/NOK 9.73 9.91 9.90 9.21 9.73
+EUR/SEK 9.98 10.11 10.00 9.88 9.80
+EUR/AUD 1.56 1.57 1.56 1.48 1.55
+EUR/NZD 1.68 1.64 1.68 1.61 1.62
+EUR/CNY 7.43 7.37 7.61 7.38 7.55
+Source: Amundi Research. Current data is as of 8 November 2021. Forecasts are as of 28 October 2021.
+2222
+
+--- PAGE 23 ---
+INVESTMENT OUTLOOK | 2022
+AUTHORS
+ChiefEditors Editors
+PascalBLANQUÉ,GroupChiefInvestmentOfficer ClaudiaBERTINO,HeadofAmundiInvestmentInsightsUnit
+VincentMORTIER,DeputyGroupChiefInvestmentOfficer MonicaDEFEND,GlobalHeadofResearch
+LauraFIOROT,DeputyHeadofAmundiInvestmentInsightsUnit
+Research team
+Investment Platforms Leadership Teams
+Valentine AINOUZ, Deputy Head of Developed Markets Strategy research
+Dominique CARREL-BILLIARD, Global Head of Real
+Assets Thomas BARON, Research and Strategy Analyst –Amundi Immobilier
+Amaury D’ORSAY, Head of Fixed Income Mickael BELLAICHE, Fixed Income and Credit Strategist
+Kasper ELMGREEN, Head of Equities Alessia BERARDI, Head of Emerging Macro & Strategy Research
+Matteo GERMANO, Head of Multi-Asset Sergio BERTONCINI, Senior Fixed Income Strategist
+Yerlan SYZDYKOV, Head of Emerging Markets Pierre BLANCHET, Head of Investment Intelligence
+Kenneth J. TAUBES, CIO of US Investment Didier BOROWSKI, Head of Global Views
+Management Sophie BRADLEY-COOK, Head of Instit. Marketing –Real Assets
+Federico CESARINI, Cross Asset Strategist
+Debora DELBO', EM Macro Strategist
+Silvia DI SILVIO, Cross Asset Strategist
+Patryk DROZDZIK, EM Macro Strategist
+Investment Insights Team
+Delphine GEORGES, Senior Fixed Income Strategist
+Pol CARULLA, Investment Insights Specialist
+Karine HERVE, Senior Economist
+Ujjwal DHINGRA, Investment Insights Specialist
+Claire HUANG, EM Macro Strategist
+Francesca PANELLI, Investment Insights Specialist
+Michele LEONARDI, Junior Cross Asset Analyst
+Valerie LETORT, Global Views Analyst
+Eric MIJOT, Head of Developed Markets Strategy research
+Tristan PERRIER, Global Views Analyst
+Lorenzo PORTELLI, Head of Cross Asset Research
+Takaya SEKINE, Quantitative Research
+Aurelien STRENTA,Junior research analyst (V.I.E)
+Annalisa USARDI, Senior Economist
+Gregorio VANIN, Junior Analyst
+Sosi VARTANESYAN, Senior Economist
+Ibra WANE, Senior Equity Strategist
+Definitionsandabbreviations
+CAPE:Cyclicallyadjustedprice-to-earningsratio,alsoknownasShillerPE(namedaftereconomistRobertShiller).Itisaratiousedinstockmarketanalysis,
+generallyapplied to theS&P500market.TheCAPEratioiscomputedby dividingthemarket capitalisationby theaveragenetincomeoverten years,
+adjustedforinflation.
+Correlation:Thedegreeofassociationbetweentwoormorevariables;infinance,itisthedegreetowhichassetsorassetclasspriceshavemovedin
+relationtoeachother.Correlationisexpressedbyacorrelationcoefficientthat rangesfrom -1(alwaysmoveinoppositedirection)through0(absolutely
+independent)to1(alwaysmoveinthesamedirection).
+Creditspread:ThedifferentialbetweentheyieldonacreditbondandtheTreasuryyield.Theoption-adjustedspreadisameasureofthespreadadjustedto
+takeintoconsiderationthepossibleembeddedoptions.
+Currencyabbreviations:USD–USdollar,JPY–Japaneseyen,GBP–Britishpoundsterling,EUR–Euro,CAD–Canadiandollar,SEK–Swedishkrona,
+NOK–Norwegiankrone,CHF–SwissFranc,NZD–NewZealanddollar,AUD–Australiandollar,CNY–ChineseRenminbi.
+Cyclical vs. defensive sectors: Cyclical companies are companies whose profit and stock prices are highly correlated with economic fluctuations.
+Defensivestocks,onthecontrary,arelesscorrelatedtoeconomiccycles.MSCIGICScyclicalsectorsare:consumerdiscretionary,financial,realestate,
+industrials,informationtechnologyandmaterials.Defensivesectorsare:consumerstaples,energy,healthcare,telecommunicationsservicesandutilities.
+Duration:Ameasureofthesensitivityoftheprice(thevalueofprincipal)ofafixedincomeinvestmenttoachangeininterestrates,expressedasanumber
+ofyears.
+FX:FXmarketsrefertotheforeignexchangemarkets,whereparticipantsareabletobuyandsellcurrencies.
+Highgrowthstocks:Ahighgrowthstockisanticipatedtogrowataratesignificantlyabovetheaveragegrowthforthemarket.
+Liquidity:Thecapacitytobuyorsellassetsquicklyenoughtopreventorminimisealoss.
+P/Eratio:Theprice-to-earningsratio(P/Eratio)istheratioforvaluingacompanythatmeasuresitscurrentsharepricerelativetoitsper-shareearnings
+(EPS).
+PPI:ProducerPriceIndex,ameasureofchangeinthepriceofgoodsastheyleavetheirplaceofproduction.
+QE:Quantitativeeasing(QE)isatypeofmonetarypolicyusedbycentralbankstostimulatetheeconomybybuyingfinancialassetsfromcommercialbanks
+andotherfinancialinstitutions.
+Qualityinvesting:Thismeanstocapturetheperformanceofqualitygrowthstocksbyidentifyingstockswith:1)Ahighreturnonequity(ROE);2)Stable
+year-over-yearearningsgrowth;and3)Lowfinancialleverage.
+Valuestyle:Thisreferstopurchasingstocksatrelativelylowprices,asindicatedbylowprice-to-earnings,price-to-bookandprice-to-salesratios,andhigh
+dividendyields.Sectorswithadominanceofvaluestyle:energy,financials,telecom,utilities,realestate.
+Volatility: A statistical measure of the dispersion of returns for a given security or market index. Usually, the higher the volatility, the riskier the
+security/market.
+Yieldcurvesteepening:Thisistheoppositeofyieldcurveflattening.Iftheyieldcurvesteepens,thismeansthatthespreadbetweenlong-andshort-term
+interestrateswidens.Inotherwords,theyieldsonlong-termbondsarerisingfasterthantheyieldsonshort-termbonds,orshort-termbondyieldsarefalling
+aslong-termbondyieldsrise.
+2233
+
+--- PAGE 24 ---
+INVESTMENT OUTLOOK | 2022
+Q2 2021 | May 2021
+.
+.
+..
+.
+.
+Visitus on:
+Read the article online Read the article online
+Importantinformation
+TheMSCIinformationmayonlybeusedforyourinternaluse,maynotbereproducedorredisseminatedinanyform andmaynotbe
+used as a basis for or acomponent of any financial instruments or products orindices. None of the MSCI information is intended to
+constitute investment adviceor a recommendation tomake(orrefrainfrom making) anykind of investment decision andmaynot be
+reliedonassuch.Historicaldataandanalysis shouldnot betakenasanindicationorguarantee of anyfutureperformanceanalysis,
+forecastorprediction.TheMSCIinformationisprovidedonan“asis”basisandtheuserofthisinformationassumestheentireriskof
+anyusemadeofthisinformation.MSCI,eachofitsaffiliatesandeachotherpersoninvolvedinorrelatedtocompiling,computingor
+creating any MSCI information (collectively, the “MSCI Parties”) expressly disclaims all warranties (including, without limitation, any
+warrantiesoforiginality,accuracy,completeness,timeliness,non-infringement,merchantabilityandfitnessforaparticularpurpose)with
+respect to this information. Without limiting any of the foregoing, in no event shall any MSCI Party have any liability for any direct,
+indirect, special, incidental, punitive, consequential (including, without limitation, lost profits) or any other damages.
+(www.mscibarra.com).IntheEuropeanUnion,thisdocumentisonlyfortheattentionof“Professional”investorsasdefinedinDirective
+2014/65/EU dated 15 May 2014 on markets in financial instruments (“MIFID”), to investment services providers and any other
+professional of the financial industry, and as the case may be in each local regulations and, as far as the offering in Switzerland is
+concerned,a“QualifiedInvestor”withinthemeaningoftheprovisionsoftheSwissCollectiveInvestmentSchemesActof23June2006
+(CISA), the Swiss Collective Investment Schemes Ordinance of 22 November 2006 (CISO) and the FINMA’s Circular 08/8 on Public
+AdvertisingundertheCollectiveInvestmentSchemeslegislationof20November2008.Innoeventmaythismaterialbedistributedin
+theEuropean Uniontonon“Professional” investorsas definedintheMIFIDorineachlocal regulation, orinSwitzerland toinvestors
+whodonotcomplywiththedefinitionof“qualifiedinvestors”asdefinedintheapplicablelegislationandregulation.
+Thisdocumentissolelyforinformationalpurposes.Thisdocumentdoesnotconstituteanoffertosell,asolicitationofanoffertobuy,or
+a recommendation of any security or any other product or service. Any securities, products, or services referenced may not be
+registeredforsalewiththerelevantauthorityinyourjurisdictionandmaynotberegulatedorsupervisedbyanygovernmentalorsimilar
+authorityinyourjurisdiction.Anyinformationcontainedinthisdocumentmayonlybeusedforyourinternaluse,maynotbereproduced
+orredisseminatedinanyformandmaynotbeusedasabasisfororacomponentofanyfinancialinstrumentsorproductsorindices.
+Furthermore,nothinginthisdocumentisintendedtoprovidetax, legal, orinvestmentadvice.Unlessotherwisestated,allinformation
+contained in this document is from Amundi Asset Management S.A.S. and is as of 8 November 2021. Diversification does not
+guaranteeaprofitorprotectagainstaloss.Thisdocumentisprovidedonan“asis”basisandtheuserofthisinformationassumesthe
+entireriskofanyusemadeofthisinformation.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance analysis, forecast or
+prediction. The views expressed regarding market and economic trends are those of the author and not necessarily Amundi Asset
+ManagementS.A.S.andaresubjecttochangeatanytimebasedonmarketandotherconditions,andtherecanbenoassurancethat
+countries, markets or sectors will perform as expected. These views should not be relied upon as investment advice, a security
+recommendation, or as an indication of trading for any Amundi product. Investment involves risks, including market, political, liquidity
+and currency risks. Furthermore, in no event shall Amundi have any liability for any direct, indirect, special, incidental, punitive,
+consequential(including,withoutlimitation,lostprofits)oranyotherdamagesduetoitsuse.
+Date of first use: 8 November 2021.
+Document issued by Amundi Asset Management, “société par actions simplifiée”- SAS with a capital of €1,086,262,605 - Portfolio
+managerregulated bytheAMF under numberGP04000036 –Headoffice: 90boulevardPasteur– 75015Paris –France–437574
+452RCSParis–www.amundi.com.Photocredit:©MujdatUzel-iStock/GettyImages.
+24

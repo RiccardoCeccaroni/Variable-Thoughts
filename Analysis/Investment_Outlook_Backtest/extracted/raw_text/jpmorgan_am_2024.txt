@@ -1,0 +1,3021 @@
+SOURCE: jpmorgan_am/jpmorgan_am_2024.pdf
+PAGES: 49
+
+--- PAGE 1 ---
+EYE ON THE MARKET | OUTLOOK 2024
+Pillow Talk
+Pillow Talk. Falling US inflation and possible Fed easing are increasing talk of a soft landing rather
+than a recession, hard landing and bear market. Leading indicators point to slowing economic
+growth but not a collapse. While odds of a soft landing have increased, markets are already
+pricing that in at a time of single digit earnings growth and single digit returns on the median
+stock. Our 2024 Outlook takes a closer look and includes sections on the national debt, weight
+loss drugs, antitrust risks to US megacap stocks, Japan, China and ten surprises for the new year.
+By Michael Cembalest | Chairman of Market and Investment Strategy for J.P. Morgan Asset & Wealth Management
+
+--- PAGE 2 ---
+MARY CALLAHAN ERDOES
+J.P. Morgan Asset & Wealth Management
+As we head into the new year, we want you to know what a privilege it is to serve as your advisor.
+We work very hard each day to bring you the best of J.P. Morgan. No one exemplifies this better
+How do you summarize a year that was in many respects indefinable? On one
+than Mhaicnhdae, lt hCeem Ebuarloepste, amny s ionvveesrtemigenn td peabrtt ncerri,s wish, oc ognuitdreasc tailnl go fh uosu wsiitnhg h ims daerkepeltys raenseda hrcihgehd and
+unemployment weighed heavy on all of our minds. But at the same time, record
+insightful perspectives.
+corporate profits and strong emerging markets growth left reason for optimism.
+Michael’s Eye on the Market Outlook is one of our clients’ most cherished publications and this
+So rather than look back, we’d like to look ahead. Because if there’s one thing that
+year’sw Pei’lvloew l eTaalrkn geidv efsr oums a t lhoeo kp ianstto f seewve yreaal rgslo, bita’sl itnhvaets twmheinlet awreea csa ans’ tw perlle adsic 1t0 t hpree fduicttuerde ,
+we can certainly help you prepare for it.
+surprises for 2024.
+To help guide you in the coming year, our Chief Investment Officer Michael
+Thank you, as always, for your continued trust and confidence.
+Cembalest has spent the past several months working with our investment
+leadership across Asset Management worldwide to build a comprehensive view
+of the macroeconomic landscape. In doing so, we’ve uncovered some potentially
+Here’s to a peaceful and prosperous 2024,
+exciting investment opportunities, as well as some areas where we see reason to
+proceed with caution.
+Sharing these perspectives and opportunities is part of our deep commitment to
+you and what we focus on each and every day. We are grateful for your continued
+trust and confidence, and look forward to working with you in 2011.
+Most sincerely,
+EOTM Outlook 2024_PB AM Version_Text Pages_PRINT_v06
+Macintosh HD:Users:v488496:Downloads: EOTM Outlook 2024:Text:EOTM Outlook 2024_PB AM Version_Text Pages_PRINT_v06.indd
+Page: 1 of 2
+Modified: 26 December 2023 2:37 PM
+
+--- PAGE 3 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+2024 Outlook: Pillow Talk
+Falling US inflation and prospects for easier Fed policy are increasing talk of a soft landing rather than a
+recession, hard landing and bear market. Leading indicators point to slowing growth but not a collapse. Select
+real estate, corporate and household delinquency rates are rising, but as illustrated below these are usually
+lagging indicators for investors. In other words, equity markets normally bottom well before the peak in
+economic distress, with the dot-com cycle being the notable exception. There’s still risk of recession next year;
+the important point is that even if it did occur it is likely to be a mild one, particularly with the Fed providing
+ample back-door liquidity to the banking system.
+The challenge for investors: the damage to public sector finances from mega-deficits, markets that already price
+in a very soft landing and the concentrated contribution of megacap stocks. In 2023, S&P 500 earnings were
+flat; they were up 33% for the 7 megacap stocks and down 5% across the rest of the S&P 500. All things
+considered, 2024 looks like a year of slowing GDP growth, single-digit earnings growth and single-digit returns
+on the median S&P 500 stock.
+If so, a diversified portfolio of cash, long-duration government bonds, high quality corporate bonds and equities
+is a good way to think about investing. Industrials and energy look interesting given US industrial policies, and
+so does Japan. The outlook concludes with a detailed review of antitrust risks facing US tech stocks, a deep dive
+on weight loss drugs, the US Federal debt, China and my top ten surprises for 2024 in honor of Byron Wien.
+Michael Cembalest
+JP Morgan Asset Management
+Equities tend to bottom first during recessions
+Symbols:time of worst reading
+COVID Equities
+GFC ISM manufacturingsurvey
+GDP
+DotCom
+the exception
+Payrolls
+1990's S&L
+S&PEarnings
+1980's double dip
+Housing starts
+70's stagflation High yield default rates
+Eisenhower Real estate delinquencies
+End of recession
+-8 -4 0 4 8 12 16 20 24 28 32
+Months since beginningof recession
+Source: BEA, Census, NAR, Shiller,Bloomberg, S&P/Dow Jones, JPMAM, 2023. Past performance is not a indicative of future results
+1
+
+--- PAGE 4 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Table of Contents
+Leading indicators point to weaker US growth but not a sharp decline ..................................................................3
+Inflation monitor: Mission mostly accomplished ...................................................................................................5
+Leviathans: US equity markets and the domination of megacap stocks ..................................................................7
+Antitrust monitor: the latest on DoJ/FTC lawsuits against Big Tech and Epic’s big win vs Google ............................9
+European and Japan equities: two ships passing in the night ............................................................................... 13
+Fixed income: The Low Spark of High Yield Bonds ............................................................................................... 15
+US Debt Sustainability: The Boiling Frog ............................................................................................................. 19
+US Consumer: Still going strong but gradually running out of ammunition ........................................................... 24
+China equities: all value traps come to an end…eventually .................................................................................. 27
+The Fats Dominoes: the impact of weight loss drugs on equity markets ............................................................... 30
+Top ten surprises for 2024 in honor of Byron Wien ............................................................................................. 39
+Chart of the year: the most intense global tightening cycle in decades is ending
+Central banks hiking/cutting rates
+Number ofcentral banks
+50
+Rate hikes
+40 Rate cuts
+30 Net policy moves
+20
+10
+0
+-10
+-20
+-30
+-40
+-50
+-60
+1990 1995 2000 2005 2010 2015 2020
+Source: Individual Central Banks, Haver Analytics, JPMAM, November 2023
+Acronyms
+CBO Congressional Budget Office; CMBS commercial mortgage backed securities; CPI consumer price inflation;
+DoJ Department of Justice; EBITDA earnings before interest, taxes, depreciation and amortization; ECI
+employment cost index; EPS earnings per share; EV electric vehicles; FDI foreign direct investment; FTC Federal
+Trade Commission; GFC global financial crisis; IMF International Monetary Fund; ISM Institute for Supply
+Management; LEI leading economic indicators; NFIB National Federation of Independent Business; P/E price to
+earnings; SOE state owned enterprise; TSMC Taiwan Semiconductor Manufacturing Company; YTD year to date
+2
+
+--- PAGE 5 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Leading indicators point to weaker US growth but not a sharp decline
+Many leading indicators point to weaker growth but not a sharp recession. While our preferred leading indicator
+(ISM new orders less inventories) is actually improving on the margin, other leading indicators point to weaker
+growth. We show four of them below: projections of capital spending, growth, construction and profits. Other
+weak indicators include small business expectations. Remember, investors have to consider the risk of a hard
+landing in profits even if the there’s a soft landing in the economy (e.g., 2001).
+US new orders lessinventories Smallbusiness expectations
+Index (50+ = expansion) Index, 3 month average Net % of NFIB Optimism Survey respondents
+70 30 20%
+ISM manufacturing PMI composite index (lhs)
+Sales
+65 ISM new orders less inventories (3 month lead, rhs) 10%
+20
+60
+0%
+55
+10
+-10%
+50
+-20%
+0
+45
+-30%
+40
+-10
+35 -40% Profits
+30 -20 -50%
+1983 1988 1993 1998 2003 2008 2013 2018 2023 1986 1990 1994 1998 2002 2006 2010 2014 2018 2022
+Source: Bloomberg, JPMAM, November 2023 Source: Bloomberg, JPMAM, November 2023
+USbanklending standards => US non-residential capex Leadingeconomic indicator => construction activity
+Percent, y/y Net % tightening P e r c e n t , y / y Percent,y/y
+25% Non-residential capex (lhs) -50 25% Construction activity (lhs) 16%
+LEI Index (18 mo. lead, rhs)
+20% Bank lending standards (9 mo. lead, inverted, rhs) 12%
+-30
+15% 15% 8%
+-10
+10% 4%
+5% 10 5% 0%
+0% 30 -4%
+-5%
+-5% -8%
+50
+-10% -15% -12%
+70
+-15% -16%
+-20% 90 -25% -20%
+1992 1997 2002 2007 2012 2017 2022 1998 2003 2008 2013 2018 2023
+Source: Bloomberg, JPMAM, Q3 2023 Source: US Census, Conference Board, JPMAM, November 2023
+Coincident and leading economic indicators Fed funds, effective corporate tax rate, unemployment,
+Percent, y/y Percent y/y productivity growth => Corporate profits, Percent, y/y
+10% 20% 60%
+Coincident indicators (lhs) Corporate profits
+8% 15% 50%
+Leading indicators (rhs) Leading indicator model (18 mo. lead)
+6%
+10% 40%
+4%
+30%
+5%
+2%
+20%
+0% 0%
+10%
+-2%
+-5%
+-4% 0%
+-10%
+-6% -10%
+-8% -15% -20%
+-10% -20% -30%
+1970 1980 1990 2000 2010 2020 1998 2002 2006 2010 2014 2018 2022
+Source: Conference Board, JPMAM, November 2023 Source:Piper Sandler, Q3 2023
+3
+
+--- PAGE 6 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Why hasn’t the increase in Fed policy rates caused a US recession? As explained in our “Rasputin” Eye on the
+Market last August, monetary policy is tighter but below the level of real rates that led to prior recessions;
+corporate cash flow is still in good shape, unlike the cash flow deficits which preceded prior recessions; and the
+corporate sector termed out debt maturities before the rise in rates, partially immunizing itself from the interest
+spike that preceded prior recessions. Private sector credit creation was similar to prior cycles, but debt servicing
+risks are lower for companies and households that termed out maturities.
+While we see the risk of recession receding, recessions tend to occur at least 7 quarters after the initial Fed hike,
+and that’s where we stand as 2024 begins. The fact that a recession hasn’t taken place yet is not a guarantee
+that it won’t. But estimates of liquidity are expanding based on the various facilities that the Fed provides to
+the banking system (bottom chart), which is another cushion mitigating any decline in growth.
+Real cost of money US corporate sector financial balance
+Real interest rates (FED Funds -Core CPI), 21 day smoothing % of corporate gross value added, 4-quarter average
+10% 4%
+* Gross savings less capital transfers, capital
+8% expendituresand foreign profits retained abroad
+2%
+6%
+4% 0%
+2%
+-2%
+0%
+-2%
+-4%
+-4%
+-6% -6%
+'57 '62 '67 '72 '77 '82 '87 '92 '97 '02 '07 '12 '17 '22 1960 1970 1980 1990 2000 2010 2020
+Source: Bloomberg, JPMAM, December 26, 2023 Source: Federal Reserve, BEA, JPMAM, Q3 2023
+Corporate net interestcosts stable despite rising funds rate USprivate non-financialcredit creation as a % of GDP
+Percent Percent Percent, 2-quarter annualized change / GDP
+120% 20% 17.5%
+Corporate net interest payments
+15.0%
+as a % of after-tax NIPA profits
+100%
+16% 12.5%
+80% 10.0%
+12%
+7.5%
+60%
+5.0%
+8%
+40% 2.5%
+4% 0.0%
+20%
+-2.5%
+Fed funds rate
+0% 0% -5.0%
+1970 1980 1990 2000 2010 2020 1960 1970 1980 1990 2000 2010 2020
+Source: Bloomberg, JPMAM, Q3 2023 Source: Federal Reserve, BEA, JPMAM, Q2 2023
+US liquidity conditions set to improve in 2024 Recessions usually take place at least 7 quarters after the
+Liquidity proxy, $US trillion initial Fed hike
+$7.5
+Fed funds initial 1st quarter of Quarters after
+$7.0 hike recession initial hike
+$6.5 Q3 1958 Q3 1960 8
+$6.0 Q4 1967 Q1 1970 9
+$5.5 Q2 1972 Q1 1974 7
+$5.0 Q2 1977 Q2 1980 12
+Projected impact of Bank
+$4.5 Term Funding Facility, Q4 1980 Q4 1981 4
+Overnight Reverse Repo
+$4.0 Facility and Treasury Q4 1986 Q4 1990 16
+$3.5 General Account Q2 1999 Q2 2001 8
+$3.0 Q3 2004 Q1 2008 14
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Source: Piper Sandler, 2023
+Source: Steno Research, December 2023
+4
+
+--- PAGE 7 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Inflation monitor: Mission mostly accomplished
+The US and other developed economies have experienced substantial declines in inflation vs peak levels. That’s
+what is driving the chart shown earlier on declining central bank rate hikes.
+Developed world core inflation declines US consumer price inflation measures
+3-month percent change, annualized Percent, 3month annualized change
+9%
+12% Cleveland Fed median CPI
+Cycle peak 8% Atlanta Fed sticky CPI
+10% Latest 7% Cleveland Fed trimmed mean CPI
+6%
+8%
+5%
+6% 4%
+d
+n d 3%
+4% a a n
+2% n e d e w K y a w r o a d a n a
+a
+ila r ts u
+la
+e Z w e
+e
+r A o r u
+)E
+C P ( S
+a
+lr e z tiw 1 2 % %
+S U N C A N E U S 0%
+0%
+1985 1990 1995 2000 2005 2010 2015 2020
+Source: Haver Analytics, JPMAM, November 2023 Source: Bloomberg, JPMAM, November 2023
+Breathing room for the Fed is coming from falling supply chain pressures; rising auto inventories and falling
+used vehicle values; and timely measures of residential rent inflation which are also declining. There’s also a lot
+of residential real estate supply coming online, particularly in multifamily. Futures markets are pricing in 1.4%
+of Fed easing by the end of 2024; I hope it’s less than that since too much easing too fast could reignite inflation,
+which would be a real problem for the Fed and for markets. The Fed has enough egg on its face already.
+Supply chain pressures subside US used vehicle prices fall andautoinventory recovering
+FRBNY Global Supply Chain Pressure Index Manheim US Index Percent ofaverage 2019 level
+5 265 120%
+4 245 100%
+3 225
+80%
+2 205
+Used vehicle value (lhs) 60%
+1 185
+Inventories (rhs)
+40%
+0 165
+-1 145 20%
+-2 125 0%
+2018 2019 2020 2021 2022 2023 2019 2020 2021 2022 2023 2024
+Source: Bloomberg, JPMAM, November 2023 Source: BEA, Bloomberg, JPMAM, November 2023
+Timely residential rent measures vs CPI rent Housing supply under construction
+Percent, annualized 6-month change Percent of owner occupied housing stock
+18% 1.6%
+15% 1.4%
+12% 1.2%
+CPI Rent
+9% 1.0% Multi-family
+6% 0.8%
+3% 0.6% Single-family
+Zillow rent
+index
+0% 0.4%
+-3% 0.2%
+2016 2017 2018 2019 2020 2021 2022 2023 2000 2003 2006 2009 2012 2015 2018 2021 2024
+Source: Bloomberg, Zillow, JPMAM, November 2023 Source: Bloomberg, US Census, JPMAM, November 2023
+5
+
+--- PAGE 8 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+We also expect wage inflation to decline based on the decline in advertised wages (second chart); observed
+declines in temporary help, manufacturing and overtime hours worked, unit labor costs, the “job switcher vs
+job stayer” premium, the share of private industries with rising employment and the voluntary quits rate; and
+rising female labor force participation. While negotiated pay raises are still at peak levels, union workers are
+only 7% of the workforce, below the 20%-30% range which prevailed during the 1970’s.
+Wage inflation measures Wages in job postings => Wages
+Percent Percent, y/y Percent
+8% 7% 10%
+Negotiated raises: avg year 1 raise in union contracts
+7% Atlanta Fed Wage Tracker Atlanta Fed Wage
+6%
+Employment Cost Index y/y wages Growth Tracker Avg. growth in wages 8%
+6%
+advertised in job postings
+5%
+5% (4 mo. lead)
+6%
+4% 4%
+3% 4%
+3%
+2%
+2%
+2%
+1%
+0% 1% 0%
+1985 1990 1995 2000 2005 2010 2015 2020 2000 2004 2008 2012 2016 2020 2024
+Source: BLS, Bloomberg Law, JPMAM, Q3 2023 Source: Steno Research, Bloomberg, Indeed, JPMAM, November 2023
+On inflation and US energy/industrial policy. Looking a few years out, inflation risks tilt higher due to large US
+fiscal deficits and the impact of new US energy/industrial policies. A constant theme in our annual energy piece
+is the duplication of generation capacity required to accompany high renewable power penetration. The first
+chart below illustrates what I mean by this. MISO is one of the larger independent system operators, stretching
+from Minnesota to Louisiana. As wind and solar capacity increases, MISO will not be able to reduce natural gas
+capacity on a 1:1 basis. The red line shows the estimated modest reduction in gas capacity that can be shuttered
+as wind/solar increase. Whether backup power is provided by thermal generation or batteries, increased capital
+investment will reverberate through the cost of power.
+As for semiconductor policy, TSMC is building two new fabs in Arizona, one for 4-5 nanometer chips (opening
+soon) and another for 3 nanometer chips opening in 2027. As per our sources and TSMC’s CFO1, the $40 billion
+cost of TSMC’s US fabs is 4-5x times higher than the same facilities in Taiwan. Capital costs are only part of the
+overall expense, but US labor costs are higher than Taiwan’s as well. It makes sense for the US to renationalize
+semiconductor supply chains due to geopolitical risks, but investors should be aware of the implications for
+supply chain costs, particularly in semiconductor-intensive EVs, wireless communication and AI/computing.
+MISO: wind, solar and gas capacity as a function of Global semiconductor market value
+wind/solar share of load US$, billions
+Megawatts $1,100
+100,000 $1,000 Wired comm.
+Natural gas capacity Consumer electr.
+90,000 $900
+80,000 $800 Industrial electr.
+70,000 $700 Automotive
+electronics
+60,000 $600
+4 5 0 0 , , 0 0 0 0 0 0 Wind and solar capacity $ $ 4 5 0 0 0 0 com W m ir u e n le ic s a s t ion
+30,000 $300
+20,000 $200 Computing and
+10,000 $100 data storage
+0 $0
+8% 12% 16% 20% 24% 28% 32% 36% 40% 44% 2021 2030
+Wind and solar generation less curtailment as a share of load Source: "Thesemiconductor decade: A trillion-dollar industry", McKinsey &
+Source: EIA,JPMAM calculations, 2023 Company, April 2022
+1 “Y 2022 Earnings Call”, Taiwan Semiconductor Manufacturing Co Ltd, January 12, 2023
+6
+
+--- PAGE 9 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Leviathans: US equity markets and the domination of megacap stocks
+Markets are at a unique juncture: yields on equities, high grade bonds, T-bills and REITs have converged, which
+hasn’t happened in 20 years. If this remains the case, holding some cash looks like good value on a risk-adjusted
+basis. As shown on the right, equity valuations are at the high end of the range for the market cap-weighted
+S&P and closer to median for the equal weighted S&P. The valuation peaks in 2020/2021 are no longer relevant
+now that the Fed will presumably maintain a positive real cost of money. Also, the internals of the US corporate
+sector are a bit weaker than headline S&P 500 earnings suggest:
+• US corporate revenues and S&P operating earnings per share have been flat in real terms since early 2022
+• Free cash flow of the S&P 500 excluding the 7 megacaps has also been flat since that time (see next page)
+After the fall rally, US equity markets already price in a soft landing. We expect single digit earnings growth
+and single digit returns on the median US stock in 2024, with continued outperformance by the megacaps.
+Convergence of yields across assets S&P 500 valuations
+Percent Forward P/E multiple
+S&P 500 12M forward earnings yield
+12% US corporate investment grade bonds (YTM) 24x
+US three-month Treasury rate (YTM) S&P 500 (market-cap weighted)
+10% All Equity REITs implied unlevered cap rate 22x S&P 500 (equal-weighted)
+8% 20x
+19x
+6% 18x
+4% 16x
+16x
+2% 14x
+0% 12x
+2000 2003 2007 2011 2015 2019 2022 1995 2000 2005 2010 2015 2020
+Source: Bloomberg, JPMAM, December 26, 2023 Source: FactSet, JPMAM, December 26, 2023
+From a sector perspective, industrials and energy look interesting in addition to technology. As shown on the
+left, industrials are inexpensive vs the market and should benefit from energy, semiconductor and infrastructure
+bills. The table shows free cash flow and valuation for the energy sector. The greener the shading, the cheaper
+that indicator is vs the market. I don’t expect energy valuations to improve much given stranded asset concerns.
+Even so, the energy sector still looks like an attractive source of earnings yield, dividends and stock buybacks.
+Industrial valuations vs the market Percentile rank of energy sector valuations relative to S&P 1500,
+Industrial sector forward P/E vs S&P 500 start of available data to Nov 2023
+1.25 Enterprise value to
+cash flow (EBITDA) Free cash flow yield
+1.20
+Last 12 M Next 12 M Last 12 M Next 12 M
+1.15 Oil & Gas Drilling 5 2 75 94
+1.10 Oil & Gas Equipment
+5 2 79 91
+& Services
+1.05
+Integrated Oil & Gas 4 3 87 86
+1.00
+Oil & Gas Exploration
+7 7 85 88
+0.95 & Production
+Oil & Gas Refining &
+0.90 3 9 95 95
+Marketing
+0.85 Oil & Gas Storage &
+13 14 62 70
+0.80 Transport
+1996 2001 2006 2011 2016 2021 Energy 4 4 88 87
+Source: FactSet, JPMAM, December 26, 2023 Source: FactSet, JPMAM, November 2023
+7
+
+--- PAGE 10 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Given limited impacts from antitrust so far (see next section), the valuation of the megacaps largely reflects
+their higher margins and free cash flow. The percent of market cap that the “magnificent 7” represent is at an
+all-time high, and they accounted for most of the equity market gains in 2023. Another sign of concentration:
+last year also saw the second highest percentage of S&P 500 stocks underperforming the index since 1980 (72%
+underperformed vs 52% average). But without judicial brakes on them, the strong are getting stronger and I see
+little reason, other than valuations that become too high relative to the market, that this should change.
+On this latter point, see the bottom chart. While megacap stocks look increasingly expensive relative to the
+market, after adjusting for their higher earnings growth expectations they don’t look nearly as overpriced.
+The challenge: as shown in the last chart, everyone seems to agree; this is a very crowded trade.
+Market cap of largest 7 companies in S&P 500 Magnificent 7 stocks led S&P 500 in 2023
+Percent of total indexmarket cap Percent, YTD return
+30% 80%
+28% 70%
+26% 60%
+24%
+50% AAPL, AMZN,
+22% GOOGL, META,
+40% MSFT, NVDA,
+20% TSLA
+30%
+18%
+20%
+16%
+10%
+14%
+0%
+12%
+Magnificent 7 S&P 500 S&P 500 ex-Mag 7
+1996 1999 2002 2005 2008 2011 2014 2017 2020 2023
+Source: FactSet, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 27, 2023
+Magnificent 7 growth in free cash flow vs rest of S&P 500 Magnificent 7 profit margin vs rest of S&P 500
+Index (100 = January 1, 2018), 90 day smoothing Percent
+230 25%
+220 Magnificent 7 23% Magnificent 7
+210
+200 21%
+190 19%
+180
+17%
+170
+160 15%
+150 13%
+140
+130 S&P 500 ex-Mag 7 11%
+120 9%
+110 S&P 500 ex-Mag 7
+7%
+100
+90 5%
+2018 2019 2020 2021 2022 2023 2024 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Source: Bloomberg, JPMAM, December 27, 2023 Source: Bloomberg, JPMAM, December 27, 2023
+Valuations of Magnificent7 vs median S&P 500 stock Nasdaq 100 positioning: asset managers & leveraged funds
+Ratio Net # of contracts, thousands (>0 = net long positions)
+2.0x 120
+1.8x Relative P/E 100
+1.7x
+1.6x
+80
+1.4x
+60
+1.2x
+40
+1.0x
+0.9x
+0.8x 20
+Relative P/E ratios adjusted for long
+0.6x term earnings growth expectations 0
+0.4x -20
+2013 2015 2017 2019 2021 2023 2010 2012 2014 2016 2018 2020 2022 2024
+Source: GS Global InvestmentResearch, JPMAM, November 2023 Source: CFTC, JPMAM, December 19, 2023
+8
+
+--- PAGE 11 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Antitrust monitor: the latest on DoJ/FTC lawsuits against Big Tech and Epic’s big win vs Google
+This section is not “appendix” material. Given the contribution of megacaps to market returns, antitrust risks
+are one of the most important dynamics to understand regarding their profit and margin sustainability.
+After Biden was elected in 2020 we spent a lot of time on antitrust issues:
+• Antitrust enforcement by the DoJ had fallen to a post-war low by 2017, and industry consolidation had
+reached the prior 1969 peak
+• The Biden Administration was intent on increasing antitrust enforcement and appeared to have allies
+among House Republicans who were hostile to big tech for their own reasons
+• The US Department of Justice filed its Google lawsuit, after which states piled on with their own
+• Some politicians advocated repeal of Section 230 of US telecommunications law which provides indemnity
+against lawsuits resulting from social media comments that are posted or censored
+• The FTC filed an antitrust lawsuit to force Meta to unwind its acquisitions of Instagram and WhatsApp
+• The 2020 House Judiciary Committee report issued on antitrust (reflecting the majority Democratic view on
+the committee at the time) laid out an energized antitrust agenda that targeted Meta, Google, Amazon and
+Apple. Recommendations included Glass-Steagall legislation for the tech sector (break up lines of business),
+rules to prevent discrimination and self-preferencing, merger prohibition, safe harbor for new publishers,
+prohibition on abuse of bargaining power, rules on data portability/interoperability, strengthening Section
+2 of the Clayton Act (price discrimination), strengthening Section 7 of the Clayton Act (acquisitions that
+foster monopolies) and restoring enforcement Agencies to full strength
+Department of Justice antitrust case filings Industry consolidation versus prior 1969 peak
+Number of cases filed Revenues of largest 15 companies as % of US GDP
+45 12%
+Mergers
+40
+Monopoly 10%
+35 Restraint of trade
+8%
+30
+25 6%
+20
+4%
+15
+10 2%
+5
+0%
+0 1969 2000 2023
+'70 '75 '80 '85 '90 '95 '00 '05 '10 '15 '20
+Source: Bloomberg, BEA, Fortune 500, J.P. Morgan Global Economic
+Source:United States Department of Justice. November 2023. Research, JPMAM. 2023.
+Here we are three years later and not much has changed, although the FTC/DoJ are trying
+• There’s little visible Congressional momentum for Section 230 repeal
+• Proposed legislation that operated under the presumption of monopolistic behavior simply based on size or
+market capitalization never got passed
+• There are 20-30 years of existing case law that embrace the consumer welfare standard and which support
+the notion that BIG is not necessarily BAD when it comes to antitrust. Even if the DoJ/FTC prevail in one of
+their cases, such rulings might not hold up on appeal given the composition of Appellate and Supreme Courts
+• Most antitrust investigations are focused on price fixing and bid-rigging rather than on exclusionary
+anticompetitive activities
+9
+
+--- PAGE 12 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Here’s a summary of the major antitrust cases underway.
+• GOOGLE. The legal scope of the DoJ lawsuit against Google has been narrowed2 to mostly focus on Traffic
+Acquisition Costs (TAC; see box). Should Google lose, device users would still be prompted to pick a search
+engine, and most might select Google anyway (which is what happened in Europe). According to Morgan
+Stanley: if Google reduced its TAC payments by 50%, it would have to lose ~15% digital advertising market
+share before the margin impact would be negative
+• Closing arguments are set for mid-2024, final ruling not expected until 2025. If Google loses, the lawsuit
+would move to a remedies phase which could include an additional trial, all of which could take time including
+appeals; and its contracts with Apple and Samsung would presumably have to be renegotiated in accordance
+with the court’s definition of acceptable device placement agreements
+• Another potential loser from the Google lawsuit: Apple, which earns an estimated $18-$20 billion per year
+from Google. In 2020, the DoJ claimed that 15%-20% of Apple’s worldwide annual income was derived from
+Google payments; and in 2023, Sanford Bernstein estimated that this figure is still ~15%. In November 2023,
+Google’s CEO confirmed under cross-examination during the Epic Games trial that Google shares 36% of its
+advertising payments originating on Safari with Apple in exchange for default status on Apple devices
+Google Traffic Acquisition Costs (TAC) by year
+Percent US$, billions
+40% $50
+38% $45
+Google TAC payments as
+36% % of ad revenues (lhs) $40 Google’s Traffic Acquisition payments for default
+34% $35 status on devices. Google pays $ billions a year to
+32% TAC payments (rhs) $30 device makers (Apple, Motorola, LG, Samsung),
+30% $25
+wireless carriers (AT&T, T-Mobile, Verizon) and
+28% $20
+browser developers (Mozilla, Opera, UC Web) to
+26% $15
+secure default status for its search engine. Google
+24% $10
+may also disincentivize counterparties from
+22% $5
+20% $0 dealing with competitors and require placement of
+2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 Google Apps in prime device positions
+Source: Google 10-Kfilings, JPMAM, 2022
+UPDATE. Google was also being sued in 38 states by attorney generals regarding its Google Play Store policies
+on app distribution and in-app payments. In December 2023, Google agreed to pay $700 mm and alter its Play
+Store policies. The settlement blocks Google from enforcing agreements requiring mobile device makers to
+preload or feature the Play Store exclusively on home screens; requires Google to make it easier for users to
+install apps outside the Play Store; and requires Google to permit developers to steer users to alternative
+purchase methods, including buying apps directly from websites. This settlement could preempt any relief the
+judge might order in the Epic vs Google case, discussed on the next page. Note that this agreement is unrelated
+to the products and allegations in the DoJ lawsuit cited above, and those in a separate Texas-led AG lawsuit.
+2 The original suit also accused Google of blocking vertical service providers like Yelp and Expedia from appearing
+towards the top of search result pages. In August, the judge ruled that there was no evidence of anticompetitive
+harm and that the allegation relied almost entirely on the opinion and speculation of plaintiff’s expert
+10
+
+--- PAGE 13 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+In addition to Federal and State lawsuits, Google was also sued by Epic Games for engaging in anticompetitive
+conduct in Android markets. In December, a jury ruled against Google. This came as a surprise to me since in
+a lawsuit that Epic filed against Apple, a judge ruled that Apple’s behavior was not a violation of antitrust rules.
+Here are some key takeaways from the Epic vs Google ruling.
+• Google is an open-source model; it doesn’t sell an integrated product like the iPhone and instead enters
+into contractual relationships with device makers like Samsung
+• As part of these relationships, (a) Google pays device manufacturers to only ship phones with the Google
+Play Store and not other App stores, with payments to manufacturers taking the form of revenue shares in
+Google Play; and (b) Google requires apps listing in the Google Play Store to exclusively use Google Play
+Billing services to process payments and in-app purchases
+• This kind of “shelf space” behavior is not a priori anticompetitive; it has to be proven that the company also
+has control over “the market”, that the shelf space behavior substantially impaired competition, and that
+there are no countervailing procompetitive justifications. Epic was successful in convincing the jury that the
+Google ecosystem is a market unto itself, separate and distinct from Apple’s iOS ecosystem (presumably
+since switching costs are high). Once a company is determined to have market power, its contracts and
+incentives can be evaluated in the context of anticompetitive behavior
+• Epic also claimed anticompetitive “tying” which the jury agreed with; it ruled that Google’s conduct was
+anticompetitive and that there is no “procompetitive” business rationale for Google to require app
+developers to transact only through Google Play Billing services
+Why did Apple prevail while Google did not? The answer might surprise you. In Epic vs Apple, the judge did
+find that Apple possessed market power over “mobile game transactions” (iOS plus Android) since Apple has a
+52%-57% share of this market, and charges “supracompetitive commissions” that result in a 75% operating
+margin. The court also found that Apple’s App Store restrictions do reduce competition and do stifle
+innovation3. So why on earth did Apple prevail? Apple was able to prove to the court that it had sufficient
+procompetitive justifications for the way its closed ecosystem works. The court agreed with Apple for reasons
+related to reasonable exploitation of intellectual property, a distinct user experience and better user privacy/
+security; the 9th Circuit Court then affirmed this ruling
+• Another difference: the Epic vs Google judge concluded that Google suppressed and/or destroyed evidence,
+and that the jury could draw an adverse inference on the merits as a result. These kinds of instructions can
+heavily impact a jury’s disposition towards a defendant
+Annual app and game revenue Estimatedavailable apps and games
+US$, billions Count, millions
+$90 4.0
+$80 iOS App Store 3.5
+$70 Google Play Store
+3.0
+$60
+2.5
+$50
+2.0
+$40
+iOS App Store
+Google Play Store 1.5
+$30
+1.0
+$20
+$10 0.5
+$0 0.0
+2016 2017 2018 2019 2020 2021 2022 2009 2011 2013 2015 2017 2019 2021 2023
+Source: Business of Apps, JPMAM, Q2 2023 Source: Business of Apps, JPMAM, Q2 2023
+3 Ninth Circuit Court of Appeals, Epic vs Apple, April 24, 2023, Section 2
+11
+
+--- PAGE 14 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+As a reminder, civil cases are tried before a judge when plaintiffs only seek injunctive relief. If plaintiffs seek
+damages as well, they’re entitled to a jury trial. That’s why Epic vs Apple went before a judge (only injunctive
+relief was being sought) while Epic vs Google went before a jury (damages were sought as well). Since judges
+provide legal opinions for their rulings, they can be overturned on matters of law; such appeals are harder in
+jury trials since juries don’t provide legal opinions, only verdicts, and they usually can only be overturned if the
+judge’s instructions were faulty. In any case Google will probably appeal, perhaps aiming to get the case into
+the 9th Circuit Court of Appeals that decided the Epic vs Apple case in Apple’s favor.
+Let’s keep going with the FTC/DoJ lawsuits:
+• META. The primary focus of the FTC lawsuit against Meta: its acquisitions of Instagram and WhatsApp. The
+lawsuit is scheduled to take place in 2024. The FTC still has to prove the existence of a “personal social
+networking market” for purposes of antitrust enforcement, which is no simple task. The negative consumer
+welfare aspects of this case are also less apparent than in other antitrust cases. That said, if the FTC prevails,
+it could have a chilling impact on the tech industry since the FTC may challenge other prior acquisitions
+• The FTC has been permitted by the courts to modify a prior consent order against Meta stemming from the
+$5 bn fine related to the Cambridge Analytica fiasco from the 2016 election. While the FTC modified its
+order to prevent Meta from monetizing data from users below 18, this demographic might not represent a
+large source of Meta revenue. On monetization restrictions: Morgan Stanley estimates that when users in
+some jurisdictions opt out of having their data tracked and monetized, subscription revenues they pay can
+be even higher than their per capita monetization value
+• AMAZON. The FTC and 17 state attorney generals filed an antitrust lawsuit in September 2023 alleging that
+Amazon maintained monopoly power by making it harder for competing platforms to attract customers and
+sellers by (a) restricting eligibility to preferred placement in front of Prime customers only to sellers using
+Amazon’s fulfillment service, and (b) utilizing anti-discounting tactics to punish sellers for offering lower
+prices on other platforms. The FTC has an uphill battle to prove that Amazon maintains a monopoly; it has
+a ~40% share of US e-commerce but less than 25% of retail sales are online, suggesting Amazon has only a
+~9% share of retail sales
+• T-MOBILE is set to face an antitrust lawsuit related to its 2020 acquisition of Sprint. In November, a US
+district judge ruled in favor of a class action suit filed by AT&T/Verizon subscribers on behalf of consumers.
+The judge stated that plaintiffs demonstrated plausibility that the $26 billion merger “reduced competition
+in the retail mobile wireless market and as a result, market participants AT&T and Verizon charged higher
+prices than they would have otherwise”4. The proposed class action seeks a range of penalties, including
+undoing the 2020 T-Mobile/Sprint merger and recovering overcharged amounts
+• Ongoing FTC/DoJ antitrust investigations include LiveNation, RealPage (apartment listings), Visa and several
+M&A deals: United Healthcare/Amedisys, Kroger/Albertsons, Exxon/Pioneer and Chevron/Hess
+All things considered, 2024 looks like a make or break year for DoJ and FTC efforts to constrain what it sees
+as monopoly power in the digital world.
+Another legal issue: in late December the NYT sued OpenAI, alleging that OpenAI unlawfully uses NYT articles to train
+its dataset, encodes copies of them in its parameters and outputs memorized articles in response to queries. While the
+third issue has reportedly been fixed according to Arvind Narayan at Princeton, the other two cannot be “patched away”
+by future OpenAI revisions and will require judicial or legislative interpretation of “fair use” doctrine to resolve.
+The fair use doctrine ultimately rests on two questions: (a) do AI tools mostly avoid replicating materials they absorb
+and instead produce new works, and (b) does AI output hurt commercial markets for the original works. In 2013 when
+the Authors Guild sued Google for scanning more than 20 million books and showing brief book sections in response to
+user searches, a judge ruled that Google’s conduct was fair use since it was “transformative”. Google also provides
+factual information about the books and links to them as well, which OpenAI does not do. Large language model training
+opens up a new frontier in fair use doctrine adjudication and will have to be resolved without much precedent.
+4 US District Court for the Northeastern District of Illinois, Judge Thomas Durkin, November 2, 2023
+12
+
+--- PAGE 15 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+European and Japan equities: two ships passing in the night
+I’m on strike regarding a long section on European equities, particularly after another year of underperformance
+vs the US. Even though Europe trades close to a record P/E discount, Europe underperformed the US again in
+2023 by 7%. So, despite a recovery in Japanese equities and continued subpar returns in China, the barbell**
+eked out a small positive return again in 2023. The barbell has outperformed in 84% of all three-year rolling
+periods since 1991 with an average positive return of 3.0% compared to an average return of -1.2% when it
+does not work. Vive le barbell!
+** The barbell: for over 15 years I have written about a strategy in global equity portfolios to overweight the US
+and Emerging Markets and underweight Europe and Japan. The pro forma excess returns are illustrated below
+Overweight US & EM, underweight Europe & Japan Europe P/E discount vs US
+3-year rolling out (under) performance vs MSCI All World Index Relative P/E discount based on forward earnings
+10% 0%
+Bloomberg
+8% -5%
+Datastream
+6%
+-10%
+4%
+-15%
+2%
+-20%
+0%
+-25%
+-2%
+-4% -30%
+1991 1994 1997 2000 2003 2006 2009 2012 2015 2018 2021
+-35%
+Source: Bloomberg, JPMAM. December 2023. All equity portfolio,
+rebalanced quarterly. O/W US by 10%; U/W EUR by -10%; U/W JPN by - -40%
+5%; O/W EM by 5%. Assumes no currency hedging. Past performance is 2006 2008 2010 2012 2014 2016 2018 2020 2022
+not indicative of future results Source: Bloomberg, Datastream, JPMAM, Dec 1, 2023
+Regarding Japan: corporate governance reforms and other policies create a better foundation for investing.
+• As shown in the table, there’s a lot of room for Japan to “equitize” further
+• The exit from deflation has made cash less attractive vs equities for Japanese pensions and households (real
+short term interest rates are -2%)
+• The Tokyo Stock Exchange has threatened to delist companies trading below book value unless they enact
+governance reforms
+• There are over 50 activist funds in Japan which is unprecedented, and they’re pummeling the corporate
+sector with governance proposals
+• The share of companies with more than 50% independent external directors has risen from 30% to 60%
+• There are tax incentives for households to increase equity allocations, and there’s pressure on Japanese
+pensions to align equity allocations higher to match the Government Pension Investment Fund
+Room for Japan to "equitize" Japan finally exits deflation
+Japan CPI ex fresh food and energy, % y/y
+US Japan
+7%
+10 year dividend payout ratio 70% 30%
+6%
+Cash % of market capitalization 7% 21% 5%
+Share of companies trading 4%
+4% 50%
+below book value 3%
+Corporate buybacks as % of 2%
+2.0% - 3.5% 0.7% - 1.4%
+market capitalization 1%
+Household equity allocation 40% 11% 0%
+-1%
+Pension equity allocation 40% 25%
+-2%
+Household cash allocation 15% 55%
+1980 1985 1990 1995 2000 2005 2010 2015 2020
+Source: Bridgewater, JPMAM, December 2023
+Source: Bloomberg, JPMAM, November 2023
+13
+
+--- PAGE 16 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+The exhibits below illustrate how Japan was mostly a value investment in 2023 that is regaining traction with
+international investors. Note the strong performance of Japan’s value factor in the table; in other words,
+investors anticipate that Japan’s low price/book companies will take steps to increase shareholder value. Global
+investor underweights to Japan still exist but are modest at ~1% in the context of a global equity portfolio5. The
+cheapness of the Yen may be a potential tailwind for investors as well.
+To be clear, Japan is still a very slow-growing economy with a lot of demographic and competitive pressures.
+Growth in 2023 was still dominated by exports rather than by domestic consumption, real wage growth is still
+negative, its industrial production growth is no different than Europe, and China has now eclipsed Japan as the
+world’s largest auto exporter. According to the Bank of Japan, the country’s potential growth rate is still less
+than 1% due in large part to unfavorable demographics. Our improved outlook for Japan equities is based
+mostly on a one-time exit from deflation combined with additional boosts from corporate governance and
+investment incentive policies. I doubt that will end up being a rationale that lasts for several years.
+Japan YTD cumulative overseas investor inflows by year Japan, US and Europe major equity factor returns, 2023 YTD
+JPY, trillions Japan US Europe
+¥16
+2013 Price-to-earnings 33% -8% 2%
+¥14 2023 Price-to-book 30% -4% -3%
+¥12 2012 Dividend yield 5% -17% 9%
+2010
+¥10 Return on equity 13% -14% 0%
+2019
+¥8 2017 Return on assets 4% -1% -6%
+¥6 Earnings per share growth 1% 15% 9%
+¥4 Revision Index -3% 20% 6%
+¥2 EPS revision (1m) 0% 3% 6%
+Market cap 12% 13% -2%
+¥0
+Beta 1% 7% -6%
+-¥2
+60d volatility -2% -7% -2%
+-¥4
+1m return -3% 7% 16%
+0 10 20 30 40 50
+Week 12m return 6% -2% -2%
+Source: JP Morgan Securities Japan, QUICK,JPMAM, November 30, 2023 Source: JP Morgan Securities Japan, QUICK, JPMAM, November 30, 2023
+Globalinvestor underweight to Japanese stocks Japan real broad effective exchange rate
+Percent, portfolio weight Index (2020 = 100)
+12% 200
+190
+11%
+180
+10% 170
+9% MSCI All World Global 160
+Equity Index, Japan weight 150
+8% 140
+130
+7%
+120
+6% 110
+100
+5%
+90
+4% Actual Japan weighting in 80
+global investor portfolios
+3% 70
+2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 1994 1997 2000 2003 2006 2009 2012 2015 2018 2021 2024
+Source:JP Morgan Securities Japan, JPMAM, December 2023 Source: Bank for International Settlements, JPMAM, November 2023
+5 “Japan Year Ahead Strategy”, JP Morgan Global Market Strategy, Rie Nishihara, December 2023
+14
+
+--- PAGE 17 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Fixed income: The Low Spark of High Yield Bonds6
+As illustrated earlier, many US large cap companies have been minimally impacted by rising rates. The primary
+reason: S&P 500 debt is now 76% fixed compared to less than 50% in 2007. That’s why interest coverage ratios
+still look good despite high levels of debt to cash flow and debt to assets. Investment grade bonds have also
+benefited from an improving upgrade-to-downgrade cycle.
+As for high yield, maturities are at an all-time low which increases exposure to higher rates, and spreads are not
+far from the tightest levels since 2009. That said, compared to prior cycles US high yield benefits from stronger
+interest coverage, a better BB/CCC mix, a lower share of private equity borrowers that are associated with lower
+recovery rates, a higher share of secured debt and less use of payment-in-kind bonds. High yield energy spreads
+are roughly the same as the broad HY market but reflect a more profitable universe whose weakest links have
+mostly defaulted already; the BB/CCC energy mix is now 63% / 5%. So, tighter HY spreads and lower HY risks.
+Current percentile rank vs history for leverage, debt service, profitability and liquidity
+Interest
+Net debt/ Total debt/ Net debt/ Total debt/ Interest EBITDA Cash/
+expense /
+EBITDA EBITDA assets assets coverage margins assets
+debt
+US investment grade 92 55 56 100 69 15 69 23 Green: best credit quality
+US high yield 38 62 77 85 92 19 73 31 Red: worst credit quality
+Source: GS Global Investment Research, November 13, 2023
+S&P 500 debtcomposition Credit rating upgrades are exceeding downgrades
+Percent Percent of par
+15%
+10%
+Long-term
+floating 5%
+8%
+0%
+Long-term
+fixed
+76% Short-term -5%
+fixed
+-10%
+10%
+% Rising Stars
+-15% % Par Upgraded within HG
+Short-term % Fallen Angels
+-20%
+floating % Par Downgraded within HG
+6% -25% Net Change
+'10 '11 '12 '13 '14 '15 '16 '17 '18 '19 '20 '21 '22 '23
+Source: BofAUS Equity & US Quant Strategy, JPMAM, March 2023 Source: JP Morgan High Grade Credit Strategy, JPMAM, November 14, 2023
+The recent era of financial repression was the longest on record, and the only period since 1830 when short
+term rates were negative on a prolonged basis other than during the Civil War, WWI and WWII. While real
+policy rates are still negative on a 5-year trailing basis, they are finally positive on a one-year basis. For fixed
+income investors, to quote Gerald Ford and David Letterman, “our long national nightmare is over”.
+US corporatehigh yield weighted average maturity Unprecedented peactime financial repression finally
+Years comes to an end, T-bill/Funds rate less inflation, 5-year average
+12 15%
+11
+10%
+10
+tn
+9 5% e rru
+8 C
+0%
+7 Civil
+6 -5% War
+WW II
+5 WW I
+-10%
+4 0 3 0 4 0 5 0 6 0 7 0 8 0 9 0 0 0 1 0 2 0 3 0 4 0 5 0 6 0 7 0 8 0 9 0 0 0 1 0 2
+1987 1991 1995 1999 2003 2007 2011 2015 2019 2023 8 1 8 1 8 1 8 1 8 1 8 1 8 1 9 1 9 1 9 1 9 1 9 1 9 1 9 1 9 1 9 1 9 1 0 2 0 2 0 2
+Source: Bloomberg, JPMAM, December 26, 2023 Source: FRB, Robert Shiller, GFD, BLS, JPMAM. 2023.
+6 This title refers to the low level of high yield bond spreads and is a reference to the song “The Low Spark of
+High Heeled Boys” by Traffic, 1971
+15
+
+--- PAGE 18 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Sources of credit stress in the US: regional malls and office within commercial real estate; subprime auto and
+credit cards in the household sector; and falling interest coverage/more restructurings in leveraged loans.
+What’s notable is how low delinquency rates still are in hotels, retail ex-malls, multifamily and industrial.
+CMBS delinquencies by property type Specialservicing rates for office and non-office CMBS loans
+Percent P e rcent
+25% 16%
+Regional malls
+Office
+Retail 14%
+20% Hotel Ex-Office
+12%
+Retail excl. regional malls
+15% Office 10%
+Multifamily
+8%
+Industrial
+10% 6%
+4%
+5%
+2%
+0% 0%
+2001 2004 2007 2010 2013 2016 2019 2022 2002 2005 2008 2011 2014 2017 2020 2023
+Source: Moody's, JPMAM, November 2023 Source: JP Morgan CMBS Research, November 2023
+Interest coverage for B-ratedissuers in the US loan market US leveraged loans amendmentsand extensions
+Percent Count
+100% 550
+90% 500
+80% Above 1.5x 450 No Y v T D '2 3
+400
+70%
+350
+60%
+300
+50%
+250
+40% Between 1.0x-1.5x
+200
+30% 150
+20% 100
+10% Below 1.0x 50
+0% 0
+Jan-22 Jun-22 Sep-22 Dec-22 Dec-23 '09 '10 '11 '12 '13 '14 '15 '16 '17 '18 '19 '20 '21 '22 '23
+Source: Moody's Investors Service, December2023 Source: LCD, Pitchbook, JPMAM, November 2023
+US 90+ days loan delinquency transition rates
+Percent
+6%
+Subprime auto loans
+Credit cards
+5% Auto loans
+First mortgage
+Second mortgage
+4%
+3%
+2%
+1%
+0%
+2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024
+Source: Experian, S&P Dow Jones Indices, JPMAM, July 2023
+16
+
+--- PAGE 19 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Fixed income monitor. The big question for 10-year Treasuries: next stop 3.5% or 5.5%? I believe they will
+fluctuate between 4% and 5% in 2024, but if they break out I suspect it would be to 5.5%. North of 4.5%, they
+offer decent value to long term investors.
+US Treasury yields US Municipal yields Sovereign bond 10 yr yields
+Yield, percent Yield, percent Local currency yield, percent
+7% 8% Long duration munis(20+) 6%
+US Treasury bill (3m) Europe China
+Municipals 1-17
+6% 7% 5%
+10-year US Treasury
+5% 6% 4%
+5%
+4% 3%
+4%
+3% 2%
+3%
+2% 1%
+2%
+1% 1% 0%
+0% 0% -1%
+2000 2007 2014 2021 2000 2005 2010 2015 2020 2000 2005 2010 2015 2020
+Source: Bloomberg, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 26, 2023
+30 year mortgage -10 year Treasury AAA asset backed securities spreads Sovereign bond 10 yr yields
+Basis points Basis points, spread versus Treasury Local currency yield, percent
+350 350 13%
+CRE South Africa
+300 Auto 12%
+300 Credit cards 11% Mexico
+250
+10%
+250
+200 9%
+200 150 8%
+7%
+100
+6%
+150
+50 5%
+100 0 4%
+2005 2010 2015 2020 '98 '02 '06 '10 '14 '18 '22 2006 2009 2012 2015 2018 2021 2024
+Source: Bloomberg, JPMAM, December 26, 2023 Source: Dataquery, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 26, 2023
+Floating rate instruments (USD) Preferred option adjusted spread US preferred yields
+Yield, percent P0P1 index, basis points vs UST Yield to worst, percent
+10% 800 11% US HY Preferred
+US Inv grade
+9% Corp FRNs 700 US investment 10% US HG Preferred
+8% grade preferred 9%
+600
+AA Bank CP stock
+7% 8%
+500
+6%
+7%
+5% 400
+6%
+4% 300
+5%
+3%
+200
+4%
+2%
+1% 100 3%
+0% 0 2%
+2000 2005 2010 2015 2020 2000 2005 2010 2015 2020 2010 2013 2016 2019 2022
+Source: Bloomberg, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 26, 2023
+CRE commercial real estate; CP commercial paper; FRN floating rate notes
+17
+
+--- PAGE 20 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+US investment grade corp spreads Emerging markets dollar bonds US high yield bond spreads
+JULI index spread vs UST, basis points Spread vs US Treasuries, basis points JPDFHYI index spread vs UST, basis points
+400 1,000 1,400
+350 900 1,200
+800
+300 1,000
+700
+250
+600 800
+200 500
+600
+400
+150
+300 400
+100
+200 200
+50 100 1995 2000 2005 2010 2015 2020
+2000 2005 2010 2015 2020 2002 2007 2012 2017 2022 Source: Bloomberg, J.P. Morgan HY Team,
+Source: Bloomberg, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 26, 2023 December 26, 2023
+US high yield energy bond spreads US leveraged loan prices Pan European high yield
+JPDFENER index spread vs UST, bps SPBDALB index Yield, percent
+2,500 105 20%
+2,250 100 18%
+2,000
+95 16%
+1,750
+90 14%
+1,500
+12%
+1,250 85
+10%
+1,000 80
+8%
+750
+75
+6%
+500
+250 70 4%
+0 65 2%
+1995 2000 2005 2010 2015 2020 60 0%
+Source: Bloomberg, J.P. Morgan HY Team, 2000 2005 2010 2015 2020 2000 2005 2010 2015 2020 2025
+December 26, 2023 Source: S&P/LSTA, Bloomberg, Dec 26, 2023 Source: Bloomberg, JPMAM, December 22, 2023
+European "CoCo" preferreds Sovereign bond 10 yr yields Single asset single borrower
+Yield to worst, percent Local currency yield, percent Basis points, spread versus Treasury
+10 800
+17% Office BBB
+9 Brazil 700 Office A
+15%
+8 CoCo (ICE/BofA) 600 Office AA
+7 13% Office AAA
+500
+6
+11%
+5 400
+4 9% 300
+3 7% 200
+2 CoCo (JPM)
+5% 100
+1
+0 3% 0
+2014 2016 2018 2020 2022 2024 2006 2009 2012 2015 2018 2021 2024 2015 2017 2019 2021 2023
+Source: Bloomberg, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 26, 2023 Source: Dataquery, JPMAM, December 26, 2023
+The European Contingent Capital chart shows two series on yield to worst, one from ICE/Bank of America and
+another from JP Morgan. The ICE/BofA series includes Emerging Market issuers as well as subordinated T2
+issues, while the JPM series is just Europe and only includes preferreds that qualify as AT1 capital.
+18
+
+--- PAGE 21 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+US Debt Sustainability: The Boiling Frog
+The deterioration of the US budget deficit from 2018 to 2023 was hardly unique; other developed country
+deficits rose sharply as well. The problem for the US is the starting point; every round of fiscal stimulus brings
+the US one step closer to debt unsustainability. I don’t think we’re there otherwise we wouldn’t recommend
+long duration US government bonds. We also wrote last year on how there has been no material change in the
+dollar’s role as reserve currency7. However, we’re accustomed to deteriorating US government finances with
+limited consequence for investors, and one day that may change (the boiling frog analogy).
+Estimatedchange in general government deficit as % of Entitlement spending, mandatory outlays and net interest
+GDP, Percent, FY2024 vs FY2018 payments vs revenues, % of GDP
+1% 26% Entitlements + Other Mandatory
+24% Outlays + Net Interest
+0%
+a y a e a S y K n a a n 22%
+- - 2 1 % %
+is
+s u R
+n
+a m r e G
+n
+ih C
+c
+n a r F
+id
+n I
+U la
+tI
+U a
+p a J
+d
+a n a C
+ila
+r ts u A
+ia
+p S 1 1 20 6 8 % % % Revenues
+14%
+-3%
+12%
+-4% 10%
+8%
+-5% 6%
+4%
+-6%
+1965 1975 1985 1995 2005 2015 2025 2035
+Source: IMF, JPMAM, November 2023 Source: Congressional Budget Office, JPMAM, June 2023
+By the early 2030’s, the CBO projects that all Federal government revenues will be consumed by entitlement
+payments and interest on the Federal debt. Sometime before this happens, I expect a combination of market
+pressure and rating agency downgrades (which have already begun) to force the US to make substantial changes
+to taxes and entitlements. Some likely policies appear in the text box. A wealth tax is also a possibility; there’s
+an active Supreme Court case that might impact its constitutional feasibility (Moore vs United States, which is
+related to the constitutionality of the Mandatory Repatriation Tax in the 2017 tax bill). What’s not in the text
+box? Further cuts to discretionary spending, since the US has run out of road on that one. In the CBO’s recent
+publication on deficit reduction options8, the benefit from reducing non-defense discretionary spending was
+the smallest on the CBO list since it has been cut so much already.
+Policies to raise revenue Policies to reduce entitlement spending
+• Eliminate or raise the cap on income used to compute • More gov’t price-setting on drugs/treatments within
+Social Security contributions, or raise payroll tax rate Medicare/Medicaid
+• Lifetime/means-tested cap on 401k contributions • Higher Medicare co-pay and deductibles for everyone
+• Further limits on itemized deductions (i.e., mortgages) • Means-test Medicare outlays based on lifetime income
+• Federal tax on municipal bonds for AGI > $250k • Caps on Medicaid spending
+• Unify capital gains and income tax rates at higher • Higher Medicare eligibility age and/or Social Security
+level for AGI > $250k retirement age
+• Value added taxes, carbon taxes • Chained CPI for Social Security benefit payments
+Source: CBO, JPMAM, 2023. AGI = Adjusted Gross Income.
+7 “Oh, The Places We Could Go”, Eye on the Market, April 26, 2023
+8 “Options for Reducing the Deficit, 2023 to 2032”, Congressional Budget Office, Volume 1
+19
+
+--- PAGE 22 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+The remainder of this section walks through exhibits we maintain on the Federal debt
+• The jump in the Federal debt as a % of GDP due to COVID stimulus
+• The rise in gross and net interest expense, with forecasts showing that net interest expense may reach new
+post-war highs in the next few years, and exceed defense spending for the first time since the 1990’s
+• The anticipated deterioration in the budget deficit out to 2030
+• The budget deficit vs the unemployment rate, highlighting how unusual it is to have a large fiscal deficit at
+a time of full employment
+• Two projections for the primary (ex-interest) deficit. While the CBO expects the primary deficit to remain
+flat, a series of downside events could result in a lower trajectory
+Debt held by the public Interestexpense
+Percent of GDP % of GDP
+130% May '23 5.5% Gross Interest
+120% CBO 5.0% Net Interest
+110% Jan '20 4.5% N M o a v y ' ' 2 2 3 3 J C P B M O
+100% CBO
+4.0%
+90%
+80% 3.5%
+70% 3.0%
+60% 2.5%
+50%
+2.0%
+40%
+1.5%
+30%
+20% 1.0%
+1970 1980 1990 2000 2010 2020 2030 1962 1972 1982 1992 2002 2012 2022 2032
+Source: CBO, JPMAM, May 2023 Source: BEA, CBO, US Treasury, JPMAM, November 2023
+Budget deficit USbudgetbalance vs unemployment rate
+Percent of GDP Surplus (deficit) % of GDP Percent
+4% 5% 0%
+Budget balance
+2%
+0% 3%
+0%
+-2% -5% 6%
+-4% -10% Unemployment 9%
+rate
+-6%
+-15% 12%
+-8%
+May '23 CBO
+-10% -20% 15%
+1970 1980 1990 2000 2010 2020 2030 1969 1979 1989 1999 2009 2019
+Source: CBO, JPMAM, May 2023 Source: Bloomberg, JPMAM, November 2023
+Primary budget balance (ex. interest)
+% of GDP
+6%
+4%
+2%
+0%
+May '23 CBO
+-2%
+-4% Downside primary deficit catalysts:
+-6% • Lower revenue than CBO projections even after Tax
+-8% Downside Cuts and Jobs Act cuts expire
+JPM Nov '23
+-10% • Discretionary spending above CBO projections that it
+-12% grows in line with inflation, possible due to defense
+-14% • More frequent federal disaster funding
+1985 1995 2005 2015 2025
+Source: BEA, CBO, US Treasury, JPMAM, November 2023
+20
+
+--- PAGE 23 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+• Treasury bond issuance has been below its normal relationship with the budget deficit, and the T-Bill share
+of issuance is rising; both suggest that the bond share of financing may increase in 2024
+• Treasury demand from the Fed is scheduled to keep shrinking, and demand from US banks has been weak
+since many are overloaded with underwater bonds purchased at lower rates
+Bond issuance vs budget deficit US T-Bill share of US debt
+Percent of GDP Percent
+20% 35%
+Budget deficit
+18%
+16% Net bond issuance 30%
+14%
+25%
+12%
+10% 20%
+8%
+6% 15%
+4%
+10%
+2%
+0%
+5%
+2005 2008 2011 2014 2017 2020 2023
+1995 1998 2001 2004 2007 2010 2013 2016 2019 2022
+Source: US Treasury, JPMAM, November 2023 Source: US Treasury, JPMAM, November 2023
+Federal Reserve balance sheet Bank purchases of treasuries
+Percent of GDP Percent of GDP
+40% 5%
+35% 4%
+30%
+3%
+25%
+2%
+20%
+1%
+15%
+0%
+10%
+5% -1%
+0% -2%
+1991 1996 2001 2006 2011 2016 2021 '70 '75 '80 '85 '90 '95 '00 '05 '10 '15 '20 '25
+Source: Bloomberg, JPMAM, November 2023 Source: Federal Reserve, JPMAM, Q3 2023
+21
+
+--- PAGE 24 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+It’s hard to believe that in 2005, the CBO projected a US budget surplus (!!) by 2012. We conclude with a chart
+on how the US is an outlier with respect to its credit rating relative to its debt ratio. As explained in our piece
+on the dollar (see below and following page), there are few signs that the dollar is losing its reserve currency
+status. But it’s impossible to know how long this good fortune will last.
+Government debt / GDP vs average credit rating
+Government debt / GDP
+Timeline of reserve currencies or
+150% Japan 260%
+Italy dominant trade currencies (years are
+approximate):
+125%
+US • Rome: 1st century BC – 4th century AD
+Canada France Belgium Portugal
+100% UK Spain • Byzantine empire: 5th century
+• Arabian Dinar: 7th to 10th centuries
+Germany
+75% Austria China • Florence: 13th to 15th centuries
+Finland
+• Portugal: 1450 to 1530
+Australia Netherlands
+50% New Zealand • Iberian Union: 1530 to 1640
+Switzerland Ireland
+• Netherlands: 1640 to 1720
+Norway
+25% Sweden • France: 1720 to 1815
+Denmark
+• UK: 1815 to 1920
+0%
+• US: 1920 – to be determined
+AAA AA+ AA AA- A+ A A- BBB+BBB BBB- BB+
+Averagecredit rating
+Source: Bloomberg, IMF, JPMAM, 2022
+A warning sign that you may read about: China’s falling allocation to US$ in its official FX reserves. But this
+conclusion may be wrong; China’s holdings of US$ are probably pretty stable. To explain why I will cite some
+excellent research from Brad Setser at the Council on Foreign Relations. Brad concludes that the dollar share in
+China’s reserves has been stable since 2015 after adjusting for its Treasuries held by offshore custodians like
+Belgium's Euroclear and its apparent reallocation into US Agencies. That’s the blue line in the chart below, which
+tracks closely with another series estimating China’s US$ assets using IMF data (green).
+Estimating China's dollar assets, US$, billions
+$2,750
+China's estimated US$ assets
+$2,500
+using IMF COFER shares
+$2,250
+$2,000
+$1,750
+China's estimated US$ assets
+$1,500 from TIC plus agencies and
+Belgian treasuries
+$1,250
+$1,000
+China's holdings of US-custodied treasuries
+$750
+$500
+Belgian treasuries
+$250
+$0
+2008 2010 2012 2014 2016 2018 2020 2022
+Source: "China Isn't Shifting Away From the Dollar or Dollar Bonds", Brad W.Setser
+(CFR), October 3, 2023
+22
+
+--- PAGE 25 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+From our April 2023 piece on the US dollar:
+Foreign exchange turnover by currency Dollar still dominates FX transactions
+Percent %of world transactions by currency pair
+200% RMB All others US$ transactions
+Euro / All other Non-US$ transactions
+175% OTH OTH OTH OTH OTH OTH OTH OTH 4%
+8%
+1 15 2 0 5 % % G JP B Y P G JP B Y P G JP B Y P G JP B Y P G JP B Y P G JP B Y P G JP B Y P G JP B Y P US p $ o / u B n r d it s ish 10% 11%
+100% EUR EUR EUR EUR EUR EUR EUR EUR 43% US ot $ h / e A r ll
+75% US$ / Yen 14%
+50%
+US$ US$ US$ US$ US$ US$ US$ US$ 89%
+25%
+23%
+0%
+US$ / Euro
+2001 2004 2007 2010 2013 2016 2019 2022
+Source: BIS. April2022. Source: BIS.April 2022.
+The international role of the US dollar Share of global foreign exchange reserves by currency
+Percent Percent
+RMB AUD CAD CHF JPY GBP
+100%
+Cross-border loans
+90% Other EUR
+Intl. debt securities
+80%
+FX transaction volume 70%
+Official FX reserves 60%
+50%
+Trade invoicing
+40%
+SWIFT payments
+30% US$
+World trade US$ share of global markets 20%
+Of which: offshore 10%
+Global GDP
+US share
+0%
+0% 20% 40% 60% 80% 100% US$1973 1978 1983 1988 1993 1998 2003 2008 2013 2018 2023
+Source: BISQuarterly Review. December 5, 2022. Source: International Monetary Fund, JPMAM, Q3 2023
+23
+
+--- PAGE 26 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+US Consumer: Still going strong but gradually running out of ammunition
+The holiday spending season started off with a bang last November with online sales up 7.5% on Black Friday
+and up 9.5% on Cyber Monday. US consumer spending consistently surprised to the upside in 2023, a reflection
+of tight labor markets, a wealth effect from rising equity and home prices, and excess savings which are still
+being drawn down. The fourth chart shows estimates from different groups within JP Morgan regarding
+exhaustion of excess savings; this compares to a San Francisco Fed estimate of “sometime in the first half of
+2024”9. When excess savings run out, consumer spending will likely slow.
+Real personal consumer spending Wealth relative to pre-pandemic level
+Index, (100 = Q4 2019) Index (100 = Q4 2019)
+110 135
+US
+130 US
+105 JPN
+EMU 125
+100 UK
+120 EMU
+95 UK 115
+JPN
+110
+90
+105
+85
+100
+80 95
+2019 2020 2021 2022 2023 2024 2019 2020 2021 2022 2023 2024
+Source: National sources, JP Morgan Economics, JPMAM, Q3 2023 Source: National sources, JP Morgan Economics, JPMAM, Q3 2023
+Saving rate deviation from pre-pandemic levels Estimates of US household excess savings
+%-pt deviation from 2019 average US$, billions
+10% $2,500
+JPM Private Bank
+8%
+$2,000 JPM Economics
+6% JPM Investment Bank
+JPN
+$1,500
+4%
+2% $1,000
+EMU
+0%
+$500
+UK
+-2%
+$0
+-4% US
+-6% -$500
+2020 2021 2022 2023 2020 2021 2022 2023 2024
+Source: BEA, COJ, Eurostat, ONS, JP Morgan Economics, JPMAM, Q3 2023 Source: J.P. Morgan, September 2023
+9 “Data Revisions and Pandemic-Era Excess Savings”, Federal Reserve Bank of San Francisco, November 8, 2023
+24
+
+--- PAGE 27 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+So far, delinquencies are rising for subprime auto and credit cards although only the former is breaching new
+all-time highs. Mortgage and prime auto delinquency rates are still quite low. Household interest costs are
+rising but from very low levels, in part since US consumers locked in very low mortgage rates below 4%.
+US 90+ days loan delinquency transition rates US 90+ days delinquency transition rates
+Percent % of current balances, annualized
+6% 12%
+Subprime auto loans
+Credit cards
+5% Auto loans 10%
+First mortgage
+4% Second mortgage 8%
+6% Credit cards
+3%
+4%
+2%
+Autoloans
+2%
+1%
+Mortgages
+0%
+0% 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024
+2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 Source: Federal Reserve Board of New York. Q3 2023. Delinquency rates as
+Source: Experian, S&P Dow Jones Indices, JPMAM, July 2023 % of balance are a 4 quarter sum.
+Household interest costs US householddebt
+Percent of disposable personal income Percent Percent
+7% 14% 12%
+Debt service to
+disposable income 11%
+6% Mortgage interest cost 13%
+10%
+5% 12% 9%
+8%
+4% 11%
+7%
+Consumer interest cost
+3% 10% 6%
+Average rate on 5%
+2% 9% outstanding mortgages
+4%
+1% 8% 3%
+1977 1982 1987 1992 1997 2002 2007 2012 2017 2022 1980 1985 1990 1995 2000 2005 2010 2015 2020
+Source: BEA, JPMAM, Q32023 Source: Bloomberg, BEA, JPMAM, Q3 2023
+25
+
+--- PAGE 28 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+There are some cracks in the consumer such as weak readings on surveys of buying conditions for durables,
+vehicles and homes, and a weak survey of household financial conditions. Despite low unemployment rates and
+rising wages, households are grumpy and the third and fourth charts may explain why: while personal income
+has risen above its 2015-2019 trend, in real terms households have been getting crushed by inflation that is now
+just beginning to subside. A collapse in home affordability could be playing a role as well in sentiment.
+US buyingconditions Current financial situations vs one year ago
+Net percentage of consumers who think it's a good time to buy UMichIndex Score (% Favorable -% Unfavorable + 100)
+80% 150
+140
+60%
+130
+40%
+120
+20%
+110
+0% 100
+-20% 90
+80
+-40%
+Household durables 70
+-60% Vehicles
+60
+Houses
+-80% 50
+2000 2003 2006 2009 2012 2015 2018 2021 2024 1978 1983 1988 1993 1998 2003 2008 2013 2018 2023
+Source: University of Michigan, JPMAM, November 2023 Source: Bloomberg, JPMAM, November 2023
+US nominal disposable personal income US real disposable personal income
+US$, trillions US$, trillions
+$23 $19
+$18 Trend
+$21 2015 -2019
+$17
+$19
+Trend $16
+2015 -2019
+$17
+$15
+$15
+$14
+$13 $13
+2015 2017 2019 2021 2023 2015 2017 2019 2021 2023
+Source: Bloomberg, JPMAM, November 2023 Source: Bloomberg, JPMAM, November 2023
+26
+
+--- PAGE 29 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+China equities: all value traps come to an end…eventually
+China’s roaring equity outperformance in the wake of its 2001 acceptance into the World Trade Organization is
+a distant memory. China has consistently traded at lower P/E multiples than the US and most of the time at
+even lower multiples than Europe. The net result: subpar performance for investors in China equities. Since
+Jan 1, 2019: US large cap equities +107%, Europe equities + 58%, and China equities -17%. The December 2022
+agreement between China and the US allowing the SEC access to Chinese financial statements did not improve
+investor sentiment as some predicted, and neither did the post-COVID reopening. There may be more China
+stimulus coming, but so far it looks modest. If you’re waiting for a policy shift in support of national champions,
+you will be disappointed by China’s latest effort to curb gaming and spending incentives which drove Tencent’s
+stock down by ~10% on December 22.
+China has become the ultimate value trap in recent years. In my experience, most value traps eventually come
+to an end. I thought we were close last year, but that was wrong. China’s massive 40% savings rates represent
+potential ammunition for an equity market rebound, but there’s no catalyst yet. If anything, China has been
+backsliding: the market cap share of private sector companies dropped from its peak at 55% in June 2021 to
+39% in June 202310. If you had a multiyear time horizon and believed that China will eventually take demand
+side or supply side steps to end its current malaise, a long position could be rewarding. After all, how many of
+us thought 5 years ago that we’d be talking about an equity market renaissance in Japan today?
+US, Chinaand Europe rolling 3 year equity performance US, China and Europe forward P/E ratio
+Percent Ratio
+200% 35x
+US US
+Europe 30x Europe
+MSCI China
+150% MSCI China
+25x
+100%
+20x
+15x
+50%
+10x
+0%
+5x
+-50% 0x
+2004 2008 2012 2016 2020 2024 2004 2008 2012 2016 2020 2024
+Source: Bloomberg, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 26, 2023
+China equity returns since January 2019
+Total return, US$
+50% h ce China’s equity alphabet soup
+T
+1 2
+3
+4
+0 0 0
+0
+0
+% % %
+%
+%
+e tiso
+p m o C zn e h S
+a
+n ih C
+e ro h sn O IC S M
+e tiso
+p m o C g n a h S
+se
+ra h S
+A a n ih C IC S M 0 0 3 IS C
+h ce
+T g n e S g n a H
+M
+A H s s
+S
+S h h
+C
+h a a
+I
+e r r
+C
+n e e
+h
+z s s h
+i
+: :
+n
+e i l
+a
+n a n
+:
+r c g e
+A
+o e x r
+/
+p c /
+H
+m h o
+/
+a r
+B
+i a d n
+s
+t g c e
+h
+e a d
+a
+s p
+r
+, i s
+e
+n a
+s
+i c n C
+,
+c c
+R
+h e o i
+e
+s n r s
+d
+a p i b ,
+C
+o l t
+h
+r e r a
+i
+a
+p
+t t d h e
+s
+i r
+,
+d n o
+P
+g i u n
+C
+o g C
+h
+h n h
+i p
+S S in
+s
+t h o a a
+a
+c , n
+n
+k l g
+d
+i s C h t
+A
+o a in
+D
+n i g a
+R
+n n e i
+s
+n d c t H K
+-
+- - -
+4
+3 2 1
+0
+0 0 0
+%
+% % % se ra h S H IC S M se c ivre S T I e ro h sn
+O
+IS
+a n ih C E S T F a n ih C IC S M h ce T a n ih C E S T
+F
+sp ih C P IC S M g n e S g n a H K H se ra h S B a n ih C
+IC S
+M
+R D A a n ih C se s irp re tn E a n ih
+C S
+H
+sp ih C d e R IC S M B R
+P
+e
+C
+s S o d h
+h
+h u a C
+i
+e t
+p
+r s h n e
+s
+i i z d
+:
+s p h : e
+s
+s e
+a
+i : n C
+m
+n l c h a e o
+e
+r in g x r
+a
+p a c e
+s
+h , o / m l
+R
+a r i a s n
+e
+i t t d g
+d
+e e e d d c
+C
+s a
+h
+o i i p n n
+i
+n
+p
+C C f
+s
+H o h h
+,
+K r i
+n
+i n n e
+o
+e e i a g
+t
+x s t n c
+s
+e r h
+t
+a c
+a
+c a d u o
+t
+n
+e
+i r m n g r
+-
+e g e
+o
+p n ;
+w
+a o c g n n
+n
+y e i
+e
+e n t
+d
+h s e e r in a S c l h l o y a r S n p O g o h E ra a s t i e a d n d
+-50% C ADRs: trading on NYSE/NASDAQ
+Source: Bloomberg. Dec 26, 2023. Blue: MSCI subcomponent. Gold: Index.
+10 Petersen Institute for International Economics, July 2023
+27
+
+--- PAGE 30 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+China might need to do something unorthodox to jump-start its asset prices and economy, particularly with
+another round of anti-China measures pending in the US, and due to bad timing for international investors
+The “Select Committee on Strategic Competition Between the United States and the Chinese Communist Party”
+released a 53-page report with over 100 bipartisan recommendations. The report is a sign of growing support
+for higher tariffs on China, tighter restrictions on Chinese imports, more restrictions on high-tech exports to
+China and prohibitions on trade with a broader group of Chinese companies. This Committee cannot pass
+legislation and it’s unlikely that anything new passes before the election. But it’s a sign of what may happen
+after that; the last bastion of bipartisanship in Washington are policies targeting the Chinese Communist Party.
+Here’s a summary of some of the Committee’s notable recommendations11:
+• Move China to a new tariff category that results in higher tariffs
+• Impose duties on legacy semiconductors from China
+• Large public companies must annually disclose key risks related to China
+• Impose sanctions on China if it invades Taiwan
+• Ban import and exports of products and services critical to national security if entities are owned, controlled
+or developed by a foreign adversary (quantum computing, biotechnology, AI, autonomous systems,
+advanced energy search, space-based tech and surveillance technology)
+• Force divestment or ban foreign adversary-controlled social media platforms such as TikTok
+• Place Huawei, ZTE and other telecom vendors on the blocked entity list
+• Prohibit investment in Chinese companies on government sanctions and restrict investment in sectors in
+which China intends to dominate
+• Tax capital gains and dividends from investments in Chinese companies as ordinary income (!!)
+• Grant the Committee on Foreign Investment in the US jurisdiction over broader types of investment
+Bad timing: MSCI ratcheted up China’s weight in its Emerging Markets Equity Index to an all-time peak level
+of 40% right before Xi’s “progressive authoritarianism” campaign was launched. In other words, index-driven
+investors might have loaded up on Chinese stocks right before they crashed. The decline in China’s economic
+disclosures shown in the chart on the right is not a confidence booster either.
+China’s index weight, performance and policy changes China economic disclosures
+Chinaoutperformance, 28 day smooth China index wt Annual number of economic indicators made available by China's
+350% 45% National Bureau of Statistics
+Rolling 3 yr performance of
+90,000
+300% China vs World equities (lhs) 40%
+China weight in MSCI EM (rhs) 80,000
+250% 35%
+70,000
+200% 30%
+60,000
+150% 25%
+50,000
+100% 20%
+Xi's progressive 40,000
+50% authoritarianism begins 15%
+30,000
+0% 10%
+20,000
+-50% 5%
+10,000
+-100% 0% 0
+2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 1960 1970 1980 1990 2000 2010 2020
+Source: Bloomberg, JPMAM, December 22, 2023 Source: FT, October 21, 2022 based on CEIC/CNBS data
+11 “Congress Preparing to Get Tougher on China”, Piper Sandler, December 21, 2023
+28
+
+--- PAGE 31 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Economic data. Inbound foreign direct investment fell into negative territory for the first time. While indicators
+of China’s real activity and housing are improving from low levels, the Conference Board still expects GDP growth
+to decline from 5% in 2023 to 4% in 2024. China’s challenge stems from misallocated investment in real estate
+rather than from excess industrial capacity. Its home ownership rate peaked at ~90% and 20% of Chinese
+households own more than one home. The latest data also show broad-based producer and consumer price
+disinflation and continued weakness in the banking system, where net interest margins are just 1.75% compared
+to 3.25% in the US. For 2024, JP Morgan China economists project a slightly higher budget deficit, small cuts in
+rates and reserve requirements and programs to mitigate local government stress12.
+FDI into China fell into negative territoryfor the first time China real activity remains weak
+US$, billions Index
+$120 30
+Weighted average of ten monthly indicators to
+Inward FDI
+$100 25 track strength of economic activity: real estate
+Outward FDI investment,medicine consumption, textile exports,
+$80 Net FDI 20 vehicle exports, thermal electricity production,
+$60 clean energy electricity production, ferrous metal
+15 ores production, communication equipment &
+$40 computer production, SOE output and private
+$20 10 enterprise output
+$0 5
+-$20
+0
+-$40
+-5
+-$60
+-$80 -10
+1998 2002 2006 2010 2014 2018 2022 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Source: Bloomberg, JPMAM, Q3 2023 Source: Bloomberg, JPMAM, November 2023
+China housing drag:weak state-owned landtransfer fees China consumer confidence
+and residential floor space starts, Percent,y/y Index (100= 1997)
+80% 130
+125
+60% State-owned land use
+right transfer revenue 120
+40%
+115
+20% 110
+0% 105
+100
+-20%
+95
+-40% Residential floor space
+90
+of newly started houses
+-60% 85
+2017 2019 2020 2022 2023 1996 2000 2004 2008 2012 2016 2020
+Source: Bloomberg, JPMAM, November 2023 Source: Bloomberg, JPMAM, October 2023
+China / US housing comparison
+China China
+US US
+(peak) (peak)
+Value of housing stock relative to Home price to income
+6.0x 2.2x ~40x ~10x
+personal consumption expenditures ratios, mid-2023*
+Direct real estate related activities as a
+18% 6% Home ownership rate 90% 66%
+share of GDP
+Source: Empirical Research, CEIC, NIH, Numbeo, Fed, Rogoff & Yang, 2022. * China: Shanghai, Shenzhen, Beijing, Guangzhou. US: NY, SF
+China’s 430 square feet of housing stock per capita is double the levels in Europe or Japan (D. Gros/Project Syndicate)
+12 “Greater China 2024 outlook: The burdens of normality”, JP Morgan Asia Pacific Economic Research
+29
+
+--- PAGE 32 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+The Fats Dominoes: the impact of weight loss drugs on equity markets
+GLP-1 drugs13 show substantial efficacy in treating diabetes and obesity, and preliminary data suggest that they
+might also be useful in treating co-morbidities associated with obesity and even addictive behaviors/diseases
+like alcoholism. Equity markets have already priced in major changes in human behaviors, with stocks prices
+of insulin manufacturers and makers of alcoholic/sugary beverages and snack foods being negatively affected.
+More than 100 weight loss agents are being developed to treat the diabetes and obesity marketplace. Pharma
+researchers expect GLP drugs to reach $100 billion+ in global sales by 2030, even if penetration in the obesity
+market remains in single digits of the eligible population. As a sign of how enthusiastic big pharma companies
+are about this space, Roche just paid $2.7 billion to buy Carmot and its oral and injectable Phase 1 and Phase 2
+GLP drugs in December, pre-empting Carmot’s planned IPO. Our Life Sciences Private Capital team believes that
+the size of this opportunity may compel Pfizer, Bristol, Merck, AstraZeneca, GlaxoSmithKline, Sanofi, Takeda and
+a slew of European and Japanese pharmas to buy their way in via venture-backed companies.
+However, questions remain regarding the durability of weight loss results when treatments end, who will pay
+for GLPs given their current high cost, and whether any reduction in comorbidities is significant. In this section,
+we address the 7 most important GLP issues related for investors.
+Who pays? ...................................................................................................................................................................... 31
+How well do GLPs work for weight loss and what are their side effects? ................................................................... 32
+Do GLPs reduce co-morbidity conditions? .................................................................................................................... 33
+How do GLPs work, and what are the most important trials that could increase the size of the market? ............... 34
+Can GLPs be used to treat addiction? ............................................................................................................................ 35
+What share of the GLP market will be injectable vs oral? ............................................................................................ 36
+How do GLPs impact consumer behavior and equity markets? ................................................................................... 37
+USaverage monthly total GLP-1 prescriptions
+Millions T2D:
+1
+1
+0
+2
+8
+la
+v o rp p A a z o tc iV
+la
+v o rp p A a d n e x a S
+la
+v o rp p A c ip m e z O
+la
+v o rp p A y v o g e W
+la
+v o rp p A o ra jn u o M
+y tis
+e b O d n u o b p e Z la v o rp p A O J
+T
+C
+J
+P b
+2
+P
+o M
+D
+e
+M
+w s
+:
+e it n y :
+4
+6 ,y
+tic
+ilu
+rT
+O
+Co
+b
+w
+es
+e
+i
+n
+ty:
+2
+0
+2008 2010 2012 2014 2016 2018 2020 2022 2024 2026 2028 2030
+Source: TD Cowen, JP Morgan Equity Research, December 2023. Projectionsstart in 2023.
+13 GLPs refer to glucagon-like peptides. For purposes of this section, GLP also refers to similar enzymes used to
+treat diabetes, weight loss and related conditions. T2D refers to Type II Diabetes. All Fats Domino images were
+created by prompts entered into Dall-E.
+30
+
+--- PAGE 33 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Who pays?
+GLP adoption is likely to depend on expansion of coverage. There are three insurance categories to consider:
+• Private insurance benefit consultants estimate that 30%-40% of employers have plans in place to cover
+Wegovy for obesity treatment and expect this figure to rise to 60%-80% in the next few years14. However,
+authorization hurdles may be added as coverage expands; in other words, employees would have to try
+cheaper treatments first. In addition, their coverage could be dependent on how much weight they lose,
+and be time-limited in terms of coverage (despite the fact that GLP benefits fade when treatments end).
+Roughly 60% of US employers are self-insured, so GLP manufacturers would probably opt to deal with the
+40% of employers that pay health insurance companies. As for the health insurers, they are unlikely to
+cover GLP drugs until they are paid to do so via higher premiums
+• Medicare is prohibited by law from covering drugs to treat obesity. While the Treat and Reduce Obesity
+Act would require Part D to cover weight loss, there does not appear to be much momentum to pass it (it
+has been introduced in the last 6 Congresses). The CBO is waiting for more research before concluding that
+GLP coverage would result in net savings for the Federal government; to date, the CBO sees GLP coverage
+as a net expense15. It’s not clear that modest reductions in cardiovascular conditions discussed on page 33
+will be enough to change that view. Another obstacle: at current prices for semaglutide (Wegovy), if all
+Medicare patients diagnosed as obese were treated with it, Medicare costs would increase by ~$135 bn
+annually which is 94% of current Medicare prescription drug Part D spending16
+• Medicaid plans can opt in to weight loss drug coverage on a state-by-state basis, but prices would probably
+have to come down a lot before states opt to cover it. Hep-C drug prices fell by ~70% before some states
+offered it through Medicaid
+How much do GLPs like Mounjaro and Zepbound cost? Pharmaceutical companies show a list price which is
+around $1,000 per month. However, they negotiate discounts with insurance company payers resulting in net
+costs of closer to $500 per month. As shown below (right), JP Morgan Equity Research expects the price of
+these drugs to fall by one third by the year 2030. While the price of innovative drugs with little competition
+often stay flat or rise, in this case some analysts believe lower prices could dramatically increase the market.
+Potential user base of GLPs by coverage type Expected GLP pricing by year
+Number of people, millions Annual cost
+150 $6,500
+125 Medicare $6,000
+Obesity (Zepbound)
+100 $5,500
+Medicaid
+75 $5,000
+Diabetes (Mounjaro)
+50 $4,500
+Private insurance
+25 $4,000
+0 No insurance $3,500
+Type II diabetes Obesity and overweight 2024 2025 2026 2027 2028 2029 2030
+Source: TD Cowen, November 15, 2023 Source: JPMorgan Equity Research, September 2023
+14 “Examining the Broader Impact of GLP-1s”, JP Morgan Global Equity Research, October 24, 2023
+15 “A call for new research in the area of obesity”, CBO, October 5, 2023
+16 "Medicare Part D Coverage of Antiobesity Medications", New England Journal of Medicine, March 16, 2023
+31
+
+--- PAGE 34 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+How well do GLPs work for weight loss and what are their side effects?
+As per the first chart, weight loss observed in clinical trials varies by drug and dosage regimen. Other research
+points to increased weight loss as a function of treatment duration; at 20 weeks, average weight loss was ~10%
+and at 40 weeks, it was ~15%; after that, weight loss tends to flatline. These weight loss results compare to
+25%-30% for bariatric surgery.
+However, weight was mostly regained when Wegovy and Zepbound treatments ended. Similarly, other cardio-
+metabolic improvements regressed to baseline levels after treatments ended such as blood pressure, LDL levels
+and hemoglobin readings17. Each participant was provided both Wegovy and lifestyle intervention guidance
+(counseling on diet and exercise every four weeks); at week 68, all forms of treatment were halted.
+Weight loss observed in clinical trials Change in body weight duringand after treatment
+Percent of body weight Percent
+-25% Approved 2% Treatment
+Phase 3 0% Placebo discontinued
+-20% Phase 1/2 -2%
+-4%
+- - 1 1 - 5 0 5 % % % )Y L L ( e d itu rta te R )Y L L ( d n u o b p e Z )O V N ( y v o g e W )O V N ( a m e S irg a C )O V N ( e d itu lg a m e S la rO )L A E Z /IB ( e d itu d o v ru S )Y L L ( n o rp ilg ro frO la rO )N G M A ( 3 3 1 G M A
+)tn
+e v o n n I/Y L L ( e d itu d z a M )K R M ( e d itu d g e p o n fE )T L A ( e d itu d iv m e P )o iB d n iw ic S ( 3 0 0 W X )to m ra C ( 8 T 8 C 3 - )O V N ( e d itu lg a m e S )X K T V ( 5 3 7 2 K V )Y L L ( b a m u rg a m iB )im n a H ( e d ita n e lg e p fE )R R C B P S G G ( 0 la 9 r 2 O 1 - )N Z A ( e d itu d a to C )E F P ( n o rp ilg u n a D la rO )L A E Z ( e d itu lg ip a D )L A E Z ( 6 9 3 8 P Z )O V V N N I ( l a 2 r 0 O 2 - )Y L L ( 1 2 0 7 3 5 3 Y L - - - - - 1 1 1 1 1 - - 8 6 4 2 0 8 6 % % % % % % % 0 10 20 W 3 e 0 govy 40 50 60 70 80 90 100 110 120
+0% Weeks since treatment began
+Source: TD Cowen, November 15, 2023 Source: DOM Journal of Pharmacology and Therapeutics, April 2022
+While GLP treatments are generally well tolerated, they do entail side effects which are important to monitor
+• The two most frequent side effects: nausea, ranging from 20%-45% of participants in Phase II/III trials, and
+vomiting which occurred in 10%-30% of participants18. Other side effects in trials included headaches,
+abdominal pain, constipation, diarrhea and dyspepsia
+• GLPs are also associated with rare adverse events including pancreatitis (inflammation of the pancreas)19
+• Name-brand semaglutide drugs are sold in pre-filled pens with safeguards to prevent overdosing. However,
+drugstores also sell their own non-FDA tested GLP compounds in concentrated form which require patients
+to fill their own syringes. Calls to poison control centers have increased by people using these compounds
+after overdosing on them (nausea, vomiting, headache, etc)20
+• Some people taking GLPs lose muscle mass and bone density. More research may be needed to develop
+weaning and discontinuation strategies to avoid these effects21
+• GLPs mitigate dopamine rewards and might lead to a condition called “anhedonia” which is linked to
+depression22. Such adverse effects were reported in certain GLP variations, but there was no difference in
+psychiatric effects between treatment and placebo groups in Phase III semaglutide obesity trials23
+17 "Weight regain and cardiometabolic effects after withdrawal of semaglutide", Diabetes, Obesity and Metabolism
+Journal of Pharmacology and Therapeutics, Wilding et al, April 2022
+18 “The next wave of antiobesity assets”, Goldman Sachs Equity Research, September 26, 2023
+19 "Risk of Gastrointestinal Adverse Events Associated With Glucagon-Like Peptide-1 Receptor Agonists for Weight
+Loss", University of British Columbia Department of Medicine, October 2023
+20 CNN, December 14, 2023
+21 "The Big Trial of a GLP-1 drug to reduce Major Cardiovascular Events", Eric Topol (Scripps Research), Nov 2023
+22 "Hot weight loss drugs tested as addiction treatments", Science, Leslie, August 2023
+23 "Case Report: Semaglutide-associated depression", Frontiers in Psychiatry (NIH), Li et al, August 2023
+32
+
+--- PAGE 35 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Do GLPs reduce co-morbidity conditions?
+If private and government insurance coverage does expand, it might be due to findings that GLPs also reduce
+the severity of diseases and conditions associated with obesity. Around 80% of obese individuals exhibit at least
+one of the co-morbidities below. The chart illustrates how the incidence of these co-morbidities rises with
+obesity, with the latter measured via BMI (Body Mass Index).
+Estimatedrates of obesity-associated co-morbidities by BMI
+Co-morbidity rate
+100%
+BMI 25-29.9 BMI 30-34.9 BMI 35-39.9 BMI 40+
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Non-alcoholic Sleep apnea Dyslipidemia Hypertension Diabetes Osteoarthritis Prediabetes Cardiovascular
+fatty liver disease
+disease
+Source: TD Cowen, November 15, 2023
+Novo’s SELECT trial assessed cardiovascular outcomes for patients taking Wegovy. The trial did show a
+reduction in major adverse cardiac events (MACE) of ~20% relative to the placebo group. However, the absolute
+reduction in MACE incidence was low, just 1.5% (placebo group 8.0%, Wegovy 6.5%) and it took three years of
+GLP treatments to derive that absolute benefit24. In other words, there are important policy issues to sort
+through regarding the MACE reduction benefit as a basis for coverage of an expensive drug. That said, the trial
+did demonstrate a ~70% reduction in progression to diabetes, which is a positive finding. Novo is working with
+the FDA to determine a potential basis for approving its GLP for “diabetes prevention”; the hurdle is that the
+FDA requires durable gains even after patients stop taking the drug.
+Major adverse cardiovascular event: semaglutide vs placebo Primary cardiovascular composite end point
+Hazard ratio (1 = placebo), error bars show 95% confidence interval Percent, cumulative incidence
+Primary CV composite endpoint 10%
+Cardiovascular death 9% 1.5%
+Placebo
+All-cause death 8%
+Expanded primary CV comp. endpoint 7%
+Composite heart failure outcome 6%
+All-cause death, heart attack or stroke Wegovy
+5%
+Nonfatal heart attack (Semaglutide)
+4%
+Nonfatal stroke
+3%
+Coronary revascularization
+2%
+Hospitalization for unstable angina
+1%
+Heart failure hospitalization or urgent visit
+0%
+Nephropathy
+0 6 12 18 24 30 36 42 48
+0 0.2 0.4 0.6 0.8 1 1.2 Months since randomization
+Source: Eric Topol, Scripps Research, November 2023 Source: EricTopol, Scripps Research, November 2023
+Understanding the first chart
+The red bars show the occurrence of each adverse outcome relative to the placebo which has a score of 1. The lines show
+95% confidence intervals around the mean result. For example, the risk of a non-fatal heart attack declined by 28%
+compared to the placebo group, with 95% confidence that this value lies between 15% and 39%.
+24 “The Big Trial of a GLP-1 drug to reduce major cardiovascular events”, Eric Topol, Scripps Research, Nov 2023
+33
+
+--- PAGE 36 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+How do GLPs work, and what are the most important trials that could increase the size of the market?
+As mentioned earlier, there’s a long road ahead if Medicare adoption is contingent on legislation to explicitly
+cover obesity drugs. However, analysts with much higher GLP adoption forecasts than those shown earlier
+believe that if ongoing trials are successful, GLP drugs could be branded as cardiovascular drugs and/or other
+treatments which Medicare already covers. Goldman projects twice as many monthly GLP users than the Cowen
+and JP Morgan estimates on page 30 for this reason25.
+There are currently 20+ ongoing studies which could expand the list of conditions that GLP drugs are explicitly
+designated to treat, in addition to T2D and obesity:
+ONGOING TRIALS Orfoglipron Survodutide CagriSema tirzepatide Retatrutide semaglutide
+Cardiovascular
+Obstructive sleep apnea
+Chronic kidney disease
+Advanced liver disease
+Knee osteoarthritis
+Alzheimer's disease oral
+Peripheral arterial disease
+Heart failure (HFpEF)
+Manufacturers Lilly Boehringer Novo Lilly Lilly Novo
+Source: Goldman Sachs, JPMAM. We capitalize brand names and show molecular compounds as lower case. Boehringer
+refers to a partnership between Boehringer Ingelheim and Zealand Pharma
+GLPs appear to work through brain pathways. One notable recent GLP findings comes from Daniel Drucker at
+the University of Toronto. Drucker found that GLPs work via brain pathways to reduce inflammation26. If so,
+this could be a promising indicator for potential use of GLPs to treat conditions that involve inflammation such
+as Alzheimer’s disease and Parkinson’s disease. Drucker notes that the reduced MACE benefits shown on the
+prior page started to occur even before patients started losing weight, indicating that weight loss is not the only
+contributor to reduced risk.
+As a general outline, here are the ways that GLPs positively affect the body’s organs27:
+• Stomach: decrease gastric emptying and gastrointestinal motility (food movement from mouth to intestines)
+• Liver: decrease gluconeogenesis and steatosis (reduced liver fat, reduced non-alcoholic fatty liver disease)
+• Brain: decrease food intake stimuli and reward behavior
+• Muscle: increase insulin sensitivity and glucose uptake
+• Pancreas: increase insulin secretion and synthesis, decrease glucagon secretion, increase beta cell survival
+25 “The Option Value of Weight Management”, Goldman Sachs Equity Research, December 18, 2023
+26 “Ozempic and Wegovy may reduce inflammation by targeting the brain”, New Scientist, December 18, 2023
+27 “Anti-obesity drug discovery: advances and challenges”, Nature Reviews, 2022, Figure 4
+34
+
+--- PAGE 37 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Can GLPs be used to treat addiction?
+GLPs affect what is referred to as “reward circuitry” in the brain by mitigating dopamine activity. As a result,
+researchers are evaluating whether GLPs could be used to treat compulsive behaviors such as alcoholism and
+smoking. The results are very preliminary but here’s what we know so far.
+Addiction researchers found that GLPs alter reward pathways in lab animals. Rodents and primates taking GLPs
+get less of a dopamine hit from alcohol, cocaine, nicotine and oxycodone:
+• In addition to reducing caloric consumption, semaglutide reduced binge-like alcohol drinking in mice28
+• GLP treatments significantly reduced alcohol consumption in monkeys29, reduced cocaine seeking in rats30,
+and reduced oxycodone seeking in rats31. These must be wild experiments to actually carry out
+Studies are being conducted to test anti-addiction effects of GLPs on humans, but more work still needs to be
+done before drawing any conclusions:
+• In a study of 127 patients with alcohol use disorder (AUD), heavy drinking days and total alcohol intake were
+significantly reduced in the subgroup of patients taking GLPs that were also obese. Additionally, when
+shown pictures of alcohol, those who received treatment had significantly less activation of brain reward
+centers. However, GLP treatment did not reduce drinking for other less overweight cohorts32
+• University of Texas researchers found that 46% of patients who wore nicotine patches and received
+injections of GLPs stopped smoking, while 27% of people who relied only on the patches were able to stop33
+Consumption of sweet alcohol by mice taking GLPs
+Gramsof alcohol per kg of body weight
+7
+6
+5
+4
+3
+2
+1
+0
+Placebo 0.001 0.003 0.01 0.03 0.1
+semaglutide dose, mg per kg of bodyweight
+Source: Journal of Clinical Investigation, Chuong et al, May 2023
+28 “Semaglutide reduces alcohol drinking and modulates central GABA neurotransmission”, Journal of Clinical Investigation,
+Chuong et al, May 2023
+29 Monkeys were given access to alcohol for 4 hours each day for 10 days (!!!), and then allocated to either the GLP or
+placebo group. After a loading period of 2-5 weeks, consumption levels were measured and compared for monkeys in the
+GLP and placebo groups. “Effects of glucagon-like peptide 1 analogs on alcohol intake in alcohol preferring vervet monkeys”,
+University of Copenhagen, Fink-Jensen et al, October 2018
+30 “Glucagon-like peptide-1 receptor activation in the ventral tegmental area attenuates cocaine seeking in rats”,
+Neuropsychopharmacology, Hernandez et al, February 2018
+31 Rats were allowed to lever press for injections of oxycodone for 3 hours per day. Their motivation to self-administer
+oxycodone was then tested by increasing the difficulty of self-administering oxycodone for rats receiving GLPs and rats not
+receiving GLPs. “Activation of GLP-1 receptors attenuates oxycodone taking and seeking without compromising the
+antinociceptive effects of oxycodone in rats”, Neuropsychopharmacology, Zhang et al, February 2020.
+32 “Exenatide once weekly for alcohol use disorder investigated in a randomized, placebo-controlled clinical trial”, Journal
+of Clinical Investigation, Fink-Jensen et al, October 2022
+33 “Exenatide Adjunct to Nicotine Patch Facilitates Smoking Cessation and May Reduce Post-Cessation Weight Gain: A Pilot
+Randomized Controlled Trial”, Nicotine & Tobacco Research, Yammine et al, October 2021
+35
+
+--- PAGE 38 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+What share of the GLP market will be injectable vs oral?
+Oral versions of next generation GLPs could hit the market in the coming years and expand the market since
+many patients prefer pills to injections, and pills are generally easier to make, store and transport. However,
+oral GLPs require more of the semaglutide active ingredient per dose and may result in more side effects:
+• Rybelsus, a pill version of Novo Nordisk’s diabetes GLP treatment, underperforms injectable counterparts
+with respect to weight loss (5% vs 15% for injectable version after one year34) and had a 10% discontinuation
+rate in trials due to side effects
+• Oral semaglutide demonstrated weight loss results that are similar to injectable versions in a Phase III
+obesity trial with 17% weight loss at week 68. However, the oral version requires food restrictions and its
+efficacy is more variable
+• Eli Lilly’s Orforglipron delivered weight loss between 9%-15% by week 35 in a Phase II obesity trial and
+doesn't have food intake restrictions, but nausea and vomiting were still common side effects and led to a
+discontinuation rate ranging from 10%-21% depending on dosage
+• Pfizer had oral GLPs in trials (Danuglipron, Lotiglipron) which were terminated due to high discontinuation
+rates in the former and liver function test abnormalities in the latter
+Cowen projects that by 2030, only 15% of the GLP market for diabetes and obesity will be oral. JP Morgan Equity
+Research expects a larger shift to oral GLPs, and so do a group of physicians that JP Morgan surveyed. We expect
+estimates to conform once we have better data on the next generation of oral GLP drugs.
+Projected oral vs injectable treatment prevalence, obesity Physician survey of T2D treatment type
+and T2D, Millions Percent of GLP use
+45 45%
+Existing GLPs
+Oral
+40 15% 40% Next generation injectable GLPs
+Injectable Oral GLPs
+35 11% 35%
+30 8% 30%
+25 25%
+20 20%
+85%
+15 92% 89% 15%
+94%
+10 94% 94% 10%
+94%
+5 94% 5%
+0 0%
+2023 2024 2025 2026 2027 2028 2029 2030 2026 2028 2030
+Source: TD Cowen, November 15, 2023 Source: Survey conducted by J.P. Morgan Equity Research in Feb 2023.
+34 “Once-weekly semaglutide in adults with overweight or obesity”, NEJM, Wilding et al, March 2021
+36
+
+--- PAGE 39 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+How do GLPs impact consumer behavior and equity markets?
+Let’s start with rough estimates of how consumer behavior changes when people take GLPs. JP Morgan Equity
+Research analysts published estimates in an October 2023 report35. There are a lot of caveats since the sample
+size was only ~500 people, but I like the approach: data scientists collect actual spending receipts of households
+and scan the results. Then, they overlay whether households take GLP drugs. Changes in consumption are
+shown per GLP household whether each household consumes those items or not; as a result, unit consumption
+declines are even larger for the GLP households that do consume these items.
+Year-on-year change in projected units of consumption by household
+Category GLP Users Total US Difference
+Meat snacks -27% -2% -26%
+Snack seeds, nuts, trail mixes -31% -5% -25%
+Popcorn -27% -4% -24%
+Crackers -23% 1% -23%
+Chips -19% -1% -18%
+Packaged portable sweet snacks -11% 3% -15%
+Baking & cooking -8% 5% -13%
+Packaged cookies -11% 1% -12%
+Soft drinks -15% -4% -11%
+Canned -11% 0% -11%
+Pasta & noodles -3% 7% -11%
+Deli & prepared foods -12% -2% -10%
+In-store bakery -8% 2% -10%
+Source: JP Morgan Global Equity Research, Numerator, JPMAM, September 17, 2023
+Surveys are less precise since they rely on household recall of spending behaviors. For what it’s worth, here are
+the results of a survey of 311 GLP patients with BMI > 27 in the summer of 202336. The patients had been taking
+GLPs for more than two weeks. Note that the survey does not measure declines in unit consumption; it simply
+measures whether overall unit consumption is higher, lower or the same. Directionally, both results are
+similar: less unhealthy foods and beverages.
+Change in food categoryconsumption since starting anti-obesity medication
+% More -
+Consuming more of Consuming about the same Consuming less of % Less
+Fruits and vegetables +46%
+Weight-loss management foods +31%
+Poultry and fish +23%
+Dairy products -14%
+Red meat -25%
+Rice, grains, and pasta -35%
+Instant soups and canned goods -41%
+Frozen meals -45%
+Preserved meats -53%
+Salty snacks -61%
+Alcohol -62%
+Cookies and baked products -65%
+Carbonated / sugary drinks -65%
+Confections -66%
+0% 20% 40% 60% 80% 100%
+Source: Morgan Stanley AlphaWise survey, August 2023
+35 “Examining the Broader Impact of GLP-1s”, JP Morgan Global Equity Research, October 24, 2023
+36 “Thematic Alpha: Obesity”, Morgan Stanley Equity Research, October 19, 2023
+37
+
+--- PAGE 40 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+In the summer of 2023, coincident with Novo Nordisk’s obesity trial results for Wegovy, the equity markets
+began to price in winners and losers from increased GLP penetration. The charts below show sector examples,
+with large gains in GLP manufacturers and losses in insulin manufacturers and distributors of alcoholic beverages
+and snack foods (Dollar Tree, Dollar General, BJ’s Wholesale). GLP returns were almost as high as FAANGM and
+AI returns in 2023 (with AI returns based on an illustrative AI ETF with 36 stocks).
+Note how fast food and insulin sectors recovered later in the year. This could be a simple reflection of rising
+equity markets, or it could reflect more investor caution regarding the speed of GLP adoption and impacts on
+other medical conditions. There’s a lot of variability in the research community regarding adoption rates. As
+one example, TD Cowen estimates that US GLP penetration for diabetes and obesity will reach 33% and 3%,
+respectively, by the year 2030 with penetration being defined as the portion of potential patients taking the
+drug. JP Morgan Research analysts agree on diabetes penetration (35% by 2030) but project higher obesity
+penetration of 15%.
+TD Cowen’s lower penetration forecast for obesity explains why they don’t believe that GLPs will negatively
+impact adjacent healthcare sectors. One example: cardiovascular events that affect the obese population. The
+share of obese individuals that experience such events is 13%. Based on Cowen’s 3% obesity penetration
+forecast, this would only translate into 400,000 people treated with GLPs by 2030. This number of people, even
+if GLPs were perfectly curative for cardiovascular disease, would only amount to a reduction of 0.5% in the
+overall pool of all people suffering cardiovascular events. The same relative magnitudes appear below in the
+table for other conditions, suggesting that sharp declines in share prices of adjacent condition drugs and
+treatments may be very premature.
+The GLP-1 effect on equity sectors and industries YTD relative return of large-cap stocks to
+Percent S&P 500 by sector, Percent
+60%
+GLP-1 0%
+2 4 0 0 0 % % % B C r B O m i e c a e r v a h t l v o h e n / e f r r o u r a i a p e a f s g a g e t e c d e f s t o s i u c o ( r ( s e d d b u r e e s g v e a i r c r ) y e ) s - - - 2 1 1 - 0 5 0 5 % % % % d o o F x e ( a m ) r Y a L L - e r a C d e g a n a M h c e t o iB s e c n e ic S e f iL s e c iv e D la c id e s e g a r e v e B
+Exposed food retail -25% h P M
+-20% Insulin pumps
+Beverages (spirits) -30%
+-40% -35%
+-40%
+-60%
+Jan-23 Mar-23 May-23 Jul-23 Sep-23 Nov-23 -45%
+Source: Bloomberg, JPMAM, December 26, 2023 Source: Bloomberg, JPMAM, December 26, 2023
+Projected pool reductions due to obese patients taking GLPs by 2030
+Co-morbidity prevalence Reduction in total pool
+Avg co-morbidity
+Co-morbidity reduction in obese GLP size due to obese GLP
+rate with obesity
+patients (mm) patients (%)
+Non-alcoholic fatty liver disease 72% 2.1 1.0%
+Obstructive sleep apnea 62% 1.8 1.1%
+Chronic Kidney Disease 20% 0.6 0.5%
+Osteoarthritis 18% 0.5 0.4%
+T2D / Prediabetes 15% 0.4 0.4%
+Cardiovascular Disease 14% 0.4 0.5%
+Source: TD Cowen, November 15, 2023
+38
+
+--- PAGE 41 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+Top ten surprises for 2024 in honor of Byron Wien
+Market Strategist Byron Wien passed away last year at the age of 90. For over 30 years whether at Morgan
+Stanley or Blackstone, Byron published a top ten list of surprises for the following year. I never read any of the
+articles that kept score on how well Byron’s predictions did since that’s not the point. They were an exercise in
+thinking against the grain about what might happen in an industry dominated by consensus. In Byron’s honor,
+for one time only, here’s my list of top ten possible surprises for 2024.
+[1] The US dollar remains stable. Despite all the hand-wringing about the weaponization of the US dollar via
+US sanctions, the trade weighted dollar ends 2024 +/- 7% from where it began. Furthermore, the dollar will
+retain its roughly 50% share of global trade invoicing.
+USFed trade-weighted nominal broad dollar index The international role of the US dollar
+Index(100 = January 1980) Percent
+450
+Cross-border loans
+400
+Intl. debt securities
+350 FX transaction volume
+300 Official FX reserves
+250 Trade invoicing
+SWIFT payments
+200
+World trade US$ share of global markets
+150
+Of which: offshore
+Global GDP
+US share
+100
+1980 1985 1990 1995 2000 2005 2010 2015 2020 0% 20% 40% 60% 80% 100%
+Source: Bloomberg, JPMAM, December 22, 2023 Source: BISQuarterly Review. December 5, 2022.
+[2] The DoJ/FTC win a big antitrust case. After a drought of 20+ years since the Microsoft antitrust case37, the
+Department of Justice and/or Federal Trade Commission win one of the big antitrust cases currently underway
+against Google, Amazon, Meta or T-Mobile (see pages 9-12 for more details).
+[3] President Biden withdraws sometime between Super Tuesday and the November election, citing health
+reasons. Biden passes the torch to a replacement candidate named by the Democratic National Committee.
+Biden has a low approval rating for a President with ~10% job creation since his inauguration, although that
+figure is the by-product of his inauguration coinciding with the rollout of COVID vaccines and a reopening US
+economy. See our November 2023 Eye on the Market for details on the process of candidate replacement
+during the primary season or before/after the general election.
+Presidential popularityand job creation Nonfarm payrolls
+Presidentialapproval rating, 1,051 days after inauguration Number of employees, milions
+80% 160
+Eisenhower
+75%
+155
+70%
+65%
+150
+60%
+JFK
+55% GHWB 145
+50% GWB Clinton Truman Biden's
+Reagan Nixon 140 inauguration
+45% Obama LBJ Carter
+Trump
+40% 135
+Biden
+35%
+-4% -2% 0% 2% 4% 6% 8% 10% 12% 14% 130
+Payroll growth sinceinauguration 2018 2019 2020 2021 2022 2023
+Source: 538, Bloomberg, JPMAM, December 6, 2023 Source: Bloomberg, JPMAM, November 2023
+37 The DC District Court ruled in 2001 that Microsoft's actions constituted unlawful monopolization under
+Section 2 of the Sherman Act, but the US Court of Appeals partially overturned that judgment. The DoJ and
+Microsoft eventually reached a settlement in which Microsoft agreed to modify some business practices
+39
+
+--- PAGE 42 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+[4] The driverless car backlash is coming. In the few places where full Level 5 autonomous cars are being tested
+in real world conditions (San Francisco, Austin), they have blocked ambulances on their way to the hospital,
+hampered other emergency responders, caused accidents, increased congestion and run over pedestrians, one
+instance of which reportedly resulted in the resignation of Cruise’s CEO. Waymo has added technology to
+reportedly allow firefighters to take control of its vehicles if they stop moving.
+LiDAR (autonomous vehicle technology) stocks have collapsed by 85% from their peak, and I don’t think a
+rebound is imminent. I believe a possible backlash is coming from citizens who believe, as in the case of the
+despised urban scooter plague38, that convenience for some results in dangers and inconvenience for others.
+Tesla is experiencing problems even at Level 2, which requires driver oversight. The NHTSA investigated a series
+of crashes involving Tesla autopilot and found that its methods of insuring driver compliance are inadequate
+and can lead to “foreseeable misuse”. In December, Tesla issued a recall of 2 million vehicles to update the
+software to require greater driver compliance.
+LiDAR stockbasket
+Index (100 = December 2019)
+700
+Companies:Aeva, Cepton,
+600 Innoviz, Luminar, Microvision,
+Ouster, Velodyne Lidar
+500
+400
+300
+200
+100
+0
+2020 2021 2022 2023 2024
+Source: Bloomberg, JPMAM, December 27, 2023
+[5] Broadly syndicated loan (BSL) losses rise above private credit losses for the first time. Historically, there
+hasn’t been much difference in their loss respective rates. But after a decade of comparatively lax loan
+underwriting with respect to maintenance covenants, EBITDA add-backs, maturity priming clauses, intellectual
+property transfer restrictions and other terms and conditions, that will change. In other words, the underwriting
+chickens come home to roost in the loan markets moreso than in private credit. See our December 5 Eye on
+the Market Alternative Investment Review for more details.
+Loss rate estimates on BSLs and private credit
+Trailing 12-month loss rates
+10%
+Private credit, lagged 1Q
+Broadly syndicated loans
+8%
+6%
+4%
+2%
+0%
+-2%
+2008 2010 2012 2014 2016 2018 2020 2022
+Source: Cliffwater, Moody's, GS Global Investment Research, Q2 2023
+38 The scooter company Bird went public via SPAC at a valuation of $2.3 billion. Bird market cap now: $7 million
+40
+
+--- PAGE 43 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+[6] Argentine dollarization will fail if implemented. Whenever the Cato Institute, American Enterprise Institute
+and City Journal agree (like they do on positive prospects for Argentine dollarization), I get suspicious. Argentine
+President Milei needs a two-thirds majority to pass constitutional reforms required for dollar convertibility.
+Furthermore, Argentina would need substantial foreign exchange reserves and much higher savings rates to
+even try it. But even if these goals were met, dollarization would fail after being implemented.
+Convertibility to another currency is generally only workable in places with some combination of the following:
+(a) high levels of productivity, flexibility and business dynamism to allow the economy to absorb domestic and
+external shocks; (b) white knight lenders such as the ECB and European Commission; and/or (c) substantial
+commodity related foreign exchange reserves to defend the currency peg when needed. Argentina has none
+of these attributes, and while Milei is trying (see box), I doubt he will be able to sufficiently de-Peronize
+Argentina. Dollarization would yield to de-dollarization in a fairly short period.
+Institutions, labor market flexibility, business freedoms and business dynamism Milei proposals/milestones so far
+Score, 0-100 (100=highest)
+• Privatization of airlines, energy, rail, media,
+90
+Largest economies water and sewer
+85
+A Currency pegs to the US$ • $20 billion cuts in public spending
+7
+5 5 6 6
+7
+8
+0 5 0 5
+5
+0
+0
+S
+U K U N A C S U A U E D N P J R O
+K
+A
+R F P S E A T I N H C X E M D N I N D I U A S S U R A R B
+G K H E
+A U R H B T A Q N A P N M O R O J U A S R O M G
+•
+• • •
+L m
+E E i F n
+i
+i l n
+b
+r i
+a
+m d d e
+e r
+i
+k r
+i s 5 i n n
+a e
+a ,
+l
+a 0 c
+t
+d
+i s
+e
+z
+t 0 v e
+e
+n
+a
+0 a t
+n
+9
+e
+n g iv
+d n
+t o o a e
+e
+v
+h
+u g s
+r
+e
+e
+t e
+g
+f r
+a
+d o o
+y
+n
+l
+f r
+t
+m
+p
+a
+h
+1 i r
+r
+n
+c
+e 8 e
+ic
+d
+a
+n a
+e
+m
+r
+u t s
+s e
+s i e
+,
+n t
+p
+m
+f
+r i
+o
+i
+r
+s a
+i
+p
+o
+t
+c
+l r l
+d e
+o i d e
+s
+y e
+p
+s e v
+r i
+e e
+c
+s l
+e
+o
+s
+p
+,
+m
+la
+e
+b
+n
+o
+t
+r
+45 R A • No restrictions on foreign land purchases
+40 • Legalize crypto for contract payments
+Source:World Economic Forum, World Bank, Fraser Institute, WSJ, JPMAM, 2023
+[7] Russian invasion of Ukraine drags on with no ceasefire in 2024. Despite Russia reportedly losing 87% of its
+prewar active troops (315,000 killed or injured) and two-thirds of its tanks39, there is no ceasefire and the war
+drags on for another year. Some US financial support for Ukraine is maintained after Democrats agree with the
+GOP to provide greater funding for US border security given surging cross-border crossings coinciding with an
+election year. Russia’s prosecution of the war finally pushes Europe to spend 2% of GDP on defense, which is
+what Europe agreed to in the 2006 NATO agreement but hasn’t been adhering to. According to our calculations,
+Europe has underspent on its own defense by $2.0 trillion since 1983, relying on the US to spend instead40.
+Total USCustoms and Border Protection Enforcement US vs Europeandefense spending
+Actions, Number of actions, millions Percent of GDP
+3.5 10%
+9%
+3.0
+8%
+2.5 7%
+6%
+2.0
+5%
+1.5 4% USA
+NATO ex US
+3%
+1.0
+2%
+NATO defense spending
+0.5
+1% agreement target
+0.0 0%
+2017 2018 2019 2020 2021 2022 2023 1968 1973 1978 1983 1988 1993 1998 2003 2008 2013 2018 2023
+Source: US CBP,JPMAM, FY 2023 (October 2022 -September 2023) Source: World Bank, SIPRI, Federal Reserve, JPMAM, 2022
+39 NYT and WSJ, December 12, based on a declassified US intelligence report given to Congress
+40 Eye on the Market, November 14, 2023; see page 5
+41
+
+--- PAGE 44 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+[8] Despite storm clouds over US regional banks, their stocks will do well in 2024 with stable or rising price to
+book values. When Silicon Valley Bank failed, US regional bank valuations temporarily converged with Europe.
+Unprecedented rescues by the Fed and FDIC then slowed deposit outflows. Despite challenges related to
+underwater Treasuries, commercial real estate writedowns, competition for deposits and slowing loan growth,
+US regional bank price to book ratios remain at 1.0x or higher in 2024 and widen the gap vs Europe.
+US regional banks vs European banks
+Regional bank rescue: in some ways, unprecedented
+Price to book ratio
+1.8x Fed: for the first time, banks can post collateral at the Fed
+US Reg (KBW)
+1.6x US Reg (S&P 500) and borrow 100% of par value even if the security is worth
+less (Bank Term Funding Program)
+1.4x
+FDIC: SVB depositors were bailed out despite it being a
+1.2x
+venture capital piggy bank. SVB deposits rose and fell with
+1.0x the IPO calendar; only 3% of its deposits were fully insured;
+EU (MSCI)
+0.8x it offered venture loans in exchange for deposit exclusivity;
+its average account balance was > $1 mm; its average
+0.6x
+uninsured account balance was > $4 mm; and its top ten
+0.4x EU (Eurostoxx)
+depositors had $13 billion in uninsured deposits, all of
+0.2x whom were bailed out despite the long history of losses
+2008 2010 2012 2014 2016 2018 2020 2022 2024
+imposed on uninsured depositors in FDIC resolutions
+Source: Bloomberg, JPMAM, December 2023
+[9] Due to retirement of dispatchable power generation (nuclear, coal, gas) and underinvestment in pipelines,
+gas storage and winterization, major US cities will face electricity outages and/or natural gas outages (which
+are much worse). The North American Electricity Reliability Association just released its 2023 risk assessment.
+The region NERC highlights as having the greatest risk of power outages, even in normal peak conditions:
+Midwest MISO, which stretches from Minnesota down to Louisiana. Outage risk in more extreme weather
+conditions is cited for New York, New England and the entire Western US. NERC cites peak loads rising at “an
+alarming rate” due to electrification, coinciding with increasingly intermittent new sources of generation (wind
+and solar power) and 80-110 GW of nuclear and fossil fuel generation retirements by 2033 which is ~7% of
+current installed capacity. Reserve margins indicate the buffer each region has to a spike in summer demand;
+the chart on the left summarizes NERC’s assessment of future reserve margins. Note as well how unplanned
+outages have been rising during cold weather storms.
+Generation capacity buffer during peak summer demand Peak unavailablenational electricity generation due to
+Anticipated reserve margin cold weather, Gigawatts
+50% 100
+45% 90
+40% ERCOT (Texas) 80
+70
+35%
+PJM (Mid-Atlantic) 60
+30%
+Southeast 50
+25% 40
+California
+20% 30
+SPP (Plains)
+15% New York 20
+Northwest 10
+10%
+New England 0
+5%
+Polar Vortex SW Event 2018 Event 2021 Event 2022 Event
+MISO (Midwest)
+0% (Jan 6-8, (Feb 1-5, (Jan 15-19, (Feb 8-20, (Dec 21-26,
+2024 2026 2028 2030 2032 2014) 2011) 2018) 2021) 2022)
+Source: "2023Long-Term Reliability Assessment", NERC, December 2023 Source:"Winter Storm ElliottReport", FERC, NERC, October 2023
+42
+
+--- PAGE 45 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+If you think power outages are bad, natural gas outages would be far worse. During winter storm Elliott in
+December 2022, cold weather resulted in failure of gas production wellheads, pipelines and distribution. Dry
+gas production in the lower 48 states fell by 16%, with Marcellus and Utica production falling by 23%-54%. On
+December 25, interstate natural gas pipelines serving Con Edison experienced drops in pressure due to
+production losses and operational issues. Con Ed restored pressure from a backup LNG system until systemwide
+pressure was normalized, and ended up narrowly avoiding a gas system outage.
+During a gas outage, local gas distribution companies would need to go building-by-building and shut off gas
+valves to ensure that residual gas does not seep through units whose pilot lights are out. During the system
+restoration process, the main distribution system would be purged; then workers would have to insure at each
+point of service that heating and cooking gas lines are safely purged and operational before restoring service
+and relighting pilot lights. Any homes or buildings with safety issues would need remediation before any gas
+restoration. Even losing service to 130,000 customers would be considered a major outage and could have
+taken five to seven weeks (!!) to restore. A large outage could also cause extensive property damage due to
+burst water pipes within homes and buildings, since water expands when it freezes.
+[10] Researchers will complete work on an inhaled COVID vaccine that will sharply reduce transmission. The
+COVID wave this winter is much milder than the prior three, particularly for those below 75; most of the rise in
+hospitalizations is attributable to the over 75 cohort. There’s also evidence that the monovalent XBB.1.5 booster
+works: the Netherlands reports ~70% XBB vaccine efficacy rates with respect to risk of hospitalization and ICU
+admission even for older people. However, the XBB booster doesn’t do much to prevent transmission; at best
+it might suppress infection risk by 30%-40% in the first month and then its efficacy vs infection declines.
+What’s needed: an inhaled vaccine to produce mucosal immunity, block infection and reduce transmission.
+Several inhaled and tracheally administered proteins are under development and have already elicited robust
+immune and T cell responses against COVID in non-human primates. I suspect one will be approved in 2024.
+USCOVID hospitalizations by age
+Weekly rate per 100,000
+160
+75+ years
+140 65-74 years
+120 50-64 years
+40-49 years
+100
+80
+60
+40
+20
+0
+Mar-2020 Mar-2021 Mar-2022 Mar-2023
+Source: CDC, JPMAM, December 16, 2023
+Happy New Year. Given the election, I think it’s going to be a long one.
+Michael Cembalest
+JP Morgan Asset Management
+43
+
+--- PAGE 46 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+IMPORTANT INFORMATION
+This report uses rigorous security protocols for selected data sourced from Chase credit and debit card transactions to ensure all information is kept confidential
+and secure. All selected data is highly aggregated and all unique identifiable information, including names, account numbers, addresses, dates of birth, and Social
+Security Numbers, is removed from the data before the report’s author receives it. The data in this report is not representative of Chase’s overall credit and debit
+cardholder population. The views, opinions and estimates expressed herein constitute Michael Cembalest’s judgment based on current market conditions and
+are subject to change without notice. Information herein may differ from those expressed by other areas of J.P. Morgan. This information in no way constitutes
+J.P. Morgan Research and should not be treated as such.
+The views contained herein are not to be taken as advice or a recommendation to buy or sell any investment in any jurisdiction, nor is it a commitment from J.P.
+Morgan or any of its subsidiaries to participate in any of the transactions mentioned herein. Any forecasts, figures, opinions or investment techniques and
+strategies set out are for information purposes only, based on certain assumptions and current market conditions and are subject to change without prior notice.
+All information presented herein is considered to be accurate at the time of production. This material does not contain sufficient information to support an
+investment decision and it should not be relied upon by you in evaluating the merits of investing in any securities or products. In addition, users should make an
+independent assessment of the legal, regulatory, tax, credit and accounting implications and determine, together with their own professional advisers, if any
+investment mentioned herein is believed to be suitable to their personal goals. Investors should ensure that they obtain all available relevant information before
+making any investment. It should be noted that investment involves risks, the value of investments and the income from them may fluctuate in accordance with
+market conditions and taxation agreements and investors may not get back the full amount invested. Both past performance and yields are not reliable indicators
+of current and future results.
+Non-affiliated entities mentioned are for informational purposes only and should not be construed as an endorsement or sponsorship of J.P. Morgan Chase & Co.
+or its affiliates. Company names are for illustrative purposes only and may or may not be held in the portfolio at any point in time. The views presented are those
+of the Portfolio Manager and may differ from the views of other J.P. Morgan employees and affiliates. The examples are not an endorsement, solicitation or
+recommendation to purchase the security
+Key Risks
+This material is for information purposes only, and may inform you of certain products and services offered by private banking businesses, part of JPMorgan Chase
+& Co. (“JPM”). Products and services described, as well as associated fees, charges and interest rates, are subject to change in accordance with the applicable
+account agreements and may differ among geographic locations. Not all products and services are offered at all locations. If you are a person with a disability and
+need additional support accessing this material, please contact your J.P. Morgan team or email us at accessibility.support@jpmorgan.com for assistance. Please
+read all Important Information.
+GENERAL RISKS & CONSIDERATIONS
+Any views, strategies or products discussed in this material may not be appropriate for all individuals and are subject to risks. Investors may get back less than
+they invested, and past performance is not a reliable indicator of future results. Asset allocation/diversification does not guarantee a profit or protect against
+loss. Nothing in this material should be relied upon in isolation for the purpose of making an investment decision. You are urged to consider carefully whether the
+services, products, asset classes (e.g. equities, fixed income, alternative investments, commodities, etc.) or strategies discussed are suitable to your needs. You
+must also consider the objectives, risks, charges, and expenses associated with an investment service, product or strategy prior to making an investment decision.
+For this and more complete information, including discussion of your goals/situation, contact your J.P. Morgan team.
+NON-RELIANCE
+Certain information contained in this material is believed to be reliable; however, JPM does not represent or warrant its accuracy, reliability or completeness, or
+accept any liability for any loss or damage (whether direct or indirect) arising out of the use of all or any part of this material. No representation or warranty
+should be made with regard to any computations, graphs, tables, diagrams or commentary in this material, which are provided for illustration/ reference purposes
+only. The views, opinions, estimates and strategies expressed in this material constitute our judgment based on current market conditions and are subject to
+change without notice. JPM assumes no duty to update any information in this material in the event that such information changes. Views, opinions, estimates
+and strategies expressed herein may differ from those expressed by other areas of JPM, views expressed for other purposes or in other contexts, and this material
+should not be regarded as a research report. Any projected results and risks are based solely on hypothetical examples cited, and actual results and risks will vary
+depending on specific circumstances. Forward-looking statements should not be considered as guarantees or predictions of future events.
+Nothing in this document shall be construed as giving rise to any duty of care owed to, or advisory relationship with, you or any third party. Nothing in this
+document shall be regarded as an offer, solicitation, recommendation or advice (whether financial, accounting, legal, tax or other) given by J.P. Morgan and/or
+its officers or employees, irrespective of whether or not such communication was given at your request. J.P. Morgan and its affiliates and employees do not
+provide tax, legal or accounting advice. You should consult your own tax, legal and accounting advisors before engaging in any financial transactions.
+YOUR INVESTMENTS AND POTENTIAL CONFLICTS OF INTEREST
+Conflicts of interest will arise whenever JPMorgan Chase Bank, N.A. or any of its affiliates (together, “J.P. Morgan”) have an actual or perceived economic or other
+incentive in its management of our clients’ portfolios to act in a way that benefits J.P. Morgan. Conflicts will result, for example (to the extent the following
+activities are permitted in your account): (1) when J.P. Morgan invests in an investment product, such as a mutual fund, structured product, separately managed
+account or hedge fund issued or managed by JPMorgan Chase Bank, N.A. or an affiliate, such as J.P. Morgan Investment Management Inc.; (2) when a J.P. Morgan
+entity obtains services, including trade execution and trade clearing, from an affiliate; (3) when J.P. Morgan receives payment as a result of purchasing an
+investment product for a client’s account; or (4) when J.P. Morgan receives payment for providing services (including shareholder servicing, recordkeeping or
+custody) with respect to investment products purchased for a client’s portfolio. Other conflicts will result because of relationships that J.P. Morgan has with other
+clients or when J.P. Morgan acts for its own account.
+Investment strategies are selected from both J.P. Morgan and third-party asset managers and are subject to a review process by our manager research teams.
+From this pool of strategies, our portfolio construction teams select those strategies we believe fit our asset allocation goals and forward-looking views in order
+to meet the portfolio's investment objective.
+As a general matter, we prefer J.P. Morgan managed strategies. We expect the proportion of J.P. Morgan managed strategies will be high (in fact, up to 100
+percent) in strategies such as, for example, cash and high-quality fixed income, subject to applicable law and any account-specific considerations. While our
+internally managed strategies generally align well with our forward-looking views, and we are familiar with the investment processes as well as the risk and
+compliance philosophy of the firm, it is important to note that J.P. Morgan receives more overall fees when internally managed strategies are included. We offer
+the option of choosing to exclude J.P. Morgan managed strategies (other than cash and liquidity products) in certain portfolios. The Six Circles Funds are U.S.-
+registered mutual funds managed by J.P. Morgan and sub-advised by third parties. Although considered internally managed strategies, JPMC does not retain a
+fee for fund management or other fund services.
+44
+
+--- PAGE 47 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+For J.P. Morgan Asset Management Clients:
+J.P. Morgan Asset Management is the brand for the asset management business of JPMorgan Chase & Co. and its affiliates worldwide.
+To the extent permitted by applicable law, we may record telephone calls and monitor electronic communications to comply with our legal and regulatory
+obligations and internal policies. Personal data will be collected, stored and processed by J.P. Morgan Asset Management in accordance with our privacy policies
+at https://am.jpmorgan.com/global/privacy.
+ACCESSIBILITY
+For U.S. only: If you are a person with a disability and need additional support in viewing the material, please call us at 1-800-343-1113 for assistance.
+This communication is issued by the following entities:
+In the United States, by J.P. Morgan Investment Management Inc. or J.P. Morgan Alternative Asset Management, Inc., both regulated by the Securities and
+Exchange Commission; in Latin America, for intended recipients’ use only, by local J.P. Morgan entities, as the case may be.; in Canada, for institutional clients’
+use only, by JPMorgan Asset Management (Canada) Inc., which is a registered Portfolio Manager and Exempt Market Dealer in all Canadian provinces and
+territories except the Yukon and is also registered as an Investment Fund Manager in British Columbia, Ontario, Quebec and Newfoundland and Labrador. In the
+United Kingdom, by JPMorgan Asset Management (UK) Limited, which is authorized and regulated by the Financial Conduct Authority; in other European
+jurisdictions, by JPMorgan Asset Management (Europe) S.à r.l. In Asia Pacific (“APAC”), by the following issuing entities and in the respective jurisdictions in which
+they are primarily regulated: JPMorgan Asset Management (Asia Pacific) Limited, or JPMorgan Funds (Asia) Limited, or JPMorgan Asset Management Real Assets
+(Asia) Limited, each of which is regulated by the Securities and Futures Commission of Hong Kong; JPMorgan Asset Management (Singapore) Limited (Co. Reg. No.
+197601586K), which this advertisement or publication has not been reviewed by the Monetary Authority of Singapore; JPMorgan Asset Management (Taiwan)
+Limited; JPMorgan Asset Management (Japan) Limited, which is a member of the Investment Trusts Association, Japan, the Japan Investment Advisers Association,
+Type II Financial Instruments Firms Association and the Japan Securities Dealers Association and is regulated by the Financial Services Agency (registration number
+“Kanto Local Finance Bureau (Financial Instruments Firm) No. 330”); in Australia, to wholesale clients only as defined in section 761A and 761G of the Corporations
+Act 2001 (Commonwealth), by JPMorgan Asset Management (Australia) Limited (ABN 55143832080) (AFSL 376919). For all other markets in APAC, to intended
+recipients only.
+For J.P. Morgan Private Bank Clients:
+ACCESSIBILITY
+J.P. Morgan is committed to making our products and services accessible to meet the financial services needs of all our clients. Please direct any accessibility
+issues to the Private Bank Client Service Center at 1-866-265-1727
+LEGAL ENTITY, BRAND & REGULATORY INFORMATION
+In the United States, bank deposit accounts and related services, such as checking, savings and bank lending, are offered by JPMorgan Chase Bank, N.A. Member
+FDIC.
+JPMorgan Chase Bank, N.A. and its affiliates (collectively “JPMCB”) offer investment products, which may include bank managed investment accounts and custody,
+as part of its trust and fiduciary services. Other investment products and services, such as brokerage and advisory accounts, are offered through J.P. Morgan
+Securities LLC (“JPMS”), a member of FINRA and SIPC. Insurance products are made available through Chase Insurance Agency, Inc. (CIA), a licensed insurance
+agency, doing business as Chase Insurance Agency Services, Inc. in Florida. JPMCB, JPMS and CIA are affiliated companies under the common control of JPM.
+Products not available in all states.
+In Germany, this material is issued by J.P. Morgan SE, with its registered office at Taunustor 1 (TaunusTurm), 60310 Frankfurt am Main, Germany, authorized by
+the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the
+European Central Bank (ECB). In Luxembourg, this material is issued by J.P. Morgan SE – Luxembourg Branch, with registered office at European Bank and Business
+Centre, 6 route de Treves, L-2633, Senningerberg, Luxembourg, authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly supervised
+by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB); J.P. Morgan SE – Luxembourg Branch is also supervised by
+the Commission de Surveillance du Secteur Financier (CSSF); registered under R.C.S Luxembourg B255938. In the United Kingdom, this material is issued by J.P.
+Morgan SE – London Branch, registered office at 25 Bank Street, Canary Wharf, London E14 5JP, authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht
+(BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB); J.P. Morgan SE – London
+Branch is also supervised by the Financial Conduct Authority and Prudential Regulation Authority. In Spain, this material is distributed by J.P. Morgan SE, Sucursal
+en España, with registered office at Paseo de la Castellana, 31, 28046 Madrid, Spain, authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)
+and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB); J.P. Morgan SE, Sucursal en España is
+also supervised by the Spanish Securities Market Commission (CNMV); registered with Bank of Spain as a branch of J.P. Morgan SE under code 1567. In Italy, this
+material is distributed by J.P. Morgan SE – Milan Branch, with its registered office at Via Cordusio, n.3, Milan 20123, Italy, authorized by the Bundesanstalt für
+Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB);
+J.P. Morgan SE – Milan Branch is also supervised by Bank of Italy and the Commissione Nazionale per le Società e la Borsa (CONSOB); registered with Bank of Italy
+as a branch of J.P. Morgan SE under code 8076; Milan Chamber of Commerce Registered Number: REA MI 2536325. In the Netherlands, this material is distributed
+by J.P. Morgan SE – Amsterdam Branch, with registered office at World Trade Centre, Tower B, Strawinskylaan 1135, 1077 XX, Amsterdam, The Netherlands,
+authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank)
+and the European Central Bank (ECB); J.P. Morgan SE – Amsterdam Branch is also supervised by De Nederlandsche Bank (DNB) and the Autoriteit Financiële
+Markten (AFM) in the Netherlands. Registered with the Kamer van Koophandel as a branch of J.P. Morgan SE under registration number 72610220. In Denmark,
+this material is distributed by J.P. Morgan SE – Copenhagen Branch, filial af J.P. Morgan SE, Tyskland, with registered office at Kalvebod Brygge 39-41, 1560
+København V, Denmark, authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank
+(Deutsche Bundesbank) and the European Central Bank (ECB); J.P. Morgan SE – Copenhagen Branch, filial af J.P. Morgan SE, Tyskland is also supervised by
+Finanstilsynet (Danish FSA) and is registered with Finanstilsynet as a branch of J.P. Morgan SE under code 29010. In Sweden, this material is distributed by J.P.
+Morgan SE – Stockholm Bankfilial, with registered office at Hamngatan 15, Stockholm, 11147, Sweden, authorized by the Bundesanstalt für
+Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB);
+J.P. Morgan SE – Stockholm Bankfilial is also supervised by Finansinspektionen (Swedish FSA); registered with Finansinspektionen as a branch of J.P. Morgan SE. In
+Belgium, this material is distributed by J.P. Morgan SE – Brussels Branch with registered office at 35 Boulevard du Régent, 1000, Brussels, Belgium, authorized by
+the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the
+European Central Bank (ECB); J.P. Morgan SE Brussels Branch is also supervised by the National Bank of Belgium (NBB) and the Financial Services and Markets
+Authority (FSMA) in Belgium; registered with the NBB under registration number 0715.622.844. In Greece, this material is distributed by J.P. Morgan SE – Athens
+Branch, with its registered office at 3 Haritos Street, Athens, 10675, Greece, authorized by the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and jointly
+supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB); J.P. Morgan SE – Athens Branch is also supervised
+by Bank of Greece; registered with Bank of Greece as a branch of J.P. Morgan SE under code 124; Athens Chamber of Commerce Registered Number 158683760001;
+45
+
+--- PAGE 48 ---
+EYE ON THE MARKET • MICHAEL CEMBALEST • J.P. MORGAN • 2024 Outlook January 1, 2024
+VAT Number 99676577. In France, this material is distributed by J.P. Morgan SE – Paris Branch, with its registered office at 14, Place Vendôme 75001 Paris, France,
+authorized by the Bundesanstaltfür Finanzdienstleistungsaufsicht(BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank)
+and the European Central Bank (ECB) under code 842 422 972; J.P. Morgan SE – Paris Branch is also supervised by the French banking authorities the Autorité de
+Contrôle Prudentiel et de Résolution (ACPR) and the Autorité des Marchés Financiers (AMF). In Switzerland, this material is distributed by J.P. Morgan (Suisse) SA,
+with registered address at rue du Rhône, 35, 1204, Geneva, Switzerland, which is authorised and supervised by the Swiss Financial Market Supervisory Authority
+(FINMA) as a bank and a securities dealer in Switzerland.
+This communication is an advertisement for the purposes of the Markets in Financial Instruments Directive (MIFID II) and the Swiss Financial Services Act (FINSA).
+Investors should not subscribe for or purchase any financial instruments referred to in this advertisement except on the basis of information contained in any
+applicable legal documentation, which is or shall be made available in the relevant jurisdictions (as required).
+In Hong Kong, this material is distributed by JPMCB, Hong Kong branch. JPMCB, Hong Kong branch is regulated by the Hong Kong Monetary Authority and the
+Securities and Futures Commission of Hong Kong. In Hong Kong, we will cease to use your personal data for our marketing purposes without charge if you so
+request. In Singapore, this material is distributed by JPMCB, Singapore branch. JPMCB, Singapore branch is regulated by the Monetary Authority of Singapore.
+Dealing and advisory services and discretionary investment management services are provided to you by JPMCB, Hong Kong/Singapore branch (as notified to you).
+Banking and custody services are provided to you by JPMCB Singapore Branch. The contents of this document have not been reviewed by any regulatory authority
+in Hong Kong, Singapore or any other jurisdictions. You are advised to exercise caution in relation to this document. If you are in any doubt about any of the
+contents of this document, you should obtain independent professional advice. For materials which constitute product advertisement under the Securities and
+Futures Act and the Financial Advisers Act, this advertisement has not been reviewed by the Monetary Authority of Singapore. JPMorgan Chase Bank, N.A., a
+national banking association chartered under the laws of the United States, and as a body corporate, its shareholder’s liability is limited.
+With respect to countries in Latin America, the distribution of this material may be restricted in certain jurisdictions. We may offer and/or sell to you securities or
+other financial instruments which may not be registered under, and are not the subject of a public offering under, the securities or other financial regulatory laws
+of your home country. Such securities or instruments are offered and/or sold to you on a private basis only. Any communication by us to you regarding such
+securities or instruments, including without limitation the delivery of a prospectus, term sheet or other offering document, is not intended by us as an offer to sell
+or a solicitation of an offer to buy any securities or instruments in any jurisdiction in which such an offer or a solicitation is unlawful. Furthermore, such securities
+or instruments may be subject to certain regulatory and/or contractual restrictions on subsequent transfer by you, and you are solely responsible for ascertaining
+and complying with such restrictions. To the extent this content makes reference to a fund, the Fund may not be publicly offered in any Latin American country,
+without previous registration of such fund´s securities in compliance with the laws of the corresponding jurisdiction.
+JPMorgan Chase Bank, N.A. (JPMCBNA) (ABN 43 074 112 011/AFS Licence No: 238367) is regulated by the Australian Securities and Investment Commission and
+the Australian Prudential Regulation Authority. Material provided by JPMCBNA in Australia is to “wholesale clients” only. For the purposes of this paragraph the
+term “wholesale client” has the meaning given in section 761G of the Corporations Act 2001 (Cth). Please inform us if you are not a Wholesale Client now or if you
+cease to be a Wholesale Client at any time in the future.
+JPMS is a registered foreign company (overseas) (ARBN 109293610) incorporated in Delaware, U.S.A. Under Australian financial services licensing requirements,
+carrying on a financial services business in Australia requires a financial service provider, such as J.P. Morgan Securities LLC (JPMS), to hold an Australian Financial
+Services Licence (AFSL), unless an exemption applies. JPMS is exempt from the requirement to hold an AFSL under the Corporations Act 2001 (Cth) (Act) in
+respect of financial services it provides to you, and is regulated by the SEC, FINRA and CFTC under US laws, which differ from Australian laws. Material provided
+by JPMS in Australia is to “wholesale clients” only. The information provided in this material is not intended to be, and must not be, distributed or passed on,
+directly or indirectly, to any other class of persons in Australia. For the purposes of this paragraph the term “wholesale client” has the meaning given in section
+761G of the Act. Please inform us immediately if you are not a Wholesale Client now or if you cease to be a Wholesale Client at any time in the future.
+This material has not been prepared specifically for Australian investors. It: may contain references to dollar amounts which are not Australian dollars; may contain
+financial information which is not prepared in accordance with Australian law or practices; may not address risks associated with investment in foreign currency
+denominated investments; and does not address Australian tax issues.
+References to “J.P. Morgan” are to JPM, its subsidiaries and affiliates worldwide. “J.P. Morgan Private Bank” is the brand name for the private banking business
+conducted by JPM. This material is intended for your personal use and should not be circulated to or used by any other person, or duplicated for non-personal
+use, without our permission. If you have any questions or no longer wish to receive these communications, please contact your J.P. Morgan team.
+All companies referenced are shown for illustrative purposes only, and are not intended as a recommendation or endorsement by J.P. Morgan in this context.
+© 2024 JPMorgan Chase & Co. All rights reserved.
+46
+
+--- PAGE 49 ---
+[No extractable text]

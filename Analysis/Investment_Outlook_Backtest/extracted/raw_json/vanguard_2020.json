@@ -1,0 +1,89 @@
+{
+  "company": "Vanguard",
+  "report_year": "2020",
+  "publication_date": "2019-12",
+  "forecast_period": "2020 calendar year",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth (Q4/Q4)",
+      "horizon": "2020 calendar year",
+      "forecast_value": "~1% (range 0.5%–1.5%)",
+      "source_quote": "We see U.S. growth falling below trend to around 1% in 2020, with the risk of recession still elevated."
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2020 calendar year",
+      "forecast_value": "5.8%",
+      "source_quote": "China, too, has seen its growth fall short of target this year and will likely slow to a below-trend pace of 5.8% in 2020."
+    },
+    {
+      "category": "growth",
+      "region": "Euro area",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2020 calendar year",
+      "forecast_value": "~1%",
+      "source_quote": "Growth in the euro area is likely to stay weak at around 1%."
+    },
+    {
+      "category": "growth",
+      "region": "Japan",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2020 calendar year",
+      "forecast_value": "0.6%",
+      "source_quote": "is one reason we expect average GDP growth to slow to 0.6%."
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2020 calendar year",
+      "forecast_value": "1.2%",
+      "source_quote": "we forecast the U.K. to achieve trend growth of 1.2% in 2020."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core PCE (year-over-year)",
+      "horizon": "2020 calendar year",
+      "forecast_value": "below 2%",
+      "source_quote": "We expect inflation to barely reach 2% in the U.S., with the Federal Reserve's core inflation gauge staying below its 2% policy target."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate cuts",
+      "horizon": "by end of 2020",
+      "forecast_value": "1–2 additional cuts (25–50 bps)",
+      "source_quote": "we believe the Fed will cut interest rates one or two more times before the end of 2020."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Euro area",
+      "variable": "ECB policy rate",
+      "horizon": "2020 calendar year",
+      "forecast_value": "largely unchanged",
+      "source_quote": "In 2020 we expect the ECB to leave policy broadly unchanged, with risks skewed toward further easing."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England Bank Rate",
+      "horizon": "2020 calendar year",
+      "forecast_value": "on hold",
+      "source_quote": "the Bank of England will leave interest rates on hold throughout 2020."
+    },
+    {
+      "category": "labor",
+      "region": "UK",
+      "variable": "U.K. unemployment rate",
+      "horizon": "2020 calendar year",
+      "forecast_value": "~4%",
+      "source_quote": "we expect unemployment to remain relatively stable at about 4%"
+    }
+  ],
+  "excluded_vague_count": 22
+}

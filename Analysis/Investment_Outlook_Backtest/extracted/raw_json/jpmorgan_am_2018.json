@@ -1,0 +1,41 @@
+{
+  "company": "JP Morgan Asset Management",
+  "report_year": "2018",
+  "publication_date": "2017-12",
+  "forecast_period": "2018",
+  "predictions": [
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate",
+      "horizon": "End of 2018",
+      "forecast_value": "Increase by approximately 100bps from December 2017 level (~1.25-1.50%), implying ~2.25-2.50%",
+      "source_quote": "By the end of the year, Fed funds is expected to be 100bps from where it is today, but that will still leave it roughly 400bps below the pre-crisis peak."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB main refinancing rate",
+      "horizon": "2018",
+      "forecast_value": "No rate rise in 2018; first rate rise in 2019",
+      "source_quote": "Based on its current timetable, that would point to the first rate rise in 2019."
+    },
+    {
+      "category": "fixed_income",
+      "region": "Global",
+      "variable": "Long-term government bond yields",
+      "horizon": "2018",
+      "forecast_value": "Grind slightly higher but remain very low historically",
+      "source_quote": "our base-case scenario is for longer-term yields to grind slightly higher, but to remain very low on a historical basis."
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "Real GDP growth",
+      "horizon": "2018",
+      "forecast_value": "Above 6%",
+      "source_quote": "the Chinese authorities have recently tightened policy, which should serve to slow growth slightly in 2018, although it should remain in excess of 6%."
+    }
+  ],
+  "excluded_vague_count": 12
+}

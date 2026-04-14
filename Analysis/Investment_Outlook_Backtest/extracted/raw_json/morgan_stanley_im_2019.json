@@ -1,0 +1,57 @@
+{
+  "company": "Morgan Stanley Investment Management",
+  "report_year": "2019",
+  "publication_date": "2019-01",
+  "forecast_period": "2019-2020",
+  "predictions": [
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Gold spot price (USD per troy ounce)",
+      "horizon": "2019",
+      "forecast_value": "$1,500",
+      "source_quote": "Gold to Rally to $1,500"
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings per share growth (year-over-year)",
+      "horizon": "Q4 2019",
+      "forecast_value": "negative (YoY shrinkage by Q4 2019)",
+      "source_quote": "actual earnings are likely to fall short of this expectation and, on our models, will most likely shrink on a year-over-year basis by the fourth quarter of 2019."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "U.S. real GDP growth",
+      "horizon": "2019-2020",
+      "forecast_value": "deceleration to 1.5% pace",
+      "source_quote": "the U.S. will 'catch down' to the rest of the world, with its economic growth dropping below emerging markets (EM) ex-China growth (3-3.5%) and to a 1.5% pace that is similar to European growth."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "U.S. recession timing",
+      "horizon": "2020",
+      "forecast_value": "recession likely in 2020",
+      "source_quote": "we expect a recession to be driven by tight Fed policy"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal Reserve rate hiking cycle",
+      "horizon": "H1 2019",
+      "forecast_value": "pause in rate hiking cycle",
+      "source_quote": "we expect a pause in the Fed's rate hiking cycle, a modest rebound in risky assets, and a stabilization in equity market multiples in the first half of the year."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 direction",
+      "horizon": "H2 2019 into 2020",
+      "forecast_value": "resumption of bear market",
+      "source_quote": "Earnings growth expectations, on the other hand, are likely to keep falling throughout 2019. This will likely put a ceiling on stock prices in 2019 and drive the resumption of the bear market in the second half of the year into 2020."
+    }
+  ],
+  "excluded_vague_count": 14
+}

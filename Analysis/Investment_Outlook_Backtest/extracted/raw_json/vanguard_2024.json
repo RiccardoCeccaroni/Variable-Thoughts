@@ -1,0 +1,145 @@
+{
+  "company": "Vanguard",
+  "report_year": "2024",
+  "publication_date": "2023-12",
+  "forecast_period": "2024 calendar year",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth (Q4/Q4 year-over-year)",
+      "horizon": "2024 calendar year",
+      "forecast_value": "0.5%",
+      "source_quote": "US 0.5%"
+    },
+    {
+      "category": "growth",
+      "region": "Euro area",
+      "variable": "Real GDP growth (annual)",
+      "horizon": "2024 calendar year",
+      "forecast_value": "0.5%–1%",
+      "source_quote": "Euro area 0.5%–1%"
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "Real GDP growth (annual)",
+      "horizon": "2024 calendar year",
+      "forecast_value": "0.5%–1%",
+      "source_quote": "UK 0.5%–1%"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "Real GDP growth (annual)",
+      "horizon": "2024 calendar year",
+      "forecast_value": "4.5%–5%",
+      "source_quote": "China 4.5%–5%"
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US economic downturn",
+      "horizon": "2024",
+      "forecast_value": "mild downturn expected",
+      "source_quote": "The economy will experience a mild downturn as a result."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "U-3 unemployment rate (Q4 average)",
+      "horizon": "Q4 2024",
+      "forecast_value": "4.8%",
+      "source_quote": "US ... Unemployment rate ... Vanguard 4.8%"
+    },
+    {
+      "category": "labor",
+      "region": "Euro area",
+      "variable": "Unemployment rate (Q4 average)",
+      "horizon": "Q4 2024",
+      "forecast_value": "7%–7.5%",
+      "source_quote": "Euro area ... Unemployment rate ... Vanguard 7%–7.5%"
+    },
+    {
+      "category": "labor",
+      "region": "UK",
+      "variable": "Unemployment rate (Q4 average)",
+      "horizon": "Q4 2024",
+      "forecast_value": "4.5%–5%",
+      "source_quote": "UK ... Unemployment rate ... Vanguard 4.5%–5%"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core PCE (Q4/Q4 year-over-year)",
+      "horizon": "Q4 2024",
+      "forecast_value": "2.5%",
+      "source_quote": "US ... Core inflation ... Vanguard 2.5%"
+    },
+    {
+      "category": "inflation",
+      "region": "Euro area",
+      "variable": "Core CPI (Q4/Q4 year-over-year)",
+      "horizon": "Q4 2024",
+      "forecast_value": "2.1%",
+      "source_quote": "Euro area ... Core inflation ... Vanguard 2.1%"
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "Core CPI (Q4/Q4 year-over-year)",
+      "horizon": "Q4 2024",
+      "forecast_value": "2.8%",
+      "source_quote": "UK ... Core inflation ... Vanguard 2.8%"
+    },
+    {
+      "category": "inflation",
+      "region": "China",
+      "variable": "Core CPI (annual average)",
+      "horizon": "2024 calendar year",
+      "forecast_value": "1%–1.5%",
+      "source_quote": "China ... Core inflation ... Vanguard 1%–1.5%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate",
+      "horizon": "year-end 2024",
+      "forecast_value": "4%–4.5%",
+      "source_quote": "US ... Monetary policy ... 2024 4%–4.5%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed rate cut timing",
+      "horizon": "2024",
+      "forecast_value": "second half of 2024",
+      "source_quote": "we expect they will start to cut policy rates in the second half of 2024."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Euro area",
+      "variable": "ECB policy rate",
+      "horizon": "year-end 2024",
+      "forecast_value": "3.25%",
+      "source_quote": "Euro area ... Monetary policy ... 2024 3.25%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England Bank Rate",
+      "horizon": "year-end 2024",
+      "forecast_value": "4.25%",
+      "source_quote": "UK ... Monetary policy ... 2024 4.25%"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "China",
+      "variable": "One-year MLF rate",
+      "horizon": "year-end 2024",
+      "forecast_value": "2.2%",
+      "source_quote": "China ... Monetary policy ... 2024 2.2%"
+    }
+  ],
+  "excluded_vague_count": 15
+}

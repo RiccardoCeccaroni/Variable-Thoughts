@@ -1,0 +1,73 @@
+{
+  "company": "JP Morgan Asset Management",
+  "report_year": "2022",
+  "publication_date": "2022-01-01",
+  "forecast_period": "2022-2023",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings growth",
+      "horizon": "2022",
+      "forecast_value": "10%-14%",
+      "source_quote": "For the S&P 500, we expect 10%-14% earnings growth in 2022 as trend growth returns and as the Fed begins to raise rates."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 total return",
+      "horizon": "2022",
+      "forecast_value": "7%-10% including dividends",
+      "source_quote": "P/E multiples should contract as this occurs, delivering total returns of 7%-10% including dividends."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 ex-financials and REITs net profit margins",
+      "horizon": "2022",
+      "forecast_value": "Fall by about 1% back to 2017-2019 trend levels (~11%)",
+      "source_quote": "We think input cost increases will be harder to pass along in 2022, and margins may fall by 1% or so back to 2017-2019 trend levels."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Brent crude oil price (JPM Commodities Research)",
+      "horizon": "2022-2023",
+      "forecast_value": "Average $80-$90 in 2022 and 2023",
+      "source_quote": "JPM Research expects Brent oil prices to average $80-$90 in 2022 and 2023."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Global oil demand",
+      "horizon": "2022",
+      "forecast_value": "Grow by 3.5 million bpd to reach 99.8 mbd",
+      "source_quote": "JP Morgan Commodities Research expects global oil demand to grow by 3.5 million barrels per day (mbd) in 2022 and reach 99.8 mbd, slightly above 2019 levels and a record high."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Global oil demand",
+      "horizon": "2023",
+      "forecast_value": "Average 101.5 mbd",
+      "source_quote": "expects global oil demand to average 101.5 mbd in 2023."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Goods price inflation (CPI/PCE)",
+      "horizon": "2022",
+      "forecast_value": "Goods price inflation will fall as supply chains resolve",
+      "source_quote": "We expect goods-related supply chain issues to be resolved, and for goods price inflation to fall as the Fed has been expecting."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Wage growth",
+      "horizon": "2022",
+      "forecast_value": "Remain high due to chronic labor shortages",
+      "source_quote": "we believe that wages and commodity prices will remain high since their supply/demand curves have shifted."
+    }
+  ],
+  "excluded_vague_count": 11
+}

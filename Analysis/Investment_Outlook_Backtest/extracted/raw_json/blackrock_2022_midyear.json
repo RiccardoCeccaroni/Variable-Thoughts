@@ -1,0 +1,41 @@
+{
+  "company": "BlackRock",
+  "report_year": "2022_midyear",
+  "publication_date": "2022-07",
+  "forecast_period": "H2 2022 through mid-2023",
+  "predictions": [
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal Reserve policy stance",
+      "horizon": "6-12 months (through mid-2023)",
+      "forecast_value": "Fed will initially overtighten then pivot to live with higher inflation",
+      "source_quote": "We see the Fed initially slamming the brakes... We see it ultimately pivoting to live with higher inflation."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US Core CPI / Core PCE inflation",
+      "horizon": "2023 and beyond",
+      "forecast_value": "persistently above 2% target even after central banks pause",
+      "source_quote": "We expect inflation to cool but stay persistently higher than central bank targets of 2%."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "6-12 months",
+      "forecast_value": "rising further as term premium is restored",
+      "source_quote": "We see yields on long-term U.S. Treasuries rising further as term premium is restored."
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China real GDP growth",
+      "horizon": "2022",
+      "forecast_value": "below official target (5.5%)",
+      "source_quote": "We are neutral Chinese equities. Activity is restarting, but we see 2022 growth below official targets."
+    }
+  ],
+  "excluded_vague_count": 19
+}

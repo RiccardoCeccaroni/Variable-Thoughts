@@ -1,0 +1,209 @@
+{
+  "company": "Amundi",
+  "report_year": "2022",
+  "publication_date": "2021-11",
+  "forecast_period": "2022",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "3.3%",
+      "source_quote": "US 5.7 3.3 2.0 4.4 3.7 2.7"
+    },
+    {
+      "category": "growth",
+      "region": "Eurozone",
+      "variable": "Eurozone real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "4.1%",
+      "source_quote": "Eurozone 5.1 4.1 2.3 2.4 2.6 1.9"
+    },
+    {
+      "category": "growth",
+      "region": "Japan",
+      "variable": "Japan real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "2.6%",
+      "source_quote": "Japan 2.4 2.6 0.9 -0.4 0.6 0.6"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "4.7%",
+      "source_quote": "China 7.7 4.7 4.8 0.8 2.1 2.0"
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "UK real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "4.6%",
+      "source_quote": "UK 6.9 4.6 1.8 2.4 3.6 2.4"
+    },
+    {
+      "category": "growth",
+      "region": "India",
+      "variable": "India real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "6.3%",
+      "source_quote": "India 8.2 6.3 6.4 5.0 5.9 6.2"
+    },
+    {
+      "category": "growth",
+      "region": "Brazil",
+      "variable": "Brazil real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "0.7%",
+      "source_quote": "Brazil 5.1 0.7 1.5 8.2 7.5 3.5"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US CPI (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "3.7%",
+      "source_quote": "US 5.7 3.3 2.0 4.4 3.7 2.7"
+    },
+    {
+      "category": "inflation",
+      "region": "Eurozone",
+      "variable": "Eurozone CPI (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "2.6%",
+      "source_quote": "Eurozone 5.1 4.1 2.3 2.4 2.6 1.9"
+    },
+    {
+      "category": "inflation",
+      "region": "Japan",
+      "variable": "Japan CPI (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "0.6%",
+      "source_quote": "Japan 2.4 2.6 0.9 -0.4 0.6 0.6"
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "UK CPI (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "3.6%",
+      "source_quote": "UK 6.9 4.6 1.8 2.4 3.6 2.4"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate",
+      "horizon": "+6 months (May 2022)",
+      "forecast_value": "0.00-0.25%",
+      "source_quote": "UnitedStates 0.13 0.00/0.25 0.19 0.00/0.25 0.49"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate",
+      "horizon": "+12 months (Nov 2022)",
+      "forecast_value": "0.00-0.25%",
+      "source_quote": "UnitedStates 0.13 0.00/0.25 0.19 0.00/0.25 0.49"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB deposit rate",
+      "horizon": "+12 months (Nov 2022)",
+      "forecast_value": "-0.50%",
+      "source_quote": "Eurozone -0.50 -0.50 -0.48 -0.50 -0.40"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England bank rate",
+      "horizon": "+6 months (May 2022)",
+      "forecast_value": "0.50%",
+      "source_quote": "UnitedKingdom 0.10 0.50 0.77 0.75 1.10"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England bank rate",
+      "horizon": "+12 months (Nov 2022)",
+      "forecast_value": "0.75%",
+      "source_quote": "UnitedKingdom 0.10 0.50 0.77 0.75 1.10"
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "+6 months (May 2022)",
+      "forecast_value": "1.60-1.80%",
+      "source_quote": "US 1.49 1.60/1.80 1.80 1.80/2.00 1.93"
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "+12 months (Nov 2022)",
+      "forecast_value": "1.80-2.00%",
+      "source_quote": "US 1.49 1.60/1.80 1.80 1.80/2.00 1.93"
+    },
+    {
+      "category": "fixed_income",
+      "region": "Germany",
+      "variable": "German 10-year Bund yield",
+      "horizon": "+12 months (Nov 2022)",
+      "forecast_value": "-0.30% to -0.10%",
+      "source_quote": "Germany -0.26 -0.30/-0.10 -0.03 -0.30/-0.10 0.03"
+    },
+    {
+      "category": "fx",
+      "region": "Global",
+      "variable": "EUR/USD",
+      "horizon": "+12 months (Nov 2022)",
+      "forecast_value": "1.14",
+      "source_quote": "EUR/USD 1.16 1.14 1.17 1.14 1.18"
+    },
+    {
+      "category": "fx",
+      "region": "Global",
+      "variable": "USD/JPY",
+      "horizon": "+12 months (Nov 2022)",
+      "forecast_value": "116",
+      "source_quote": "USD/JPY 114 113 112 116 112"
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "MSCI US index level",
+      "horizon": "12 months forward (Nov 2022)",
+      "forecast_value": "4320-4820",
+      "source_quote": "US ... Low bound 4.320 ... High bound 4.820"
+    },
+    {
+      "category": "equities",
+      "region": "Europe",
+      "variable": "MSCI Europe index level",
+      "horizon": "12 months forward (Nov 2022)",
+      "forecast_value": "1940-2120",
+      "source_quote": "Europe ... Low bound 1.940 ... High bound 2.120"
+    },
+    {
+      "category": "equities",
+      "region": "Global",
+      "variable": "MSCI World EPS growth",
+      "horizon": "2022",
+      "forecast_value": "+8%",
+      "source_quote": "EPS growth (+49% in 2021 for the MSCI World AC) should fade to single digits in 2022 (+8%)."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "WTI crude oil price",
+      "horizon": "2022",
+      "forecast_value": "$75-80/barrel",
+      "source_quote": "WTI (West Texas Intermediate) staying in the 75/80 USD range"
+    }
+  ],
+  "excluded_vague_count": 22
+}

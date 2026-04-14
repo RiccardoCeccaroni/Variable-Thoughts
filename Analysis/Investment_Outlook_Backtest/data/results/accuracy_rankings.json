@@ -1,0 +1,647 @@
+{
+  "_meta": {
+    "description": "Accuracy rankings derived from scored_predictions.json",
+    "last_updated": "2026-04-14",
+    "total_scored": 367,
+    "scoring_notes": "Ranked by median absolute error %. Lower is better. UK GDP updated per ONS Blue Book 2024 revision."
+  },
+  "overall_rankings": [
+    {
+      "rank": 1,
+      "company": "Vanguard",
+      "predictions_scored": 65,
+      "median_abs_error_pct": 17.1,
+      "mean_abs_error_pct": 61.3,
+      "within_10pct": 15,
+      "within_20pct": 39,
+      "exact_correct": 1,
+      "too_high": 29,
+      "too_low": 35,
+      "overshoot_pct": 45
+    },
+    {
+      "rank": 2,
+      "company": "Morgan Stanley Investment Management",
+      "predictions_scored": 16,
+      "median_abs_error_pct": 21.1,
+      "mean_abs_error_pct": 79.7,
+      "within_10pct": 5,
+      "within_20pct": 8,
+      "exact_correct": 1,
+      "too_high": 5,
+      "too_low": 10,
+      "overshoot_pct": 33
+    },
+    {
+      "rank": 3,
+      "company": "Amundi",
+      "predictions_scored": 109,
+      "median_abs_error_pct": 22.0,
+      "mean_abs_error_pct": 67.2,
+      "within_10pct": 24,
+      "within_20pct": 51,
+      "exact_correct": 6,
+      "too_high": 23,
+      "too_low": 80,
+      "overshoot_pct": 22
+    },
+    {
+      "rank": 4,
+      "company": "Schroders",
+      "predictions_scored": 30,
+      "median_abs_error_pct": 23.9,
+      "mean_abs_error_pct": 117.1,
+      "within_10pct": 9,
+      "within_20pct": 15,
+      "exact_correct": 2,
+      "too_high": 16,
+      "too_low": 12,
+      "overshoot_pct": 57
+    },
+    {
+      "rank": 5,
+      "company": "Morningstar",
+      "predictions_scored": 11,
+      "median_abs_error_pct": 31.0,
+      "mean_abs_error_pct": 169.6,
+      "within_10pct": 3,
+      "within_20pct": 4,
+      "exact_correct": 0,
+      "too_high": 4,
+      "too_low": 7,
+      "overshoot_pct": 36
+    },
+    {
+      "rank": 6,
+      "company": "PIMCO",
+      "predictions_scored": 66,
+      "median_abs_error_pct": 33.1,
+      "mean_abs_error_pct": 63.2,
+      "within_10pct": 16,
+      "within_20pct": 24,
+      "exact_correct": 4,
+      "too_high": 37,
+      "too_low": 25,
+      "overshoot_pct": 60
+    },
+    {
+      "rank": 7,
+      "company": "Fidelity International",
+      "predictions_scored": 11,
+      "median_abs_error_pct": 38.4,
+      "mean_abs_error_pct": 487.3,
+      "within_10pct": 0,
+      "within_20pct": 2,
+      "exact_correct": 0,
+      "too_high": 3,
+      "too_low": 8,
+      "overshoot_pct": 27
+    },
+    {
+      "rank": 8,
+      "company": "BlackRock",
+      "predictions_scored": 5,
+      "median_abs_error_pct": 42.9,
+      "mean_abs_error_pct": 63.7,
+      "within_10pct": 2,
+      "within_20pct": 2,
+      "exact_correct": 0,
+      "too_high": 3,
+      "too_low": 2,
+      "overshoot_pct": 60
+    },
+    {
+      "rank": 9,
+      "company": "JP Morgan Asset Management",
+      "predictions_scored": 15,
+      "median_abs_error_pct": 45.0,
+      "mean_abs_error_pct": 62.7,
+      "within_10pct": 4,
+      "within_20pct": 5,
+      "exact_correct": 1,
+      "too_high": 8,
+      "too_low": 6,
+      "overshoot_pct": 57
+    },
+    {
+      "rank": 10,
+      "company": "UBS Global Wealth Management",
+      "predictions_scored": 39,
+      "median_abs_error_pct": 52.6,
+      "mean_abs_error_pct": 91.6,
+      "within_10pct": 6,
+      "within_20pct": 12,
+      "exact_correct": 2,
+      "too_high": 30,
+      "too_low": 7,
+      "overshoot_pct": 81
+    }
+  ],
+  "category_rankings": {
+    "commodities": [
+      {
+        "company": "UBS Global Wealth Management",
+        "n": 4,
+        "median_abs_error_pct": 19.1,
+        "mean_abs_error_pct": 19.3
+      },
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 2,
+        "median_abs_error_pct": 22.0,
+        "mean_abs_error_pct": 22.0
+      },
+      {
+        "company": "Amundi",
+        "n": 6,
+        "median_abs_error_pct": 22.3,
+        "mean_abs_error_pct": 51.1
+      },
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 2,
+        "median_abs_error_pct": 50.2,
+        "mean_abs_error_pct": 50.2
+      }
+    ],
+    "credit": [
+      {
+        "company": "UBS Global Wealth Management",
+        "n": 3,
+        "median_abs_error_pct": 2.1,
+        "mean_abs_error_pct": 16.6
+      }
+    ],
+    "equities": [
+      {
+        "company": "UBS Global Wealth Management",
+        "n": 9,
+        "median_abs_error_pct": 15.4,
+        "mean_abs_error_pct": 74.7
+      },
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 4,
+        "median_abs_error_pct": 16.6,
+        "mean_abs_error_pct": 192.5
+      },
+      {
+        "company": "Amundi",
+        "n": 7,
+        "median_abs_error_pct": 18.3,
+        "mean_abs_error_pct": 15.9
+      },
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 2,
+        "median_abs_error_pct": 119.4,
+        "mean_abs_error_pct": 119.4
+      },
+      {
+        "company": "Fidelity International",
+        "n": 2,
+        "median_abs_error_pct": 312.3,
+        "mean_abs_error_pct": 312.3
+      }
+    ],
+    "fixed_income": [
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 2,
+        "median_abs_error_pct": 1.9,
+        "mean_abs_error_pct": 1.9
+      },
+      {
+        "company": "PIMCO",
+        "n": 2,
+        "median_abs_error_pct": 2.0,
+        "mean_abs_error_pct": 2.0
+      },
+      {
+        "company": "Amundi",
+        "n": 11,
+        "median_abs_error_pct": 23.8,
+        "mean_abs_error_pct": 40.7
+      },
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 5,
+        "median_abs_error_pct": 24.1,
+        "mean_abs_error_pct": 38.8
+      },
+      {
+        "company": "UBS Global Wealth Management",
+        "n": 2,
+        "median_abs_error_pct": 63.5,
+        "mean_abs_error_pct": 63.5
+      }
+    ],
+    "fx": [
+      {
+        "company": "Amundi",
+        "n": 10,
+        "median_abs_error_pct": 9.4,
+        "mean_abs_error_pct": 17.1
+      }
+    ],
+    "growth": [
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 3,
+        "median_abs_error_pct": 1.6,
+        "mean_abs_error_pct": 51.7
+      },
+      {
+        "company": "Schroders",
+        "n": 19,
+        "median_abs_error_pct": 14.3,
+        "mean_abs_error_pct": 80.2
+      },
+      {
+        "company": "Vanguard",
+        "n": 28,
+        "median_abs_error_pct": 24.7,
+        "mean_abs_error_pct": 62.5
+      },
+      {
+        "company": "Amundi",
+        "n": 36,
+        "median_abs_error_pct": 37.0,
+        "mean_abs_error_pct": 130.9
+      },
+      {
+        "company": "PIMCO",
+        "n": 32,
+        "median_abs_error_pct": 44.3,
+        "mean_abs_error_pct": 87.7
+      },
+      {
+        "company": "Fidelity International",
+        "n": 8,
+        "median_abs_error_pct": 69.2,
+        "mean_abs_error_pct": 587.5
+      },
+      {
+        "company": "Morningstar",
+        "n": 5,
+        "median_abs_error_pct": 72.0,
+        "mean_abs_error_pct": 341.8
+      },
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 4,
+        "median_abs_error_pct": 101.5,
+        "mean_abs_error_pct": 100.7
+      },
+      {
+        "company": "UBS Global Wealth Management",
+        "n": 18,
+        "median_abs_error_pct": 121.0,
+        "mean_abs_error_pct": 139.4
+      },
+      {
+        "company": "BlackRock",
+        "n": 2,
+        "median_abs_error_pct": 131.7,
+        "mean_abs_error_pct": 131.7
+      }
+    ],
+    "inflation": [
+      {
+        "company": "BlackRock",
+        "n": 3,
+        "median_abs_error_pct": 7.1,
+        "mean_abs_error_pct": 18.4
+      },
+      {
+        "company": "Vanguard",
+        "n": 16,
+        "median_abs_error_pct": 23.1,
+        "mean_abs_error_pct": 118.9
+      },
+      {
+        "company": "PIMCO",
+        "n": 29,
+        "median_abs_error_pct": 28.8,
+        "mean_abs_error_pct": 44.5
+      },
+      {
+        "company": "Morningstar",
+        "n": 3,
+        "median_abs_error_pct": 31.0,
+        "mean_abs_error_pct": 43.4
+      },
+      {
+        "company": "Schroders",
+        "n": 6,
+        "median_abs_error_pct": 37.5,
+        "mean_abs_error_pct": 33.1
+      },
+      {
+        "company": "Amundi",
+        "n": 17,
+        "median_abs_error_pct": 38.9,
+        "mean_abs_error_pct": 46.0
+      },
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 2,
+        "median_abs_error_pct": 55.5,
+        "mean_abs_error_pct": 55.5
+      }
+    ],
+    "labor": [
+      {
+        "company": "Morningstar",
+        "n": 2,
+        "median_abs_error_pct": 6.1,
+        "mean_abs_error_pct": 6.1
+      },
+      {
+        "company": "Vanguard",
+        "n": 10,
+        "median_abs_error_pct": 16.1,
+        "mean_abs_error_pct": 14.4
+      },
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 2,
+        "median_abs_error_pct": 51.1,
+        "mean_abs_error_pct": 51.1
+      }
+    ],
+    "monetary_policy": [
+      {
+        "company": "Vanguard",
+        "n": 10,
+        "median_abs_error_pct": 12.4,
+        "mean_abs_error_pct": 18.3
+      },
+      {
+        "company": "Schroders",
+        "n": 3,
+        "median_abs_error_pct": 15.9,
+        "mean_abs_error_pct": 15.3
+      },
+      {
+        "company": "PIMCO",
+        "n": 2,
+        "median_abs_error_pct": 17.1,
+        "mean_abs_error_pct": 17.1
+      },
+      {
+        "company": "Amundi",
+        "n": 22,
+        "median_abs_error_pct": 18.3,
+        "mean_abs_error_pct": 35.9
+      },
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 2,
+        "median_abs_error_pct": 24.9,
+        "mean_abs_error_pct": 24.9
+      }
+    ]
+  },
+  "year_rankings": {
+    "2018": [
+      {
+        "company": "Vanguard",
+        "n": 9,
+        "median_abs_error_pct": 7.1,
+        "mean_abs_error_pct": 12.3
+      },
+      {
+        "company": "Schroders",
+        "n": 8,
+        "median_abs_error_pct": 11.9,
+        "mean_abs_error_pct": 38.4
+      },
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 2,
+        "median_abs_error_pct": 27.7,
+        "mean_abs_error_pct": 27.7
+      },
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 4,
+        "median_abs_error_pct": 56.5,
+        "mean_abs_error_pct": 212.4
+      }
+    ],
+    "2018_midyear": [],
+    "2019": [
+      {
+        "company": "PIMCO",
+        "n": 21,
+        "median_abs_error_pct": 11.1,
+        "mean_abs_error_pct": 70.6
+      },
+      {
+        "company": "Schroders",
+        "n": 11,
+        "median_abs_error_pct": 12.5,
+        "mean_abs_error_pct": 59.1
+      },
+      {
+        "company": "UBS Global Wealth Management",
+        "n": 2,
+        "median_abs_error_pct": 28.7,
+        "mean_abs_error_pct": 28.7
+      },
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 2,
+        "median_abs_error_pct": 77.3,
+        "mean_abs_error_pct": 77.3
+      }
+    ],
+    "2020": [
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 6,
+        "median_abs_error_pct": 82.0,
+        "mean_abs_error_pct": 103.2
+      },
+      {
+        "company": "PIMCO",
+        "n": 14,
+        "median_abs_error_pct": 110.8,
+        "mean_abs_error_pct": 104.1
+      },
+      {
+        "company": "Vanguard",
+        "n": 7,
+        "median_abs_error_pct": 114.3,
+        "mean_abs_error_pct": 100.6
+      },
+      {
+        "company": "UBS Global Wealth Management",
+        "n": 18,
+        "median_abs_error_pct": 121.0,
+        "mean_abs_error_pct": 139.6
+      },
+      {
+        "company": "Schroders",
+        "n": 4,
+        "median_abs_error_pct": 146.2,
+        "mean_abs_error_pct": 131.1
+      }
+    ],
+    "2021": [
+      {
+        "company": "UBS Global Wealth Management",
+        "n": 9,
+        "median_abs_error_pct": 8.7,
+        "mean_abs_error_pct": 11.5
+      },
+      {
+        "company": "Vanguard",
+        "n": 9,
+        "median_abs_error_pct": 15.3,
+        "mean_abs_error_pct": 20.5
+      },
+      {
+        "company": "Amundi",
+        "n": 20,
+        "median_abs_error_pct": 23.6,
+        "mean_abs_error_pct": 38.8
+      },
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 4,
+        "median_abs_error_pct": 26.8,
+        "mean_abs_error_pct": 28.2
+      },
+      {
+        "company": "PIMCO",
+        "n": 20,
+        "median_abs_error_pct": 42.4,
+        "mean_abs_error_pct": 43.4
+      }
+    ],
+    "2022": [
+      {
+        "company": "UBS Global Wealth Management",
+        "n": 9,
+        "median_abs_error_pct": 32.1,
+        "mean_abs_error_pct": 39.6
+      },
+      {
+        "company": "Schroders",
+        "n": 2,
+        "median_abs_error_pct": 35.3,
+        "mean_abs_error_pct": 35.3
+      },
+      {
+        "company": "Vanguard",
+        "n": 10,
+        "median_abs_error_pct": 47.2,
+        "mean_abs_error_pct": 45.1
+      },
+      {
+        "company": "PIMCO",
+        "n": 5,
+        "median_abs_error_pct": 53.8,
+        "mean_abs_error_pct": 56.7
+      },
+      {
+        "company": "Amundi",
+        "n": 25,
+        "median_abs_error_pct": 56.7,
+        "mean_abs_error_pct": 54.5
+      },
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 3,
+        "median_abs_error_pct": 96.5,
+        "mean_abs_error_pct": 75.6
+      }
+    ],
+    "2022_midyear": [
+      {
+        "company": "BlackRock",
+        "n": 2,
+        "median_abs_error_pct": 63.1,
+        "mean_abs_error_pct": 63.1
+      }
+    ],
+    "2023": [
+      {
+        "company": "JP Morgan Asset Management",
+        "n": 2,
+        "median_abs_error_pct": 4.0,
+        "mean_abs_error_pct": 4.0
+      },
+      {
+        "company": "PIMCO",
+        "n": 5,
+        "median_abs_error_pct": 9.1,
+        "mean_abs_error_pct": 15.0
+      },
+      {
+        "company": "Vanguard",
+        "n": 15,
+        "median_abs_error_pct": 17.5,
+        "mean_abs_error_pct": 117.7
+      },
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 3,
+        "median_abs_error_pct": 18.2,
+        "mean_abs_error_pct": 23.6
+      },
+      {
+        "company": "Amundi",
+        "n": 26,
+        "median_abs_error_pct": 32.5,
+        "mean_abs_error_pct": 112.9
+      },
+      {
+        "company": "Fidelity International",
+        "n": 6,
+        "median_abs_error_pct": 67.1,
+        "mean_abs_error_pct": 436.5
+      },
+      {
+        "company": "Morningstar",
+        "n": 5,
+        "median_abs_error_pct": 72.0,
+        "mean_abs_error_pct": 349.5
+      },
+      {
+        "company": "Schroders",
+        "n": 5,
+        "median_abs_error_pct": 89.2,
+        "mean_abs_error_pct": 392.3
+      }
+    ],
+    "2024": [
+      {
+        "company": "Vanguard",
+        "n": 15,
+        "median_abs_error_pct": 12.0,
+        "mean_abs_error_pct": 51.4
+      },
+      {
+        "company": "Amundi",
+        "n": 38,
+        "median_abs_error_pct": 16.5,
+        "mean_abs_error_pct": 59.2
+      },
+      {
+        "company": "Morgan Stanley Investment Management",
+        "n": 2,
+        "median_abs_error_pct": 19.0,
+        "mean_abs_error_pct": 19.0
+      },
+      {
+        "company": "Morningstar",
+        "n": 6,
+        "median_abs_error_pct": 21.2,
+        "mean_abs_error_pct": 19.6
+      }
+    ]
+  }
+}

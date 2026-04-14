@@ -1,0 +1,73 @@
+{
+  "company": "JP Morgan Asset Management",
+  "report_year": "2023",
+  "publication_date": "2023-01-01",
+  "forecast_period": "2023",
+  "predictions": [
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate terminal rate",
+      "horizon": "Spring 2023",
+      "forecast_value": "Pause at approximately 5%",
+      "source_quote": "I expect inflation pressures to subside in 2023 and allow the Fed to pause at 5% to see where things go from there."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "2023",
+      "forecast_value": "Below 4%",
+      "source_quote": "expect the 10 year US Treasury to remain below 4%."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings (year-over-year change)",
+      "horizon": "2023",
+      "forecast_value": "Decline of 10%-15%",
+      "source_quote": "our best guess is a 10%-15% y/y decline in S&P earnings in 2023."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 price bottom",
+      "horizon": "H1 2023",
+      "forecast_value": "Bottom in H1 2023, October 2022 lows to hold",
+      "source_quote": "I expect equity markets to bottom sometime in the first half of next year, and for the October 2022 lows to hold."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "ISM Manufacturing PMI",
+      "horizon": "Q1-Q2 2023",
+      "forecast_value": "Bottom in Q1/Q2 2023, at levels above 2008 and 2020",
+      "source_quote": "We expect a bottom in these manufacturing surveys in Q1/Q2 of 2023, and at levels that are above 2008 and 2020."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US durable goods inflation",
+      "horizon": "Early 2023",
+      "forecast_value": "Potential for deflation",
+      "source_quote": "US durable goods inflation is now roughly 0% with the potential for deflation in early 2023."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core inflation (shelter component)",
+      "horizon": "2023",
+      "forecast_value": "Dampen substantially as housing collapse feeds through",
+      "source_quote": "the collapse in housing (whose speed now rivals the housing decline during the double dip recession of the 1980's) should dampen inflation substantially in 2023."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Overall inflation trajectory",
+      "horizon": "2023",
+      "forecast_value": "Slow meaningfully",
+      "source_quote": "another reason why we believe that inflation will slow meaningfully in 2023."
+    }
+  ],
+  "excluded_vague_count": 10
+}

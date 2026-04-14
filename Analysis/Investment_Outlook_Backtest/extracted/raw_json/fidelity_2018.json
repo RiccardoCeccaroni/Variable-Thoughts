@@ -1,0 +1,17 @@
+{
+  "company": "Fidelity International",
+  "report_year": "2018",
+  "publication_date": "2017-12",
+  "forecast_period": "2018",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 index level",
+      "horizon": "End of decade (end 2019)",
+      "forecast_value": "2700",
+      "source_quote": "A few years ago, I predicted the US S&P500 to reach 2700 by the end of the decade. We are currently hovering around 2600. Since I see no fundamental reason to change my target, this suggests nominal upside of 3-4% between now and the end of decade, plus dividends."
+    }
+  ],
+  "excluded_vague_count": 12
+}

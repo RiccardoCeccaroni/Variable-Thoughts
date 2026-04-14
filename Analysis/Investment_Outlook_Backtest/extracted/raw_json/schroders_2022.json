@@ -1,0 +1,40 @@
+{
+  "company": "Schroders",
+  "report_year": "2022",
+  "publication_date": "2021-12-01",
+  "forecast_period": "2022",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "4.0%",
+      "source_quote": "Our forecast is for 2021 global GDP growth of 5.6% to be followed by 4.0% growth in 2022"
+    },
+    {
+      "category": "inflation",
+      "region": "Global",
+      "variable": "Global inflation (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "3.8%",
+      "source_quote": "We see global inflation at 3.4% for 2021 and rising to 3.8% in 2022"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England rate hike timing",
+      "horizon": "Dec 2021 - Feb 2022",
+      "forecast_value": "hike Dec 2021 and Feb 2022",
+      "source_quote": "We expect the BoE to raise rates in December 2021 and February 2022"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed first rate hike timing",
+      "horizon": "December 2022",
+      "forecast_value": "rate hike in December 2022",
+      "source_quote": "a patient Fed is expected to raise rates in December 2022 after fully tapering asset purchases in June"
+    }
+  ]
+}

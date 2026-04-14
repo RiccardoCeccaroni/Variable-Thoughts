@@ -1,0 +1,89 @@
+{
+  "company": "JP Morgan Asset Management",
+  "report_year": "2020",
+  "publication_date": "2019-11-26",
+  "forecast_period": "2020",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth",
+      "horizon": "2020",
+      "forecast_value": "Roughly 2% (downshift from 3% to 2% without recession)",
+      "source_quote": "In 2020, the U.S. economic expansion should enter its 12th year, having successfully downshifted from 3% growth to 2% growth without falling into recession."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "U-3 unemployment rate",
+      "horizon": "Q4 2020",
+      "forecast_value": "3.3%",
+      "source_quote": "the unemployment rate falling to 3.3% in Q4 2020 from 3.5% a year earlier."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "Average hourly earnings growth (year-over-year)",
+      "horizon": "2020",
+      "forecast_value": "3.0% to 3.5%",
+      "source_quote": "Despite this, wage growth will likely remain steady at between 3.0% and 3.5% year-over-year."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core PCE deflator (year-over-year)",
+      "horizon": "2020",
+      "forecast_value": "Gradually moving up to 2.0% from 1.7%",
+      "source_quote": "All of this should result in low and steady inflation, with the core consumption deflator gradually moving up to a 2.0% year-over-year gain from its recent pace of 1.7%."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "Monthly nonfarm payroll gains",
+      "horizon": "2020",
+      "forecast_value": "Roughly 130,000 per month",
+      "source_quote": "slow economic growth should translate into slow employment growth, with monthly job gains of roughly 130,000 in 2020 compared to 170,000 in 2019 and over 220,000 in 2018."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real disposable income growth",
+      "horizon": "2020",
+      "forecast_value": "Roughly 2.0%",
+      "source_quote": "Over the course of 2020, we expect real disposable income to climb by roughly 2.0%, as wages continue to outpace inflation and payrolls gradually expand."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate",
+      "horizon": "2020",
+      "forecast_value": "Unchanged (on pause)",
+      "source_quote": "the Fed will likely stay on pause until international economies stabilize."
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "Real GDP growth",
+      "horizon": "2020",
+      "forecast_value": "Just below 6%",
+      "source_quote": "While China's economic growth may dip below 6% due to cyclical and structural factors, monetary and fiscal easing over the past 18 months should allow it to stabilize just below that pace."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Federal budget deficit",
+      "horizon": "Fiscal year 2020",
+      "forecast_value": "Exceed $1 trillion",
+      "source_quote": "Fiscal 2020 will see the budget deficit exceed $1 trillion for the first time since 2012."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 operating EPS growth",
+      "horizon": "2020",
+      "forecast_value": "Around 1% to 2.5% (well below consensus of 9%)",
+      "source_quote": "Our top-down earnings model projects profit growth of around 1% next year under the assumption that profit margins fall to 10.6% by end-2020. If margins hover around 11%, our forecast improves to 2.5%."
+    }
+  ],
+  "excluded_vague_count": 7
+}

@@ -1,0 +1,49 @@
+{
+  "company": "BlackRock",
+  "report_year": "2023",
+  "publication_date": "2022-11",
+  "forecast_period": "2023 (6-12 months from November 2022)",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth",
+      "horizon": "Q3 2022 to Q3 2023",
+      "forecast_value": "approximately -2% (recession)",
+      "source_quote": "We estimate a 2% drop in GDP between Q3 2022 and Q3 2023."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US Core CPI inflation",
+      "horizon": "2023-2025",
+      "forecast_value": "persistently above 2% target; central banks stop hiking before inflation returns to 2%",
+      "source_quote": "We expect inflation to cool but stay persistently higher than central bank targets of 2%."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal Reserve policy rate hiking cycle",
+      "horizon": "2023",
+      "forecast_value": "Fed stops hiking and activity stabilizes in 2023, without inflation returning to 2%",
+      "source_quote": "We expect them to stop hiking and activity to stabilize in 2023."
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "6-12 months from November 2022",
+      "forecast_value": "long-term yields rising further as term premium returns",
+      "source_quote": "We see long-term yields rising further as term premium returns."
+    },
+    {
+      "category": "fixed_income",
+      "region": "UK",
+      "variable": "Bank of England policy rate",
+      "horizon": "6-12 months from November 2022",
+      "forecast_value": "market pricing of rate hikes is unrealistically hawkish; actual hikes will be less",
+      "source_quote": "We believe market pricing of the Bank of England's rate hikes is unrealistically hawkish in light of deteriorating growth."
+    }
+  ],
+  "excluded_vague_count": 21
+}

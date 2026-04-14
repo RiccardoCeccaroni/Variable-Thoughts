@@ -1,0 +1,89 @@
+{
+  "company": "Vanguard",
+  "report_year": "2021",
+  "publication_date": "2020-12",
+  "forecast_period": "2021 calendar year",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth (Q4/Q4)",
+      "horizon": "2021 calendar year",
+      "forecast_value": "5%",
+      "source_quote": "We expect growth of 5% in the U.S. and 5% in the euro area, with those economies making meaningful progress toward full employment levels in 2021."
+    },
+    {
+      "category": "growth",
+      "region": "Euro area",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2021 calendar year",
+      "forecast_value": "5%",
+      "source_quote": "In our base case, we expect that growth will be about 5% in 2021 and that GDP will return to its pre-virus level by the end of the year"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2021 calendar year",
+      "forecast_value": "9%",
+      "source_quote": "We expect the Chinese economy to rise 9% in 2021, supported by the continued recovery in domestic consumption and service sectors, as well as an improving external environment."
+    },
+    {
+      "category": "growth",
+      "region": "EM",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2021 calendar year",
+      "forecast_value": "6%",
+      "source_quote": "In emerging markets, we expect a more uneven and challenging recovery, with growth of 6%."
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "Real GDP growth (year-over-year)",
+      "horizon": "2021 calendar year",
+      "forecast_value": "7%–9%",
+      "source_quote": "Our central scenario pencils in U.K. growth of between 7% and 9%, which is slightly higher than the euro area, primarily because output is starting from a lower base."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "PCE Price Index (year-over-year)",
+      "horizon": "2021 calendar year",
+      "forecast_value": "1.6%–1.8%",
+      "source_quote": "These factors contribute to our expectations that inflation will trend lower in the second half of the year, bringing PCE for 2021 in the range of 1.6%–1.8% year over year"
+    },
+    {
+      "category": "inflation",
+      "region": "Euro area",
+      "variable": "Core CPI (year-over-year)",
+      "horizon": "2021 calendar year",
+      "forecast_value": "below 2%",
+      "source_quote": "inflation is still expected to remain subdued and well below the European Central Bank's (ECB's) 2% target throughout 2021"
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "CPI inflation (year-over-year)",
+      "horizon": "2021 calendar year",
+      "forecast_value": "approaching 2%",
+      "source_quote": "we expect inflation will approach the Bank of England's target of 2% over the next year."
+    },
+    {
+      "category": "labor",
+      "region": "US",
+      "variable": "U-3 unemployment rate",
+      "horizon": "end of 2021",
+      "forecast_value": "~5%",
+      "source_quote": "we anticipate a sharp acceleration in job growth, and an unemployment rate near 5% at the end of 2021."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate",
+      "horizon": "through at least 2023",
+      "forecast_value": "at zero lower bound",
+      "source_quote": "we believe the Fed will continue to use the tools at its disposal, including increasing the pace of asset purchases when needed and keeping interest rates at the zero lower bound."
+    }
+  ],
+  "excluded_vague_count": 24
+}

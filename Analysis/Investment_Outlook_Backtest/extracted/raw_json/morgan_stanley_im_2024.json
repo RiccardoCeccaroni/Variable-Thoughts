@@ -1,0 +1,41 @@
+{
+  "company": "Morgan Stanley Investment Management",
+  "report_year": "2024",
+  "publication_date": "2023-11-08",
+  "forecast_period": "2024",
+  "predictions": [
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "10-year U.S. Treasury yield",
+      "horizon": "end of 2024",
+      "forecast_value": "3.95%",
+      "source_quote": "Morgan Stanley forecasts 10-year yields on U.S. Treasurys at 3.95%, and DBR at 1.8% by the end of 2024."
+    },
+    {
+      "category": "fixed_income",
+      "region": "Europe",
+      "variable": "10-year German Bund (DBR) yield",
+      "horizon": "end of 2024",
+      "forecast_value": "1.8%",
+      "source_quote": "Morgan Stanley forecasts 10-year yields on U.S. Treasurys at 3.95%, and DBR at 1.8% by the end of 2024."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal Reserve first rate cut timing",
+      "horizon": "June 2024",
+      "forecast_value": "rate cuts begin June 2024",
+      "source_quote": "Morgan Stanley predicts that China will avoid the worst-case scenario, and that U.S. and European policymakers will begin cutting rates in June 2024"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Europe",
+      "variable": "ECB first rate cut timing",
+      "horizon": "June 2024",
+      "forecast_value": "rate cuts begin June 2024",
+      "source_quote": "Morgan Stanley predicts that China will avoid the worst-case scenario, and that U.S. and European policymakers will begin cutting rates in June 2024"
+    }
+  ],
+  "excluded_vague_count": 15
+}

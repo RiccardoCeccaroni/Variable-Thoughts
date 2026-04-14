@@ -1,0 +1,25 @@
+{
+  "company": "BlackRock",
+  "report_year": "2019",
+  "publication_date": "2019-11",
+  "forecast_period": "next 6-12 months (through mid-to-late 2020)",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "Global real GDP growth",
+      "horizon": "6-12 months (through late 2020)",
+      "forecast_value": "pickup in global growth",
+      "source_quote": "We expect a pickup in global growth in the next six to 12 months, as policy stimulus gradually filters through to the real economy."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate",
+      "horizon": "remainder of 2019",
+      "forecast_value": "one additional 25bp cut",
+      "source_quote": "We do expect the Fed to cut rates by a further quarter percentage point this year."
+    }
+  ],
+  "excluded_vague_count": 18
+}

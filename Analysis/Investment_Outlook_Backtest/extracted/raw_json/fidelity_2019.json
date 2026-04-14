@@ -1,0 +1,25 @@
+{
+  "company": "Fidelity International",
+  "report_year": "2019",
+  "publication_date": "2018-12",
+  "forecast_period": "2019",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings per share growth",
+      "horizon": "2019",
+      "forecast_value": "around 8-9%",
+      "source_quote": "In this more volatile environment, we expect US corporate earnings growth to slacken in 2019, but remain positive, at around 8 or 9 percent."
+    },
+    {
+      "category": "equities",
+      "region": "Australia",
+      "variable": "Sydney and Melbourne residential property prices",
+      "horizon": "2019",
+      "forecast_value": "flat to slightly down",
+      "source_quote": "I would expect residential property prices in Sydney and Melbourne to be flat to slightly down in 2019 which points to a more subdued year for residential property services and construction related companies."
+    }
+  ],
+  "excluded_vague_count": 18
+}

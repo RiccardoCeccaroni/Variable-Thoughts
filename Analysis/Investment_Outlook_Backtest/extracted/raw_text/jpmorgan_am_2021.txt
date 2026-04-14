@@ -1,0 +1,874 @@
+SOURCE: jpmorgan_am/jpmorgan_am_2021.pdf
+PAGES: 13
+
+--- PAGE 1 ---
+MARKET INSIGHTS
+Investment Outlook 2021
+Bridge over troubled waters UK | December 2020
+Post-Covid
+Pre-Covid
+AUTHORS
+IN BRIEF
+• Government and central bank support • Momentum to tackle climate change looks set
+appears to have carried economies through to increase in the year ahead. Governments
+the worst of the Covid-19 crisis, and the are likely to use regulatory levers to put the
+vaccine provides hope that an end is in sight onus on private capital.
+which should give policymakers the
+Karen Ward • Extremely low government bond yields mean
+Chief Market Strategist confidence to do more in the coming months. it’s time to rethink the 60:40 approach to
+for EMEA
+• The extraordinary debt burden for companies portfolio construction. Credit, real estate,
+and governments coming out of the pandemic infrastructure and macro funds could help
+is likely to result in an extended period of low provide income and diversification.
+interest rates and continued central bank
+• Our central case for 2021 is a vaccine rollout
+asset purchases.
+in the first half of the year, followed by a
+• In any rotation from winners to losers in robust recovery in the second half. However,
+Mike Bell markets, it will be important to discriminate there are risks to both sides of this scenario
+Global Market Strategist
+between cyclical and secular headwinds and and investors should be particularly vigilant
+tailwinds. of the risk of a return of inflation.
+• After a decade of US market dominance,
+it could be Asia’s turn to shine. Not only has
+the region been more successful in containing
+the pandemic, but structural growth prospects
+are also in its favour.
+Hugh Gimber
+Global Market Strategist
+
+--- PAGE 2 ---
+THE INVESTMENT OUTLOOK FOR 2021
+MONETARY AND FISCAL POLICY BRIDGED THE GAP IN ECONOMIC ACTIVITY
+Policy makers have worked hard to build bridges over the The bridges appear to be working
+tremendously troubled waters posed by the Covid-19 virus in
+Support measures appear, on the whole, to be working (EXHIBIT 2).
+2020 (EXHIBIT 1).
+Despite an unprecedented plunge in activity, unemployment has
+risen relatively modestly in Europe and has fallen back sharply in
+Globally, governments issued trillions of dollars of debt to provide
+the US. Corporate insolvencies have also been lower than might
+support to affected businesses and workers. Indeed, in the US, we
+have been anticipated.
+estimate that roughly 75% of the workers that lost their jobs actually
+received more from enhanced unemployment insurance than they
+previously received from income in employment. This helped fuel the
+Exhibit 2: Relatively few corporate bankruptcies suggest policy
+recovery when infections subsided in the summer.
+support is working
+UK AND US COMPANY BANKRUPTCIES
+Exhibit 1: Unprecedented monetary and fiscal coordination has Number of companies per quarter
+supported activity UK company bankruptcies US company bankruptcies
+GOVERNMENT BUDGET DEFICITS AND CENTRAL BANK GOVERNMENT BOND 8,000 US recession 18,000
+PURCHASES
+7,000 16,000
+% of nominal GDP, 2020 estimate
+2020 change in budget deficit as % of GDP Central banks' government bond 6,000 14,000
+purchases as % of GDP
+16 12,000
+5,000
+10,000
+14
+4,000
+8,000
+12
+3,000
+6,000
+10
+2,000
+4,000
+8
+1,000 2,000
+6
+0 0
+4 ’75 ’79 ’83 ’87 ’91 ’95 ’99 ’03 ’07 ’11 ’15 ’19
+2 Source: Administrative Office of the United States Courts, Refinitiv Datastream,
+UK Insolvency Service, J.P. Morgan Asset Management. Periods of “recession” are
+0 defined using US National Bureau of Economic Research (NBER) business cycle dates.
+UK US Eurozone Japan Data as of 17 November 2020.
+Source: Bank of England, Bank of Japan, Bloomberg, European Central Bank, IMF, US
+Federal Reserve, J.P. Morgan Asset Management. Budget deficits as % of GDP are And with news of viable vaccines we can now see the land on the other
+forecasts for 2020 from Bloomberg contributor composite. Central bank government
+side of the bridge. It may be some months away, depending on the
+bond purchases are J.P. Morgan Asset Management forecasts for 2020.
+Data as of 17 November 2020. speed at which the vaccines can be produced and distributed. But the
+fact that there’s an end in sight should give policymakers the
+confidence to keep extending their bridges, and corporates sufficient
+However, much of the developed world is dealing with new waves of
+hope to plough on through the difficult winter months.
+infections and new restrictions to contain the spread. It is certainly
+looking like a long and difficult winter. Our expectation, therefore, is that activity in developed economies will
+remain depressed in the first quarter of the year, and potentially the
+As a result, European policymakers are busy extending their bridges.
+second. However, from the second half we could see a meaningful
+The US is likely to follow suit. Many of the effective fiscal initiatives in
+bounce in activity, once the vaccines are rolled out, pent-up demand is
+the US ran out in the summer and, with infection rates likely to curtail
+unleashed and life starts to return to normal.
+the recovery through the winter months, a new fiscal package is
+desperately needed. This may be delayed until after the 5 January run-
+offs, which will dictate who takes the Senate. But a new fiscal package
+is likely.
+2 BRIDGE OVER TROUBLED WATERS
+
+--- PAGE 3 ---
+THE INVESTMENT OUTLOOK FOR 2021
+Bridges come at a future cost…for investors Investors will have to look across geographies and
+The extraordinary policy interventions have done a good job in asset classes to enhance returns
+supporting the economy. But they come at a price. The Institute for Being ahead of potential sectoral and style shifts might help enhance
+International Finance estimates that over the past year global returns. Assuming the news about vaccine efficacy and production
+government debt has increased by USD 8.4tn and non-financial capacity continues to be constructive, markets may look through near
+corporate debt has increased by USD 6.0tn. Does this mean a return to term economic weakness. Covid-19 generated considerable dispersion
+government austerity and low business investment that will weigh on between the stock prices of those companies that facilitated the shift
+the recovery? Not necessarily. As we discuss in the chapter The debt to life at home and those vulnerable to a need for social distancing.
+deluge, we think the main consequence will be an extended period of The valuation premium between global growth and value reached the
+low interest rates and continued asset purchases by the central banks. highest level since the dotcom boom. As we discuss in our chapter
+This will ease the burden of debt for issuers, but presents considerable Winners and losers, we should be cautious about the idea of an
+challenges for the returns on high quality fixed income. outright switch into value from growth. Instead, we would advocate
+picking apart the secular story from the cyclical one within both styles,
+Investors will also have to work hard to make sure the equities in
+and focusing on areas where current valuations are justified by the
+their portfolios are generating the returns they need. We start this
+outlook for earnings growth.
+new economic cycle with valuations that are higher than is normal
+coming out of a recession (EXHIBIT 3). The fall in real rates has Regional shifts in allocation are also worth considering. China has
+supported valuations. With interest rates closer to their nominal evaded the experience of recurrent waves seen elsewhere, seemingly
+floor, such a repeated boost looks unlikely in the years ahead. More thanks to the sophistication of its internal test and trace system and
+than ever, the emphasis will have to be on identifying the regions, the robustness of external border controls. As a result, it has bounced
+sectors and companies that have the strongest underappreciated back remarkably quickly to pre-crisis levels of activity. The
+earnings prospects. government’s recent five-year plan builds on this cyclical bounceback
+with a convincing structural programme that aims to transition the
+economy to consumer driven, internally generated growth. Add in the
+Exhibit 3: Valuations are richer today than coming out of the
+fact that the capital markets are maturing and we believe this could be
+last recession
+Asia’s decade for market performance, much like the way the US
+EQUITY AND CREDIT VALUATIONS AT THE START OF THE CYCLE dominated the last cycle.
+x, multiple (LHS); % point option-adjusted spread (RHS)
+April 2009 May 2020 Investors should also be increasingly mindful of how their portfolios
+25 Equity Credit 16 screen on environmental, social and governance factors. President-
+elect Joe Biden is expected to increase the momentum behind tackling
+14
+climate change, as we discuss in our chapter Global momentum
+20
+12 towards tackling climate change. Policymakers will be pulling on many
+different policy and regulatory levers to ensure that public and private
+10
+15 capital provides a solution to climate change.
+8
+Identifying reasonably valued opportunities for strong earnings growth
+10
+6
+is imperative – but not an unusual challenge for investors. What is
+4 more novel is the challenge we now face in constructing a balanced,
+5
+resilient portfolio. Core government bonds hold little appeal at such
+2
+deeply negative real interest rates, but abandoning them altogether
+0 0 could leave investors with a much more volatile portfolio. In Rethinking
+US Europe EM Global HY Global IG 60:40 we consider some ideas for portfolio construction.
+Source: Bloomberg Barclays, ICE BofA, MSCI, Refinitiv Datastream, Standard & Poor’s, And finally, after such an unprecedented year, we should not
+J.P. Morgan Asset Management. April 2009 and May 2020 mark the start of the last
+underestimate the risks. In our final chapter, we provide an overview
+two US cycles as defined by the trough in earnings per share estimates. US: S&P 500;
+Europe: MSCI Europe; EM: MSCI EM; Global HY: ICE BofA Global High Yield; Global of our Central projections and risks, in terms of both macro scenarios
+IG: Bloomberg Barclays Global Aggregate – Corporates. Data as of 17 November 2020. and portfolio ideas. The key upside risk is that the recovery takes hold
+more quickly and is more synchronised across regions than we have in
+our base case. The downside risk that has us most concerned is if it is
+inflation rather than growth that returns with gusto. Central banks
+would be forced to outline an exit strategy from their current stance
+much more quickly than the market expects. This would trouble the
+economic outlook but the challenges for the markets may be more
+acute, as we saw in the taper tantrum of 2013.
+J.P. MORGAN ASSET MANAGEMENT 3
+
+--- PAGE 4 ---
+THE INVESTMENT OUTLOOK FOR 2021
+THE DEBT DELUGE MEANS LOWER INTEREST RATES FOR EVEN LONGER
+Companies and governments have been forced to borrow trillions of Exhibit 4: Low interest rates will help governments grow into
+dollars to cover revenue shortfalls during the period in which Covid-19 their debts
+has restrained activity. Borrowing on such a large scale might have
+US FEDERAL DEBT OUTSTANDING
+been expected to put upward pressure on global interest rates. This % of nominal GDP, by fiscal year
+was prevented by the extraordinary interventions of the central banks. 160 16
+In the developed world, the central banks absorbed the entire new
+14
+140
+issuance of governments this year (EXHIBIT 1).
+12
+120
+Interventions were not limited to government bonds. The willingness 10 US nominal
+GDP 10-year
+of the Federal Reserve to buy even high yield credit gave investors the 100 8 moving average
+reassurance needed to search for yield in credit markets. This 6
+80
+underpinned prices across the fixed income space. 4
+60 2
+Central banks are unlikely to withdraw this support any time soon. US 10-year Treasury yield
+Structural inflation challenges in Europe and Japan suggest negative 40 0
+interest rates and ongoing asset purchases are likely to continue -2
+20
+through 2021 at least. -4
+0 -6
+In the US, the Federal Reserve’s (Fed’s) new average inflation target
+1915 ’25 ’35 ’45 ’55 ’65 ’75 ’85 ’95 ’05 ’15 1915 ’25 ’35 ’45 ’55 ’65 ’75 ’85 ’95 ’05 ’15
+paves the way for it to maintain easy monetary policy for some time.
+Aiming for a period of above-target inflation essentially delays the
+US NOMINAL GDP GROWTH AND 10-YEAR TREASURY YIELD
+point in the expansion at which the Fed might begin removing support,
+%, nominal GDP growth is % change year on year
+and this will create a ceiling for 10-year Treasury yields. In time, we
+160 16
+expect other central banks to adopt a similar framework.
+14
+140
+The long and short of it is that interest rates are likely to stay at these 12
+1l2e0vels for a considerable period of time. Indeed, we suspect we will see 10 US nominal
+GDP 10-year
+1 a 0 0 more muted version of the experience of the post-war period, in 8 moving average
+which the combination of yield curve control and financial repression
+6
+h8e0ld interest rates down despite the acceleration in nominal activity.
+4
+This enabled governments to grow out of their debts relatively easily
+60 2
+(EXHIBIT 4). US 10-year Treasury yield
+40 0
+As long as inflation stays benign this should be relatively -2
+s2t0raightforward for policymakers to deliver. But problems will arise if
+-4
+inflation returns with more gusto than it did in the last expansion. We
+0 -6
+don’t dismiss this risk. In the last expansion, the central banks faced a
+1915 ’25 ’35 ’45 ’55 ’65 ’75 ’85 ’95 ’05 ’15 1915 ’25 ’35 ’45 ’55 ’65 ’75 ’85 ’95 ’05 ’15
+considerable headwind given both banks and governments came out
+of the recession focused on a multi-year period of deleveraging. The
+Source: (Top) Haver Analytics, US Office of Management and Budget, J.P. Morgan Asset
+central banks had their foot on the accelerator, while the commercial Management. JPMAM forecast from 2020 onwards. (Bottom) BEA, Haver Analytics,
+banks and governments had their feet on the brake. We suspect Robert Shiller, J.P. Morgan Asset Management. Data as of 17 November 2020.
+governments will be much more relaxed about deficit reduction this
+time around.
+Despite this we remain fairly confident that inflation in the euro-
+zone and Japan will remain stuck at low levels. Their structural
+disinflationary problems appear to have become more entrenched
+in 2020.
+4 BRIDGE OVER TROUBLED WATERS
+
+--- PAGE 5 ---
+THE INVESTMENT OUTLOOK FOR 2021
+The US and UK may deserve greater scrutiny particularly when the Income-hungry investors will also be more dependent on the stocks in
+base effects become less favourable in the spring (EXHIBIT 5). their portfolio to provide them with dividend income. Of course, in
+2020, dividends were cut alongside interest rates, although the
+experience has varied across regions. UK and continental European
+Exhibit 5: Inflation may become a greater topic of conversation
+markets have been in the eye of the storm, while lower payout ratios
+when the base effects turn
+and higher usage of buybacks (which are generally halted before
+UK AND US HEADLINE INFLATION WITH FORECASTS companies alter dividend policy) have made for a much more resilient
+% change year on year income stream from US stocks.
+US UK
+Again, there is light at the end of the tunnel (EXHIBIT 6). In Europe,
+3.5 Forecast
+analyst revisions for future dividends have seen an especially strong
+3.0 bounceback after having bottomed in the summer. Meanwhile, industry
+2.5 flow data shows investor appetite for dividend-focused strategies
+globally improving steadily since August. Valuations are also attractive,
+2.0
+with high dividend stocks in developed markets trading at around two
+1.5 standard deviations below their long-term average valuation relative to
+growth stocks. From a sector perspective, financials and energy have
+1.0
+historically been two key sources of payouts. Following the ban on
+0.5 bank dividends across the UK and eurozone in 2020, generally robust
+capital positions should allow bank payouts to restart at some point
+0.0
+next year when regulators allow, while a recovery in oil prices would
+-0.5 also improve the outlook for energy. Yet we would caution against
+’13 ’14 ’15 ’16 ’17 ’18 ’19 ’20 ’21
+relying on history to identify the strongest dividend payers. Resilient
+dividends in areas such as utilities look well placed to maintain steady
+Source: BLS, ONS, J.P. Morgan Securities Research, J.P. Morgan Asset Management.
+Forecasts are from J.P. Morgan Securities Research and are from Q4 2020 onwards. growth, while some more cyclical areas including housebuilders are
+Data as of 17 November 2020. seeing a strong recovery – all of which points to a broader mix of
+dividend contributions going forward.
+This leaves us with an aversion to government bonds. But we are not
+of the view that they should be abandoned entirely. If interest rates do
+Exhibit 6: The outlook for dividends is improving
+not normalise over the coming years then at the next economic shock,
+DIVIDEND REVISION RATIOS
+whatever causes it, central banks such as the Bank of England and
+% net upgrades as proportion of total dividend estimate revisions, three-month
+Federal Reserve may have little choice but to use negative interest
+rolling average
+rates. A moderate allocation to long duration government bonds still
+US Europe ex-UK UK
+seems sensible as downside insurance given the returns that could be
+40
+achieved in such a shift to negative interest rates. Of course these
+bonds stand to suffer if the economic performance is more robust, but
+20
+in this scenario we would expect other assets in the portfolio, such as
+stocks, to compensate.
+0
+However, the role that Treasuries, Gilts and other developed market
+-20
+government bonds played in a portfolio may increasingly be played by
+investment grade and high-quality emerging market sovereigns. We
+-40
+return to this issue in our chapter Rethinking a 60:40 portfolio.
+-60
+-80
+’05 ’06 ’07 ’08 ’09 ’10 ’11 ’12 ’13 ’14 ’15 ’16 ’17 ’18 ’19 ’20
+Source: IBES, MSCI, Refinitiv Datastream, J.P. Morgan Asset Management.
+Data as of 17 November 2020.
+J.P. MORGAN ASSET MANAGEMENT 5
+
+--- PAGE 6 ---
+THE INVESTMENT OUTLOOK FOR 2021
+THE COVID WINNERS/LOSERS NARRATIVE COULD CHANGE
+The highly unusual nature of the Covid-19 recession has created stark Exhibit 8: Growth stocks benefitted from the shifts in spending in 2020
+differences between winners and losers. From a macro perspective,
+MSCI WORLD GROWTH AND VALUE PRICE RETURNS
+service sectors have suffered disproportionately from social distancing
+Index level, rebased to 100 in January 2020
+restrictions. But this misfortune has benefited some manufacturers as
+130
+households have diverted spending from experiences to goods
+120
+(EXHIBIT 7). This has also affected regional performance as countries
+with a high weight to services, and tourism in particular, have 110 Growth
+generally lagged their more manufacturing-heavy counterparts.
+100
+90
+Exhibit 7: People have spent where they could
+80
+US GOODS AND SERVICES CONSUMER SPENDING
+Value
+Nominal index level, rebased to 100 in January 2018 70
+120
+60
+Goods
+115
+50
+110 Jan ’20 Mar ’20 May ’20 Jul ’20 Sep ’20 Nov ’20
+105 Services Source: MSCI, Refinitiv Datastream, J.P. Morgan Asset Management.
+Data as of 16 November 2020.
+100
+With interest rates capped by the burden of debt, we see this outcome
+95
+as an upside risk rather than our central projection.
+90
+For now, we believe the key to successful allocation across equity
+85
+market sectors – and therefore across regions – will be to differentiate
+80 between secular and cyclical tailwinds and headwinds. For growth
+’18 ’19 ’20 sectors, the Covid-19 recession has been the catalyst for many years of
+Source: BEA, Refinitiv Datastream, J.P. Morgan Asset Management. technological advancement and adoption to be condensed into a few
+Data latest available as of 17 November 2020. quarters. We are confident that companies will allocate a greater
+portion of their resources towards technology going forward, and see
+Market performance was similarly bifurcated for much of 2020, as
+many beneficiaries from this secular shift, including areas profiting
+companies with a technology/online tilt benefited not only from their
+from advancements in semiconductor technology and the adoption of
+ability to grow earnings when most other sectors saw huge pressure
+cloud computing. In other cases, though, growth stock valuations
+on profits, but also from the decline in the discount rate used to
+appear to assume that behaviours will permanently reflect a Covid-
+calculate the present value of those future earnings streams
+constrained environment. Investors must ensure that the price they
+(EXHIBIT 8). In the summer, the gap in valuations between growth and
+are paying for any company reflects an earnings outlook and market
+value stocks reached levels not seen since the technology bubble.
+share that can be achieved in a post-Covid world, not just the highly
+Progress towards a vaccine has already changed this narrative as we unusual environment of this past year.
+move into 2021. On the day that the news broke of an effective
+The same debate of cyclical vs. secular can be used when assessing
+vaccine, global value stocks experienced their best day relative to
+the opportunities in value. In very simple terms, we expect companies
+growth stocks since records began. The key question for next year is
+and countries that have suffered most during the pandemic to be the
+how confident we can be that this shift from the winners to the losers
+biggest beneficiaries of a vaccine. Yet medical developments cannot
+will be sustained.
+remove all of the headwinds for every company. Take the energy
+Valuations alone might suggest there is more room for this rotation to sector, for example. An improvement in the economic outlook should
+run. Despite the very strong bounce in 2020’s laggards, such as clearly help to put upward pressure on oil prices as demand
+financials and energy, since the vaccine announcement, both sectors normalises, and energy stocks should benefit accordingly. But secular
+still lag broad indexes substantially year to date. Cheaper valuations headwinds remain as the world transitions away from dependence on
+are also seen in regions such as the UK and Europe that are more fossil fuel towards renewables (see Global momentum towards tackling
+tilted towards value sectors, while US indices look relatively more climate change). Careful stock selection will still be required.
+expensive given the ‘big tech’ tilt.
+In sum, progress towards a vaccine requires a much more balanced
+There may come a point at which we are looking at a more meaningful
+approach across styles, sectors and regions for next year. We expect
+outperformance of value vs. growth. But a precursor to that, in our
+the significant pressures on the Covid-19 laggards to ease, which in
+view, would be higher interest rates and a steeper government bond
+turn should catalyse a rotation across markets. But just as we avoided
+yield curve, which would be a headwind to growth stocks and would
+advocating an ‘all-in’ approach to growth in 2020, we do not see the
+help financials within the value style. This scenario would require a
+year ahead as the time to allocate indiscriminately towards only the
+greater acceleration in nominal GDP and a more rapid tapering of
+cheapest stocks. A vaccine will be a major step forward, but it will not
+central bank asset purchases than we have in our core scenario.
+cure all ailments.
+6 BRIDGE OVER TROUBLED WATERS
+
+--- PAGE 7 ---
+THE INVESTMENT OUTLOOK FOR 2021
+ASIA’S DECADE
+For investors, the last decade was dominated by US market Despite the fast-growing consumer base, the Asian economies
+performance. The period brought 10 years of standout returns from US and markets are still highly dependent on the dynamics in global
+assets and an appreciating US dollar. In our view, the next decade may manufacturing and trade. But what has been a disadvantage for
+be the Asian markets’ time to shine. the region in the recent years of trade conflict has been a relative
+strength recently as the global consumer diverted its spending from
+Crises often lead to secular shifts in market performance. The end of
+services to goods.
+the dotcom boom in 2000 marked the end of US growth
+outperformance, and was followed by a period of strong performance
+The yield opportunity
+for value, emerging markets and European equities. After the global
+financial crisis, the pendulum swung back in favour of the US. Due to the success in controlling the outbreak, the fiscal and monetary
+response to the Covid-19 crisis was significantly smaller in Asia than in
+Our expectation that we may see a similar shift this time is based on Europe and the US. As a consequence, central bank balance sheets are
+our macro outlook and structural changes that are taking place as less bloated and bond yields fell less than US Treasuries.
+Asia’s capital markets mature. The north Asian economies (China,
+Korea, Taiwan), which represent the bulk of the investable universe in Structural changes in the region’s bond market are further increasing
+Asia, have been more successful in containing the pandemic than the its appeal for global bond investors. In the past, restricted access and
+rest of the world. New daily Covid-19 cases per million people, even at limited currency convertibility prevented Asian bond markets from
+peak infection rates were just a fraction of those in other regions. Due playing a major role for global investors. But with the rising financing
+to the limited outbreaks and the ability to keep track of infections, needs of the region, this is changing rapidly. Following the opening of
+these economies appear to have put Covid-19 behind them. While the USD 15 trillion local renminbi bond market to overseas buyers,
+Europe and the US still face significant restrictions to contain the yield-starved international bond investors now have the opportunity to
+spread of the virus, China is already back to pre-crisis levels of activity invest in Chinese government bonds with yields north of 3%. As well as
+(EXHIBIT 9). offering higher yields, local renminbi bonds have a relatively low
+correlation to developed market bonds and zero return beta to global
+equities, potentially boosting portfolio diversification and enhancing
+Exhibit 9: China’s bounceback has been extraordinary risk-adjusted returns.
+REAL GDP LEVELS
+In the past 12 years, monthly return correlations between renminbi
+Index level, rebased to 100 at 1Q 2006
+bonds and global developed market bonds have been 0.1. With China’s
+150 Forecast 400
+US early success in containing the Covid-19 pandemic knocking its
+UK China economic cycle out of sync with the rest of the world, we would expect
+140 340
+Eurozone correlations to remain low for the time being. The fact that the
+renminbi remains to some degree managed by the authorities,
+130 280
+reducing currency volatility, also increases the appeal.
+120 220
+110 160
+100 100
+90 40
+’06 ’08 ’10 ’12 ’14 ’16 ’18 ’20 ’22
+Source: BEA, Bloomberg, Eurostat, National Bureau of Statistics of China, ONS,
+J.P. Morgan Asset Management. Forecasts are from Bloomberg contributor composite.
+Data as of 17 November 2020.
+J.P. MORGAN ASSET MANAGEMENT 7
+
+--- PAGE 8 ---
+THE INVESTMENT OUTLOOK FOR 2021
+The growth opportunity
+North Asian equity markets outperformed many of the developed expected to eliminate 90% of tariffs between the trading partners if all
+world indices in 2020, in large part thanks to their economic components of the product are manufactured inside the free trade
+outperformance and relatively high weighting of tech and online area. This rule of origin provision could deepen the supply chains
+companies. We expect this outperformance to continue for two inside the region since it incentivises the signatories to build the full
+reasons. In the near term, the outperformance reflects the fact that supply chain inside the new free trade zone.
+developed world activity will remain constrained until the vaccines are
+As a result, Asian companies will be provided with plenty of
+widely distributed and life can return to normal.
+opportunities to grow in the coming years. China’s push to move
+In the longer term, structural growth prospects in Asia are further up the value chain, presented in the latest five-year plan,
+underpinned by urbanisation and the growth of the middle class. should facilitate its transition to a high-income economy and help it to
+These trends are set to continue in the next decade in three of the weather the negative impact of deteriorating demographics. Asian
+most populous countries in the world – China, India, and Indonesia – equities had a strong run in 2020; nevertheless, our 2021 Long-Term
+creating large domestic and consumer-led markets. The new free trade Capital Market Assumptions suggest Asian equities still have the
+agreement (Regional Comprehensive Economic Partnership) covers 10 potential to outperform developed markets by 2.2% a year over the
+ASEAN countries and China, Japan, Korea, Australia and New Zealand. next 10 to 15 years (EXHIBIT 10). Mounting signs that the 10-year-old
+These 15 nations represent almost a third of global GDP. This should US dollar bull market is fading further reinforce our view that the next
+further support the long-term growth outlook. The agreement is 10 years might go down as the Asian decade.
+Exhibit 10: Asian stocks look favourable on our long-term projections
+2021 LONG-TERM CAPITAL MARKET ASSUMPTIONS EXPECTED RETURNS IN COMING 10-15 YEARS
+%, annualised returns in GBP
+Equity Fixed income Alternatives Returns since 2009
+16
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+-4
+UK govt. UK Gilts UK cash UK investment- US large Global Eurozone UK core Asia ex-Japan EM equity UK large cap
+inflation-linked grade corporate cap infrastructure large cap real estate
+Gilts bonds
+Source: 2021 Long-Term Capital Market Assumptions, J.P. Morgan Multi-Asset Solutions, J.P. Morgan Asset Management. Returns are nominal and in GBP. Past returns are calculated
+from the start of 2009 up to the end of October 2020, or the most recent available data. The projections in the chart above are based on J.P. Morgan Asset Management’s proprietary
+long-term capital market assumptions (10-15 years) for returns of major asset classes. The resulting projections include only the benchmark return associated with the portfolio and
+do not include alpha from the underlying product strategies within each asset class. The assumptions are presented for illustrative purposes only. Data as of 31 October 2020.
+8 BRIDGE OVER TROUBLED WATERS
+
+--- PAGE 9 ---
+THE INVESTMENT OUTLOOK FOR 2021
+GLOBAL MOMENTUM TOWARDS TACKLING CLIMATE CHANGE
+For much of the last few years, tackling climate change appeared to Exhibit 11: All regions will have to intensify efforts to meet their
+be just a European priority. European policymakers have certainly climate objectives
+led the charge: even before the US’s withdrawal from the Paris
+EMISSIONS TARGETS
+Agreement, the EU had set more ambitious reduction targets and
+MtCO2e/year
+had made more progress towards meeting them. Moreover, their
+China US EU
+efforts have intensified in 2020 with the Commission’s commitment
+16,000
+to step up its green investments as part of its Green Deal and spend
+Net zero targets
+14,000
+30% of the EU’s flagship recovery fund on green initiatives.
+12,000
+As we look to 2021, we see an increase in global momentum on
+10,000
+tackling climate change which could be formalised during the 26th
+United Nations Climate Change Conference, also known as COP26, 8,000
+which will take place in Glasgow on November 2021. This could have 6,000
+far reaching implications for the way we live, produce and consume,
+4,000
+which will affect the investment landscape.
+2,000
+The election of Joe Biden in the US is an important contributor to our
+0
+expectations of increased momentum. The president-elect has stated
+1990 2000 2010 2020 2030 2040 2050 2060
+that rejoining the Paris Agreement will be a day one priority. In
+addition to adopting and leading a multilateral approach on climate Source: ClimateActionTracker, J.P. Morgan Asset Management. MtC02e is metric tons
+of carbon dioxide equivalent. Data as of 31 October 2020.
+change abroad, Biden has ambitions to address climate change at
+home with the signature of a series of executive orders to ensure
+that ‘the US achieves a 100% clean energy economy and reaches The expected flood of green infrastructure projects in the next few
+net-zero emissions no later than 2050’. However as Joe Biden will years, to the tune of several trillion dollars, presents significant
+more than probably have to govern the country with a divided opportunities for investors in equity, fixed income and real assets.
+congress he will need to focus on fiscal ‘carrots’ to achieve its climate The relatively young green bond market and its rapidly growing
+objectives goal instead of ‘sticks’ (such as use of relevant taxes) in issuance globally provide a useful indicator of how this opportunity
+order to win Republicans’ support. may evolve (EXHIBIT 12). Demand for green bonds is likely to remain
+supported by regulatory levers. Central banks, such as the ECB, which
+China has also stepped up its intent this year as it prioritised increasingly see climate change as part of their mandate, are also
+sustainable growth as part of its new five-year plan, and has set out discussing the role of green bonds in their broad monetary policy
+a target to become carbon-neutral by 2060. While this may seem operations, which may give a relative price advantage to green bonds
+less ambitious than the EU’s and Biden’s 2050 target it would imply over other bonds with similar ratings and maturities.
+a significant step change relative to the trajectory China has been
+on so far. More focus will be placed on the quality over quantity of
+Exhibit 12: Green bond issuance is expected to continue
+economic growth – with increasing measures to address carbon
+growing strongly
+emissions and environmental protections.
+GREEN BOND ISSUANCE BY REGION
+EXHIBIT 11 shows how far the EU, US and China currently are from USD billions
+these emissions objectives they have set themselves. Efforts will have 300
+Africa
+to intensify meaningfully in the coming years. For governments, this Latin America
+provides an opportunity to kill two birds with one stone – to both 250 Supranational
+green and revive their economies. High levels of public debt may Asia Pacific
+North America
+restrain spending ambitions, but that is likely to mean policymakers 200
+Europe
+use regulatory levers to ensure private capital is a core part of the
+solution. Again, this is something investors need to understand. 150
+100
+50
+0
+2012 2013 2014 2015 2016 2017 2018 2019
+Source: Climate Bonds Initiative, J.P. Morgan Asset Management.
+Data as of 17 November 2020.
+J.P. MORGAN ASSET MANAGEMENT 9
+
+--- PAGE 10 ---
+THE INVESTMENT OUTLOOK FOR 2021
+RETHINKING THE 60:40 PORTFOLIO
+Government bonds used to provide both an income and the prospect Chinese government bonds offer one potential solution, with a 2-3%
+of strong positive returns during a recession. Balancing equity yield depending on duration, next to no correlation with global equities
+exposure with significant government bond exposure therefore and the potential for long-term currency appreciation. Flexible fixed
+became a core tenet of portfolio construction. But today, with such low income strategies with an absolute return objective could also help.
+starting yields, government bonds offer little income or upside
+Outside of fixed income, real assets such as real estate and
+potential, forcing investors to rethink their approach to both
+particularly infrastructure can offer more attractive yields in return
+diversification and income generation.
+for low liquidity. While real estate has clearly come under pressure
+In the next decade, a traditional UK market 60:40 stock-bond because of Covid, we don’t believe people will be working from home
+allocation is expected to earn only around 4% a year (2021 LTCMA forever, given that one of the key benefits of offices – having
+estimate). But many investors require higher yields and higher returns everyone in the same place at the same time – cannot easily be
+than that from their portfolios. replaced. Given office floor space requirement is driven by peak
+demand, say on a Monday, post-pandemic demand may prove more
+Seeking higher income robust than some fear. Nor will all shopping be done online; however,
+just as the rise in online shopping creates a challenge for some retail
+EXHIBIT 13 shows a range of fixed income asset classes offering
+properties, it also creates an opportunity in warehouses.
+income and their correlation with global equities. While higher yields
+are available to investors prepared to look beyond developed market
+Core infrastructure has demonstrated remarkably consistent and
+government bonds, the challenge is building a fixed income portfolio
+defensive income streams both during this recession and during the
+with sufficient yield without uncomfortably increasing the correlation
+last financial crisis. Given yields close to 7% and the ability to access
+with equities.
+reliable contracted or regulated cash flows with the potential for
+capital upside and inflation protection, infrastructure could play an
+Investors may be comfortable shifting a higher proportion of their
+increasingly important part in investor portfolios for those who can
+fixed income allocation towards credit, on the assumption that any
+access it and are comfortable with the lack of underlying liquidity.
+downside will be capped by central bank intervention. However, we
+caution against abandoning a focus on fundamentals. Given the
+ongoing near-term uncertainties, investors making their first steps out
+of government bonds into the credit markets may benefit from
+focusing on the highest-quality segments. We are also mindful that the
+dependence on central bank support gives rise to risks of taper
+tantrum-style events of the type seen in 2013.
+Exhibit 13: Investors will need to look across the piste to get the best balance of yield and risk
+FIXED INCOME YIELDS
+%
+10
+8
+6
+4
+2
+0
+-2
+10 BRIDGE OVER TROUBLED WATERS
+y01
+ynamreG
+y01
+napaJ
+y01
+KU
+y01
+ylatI
+y01
+SU
+GI
+oruE
+BBB
+- GI
+oruE
+GI
+labolG
+GI
+KU
+GI
+SU
+BBB
+- GI
+KU
+BBB
+- GI
+SU
+BB
+- YH
+oruE
+YH
+oruE
+BB
+- YH
+SU
+YH
+labolG
+YH
+SU
+GI
+.voS
+DME
+anihC
+-
+lacol
+DME
+etaroproC
+DME
+lacol
+DME
+ngierevoS
+DME
+YH
+.voS
+DME
+Developed market Investment-grade bonds High yield bonds Emerging market bonds
+government bonds
+Return beta to MSCI World
+-0.1 0.0 -0.1 0.1 -0.2 0.1 0.2 0.3 0.2 0.2 0.2 0.2 0.4 0.5 0.4 0.5 0.5 0.3 0.0 0.4 0.1 0.4 0.5
+Source: Bloomberg, Bloomberg Barclays, ICE BofA, J.P. Morgan Economic Research, Refinitiv Datastream, J.P. Morgan Asset Management. Beta to MSCI World is calculated using
+monthly total returns since 2008. Indices used are as follows: Euro IG: Bloomberg Barclays Euro-Aggregate – Corporate; Global IG: Bloomberg Barclays Global Aggregate –
+Corporate; UK IG: Bloomberg Barclays Sterling Aggregate – Corporate; US IG: Bloomberg Barclays US Aggregate – Corporate; Euro HY: ICE BofA Euro Developed Markets Non-
+Financial High Yield Constrained Index; Global HY: ICE BofA Global High Yield Index; US HY: ICE BofA US High Yield Constrained Index; EMD Corporate: CEMBI Broad Diversified;
+EMD local: GBI-EM Global Diversified: EMD local – China: GBI-EM China: EMD Sovereign: EMBI Global Diversified; EMD Sov. IG: EMBI Global Diversified IG; EMD Sov. HY: EMBI Global
+Diversified HY. Data as of 17 November 2020.
+
+--- PAGE 11 ---
+THE INVESTMENT OUTLOOK FOR 2021
+Seeking diversification
+While adding higher yielding credit, real estate and infrastructure to a during bull markets while still providing downside protection during
+portfolio can help replace some of the income that government bonds bear markets (EXHIBIT 14).
+used to offer, while still providing some diversification from equities,
+In summary, while government bonds can still provide some
+investors may need to look elsewhere for the kind of downside
+diversification, they offer much less income and upside potential than
+protection traditionally offered by government bonds.
+they used to and are vulnerable to a potential pickup in inflation and/
+Of the hedge fund strategies available, macro funds have historically or growth. By adding real estate, infrastructure and macro strategies
+done the best job of consistently protecting portfolios during equity to portfolios, investors may be able to increase both their risk-adjusted
+bear markets. While return expectations for macro funds as a whole income and returns relative to a traditional stock and bond portfolio
+are relatively low, good manager selection may help to boost returns (EXHIBIT 15).
+Exhibit 14: Macro funds have tended to provide downside protection
+HEDGE FUND STYLE RETURNS DURING BEAR MARKETS
+% total return
+2000 bear market 2008 bear market 2020 bear market
+30
+20
+10
+0
+-10
+-20
+-30
+-40
+Macro Equity neutral Merger arbitrage Relative value Hedge fund weighted Event-driven Distressed Equity hedge Quant directional
+Source: Hedge Fund Research Indices (HFRI), Refinitiv Datastream, J.P. Morgan Asset Management. 2000 bear market is from 31 March 2000 to 31 October 2002, 2008 bear market
+is from 31 October 2007 to 28 February 2009, 2020 bear market is from 31 January 2020 to 30 April 2020. Hedge fund strategies are defined in the HFRI hedge fund strategy
+classification system. Data as of 17 November 2020.
+Exhibit 15: Adding alternatives may help improve the risk/ return profile of a portfolio
+EXPECTED RETURNS AND VOLATILITY FOR A GBP INVESTOR IN COMING 10-15 YEARS
+% annual compound return
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+J.P. MORGAN ASSET MANAGEMENT 11
+nruter
+dnuopmoC
+100% UK large cap
+60% UK large cap
+10% UK Gilts
+10% UK core real estate
+10% Global infrastructure equity
+10% Macro hedge funds 60% UK large cap
+40% UK Gilts
+100% UK Gilts
+Volatility
+Source: Long-Term Capital Market Assumptions, J.P. Morgan Asset Management Multi-Asset Solutions. Expected returns and volatility assumptions refer to the next 10-15 years.
+Forecasts are not a reliable indicator of current and future results. Data as of 31 October 2020.
+
+--- PAGE 12 ---
+THE INVESTMENT OUTLOOK FOR 2021
+CENTRAL PROJECTIONS AND RISKS
+Our core scenario is for a relatively robust recovery in the second half of 2021. But given the unprecedented nature of both the shock and the
+policy reaction we should not underestimate the risks. In our view, the main upside risk is that the vaccine is rolled out more quickly and the
+recovery is stronger and more synchronised globally. Our downside risk is centred on an unexpected rise in inflation which forces a more rapid
+withdrawal of monetary stimulus than the market currently expects.
+DOWNSIDE CENTRAL UPSIDE
+MACRO INFLATION/ TAPER TANTRUM H2 ROBUST RECOVERY STRONG, SYNCHRONISED GLOBAL
+SCENARIO GROWTH
+• Inflation rebounds more quickly than • Activity remains weak during winter
+expected. months. Vaccine rolled out in H1 • Medical solution is quick and easy
+• Central banks stop easing, turn more allowing full reopening of economy to distribute and facilitates quick
+hawkish. in Q3. Growth accelerates and reopening in H1.
+• Yield curves steepen causing debt broadens. • Pent-up demand from consumers
+burden to rise. • Central banks signal intent to keep stronger than expected.
+• Governments taper fiscal support. interest rates low well into the • Fiscal authorities announce large-
+cycle and continue asset purchases scale investment packages to spur
+• Companies focus on deleveraging.
+through H1 at least. (US 10yr growth and reduce inequality.
+Treasury yield to trade <1.5%).
+• Inflationary pressures build but not
+• Brexit deal and EU recovery fund enough to deter central banks from
+ratified. low-rate commitments.
+• Governments do not revert to • Multilateral coordination to promote
+austerity but do not act as major trade and investment to tackle
+source of new stimulus. climate change.
+• North Asian growth outperforms
+US/ eurozone.
+MARKET • Equities fall and underperform • Overweight to equities. • Sizeable overweight to equities.
+SCENARIO government bonds. • Real returns in government • Real returns in core fixed income
+• Fixed income challenged as carry bonds challenged. Fixed income strongly challenged. Yield curve
+trades unwind. HY losses most opportunities limited to IG and steepens. HY and EMD preferred.
+significant but IG also affected by selective high-quality HY and EMD. • Strong value and cyclical recovery,
+change in perception of central • Rotation of cyclical Covid winners/ particularly financials. Small cap
+bank backstop. Index-linked bonds losers (e.g. ecommerce to in-store outperforms.
+outperform. retail). • Europe/UK/ broader EM
+• EM underperforms across equities, • Secular themes remain supportive outperformance.
+fixed income and currencies. for segments of growth and • Dollar weakens materially on broad
+• Core infrastructure and real estate challenging for segments of value, basis.
+outperform. preventing a full style rotation.
+• Dollar strengthens. • Asian equities and fixed income
+outperform.
+• Long-term opportunity for
+reasonably valued companies
+providing solutions to climate
+change.
+• Focus on companies that screen well
+on ESG characteristics.
+• Focus on alternative diversifiers and
+income-producing assets (macro
+funds, real assets).
+• Dollar weakens gradually on broad
+basis.
+12 BRIDGE OVER TROUBLED WATERS
+
+--- PAGE 13 ---
+EMEA MARKET INSIGHTS STRATEGY TEAM
+Karen Ward Maria Paola Toschi Ambrose Crofton, CFA
+Managing Director Executive Director Associate
+Chief Market Strategist for EMEA Global Market Strategist Global Market Strategist
+London Milan London
+Tilmann Galler, CFA Michael Bell, CFA Max McKechnie
+Executive Director Executive Director Associate
+Global Market Strategist Global Market Strategist Market Analyst
+Frankfurt London London
+Lucia Gutierrez Mellado Hugh Gimber, CFA
+Executive Director Vice President
+Global Market Strategist Global Market Strategist
+Madrid London
+Vincent Juvyns Jai Malhi, CFA
+Executive Director Associate
+Global Market Strategist Global Market Strategist
+Luxembourg London
+The Market Insights program provides comprehensive data and commentary on global markets without reference to products. Designed as a tool to help clients understand the
+markets and support investment decision-making, the program explores the implications of current economic data and changing market conditions. For the purposes of MiFID
+II, the JPM Market Insights and Portfolio Insights programs are marketing communications and are not in scope for any MiFID II / MiFIR requirements specifically related to
+investment research. Furthermore, the J.P. Morgan Asset Management Market Insights and Portfolio Insights programs, as non-independent research, have not been prepared in
+accordance with legal requirements designed to promote the independence of investment research, nor are they subject to any prohibition on dealing ahead of the dissemination
+of investment research.
+This document is a general communication being provided for informational purposes only. It is educational in nature and not designed to be taken as advice or a recommendation
+for any specific investment product, strategy, plan feature or other purpose in any jurisdiction, nor is it a commitment from J.P. Morgan Asset Management or any of its subsidiaries
+to participate in any of the transactions mentioned herein. Any examples used are generic, hypothetical and for illustration purposes only. This material does not contain sufficient
+information to support an investment decision and it should not be relied upon by you in evaluating the merits of investing in any securities or products. In addition, users should make
+an independent assessment of the legal, regulatory, tax, credit, and accounting implications and determine, together with their own professional advisers, if any investment mentioned
+herein is believed to be suitable to their personal goals. Investors should ensure that they obtain all available relevant information before making any investment. Any forecasts, figures,
+opinions or investment techniques and strategies set out are for information purposes only, based on certain assumptions and current market conditions and are subject to change
+without prior notice. All information presented herein is considered to be accurate at the time of production, but no warranty of accuracy is given and no liability in respect of any error
+or omission is accepted. It should be noted that investment involves risks, the value of investments and the income from them may fluctuate in accordance with market conditions and
+taxation agreements and investors may not get back the full amount invested. Both past performance and yields are not a reliable indicator of current and future results. J.P. Morgan
+Asset Management is the brand for the asset management business of JPMorgan Chase & Co. and its affiliates worldwide. To the extent permitted by applicable law, we may record
+telephone calls and monitor electronic communications to comply with our legal and regulatory obligations and internal policies. Personal data will be collected, stored and processed
+by J.P. Morgan Asset Management in accordance with our privacy policies at https://am.jpmorgan.com/global/privacy. This communication is issued by the following entities: in the
+United Kingdom by JPMorgan Asset Management (UK) Limited, which is authorized and regulated by the Financial Conduct Authority; in other European jurisdictions by JPMorgan Asset
+Management (Europe) S.à r.l.; in Hong Kong by JPMorgan Asset Management (Asia Pacific) Limited, or JPMorgan Funds (Asia) Limited, or JPMorgan Asset Management Real Assets
+(Asia) Limited; in Singapore by JPMorgan Asset Management (Singapore) Limited (Co. Reg. No. 197601586K), this advertisement or publication has not been reviewed by the Monetary
+Authority of Singapore; in Taiwan by JPMorgan Asset Management (Taiwan) Limited; in Japan by JPMorgan Asset Management (Japan) Limited which is a member of the Investment
+Trusts Association, Japan, the Japan Investment Advisers Association, Type II Financial Instruments Firms Association and the Japan Securities Dealers Association and is regulated
+by the Financial Services Agency (registration number “Kanto Local Finance Bureau (Financial Instruments Firm) No. 330”); in Australia to wholesale clients only as defined in section
+761A and 761G of the Corporations Act 2001 (Cth) by JPMorgan Asset Management (Australia) Limited (ABN 55143832080) (AFSL 376919); in Brazil by Banco J.P. Morgan S.A.; in Canada
+for institutional clients’ use only by JPMorgan Asset Management (Canada) Inc., and in the United States by J.P. Morgan Institutional Investments, Inc., member of FINRA; J.P. Morgan
+Investment Management Inc. or J.P. Morgan Alternative Asset Management, Inc. In APAC, distribution is for Hong Kong, Taiwan, Japan and Singapore. For all other markets in APAC,
+to intended recipients only.
+Copyright 2020 JPMorgan Chase & Co. All rights reserved.
+All illustrations are property of JPMorgan Chase & Co. unless otherwise stated.
+LV–JPM52994 | 12/20 | 0903c02a82a6eff5

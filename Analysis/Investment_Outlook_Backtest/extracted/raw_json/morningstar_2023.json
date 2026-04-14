@@ -1,0 +1,66 @@
+{
+  "company": "Morningstar",
+  "report_year": "2023",
+  "publication_date": "2022-12",
+  "forecast_period": "2023",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth",
+      "horizon": "2022",
+      "forecast_value": "2.0%",
+      "source_quote": "We expect a GDP growth rate of 2.0% for 2022 and 0.7% for 2023."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth",
+      "horizon": "2023",
+      "forecast_value": "0.7%",
+      "source_quote": "We expect a GDP growth rate of 2.0% for 2022 and 0.7% for 2023."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Recession probability",
+      "horizon": "2023",
+      "forecast_value": "30%-50%",
+      "source_quote": "A formal recession in 2023 remains a 30%-50% possibility, given our expectations that GDP growth in the first half of the year is close to zero."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "GDP growth H1 2023",
+      "horizon": "H1 2023",
+      "forecast_value": "~0%",
+      "source_quote": "A formal recession in 2023 remains a 30%-50% possibility, given our expectations that GDP growth in the first half of the year is close to zero."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Housing CPI component annual increase",
+      "horizon": "2023",
+      "forecast_value": "7%",
+      "source_quote": "We now expect the housing component of the Consumer Price Index to increase 7% in 2023, compared with 5.75% previously."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Average inflation (CPI)",
+      "horizon": "2023-2026",
+      "forecast_value": "1.8%",
+      "source_quote": "Combining these factors with monetary policy tightening, we expect inflation to average just 1.8% over 2023-26."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "Core CPI MoM observation (not a prediction)",
+      "horizon": "October 2022",
+      "forecast_value": "0.2%",
+      "source_quote": "Core inflation in terms of the CPI surprised on the downside in October at 0.2% month over month.",
+      "not_scoreable": true,
+      "reason": "Observation about past data, not a forward prediction"
+    }
+  ]
+}

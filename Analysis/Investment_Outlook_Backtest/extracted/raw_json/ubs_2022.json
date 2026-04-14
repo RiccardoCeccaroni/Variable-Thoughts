@@ -1,0 +1,81 @@
+{
+  "company": "UBS Global Wealth Management",
+  "report_year": "2022",
+  "publication_date": "2021-12-17",
+  "forecast_period": "2022 calendar year (June and December targets)",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 price level",
+      "horizon": "June 2022",
+      "forecast_value": "5,000",
+      "source_quote": "Our S&P 500 price targets are 5,000 for June 2022 and 5,100 for December 2022."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 price level",
+      "horizon": "December 2022",
+      "forecast_value": "5,100",
+      "source_quote": "Our S&P 500 price targets are 5,000 for June 2022 and 5,100 for December 2022."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth",
+      "horizon": "2022 calendar year",
+      "forecast_value": "4.5%",
+      "source_quote": "our economics team expects robust economic growth of 4.5% in 2022 and solid growth of 2.9% in 2023."
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth",
+      "horizon": "2023 calendar year",
+      "forecast_value": "2.9%",
+      "source_quote": "our economics team expects robust economic growth of 4.5% in 2022 and solid growth of 2.9% in 2023."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings per share",
+      "horizon": "2022 calendar year",
+      "forecast_value": "USD 235 (12% growth)",
+      "source_quote": "we now expect 2022 EPS of USD 235 (12% growth) up from USD 233 previously."
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings per share",
+      "horizon": "2023 calendar year",
+      "forecast_value": "USD 255 (9% growth)",
+      "source_quote": "We are also introducing a 2023 EPS estimate of USD 255 (9% growth)"
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "10-year US Treasury yield",
+      "horizon": "June 2022",
+      "forecast_value": "2.0%",
+      "source_quote": "Our fixed income team's expectations for an increase in longer-term interest rates (10-year Treasury yield to reach 2% by June)"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate",
+      "horizon": "End of 2022",
+      "forecast_value": "~0.8% (approximately three 25bp hikes)",
+      "source_quote": "the futures markets are suggesting that the Fed funds rate will rise from 0.1% to about 0.8% by the end of 2022. That equates to about three rate hikes of a quarter percentage point each."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "WTI crude oil price",
+      "horizon": "Mid-2022",
+      "forecast_value": "USD 82/barrel",
+      "source_quote": "Our commodity team believes spot oil prices should reach USD 82 by mid-year."
+    }
+  ],
+  "excluded_vague_count": 7
+}

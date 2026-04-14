@@ -1,0 +1,65 @@
+{
+  "company": "UBS Global Wealth Management",
+  "report_year": "2023",
+  "publication_date": "2022-12",
+  "forecast_period": "2023 calendar year",
+  "predictions": [
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "S&P 500 earnings growth",
+      "horizon": "2023 calendar year",
+      "forecast_value": "-4% (4% earnings contraction)",
+      "source_quote": "CIO is looking for a 4% earnings contraction in the US"
+    },
+    {
+      "category": "equities",
+      "region": "Europe",
+      "variable": "European equity earnings growth",
+      "horizon": "2023 calendar year",
+      "forecast_value": "-10% (10% decline)",
+      "source_quote": "a 10% decline in Europe"
+    },
+    {
+      "category": "equities",
+      "region": "Asia",
+      "variable": "Asian equity earnings growth",
+      "horizon": "2023 calendar year",
+      "forecast_value": "+2% growth",
+      "source_quote": "2% growth in Asia for the full year"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal Reserve final rate hike timing",
+      "horizon": "Q1-Q2 2023",
+      "forecast_value": "Final rate hike by Q1 2023 or Q2 2023 at the latest",
+      "source_quote": "CIO expects the Federal Reserve, the European Central Bank, the Swiss National Bank, and the Bank of England to conduct their final rate hikes in the first quarter of 2023, or the second quarter at the latest."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Europe",
+      "variable": "ECB final rate hike timing",
+      "horizon": "Q1-Q2 2023",
+      "forecast_value": "Final rate hike by Q1 2023 or Q2 2023 at the latest",
+      "source_quote": "CIO expects the Federal Reserve, the European Central Bank, the Swiss National Bank, and the Bank of England to conduct their final rate hikes in the first quarter of 2023, or the second quarter at the latest."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England final rate hike timing",
+      "horizon": "Q1-Q2 2023",
+      "forecast_value": "Final rate hike by Q1 2023 or Q2 2023 at the latest",
+      "source_quote": "CIO expects the Federal Reserve, the European Central Bank, the Swiss National Bank, and the Bank of England to conduct their final rate hikes in the first quarter of 2023, or the second quarter at the latest."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Switzerland",
+      "variable": "SNB final rate hike timing",
+      "horizon": "Q1-Q2 2023",
+      "forecast_value": "Final rate hike by Q1 2023 or Q2 2023 at the latest",
+      "source_quote": "CIO expects the Federal Reserve, the European Central Bank, the Swiss National Bank, and the Bank of England to conduct their final rate hikes in the first quarter of 2023, or the second quarter at the latest."
+    }
+  ],
+  "excluded_vague_count": 10
+}

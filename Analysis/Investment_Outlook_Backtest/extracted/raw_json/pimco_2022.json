@@ -1,0 +1,68 @@
+{
+  "company": "PIMCO",
+  "report_year": "2022",
+  "publication_date": "2021-12",
+  "forecast_period": "2022",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "DM",
+      "variable": "Developed Markets real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "4.0%",
+      "source_quote": "We now expect DM GDP growth to decelerate from a 5.0% annual average pace in 2021 to 4.0% in 2022"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US core CPI inflation peak (YoY%)",
+      "horizon": "Q1 2022",
+      "forecast_value": "6.0%",
+      "source_quote": "core CPI (Consumer Price Index) inflation is likely to peak around 6.0% year-over-year in 1Q 2022"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US core CPI inflation year-end (YoY%)",
+      "horizon": "end-2022",
+      "forecast_value": "2.5% to 3.0%",
+      "source_quote": "before moderating back to 2.5-3.0% by year-end"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed asset purchase tapering end date",
+      "horizon": "2022",
+      "forecast_value": "by March 2022",
+      "source_quote": "The Federal Reserve is now likely to wind down its asset purchases by March",
+      "not_scoreable": true,
+      "reason": "Qualitative timing prediction - tapering actually ended March 2022, so this was correct"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed first rate hike timing",
+      "horizon": "2022",
+      "forecast_value": "soon after March 2022",
+      "source_quote": "start hiking rates soon after",
+      "not_scoreable": true,
+      "reason": "Qualitative timing prediction - first hike was March 16 2022, so this was correct"
+    },
+    {
+      "category": "growth",
+      "region": "BRIM",
+      "variable": "BRIM real GDP growth (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "4.1%",
+      "source_quote": "We forecast GDP-weighted growth across four of the major EM countries – Brazil, Russia, India, and Mexico (BRIM) – to slow to 4.1% year-over-year"
+    },
+    {
+      "category": "inflation",
+      "region": "BRIM",
+      "variable": "BRIM headline inflation (YoY%)",
+      "horizon": "2022",
+      "forecast_value": "6.2%",
+      "source_quote": "we forecast 2022 BRIM headline inflation at 6.2% y/y"
+    }
+  ]
+}

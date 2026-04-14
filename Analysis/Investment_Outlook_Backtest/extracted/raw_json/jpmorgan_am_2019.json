@@ -1,0 +1,25 @@
+{
+  "company": "JP Morgan Asset Management",
+  "report_year": "2019",
+  "publication_date": "2018-12",
+  "forecast_period": "2019",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "Real GDP growth",
+      "horizon": "Mid-2019",
+      "forecast_value": "Around 3% through mid-2019",
+      "source_quote": "U.S. economic growth should average around 3% through the middle of 2019 as fiscal stimulus continues to boost headline GDP."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Federal funds rate hikes",
+      "horizon": "2019",
+      "forecast_value": "At least one hike then pause",
+      "source_quote": "we expect the Fed will hike at least once in 2019 and then pause as U.S. growth softens amid waning fiscal stimulus."
+    }
+  ],
+  "excluded_vague_count": 8
+}

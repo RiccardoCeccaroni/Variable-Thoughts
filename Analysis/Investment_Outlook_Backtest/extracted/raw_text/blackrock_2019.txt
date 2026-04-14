@@ -1,0 +1,694 @@
+SOURCE: blackrock/blackrock_2019.pdf
+PAGES: 21
+
+--- PAGE 1 ---
+November 2019
+Global Outlook -
+Update
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL,
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+BIIM1119U-1000783-1/20
+
+--- PAGE 2 ---
+• Trade disputes and geopolitical frictions have become key drivers of
+the economy and markets. U.S. trade policy has become increasingly
+unpredictable. Recent geopolitical volatility –including attacks on Saudi
+oil infrastructure –underscores this message from our Midyear Outlook.
+• A temporary de-escalation in U.S.-China tensions and fading odds of the UK
+crashing out of the European Union has sparked a relief rally in risk assets.
+Yet elevated macro uncertainty is holding back economic activity, creating
+risks to the near term growth outlook. We expect a pickup in global growth in
+the next six to 12 months, as policy stimulus gradually filters through to the
+real economy. This suggests moderate risk-taking will likely be rewarded –
+even as we call for a greater focus on portfolio resilience.
+• Central banks face an increasingly challenged policy outlook. Monetary
+Summary
+policy ammunition is running low as interest rates are near historic lows.
+Difficult policy choices are resulting in more deeply divided decision-making
+bodies on both sides of the Atlantic.
+• We do not believe monetary policy alone is a cure for the fallout from global
+trade tensions. Supply chain disruptions could deliver a hit to productive
+capacity that fosters mildly higher inflation even as growth slows. This
+complicates the case for further policy easing.
+• Overall, we favor reducing risk amid the ongoing protectionist push.
+We prefer U.S. equities for their reasonable valuations and relatively high
+quality; and the min vol and quality factors for their defensive properties.
+We like EM debt for its coupon income. We are tactically overweight euro area
+sovereigns: a relatively steeper yield curve brightens their appeal even at
+low yields. And we see government bonds as important portfolio stabilizers.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-2/20
+2
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 3 ---
+Our 2019 investment themes
+Protectionist push – The substantial escalation in the U.S.-China conflict
+– and unpredictability of U.S. policy actions – have injected additional
+uncertainty into business planning, threatening to weaken economic activity.
+Market implication: We favor reducing risk, including raising some cash.
+Stretching the cycle - Central banks have pivoted to easing. The record-
+long U.S. economic expansion is supported by healthy household spending
+and looks unlikely to morph into a deeper downturn any time soon. Market
+implication: We like U.S. equities and EM debt.
+Raising resilience – Portfolio resilience is crucial at a time of elevated
+macro uncertainty. Market implication: Government bonds play an important
+role in building portfolio resilience – even at low yield levels.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-3/20
+3
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 4 ---
+What do you think will be the most important factor for
+U.S. equity market performance in 2020?
+1. The Fed
+2. Whether the economic cycle continues
+3. U.S.-China trade tensions
+4. The 2020 Election
+Poll Result
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-3/20
+3
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 5 ---
+Scoring our views
+Risk assets have performed strongly this year to date, but geopolitical tensions loom as an ongoing risk.
+Government bonds have played an important diversification role.
+Asset performance, 2019 second-half and year-to-date
+• We have been surprised by the
+Japan equity extent of the rally in government
+bonds, which have played a key role
+EM debt local
+in cushioning against equity selloffs.
+U.S. equity
+Eurozone govt bonds • Our overweight in U.S. equities has
+Asia ex Japan credit paid off. Yet rising geopolitical risks
+challenge our overall moderate pro-
+Global equity
+risk stance.
+EM debt hard
+U.S. credit • EM and Asia-ex-Japan equities
+have underperformed since
+U.S. Treasuries
+midyear, validating our shift to
+Europe equity
+an underweight stance.
+Global fixed income
+ H2 2019 to date
+• Japanese equities have
+U.S. TIPS
+ 2019 year-to-date
+outperformed, contrary to our
+Europe credit
+expectations, thanks to a lull in trade
+EM equity
+tensions that we see as temporary.
+Asia ex Japan equity
+-5 0 5 10 15 20
+Total Return (%)
+Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index.
+Source: BlackRock Investment Institute, with data from Thomson Reuters. October 2019 Notes: Data are through 22ndOctober 2019. Indexes or prices used are: MSCI Japan Index, J.P. Morgan
+GBI-Emerging Markets Index, MSCI USA Index, FTSE EMU Government Bond Index all maturities Index, Bloomberg Barclays Non-Japan Asia Credit Index, MSCI AC World Index, J.P. Morgan EMBI
+Global Diversified Index, Bloomberg Barclays U.S. Credit Index, Bloomberg Barclays U.S. Treasury Index, MSCI Europe Index, Bloomberg Barclays Global Aggregate Index, U.S. TIPS USD Index,
+Bloomberg Barclays Pan-European Aggregate: Corporate Index, MSCI EM Index, MSCI AC ASIA ex. Japan Index. Returns in USD. Indexesare unmanaged and not subject to fees.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-4/20
+4
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 6 ---
+Multi-decade long spread of globalization reversing
+The surge in trade protectionism marks a sharp reversal from decades of increasing openness.
+Our nowcast points to further deterioration.
+Global trade as % of GDP, 1960-2017 BlackRock trade nowcast vs. activity, 2006-2019
+60 15
+ BlackRock trade nowcast
+ Trade activity
+10
+50 e
+g
+n
+a
+h
+c
+t e 5
+n g
+e a
+c
+r e40 t n
+P e
+c
+r
+e
+p 0
+l
+a
+u
+n
+n
+30 A
+-5
+20 -10
+1960 1970 1980 1990 2000 2010 2017 2018 2019
+Sources: CPB World Trade Monitor, BlackRock Investment Institute, with data from RefinitivDatastream, October 2019. Notes: The chart on the left shows world trade as a percentage of global
+GDP. The chart on the right shows the three-month annualised percentage change in real global goods trade volume (in green) and a real-time "nowcast" (in orange) of where that trade volume
+may stand in three months' time. The nowcast uses principal component analysis based on 50 indicators, such as exports from South Korea and Taiwan, German manufacturing surveys and the
+export order components of global PMIs, to track global trade activity. Forward-looking estimates may not come to pass.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-5/20
+5
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 7 ---
+Shock to the system
+A key question is whether trade tensions will deliver a “demand shock” or a “supply shock” to the economy.
+Supply shocks would create upside inflation surprises, marking a change from an extended period of low inflation.
+U.S. inflation shocks, 1966-2019 Tariff impact on U.S. CPI, 2015-2019
+8 104
+4
+102
+le
+v
+t e
+n
+e
+l
+e
+c 0 c
+r
+e
+ir
+P
+P
+100
+-4
+ CPI index, tariff-affected goods
+ CPI, all other core goods
+-8 98
+1966 1979 1992 2005 2018 2015 2016 2017 2018 2019
+Sources: BlackRock Investment Institute and the U.S. Bureau of LaborStatistics, with data from RefinitivDatastream, October 2019. Notes: The chart on the left shows the difference between
+the actual and expected inflation outcomes. We use a statistical model to estimate inflation expectations back to 1966, drawing on the relationship between the actual U.S. Consumer Price
+Index (CPI), GDP and policy interest rates over trailing three-year periods. We use these regressions to estimate the expected annual inflation rate in three months' time. The chart on the right
+shows the change in the core goods US Consumer Price Index (CPI) from 2015 to 2019. The core goods CPI index is broken down intothe goods components affected by tariffs and all other
+core goods. We show the change since the first quarter of 2018 when additional tariffs on Chinese goods were first announced.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-6/20
+6
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 8 ---
+Persistent geopolitical uncertainty
+Ongoing trade frictions and simmering Gulf tensions underscore the risk of supply shocks.
+We view the latest détente in U.S.-China trade tensions as temporary as it does not address strategic issues.
+BlackRock Geopolitical Risk Indicators (BGRIs) for global trade and Gulf tensions, 2005-2019
+6
+ Gulf tensions
+ Global trade tensions
+4
+e
+r
+o
+c
+S 2
+I
+R
+G
+B
+0
+-2
+2005 2008 2011 2013 2016 2019
+Source: BlackRock Investment Institute, with data from RefinitivDatastream, October 2019. Notes: See BlackRock’s Geopolitical risk dashboard for full details. We identify specific words
+related to geopolitical risk in general and to our top-10 risks. We use text analysis to calculate the frequency of their appearance in the RefinitivBroker Report and Dow Jones Global Newswire
+databases as well as on Twitter. We then adjust for whether the language reflects positive or negative sentiment, and assign a score. A zero score represents the average BGRI level over its
+history from 2003 up to that point in time. A score of one means the BGRI level is one standard deviation above the average. We weigh recent readings more heavily in calculating the average.
+The BGRI’s risk scenario is for illustrative purposes only and does not reflect all possible outcomes as geopolitical risks are ever-evolving.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-7/20
+7
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 9 ---
+Stretching the cycle
+The U.S. economy entered the late stage of its expansion earlier this year.
+Below-trend growth and monetary policy easing suggests a reversal to mid-cycle conditions in coming months.
+Output gap and stages of the U.S. business cycle, 1965-2019
+4
+0
+)
+%
+(
+p
+a
+g
+t
+u
+p
+t
+u
+O
+-4
+-8
+1965 1971 1977 1983 1989 1995 2001 2007 2013 2019
+ U.S. recession  Recession  Early cycle  Mid cycle  Late cycle
+Source: BlackRock Investment Institute, with data from RefinitivDatastream, as of July 2019. Notes: This chart shows an estimate of the U.S. output gap (that is, GDP as a percentage of
+potential GDP). We have classified different time periods as belonging to certain stages of the business cycle. The classification of the stage is done via a 'cluster analysis' that groups together
+time periods where economic series have behaved in similar ways.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-8/20
+8
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 10 ---
+Even lower for even longer
+We see the Fed cutting rates further, but not by as much as what markets are pricing in.
+The ECB has launched open-ended asset purchases, cut rates and strengthened forward guidance.
+One–year forward central bank policy rate pricing
+2.5
+FED
+2 Fed funds
+rate midpoint
+1.5
+)
+%
+(
+e
+t 1
+a
+r
+t
+BOE rate
+s
+e BOE
+r
+e 0.5
+t
+n
+I
+0
+BOJ rate
+BOJ
+-0.5 ECB rate
+ECB
+-1
+January February March April May June July August September October
+There is no guarantee that any forecasts made will come to pass. Past performance is no guarantee of future results.
+Source: BlackRock Investment Institute with data from Bloomberg, as of 22ndOctober 2019. Notes: The chart shows the market pricing of policy rates in overnight index swaps on a one-year
+horizon starting in one year’s time.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-9/20
+9
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 11 ---
+A confident consumer
+The record-long U.S. economic expansion is underpinned by healthy household spending.
+and looks unlikely to morph into a deeper downturn in the near term.
+U.S. consumer sentiment vs manufacturing sector, 1985-2019
+3 1
+0.9
+2
+0.8
+0.7
+1
+0.6
+e
+r
+o
+c 0 0.5
+s
+-
+Z
+0.4
+-1
+0.3
+0.2
+-2
+0.1
+-3 0
+1985 1991 1996 2002 2008 2013 2019
+ University of Michigan consumer sentiment index  ISM manufacturing index  US recessions
+Sources: BlackRock Investment Institute, with data from RefinitivDatastream, University of Michigan, Institute of Supply Management, National Bureau of Economic Research, October 2019.
+Notes: The University of Michigan’s survey of consumers captures consumer attitudes and expectations. It focuses on three areas:how consumers view prospects for their own financial
+situation, how they view prospects for the general economy over the near term, and their view of prospects for the economy over the long term. The University of Michigan assigns a value of
+100 to the index as of the first quarter of 1966. The ISM manufacturing survey is based on data compiled from purchasing and supply executives across the U.S. manufacturing sector. Z-
+scores measure how much current readings compare to historical averages over the 1985-2019 period, and are measured in standard deviations.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-10/20
+10
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 12 ---
+Easy does it
+Accommodative financing conditions underpin our belief that weakness in the global industrial sector is
+unlikely to lead to a broader economic downturn in the near term.
+BlackRock G3 Growth GPS and FCI, 2015-2019
+• Easier monetary policy has spurred
+a swift rebound in our financial
+2.3 conditions indictor (FCI).
+• Growth expectations, highlighted by
+our G3 Growth GPS, are yet to reflect
+)
+% the significant easing of financial
+(
+e 2.1 conditions. See more on our Macro
+t
+a
+r dashboard.
+h
+t
+w
+o • Persistent and intensifying trade
+r
+g uncertainty is holding back business
+la
+1.8
+u spending, in our view.
+n
+n
+a
+–
+P
+D
+G
+la 1.6
+e
+R
+ BlackRock G3 FCI
+ BlackRock G3 GPS
+1.3
+Oct 2014 Oct 2015 Oct 2016 Oct 2017 Oct 2018 Oct 2019
+Sources: BlackRock Investment Institute with data from Bloomberg and Consensus Economics, October 2019. Notes: The BlackRock Growth GPS shows where the 12-month forward
+consensus GDP forecast may stand in three months’ time. The orange line shows the rate of GDP growth implied by our financialconditions indicator (FCI), based on its historical relationship
+with our Growth GPS, shifted forward six months. The FCI inputs include policy rates, bond yields, corporate bond spreads, equity market valuations and exchange rates. Forward-looking
+estimates may not come to pass.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-11/20
+11
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 13 ---
+Hitting the limit
+Monetary policy is almost exhausted as global interest rates plunge towards zero or below.
+We believe policymakers should lay the groundwork for a credible plan to navigate the next economic shock.
+US and German yield curves, actual vs recession, 2019
+1
+• We expect current central bank easing
+to be sufficient to sustain the expansion.
+s 0
+t n Yet the plunge in bond yields shows there
+io
+p is not enough policy space to deal with
+e -1
+g the next downturn.
+a
+t
+n
+e  German yield curve today
+c -2 • The German yield curve is already near
+r e  Hypotheticalcurve in recessions
+P levels that would have prevailed based on
+-3 past recessions. Further support cannot
+0 5 10 15 20 25 30 rely on interest rates falling.
+Years to maturity
+• Fiscal policy should play a greater role –
+3
+but it is unlikely to be effective on its own.
+s 2 An unprecedented response is needed
+t
+n
+io 1 when monetary policy is exhausted and
+p
+e 0 fiscal policy alone is not enough.
+g
+a
+t n -1 • We believe there is a practical way for
+e
+c r -2  U.S. yield curve today central banks to “go direct” in providing
+e
+P -3  Hypothetical curve in recessions monetary financing for fiscal policy.
+Read more in our August 2019 Macro
+-4
+and market perspectives.
+0 5 10 15 20 25 30
+Years to maturity
+Source: BlackRock Investment Institute, with data from RefinitivDatastream, September 2019. Notes: The chart shows the current US Treasury and German bund yield curves and a
+hypothetical representation of the yield curve during recessions, based on the median yield moves during the past five recessions. The light grey bars show the range of the yield moves during
+those recessions. To account for the changing interest rate environment of the past few decades, the curve moves are adjustedbased on the structural decline in neutral rates discussed on this
+page. Forward looking estimates may not come to pass.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-12/20
+12
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 14 ---
+Raising resilience
+Government bonds have played an important role in building portfolio resilience – even at ultra-low yields.
+In Europe, German bunds are less effective shock absorbers as yields approach their perceived floor.
+Stock-bond correlations in the U.S. and Europe, 2000-2019
+United States Euro area
+20 1 20 1
+0.9 0.9
+0 0.8 0 0.8
+0.7 0.7
+) % -20 0.6 ) % -20 0.6
+(
+t n 0.5
+(
+t n 0.5
+e e
+c c
+r e P -40 0.4 r e P -40 0.4
+0.3 0.3
+-60 0.2 -60 0.2
+0.1 0.1
+-80 0 -80 0
+2000 2003 2006 2009 2013 2016 2019 2000 2003 2006 2009 2013 2016 2019
+ Recession  Long-term correlation  Last 90 days
+Past performance is not a reliable indicator of current or future results.
+Source: BlackRock Investment Institute, with data from RefinitivDatastream, October 2019. Notes: The charts show the correlations between daily percentage moves for stocks and bonds over
+a rolling one-year period. The dot shows the correlation over the most recent 90 day period. For the United States, we use the MSCI USA index for stocks and the 10-year Treasury for bonds. For
+the euro area, we use MSCI Europe ex-UK index and the German 10-year bund. Indexes are unmanaged and not subject to fees. It is not possible to invest directly in an index.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-13/20
+13
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 15 ---
+Eyes on volatility
+Relatively muted cross-asset volatility suggests markets are not fully pricing in heightened geopolitical risks.
+We believe central banks’ dovish pivot is buying investors time to add resilience to portfolios.
+Cross asset volatility, 2008-2019
+6
+ Equities
+ Oil
+ U.S. Treasuries
+4
+s
+e
+r
+o 2
+c
+s
+-
+Z
+0
+-2
+2008 2009 2011 2013 2014 2016 2018 2019
+Sources: BlackRock Investment Institute with data from RefinitiveDatastream, CBOE and Bank of America-Merrill Lynch, October 2019. Notes: The chart shows cross-asset volatility measured
+as z-scores, or how current readings compare to historical risk-adjusted averages over the 2008-2019 period. Equities are represented by the VIX, Oil by CBOE’s oil VIX, and US Treasuries by
+the BofA-ML’s MOVE index.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-14/20
+14
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 16 ---
+Equities through the lens of factors
+The sector-neutral measure of the value factor has lagged significantly, but is recently showing signs of life.
+The reversal hints at risks of overcrowding, as well as the sensitivity of factor leadership to rates moves.
+Relative performance of global value vs. momentum equities, 2017-2019
+10
+0
+t
+n
+e
+c-10
+r
+e
+P
+-20
+-30
+Oct 2017 Apr 2018 Oct 2018 Apr 2019 Oct 2019
+Past performance is not a reliable indicator of current or future results.
+Source: BlackRock Investment Institute, with data from RefinitivDatastream, October 2019. Notes: The indexes used are MSCI World Momentum Index and the MSCI World Enhanced Value
+Index. The performance is on total returns basis, in U.S. dollar terms and rebased to the start of 2017. Indexes are unmanaged and not subject to fees. It is not possible to invest directly in an
+index.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-15/20
+15
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 17 ---
+Market views: equities
+We remain positive on U.S. equities on reasonable valuations and the concentration of high-quality
+companies, but rising geopolitical risks challenge our overall preference for equities over bonds.
+Sources of equity total return in 2019
+20
+10
+)
+%
+(
+n
+r
+u
+t
+e
+r
+la
+t
+o
+T
+0
+Earnings Multiples
+Dividends Total return
+-10
+U.S. Euro area World UK Japan Asia ex-Japan Emerging
+markets
+Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index.Sources: BlackRock Investment Institute, with data from Refinitiv
+Datastreamand MSCI, October 2019. Notes: The bars show the breakdown of each market's return year to date into dividends, earnings and multiples. The dots show each market's total return
+over the same period. Earnings refers to changes in 12-month forward earnings estimates from Refinitiv. Multiples refers to multiple expansion (or contraction) –the change in the 12 month
+forward price-to-earnings ratio. The indexes used are MSCI indexes representing each market. Returns are in local currency except World, Asia ex-Japan and EM returns, which are in U.S.
+dollars. Indexes are unmanaged and not subject to fees.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-16/20
+16
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 18 ---
+Market views: fixed income
+We like sources of coupon income such as EM local debt, despite outsized returns this year.
+Valuations appear full in many sectors, with yields still near the bottom of historical ranges.
+Selected fixed income yields, 2018-2019
+8
+ Range sinceJan 2018
+ Current
+6
+)
+%
+(
+d 4
+le
+iY
+2
+0
+European U.S. 2-year U.S. 10-year U.S. European $ EM debt EM local U.S. high yield
+investment Treasury Treasury investment high yield
+grade grade
+Past performance is not a reliable indicator of current or future results.
+Sources: BlackRock Investment Institute, with data from RefinitivDatastream, Bloomberg Barclays and J.P. Morgan, October 2019. The bars show the range in yields for each index from the
+start of January 2018. Indices used: Bloomberg Barclays Pan-European Corporate, Refinitiv2-year and 10-year benchmark U.S. Treasury, Bloomberg Barclays U.S. Corporate Investment
+Grade, Bloomberg Barclays Pan-European Corporate High Yield, J.P. Morgan GBI-Emerging Market Index, J.P. Morgan EMBI-Global Diversified Index and Bloomberg Barclays U.S. Corporate
+High Yield Index. Indexes are unmanaged and not subject to fees. It is not possible to invest directly in an index.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-17/20
+17
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 19 ---
+Assets allocation views in brief
+Six-to-12 month tactical views on selected assets, November 2019
+Asset class View Comments ▲ Overweight – Neutral ▼ Underweight
+▲ A supportive policy mix and the prospect of an extended cycle underpin our positive view. Valuations still appear reasonable against this
+U.S.
+backdrop. From a factor perspective we like min-vol and quality, which have historically tended to perform well during economic slowdowns.
+We have upgraded European equities to neutral. We find European risk assets modestly overpriced versus the macro backdrop, yet the dovish
+Europe –
+shift by the European Central Bank (ECB) should provide an offset. Trade disputes, a slowing China and political risks are key challenges.
+We have downgraded Japanese equities to underweight. We believe they are particularly vulnerable to a Chinese slowdown with aBank of
+▼
+Japan Japan that is still accommodative but policy-constrained. Other challenges include slowing global growth and an upcoming consumption tax
+Equities
+increase.
+We have downgraded EM equities to neutral amid what we see as overly optimistic market expectations for Chinese stimulus. We seethe
+EM – greatest opportunities in Latin America, such as in Mexico and Brazil, where valuations are attractive and the macro backdropisstable. An
+accommodative Fed offers support across the board, particularly for EM countries with large external debt loads.
+▼ We have downgraded Asia ex-Japan equities to underweight due to the region’s China exposure. A worse-than-expected Chinese slowdown or
+Asia ex-Japan
+disruptions in global trade would pose downside risks. We prefer to take risk in the region’s debt instruments instead.
+U.S. We remain underweight U.S. Treasuries. We do expect the Fed to cut rates by a further quarter percentage point this year. Yetmarket
+▼
+government expectations of Fed easing look excessive to us. This, coupled with the flatness of the yield curve, leaves us cautious on Treasury valuations. We
+bonds still see long-term government bonds as an effective ballast against risk asset selloffs.
+U.S. municipal Favorablesupply-demand dynamics and improved fundamentals are supportive. The tax overhaul has made munis’tax-exempt status more
+–
+bonds attractive. Yet muni valuations are on the high side, and the asset class may be due for a breather after a 10-month stretch of positive performance.
+We are neutral on U.S. credit after strong performance in the first half of 2019 sent yields to two-year lows. Easier monetary policy that may
+U.S. credit – prolong this cycle, constrained new issuance and conservative corporate behaviorsupport credit markets. High-yield and investment-grade
+credit remain key parts of our income thesis.
+The resumption of asset purchases by the ECB supports our overweight, particularly in non-core markets. A relatively steep yieldcurve –
+Fixed European ▲
+particularly in these countries –is a plus for euro area investors. Yields look attractive for hedged U.S. dollar-based investors thanks to the hefty
+income sovereigns
+U.S.-euro interest rate differential.
+Renewed ECB purchases of corporate debt and a “lower for even longer” rate shift are supportive. European banks are much better capitalized
+European
+– after years of balance sheet repair. Even with tighter spreads, credit should offer attractive income to both European investorsand global
+credit
+investors on a currency-hedged basis.
+We like EM bonds for their income potential. The Fed’s dovish shift has spurred local rates to rally and helped local currenciesrecover versus
+▲
+EM debt the U.S. dollar. We see local-currency markets having room to run and prefer them over hard-currency markets. We see opportunities in Latin
+America (with little contagion from Argentina’s woes) and in countries not directly exposed to U.S.-China tensions.
+Asia fixed The dovish pivot by the Fed and ECB gives Asian central banks room to ease. Currency stability is another positive. Valuations have become richer
+–
+income after a strong rally, however, and we see geopolitical risks increasing . We have reduced overall risk and moved up in quality across credit as a result.
+Note: Views are from a U.S. dollar perspective as of November 2019. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast of
+future events or a guarantee of future results. This information should not be relied upon by the reader as research or investment advice regarding any particular funds, strategy or security.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-18/20
+18
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 20 ---
+Get BlackRock Investment
+Institute content:
+blackrock.com/BII
+Social content for a U.S. audience:
+BLKInsights app
+@blackrock
+The Bid podcast
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-19/20
+19
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES
+
+--- PAGE 21 ---
+Important information
+General disclosure: This material is not intended to be relied upon as a forecast, research or investment advice, and is not a recommendation, offeror solicitation to buy or sell any
+securities or to adopt any investment strategy. The opinions expressed are as of November 2019 and may change. The information and opinions are derived from proprietary and
+non-proprietary sources deemed by BlackRock to be reliable, are not necessarily all-inclusive and are not guaranteed as to accuracy. As such, no warranty of accuracy or reliability
+is given and no responsibility arising in any other way for errors and omissions (including responsibility to any person by reason of negligence) is accepted by BlackRock, its
+officers, employees or agents. This material may contain ’forward looking’ information that is not purely historical in nature. Such information may include, among other things,
+projections and forecasts. There is no guarantee that any forecasts made will come to pass. Reliance upon information in thismaterial is at the sole discretion of the reader.
+In the U.S., this material is intended for public distribution. In Canada, this material is intended for permitted clients only. In the UK and outside the EEA: This material is for
+distribution to professional clients (as defined by the Financial Conduct Authority or MiFID Rules) and qualified investors onlyand should not be relied upon by any other persons.
+Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London,
+EC2N 2DL. Tel: 020 7743 3000. Registered in England No. 2020394. BlackRock is a trading name of BlackRock Investment Management (UK) Limited. In the EEA, it is issued by
+BlackRock (Netherlands) BV: Amstelplein1, 1096 HA, Amsterdam, Tel: 020 –549 5200, Trade Register No. 17068311. BlackRock is a trading name of BlackRock (Netherlands)B.V.
+For qualified investors in Switzerland, this material shall be exclusively made available to, and directed at, qualified investors as defined in the Swiss Collective Investment
+Schemes Act of 23 June 2006, as amended. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorised financial services provider
+with the South African Financial Services Board, FSP No. 43288. In DIFC: This information can be distributed in and from the Dubai International Financial Centre (DIFC) by
+BlackRock Advisors (UK) Limited —Dubai Branch which is regulated by the Dubai Financial Services Authority (DFSA) and is only directed at ‘Professional Clients’ and no other
+person should rely upon the information contained within it. Neither the DFSA or any other authority or regulator located in theGCC or MENA region has approved this
+information. This information and associated materials have been provided for your exclusive use. This document is not intended for distribution to, or use by, any person or entity
+in any jurisdiction or country where such distribution would be unlawful under the securities laws of such. Any distribution,bywhatever means, of this document and related
+material to persons other than those referred to above is strictly prohibited. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N).
+InHong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong.
+InSouth Korea, this material is for distribution to the Qualified Professional Investors (as defined in the Financial Investment Services andCapital Market Act and its sub-
+regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, SongrenRd., Xinyi Dist., Taipei City 110, Taiwan.
+Tel: (02)23261600. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau.License No375,
+Association Memberships: Japan Investment Advisers Association, the Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments
+Firms Association.) For Professional Investors only (Professional Investor is defined in Financial Instruments and Exchange Act). In Australia, issued by BlackRock Investment
+Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMAL). The material provides general information only and does not take into account your individual
+objectives, financial situation, needs or circumstances. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such
+purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate
+in any investment or receive any investment advisory or investment management services. For other APAC Countries, this material is issued for Institutional Investors only (or
+professional/sophisticated /qualified investors, as such term may apply in local jurisdictions) and does not constitute investment advice or an offer or solicitation to purchase or
+sell in any securities, BlackRock funds or any investment strategy nor shall any securities be offered or sold to any person in any jurisdiction in which an offer, solicitation,
+purchase or sale would be unlawful under the securities laws of such jurisdiction. In Latin America, for institutional investors and financial intermediaries only (not for public
+distribution). This material is for educational purposes only and does not constitute investment advice or an offer or solicitation to sell or a solicitation of an offer to buy any shares
+of any fund or security. If any funds are mentioned or inferred in this material, such funds may not been registered with thesecurities regulators of any Latin American country and
+thus, may not be publicly offered in any such countries. The provision of investment management and investment advisory servicesis a regulated activity in Mexico thus is subject
+to strict rules. No securities regulator within Latin America has confirmed the accuracy of any information contained herein.
+The information provided here is neither tax nor legal advice. Investors should speak to their tax professional for specific information regarding their tax situation. Investment
+involves risk including possible loss of principal. International investing involves risks, including risks related to foreign currency, limited liquidity, less government regulation, and
+the possibility of substantial volatility due to adverse political, economic or other developments. These risks are often heightened for investments in emerging/developing markets
+or smaller capital markets
+© 2019 BlackRock, Inc. All Rights reserved. BlackRock, is a registered trademark of BlackRock, Inc., or its subsidiaries in the United States and elsewhere. All other trademarks are
+those of their respective owners.
+FOR PUBLIC DISTRIBUTION IN THE U.S., HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, BIIM1119U-1000783-20/20
+20
+PROFESSIONAL, QUALIFIED INVESTORS AND QUALIFIED CLIENTS IN OTHERPERMITTED COUNTRIES

@@ -1,0 +1,369 @@
+{
+  "company": "Amundi",
+  "report_year": "2024",
+  "publication_date": "2023-11",
+  "forecast_period": "2024",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "0.6%",
+      "source_quote": "United States 2.4 0.6 1.6 4.2 2.6 2.1"
+    },
+    {
+      "category": "growth",
+      "region": "Eurozone",
+      "variable": "Eurozone real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "0.5%",
+      "source_quote": "Eurozone 0.6 0.5 1.2 5.7 2.6 2.2"
+    },
+    {
+      "category": "growth",
+      "region": "Japan",
+      "variable": "Japan real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "1.5%",
+      "source_quote": "Japan 1.9 1.5 1.4 3.3 2.0 1.1"
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "3.9%",
+      "source_quote": "We expect China's economy to grow just below 4% in 2024."
+    },
+    {
+      "category": "growth",
+      "region": "UK",
+      "variable": "UK real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "0.5%",
+      "source_quote": "United Kingdom 0.5 0.5 1.3 7.4 2.9 2.3"
+    },
+    {
+      "category": "growth",
+      "region": "India",
+      "variable": "India real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "6.0%",
+      "source_quote": "India 6.5 6.0 5.2 5.8 5.8 6.0"
+    },
+    {
+      "category": "growth",
+      "region": "Brazil",
+      "variable": "Brazil real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "1.5%",
+      "source_quote": "Brazil 3.0 1.5 2.0 4.6 3.8 3.6"
+    },
+    {
+      "category": "growth",
+      "region": "Global",
+      "variable": "World real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "2.5%",
+      "source_quote": "2.5% Global GDP growth expected for 2024 (down from the 3% expected for 2023)"
+    },
+    {
+      "category": "growth",
+      "region": "EM",
+      "variable": "Emerging markets real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "3.6%",
+      "source_quote": "Next year, EM growth is expected to decelerate to 3.6% on average from around 4% this year."
+    },
+    {
+      "category": "growth",
+      "region": "DM",
+      "variable": "Developed markets real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "0.7%",
+      "source_quote": "Developed countries 1.6 0.7 1.5 4.8 2.6 2.1"
+    },
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US recession timing",
+      "horizon": "H1 2024",
+      "forecast_value": "mild recession in H1 2024",
+      "source_quote": "The US will tiptoe into a recession in H1, as tight financial conditions begin to bite on consumption and business sentiment."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US CPI (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "2.6%",
+      "source_quote": "United States 2.4 0.6 1.6 4.2 2.6 2.1"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US inflation direction",
+      "horizon": "2024",
+      "forecast_value": "above 3% through 2024",
+      "source_quote": "Inflation to stay above 3%"
+    },
+    {
+      "category": "inflation",
+      "region": "Eurozone",
+      "variable": "Eurozone CPI (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "2.6%",
+      "source_quote": "Eurozone 0.6 0.5 1.2 5.7 2.6 2.2"
+    },
+    {
+      "category": "inflation",
+      "region": "Japan",
+      "variable": "Japan CPI (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "2.0%",
+      "source_quote": "Japan 1.9 1.5 1.4 3.3 2.0 1.1"
+    },
+    {
+      "category": "inflation",
+      "region": "UK",
+      "variable": "UK CPI (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "2.9%",
+      "source_quote": "United Kingdom 0.5 0.5 1.3 7.4 2.9 2.3"
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US core inflation",
+      "horizon": "end-2024",
+      "forecast_value": "converge towards Fed's 2% target",
+      "source_quote": "core inflation should converge towards the Fed's target by the end of next year."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate (upper target)",
+      "horizon": "Q2 2024 (end-June)",
+      "forecast_value": "4.50%",
+      "source_quote": "United States* 5.50 4.50 5.30 4.00 4.74"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed funds rate (upper target)",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "4.00%",
+      "source_quote": "United States* 5.50 4.50 5.30 4.00 4.74"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed rate cuts in 2024",
+      "horizon": "2024",
+      "forecast_value": "150bp of cuts",
+      "source_quote": "We expect 150bp of overall cuts in 2024 and the Fed's Quantitative Tightening to keep going."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "Fed first rate cut timing",
+      "horizon": "2024",
+      "forecast_value": "May/June 2024",
+      "source_quote": "Fed cycle likely to turn mid-next year (first cut in May/June), with inflation moving towards target in H2 and shallow recession in H1."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB deposit rate",
+      "horizon": "Q2 2024 (end-June)",
+      "forecast_value": "3.75%",
+      "source_quote": "Eurozone** 4.00 3.75 3.85 2.75 3.21"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB deposit rate",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "2.75%",
+      "source_quote": "Eurozone** 4.00 3.75 3.85 2.75 3.21"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB rate cuts in 2024",
+      "horizon": "2024",
+      "forecast_value": "125bp of cuts",
+      "source_quote": "We expect 125bp of overall cuts in 2024 and ECB to continue its balance sheet reduction."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Eurozone",
+      "variable": "ECB first rate cut timing",
+      "horizon": "2024",
+      "forecast_value": "June 2024",
+      "source_quote": "ECB cycle likely to turn mid-next year (first cut in June) on current and expected macro deterioration and lower inflation."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "UK",
+      "variable": "Bank of England bank rate",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "4.00%",
+      "source_quote": "United Kingdom 5.25 4.75 5.30 4.00 4.79"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Japan",
+      "variable": "Bank of Japan policy rate",
+      "horizon": "Q2 2024 (end-June)",
+      "forecast_value": "0.00%",
+      "source_quote": "Japan -0.10 0.00 0.00 0.00 0.19"
+    },
+    {
+      "category": "monetary_policy",
+      "region": "Brazil",
+      "variable": "Brazil Selic rate",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "9.25%",
+      "source_quote": "Brazil 12.25 10.00 9.75 9.25 9.00"
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "Q2 2024 (end-June)",
+      "forecast_value": "3.70-3.90%",
+      "source_quote": "United States 4.56 3.70-3.90 4.57 3.70-3.90 4.56"
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 10-year Treasury yield",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "3.70-3.90%",
+      "source_quote": "United States 4.56 3.70-3.90 4.57 3.70-3.90 4.56"
+    },
+    {
+      "category": "fixed_income",
+      "region": "US",
+      "variable": "US 2-year Treasury yield",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "3.60-3.80%",
+      "source_quote": "United States 4.93 3.80-4.00 4.61 3.60-3.80 4.39"
+    },
+    {
+      "category": "fixed_income",
+      "region": "Germany",
+      "variable": "German 10-year Bund yield",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "2.30-2.50%",
+      "source_quote": "Germany 2.63 2.40-2.60 2.63 2.30-2.50 2.62"
+    },
+    {
+      "category": "fixed_income",
+      "region": "Japan",
+      "variable": "Japan 10-year JGB yield",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "0.80-1.00%",
+      "source_quote": "Japan 0.86 0.80-1.00 0.97 0.80-1.00 1.07"
+    },
+    {
+      "category": "fx",
+      "region": "Global",
+      "variable": "EUR/USD",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "1.15",
+      "source_quote": "EUR/USD 1.07 1.09 1.09 1.15 1.11"
+    },
+    {
+      "category": "fx",
+      "region": "Global",
+      "variable": "USD/JPY",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "135",
+      "source_quote": "USD/JPY 150 141 140 135 134"
+    },
+    {
+      "category": "fx",
+      "region": "Global",
+      "variable": "USD/CNY",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "6.90",
+      "source_quote": "USD/CNY 7.32 7.20 7.15 6.90 6.95"
+    },
+    {
+      "category": "fx",
+      "region": "Global",
+      "variable": "AUD/USD",
+      "horizon": "Q4 2024 (end-December)",
+      "forecast_value": "0.69",
+      "source_quote": "AUD/USD 0.64 0.65 0.67 0.69 0.70"
+    },
+    {
+      "category": "equities",
+      "region": "US",
+      "variable": "MSCI US index level",
+      "horizon": "Q4 2024",
+      "forecast_value": "3970-4590",
+      "source_quote": "US ... Lower bound 3970 ... Upper bound 4590"
+    },
+    {
+      "category": "equities",
+      "region": "Europe",
+      "variable": "MSCI Europe index level",
+      "horizon": "Q4 2024",
+      "forecast_value": "1780-2000",
+      "source_quote": "Europe ... Lower bound 1780 ... Upper bound 2000"
+    },
+    {
+      "category": "equities",
+      "region": "Global",
+      "variable": "MSCI World AC index level",
+      "horizon": "Q4 2024",
+      "forecast_value": "620-750",
+      "source_quote": "World AC ... Lower bound 620 ... Upper bound 750"
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Brent crude oil price",
+      "horizon": "Q1 2024",
+      "forecast_value": "~$95/barrel with temporary spikes",
+      "source_quote": "We see geopolitics and tight markets pushing Brent towards $95/b, with temporary spikes until Q1 2024."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Brent crude oil price",
+      "horizon": "2024 (after Q1)",
+      "forecast_value": "$85-90/barrel",
+      "source_quote": "We then expect a mean reversion towards the $85/b-$90/b range."
+    },
+    {
+      "category": "commodities",
+      "region": "Global",
+      "variable": "Gold price",
+      "horizon": "2024",
+      "forecast_value": "~$2000/oz (modest upside)",
+      "source_quote": "We thus expect a modest upside in 2024 towards $2000/oz."
+    },
+    {
+      "category": "growth",
+      "region": "China",
+      "variable": "China real GDP growth (YoY%)",
+      "horizon": "2024",
+      "forecast_value": "just below 4%",
+      "source_quote": "We expect China's economy to grow just below 4% in 2024."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "China",
+      "variable": "PBoC rate cut",
+      "horizon": "H2 2024",
+      "forecast_value": "20bp cut likely",
+      "source_quote": "Mini monetary easing will persist, with a 20bp rate cut likely in H2 2024."
+    }
+  ],
+  "excluded_vague_count": 28
+}

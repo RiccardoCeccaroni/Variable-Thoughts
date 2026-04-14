@@ -1,0 +1,33 @@
+{
+  "company": "BlackRock",
+  "report_year": "2021",
+  "publication_date": "2020-12",
+  "forecast_period": "2021 and medium-term (5 years)",
+  "predictions": [
+    {
+      "category": "growth",
+      "region": "US",
+      "variable": "US real GDP",
+      "horizon": "by late 2021",
+      "forecast_value": "full economic restart (return to pre-Covid GDP level)",
+      "source_quote": "Encouraging news on the vaccine front strengthens our base case of a full restart by late 2021."
+    },
+    {
+      "category": "inflation",
+      "region": "US",
+      "variable": "US CPI inflation (5-year average, 2025-2030)",
+      "horizon": "medium-term (5-year forward)",
+      "forecast_value": "approximately 2.5-3% annually",
+      "source_quote": "But even the moderately higher inflation in our base case – around 2.5-3% annually – would surprise markets after a decade of undershoots."
+    },
+    {
+      "category": "monetary_policy",
+      "region": "US",
+      "variable": "US nominal Treasury yields (10-year)",
+      "horizon": "2021",
+      "forecast_value": "rangebound (central banks limit rises despite rising inflation expectations)",
+      "source_quote": "We see nominal bond yields as staying relatively rangebound, further diminishing the role of government bonds as portfolio ballast."
+    }
+  ],
+  "excluded_vague_count": 24
+}
